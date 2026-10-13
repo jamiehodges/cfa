@@ -1,0 +1,83 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K/A
+(Amendment No. 1)
+
+Current Report
+
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 7, 2019
+
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	0-31983	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: +41 52 630 1600
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares	GRMN	The Nasdaq Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+	Item 5.07	Submission of Matters to a Vote of Security Holders
+
+With respect to the election of directors, due to inconsistent formatting between the voting instructions form used by “street name” shareholders and the proxy card used by registered shareholders, the voting results reported to Garmin Ltd. (the “Company”) for the June 7, 2019 annual general meeting of shareholders were incorrect with respect to the election of directors.
+
+Although the corrected vote totals do not change the outcome for any of the director nominees submitted to a vote at the annual general meeting of shareholders, the Company is filing this amendment to the Form 8-K filed on June 10, 2019 to provide the corrected information with respect to votes cast for the election of directors.
+
+The corrected tabulation of votes with respect to the re-election of five directors and the election of one new director was as follows:
+
+	For	Against	Abstain	Not Voted
+Jonathan C. Burrell	125,057,525	6,606,486	87,950	22,395,532
+Joseph H. Hartnett	120,620,351	11,041,160	90,450	22,395,532
+Min H. Kao	130,061,233	1,608,100	82,628	22,395,532
+Catherine A. Lewis	131,517,277	181,138	53,546	22,395,532
+Charles W. Peffer	113,228,496	18,430,292	93,173	22,395,532
+Clifton A. Pemble	130,692,283	1,012,415	47,263	22,395,532
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+October 29, 2019	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and
+Corporate Secretary
+
+2

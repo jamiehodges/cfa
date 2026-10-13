@@ -1,0 +1,286 @@
+SC 13G/A 1 s108912_sc13ga.htm SC 13G/A
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13G
+
+Under the Securities Exchange Act of 1934
+(Amendment No. 11)*
+
+	Garmin Ltd.
+	(Name of Issuer)
+
+	Registered Shares
+	(Title of Class of Securities)
+
+	H2906T 109
+	(CUSIP Number)
+
+	December 31, 2017
+	(Date of Event which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+
+	¨	Rule 13d-1(b)
+
+	¨	Rule 13d-1(c)
+
+	x	Rule 13d-1(d)
+
+*The remainder of this cover page shall be filled out for a reporting person's initial filing on this form with respect to the subject class of securities, and for any subsequent amendment containing information which would alter disclosures provided in a prior cover page.
+
+The information required on the remainder of this cover page shall not be deemed to be "filed" for the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or otherwise subject to the liabilities of that section of the Act but shall be subject to all other provisions of the Act (however, see the Notes).
+
+CUSIP No. H2906T 109	Page 2 of 11 pages
+
+1	Names of Reporting Persons I.R.S. Identification Nos. of Above Persons (entities only) Min H. Kao
+2	Check the Appropriate Box if a Member of a Group	(a) ¨ (b) ¨
+3	SEC Use Only
+4	Citizenship or Place of Organization	USA
+
+Number of Shares Beneficially Owned by Each Reporting Person With	5	Sole Voting Power	8,910,554*
+6	Shared Voting Power	24,332,539*
+7	Sole Dispositive Power	8,910,554*
+8	Shared Dispositive Power	24,332,539*
+
+9	Aggregate Amount Beneficially Owned by Each Reporting Person	33,243,093*
+10	Check if the Aggregate Amount in Row (9) Excludes Certain Shares	x
+11	Percent of Class Represented by Amount in Row (9)	17.69%
+12	Type of Reporting Person	IN
+
+	*	As described in Item 4 below, the number of shares reported excludes 5,207,824 Registered Shares held by the Yu-Fan C. Kao Revocable Trust 9/28/95, over which Registered Shares Min H. Kao’s spouse has sole voting and dispositive power. Min H. Kao disclaims beneficial ownership of these 5,207,824 Registered Shares and nothing herein shall be construed as an admission that Min H. Kao is the beneficial owner of such Registered Shares.
+
+CUSIP No. H2906T 109	Page 3 of 11 pages
+
+1	Names of Reporting Persons I.R.S. Identification Nos. of Above Persons (entities only) Yu-Fan C. Kao
+2	Check the Appropriate Box if a Member of a Group	(a) ¨ (b) ¨
+3	SEC Use Only
+4	Citizenship or Place of Organization	USA
+
+Number of Shares Beneficially Owned by Each Reporting Person With	5	Sole Voting Power	5,207,824*
+6	Shared Voting Power	24,332,539*
+7	Sole Dispositive Power	5,207,824*
+8	Shared Dispositive Power	24,332,539*
+
+9	Aggregate Amount Beneficially Owned by Each Reporting Person	29,540,363*
+10	Check if the Aggregate Amount in Row (9) Excludes Certain Shares	x
+11	Percent of Class Represented by Amount in Row (9)	15.72%
+12	Type of Reporting Person	IN
+
+	*	As described in Item 4 below, the number of shares reported excludes 8,910,554 Registered Shares held by the Min-Hwan Kao Revocable Trust 9/28/95, over which Registered Shares Yu-Fan C. Kao’s spouse has sole voting and dispositive power. Yu-Fan C. Kao disclaims beneficial ownership of these 8,910,554 Registered Shares.
+
+CUSIP No. H2906T 109	Page 4 of 11 pages
+
+1	Names of Reporting Persons I.R.S. Identification Nos. of Above Persons (entities only) Jennifer Kao
+2	Check the Appropriate Box if a Member of a Group	(a) ¨ (b) ¨
+3	SEC Use Only
+4	Citizenship or Place of Organization	USA
+
+Number of Shares Beneficially Owned by Each Reporting Person With	5	Sole Voting Power	0
+6	Shared Voting Power	12,110,755
+7	Sole Dispositive Power	0
+8	Shared Dispositive Power	12,110,755
+
+9	Aggregate Amount Beneficially Owned by Each Reporting Person	12,110,755
+10	Check if the Aggregate Amount in Row (9) Excludes Certain Shares	¨
+11	Percent of Class Represented by Amount in Row (9)	6.44%
+12	Type of Reporting Person	IN
+
+CUSIP No. H2906T 109	Page 5 of 11 pages
+
+1	Names of Reporting Persons I.R.S. Identification Nos. of Above Persons (entities only) Kenneth Kao
+2	Check the Appropriate Box if a Member of a Group	(a) ¨ (b) ¨
+3	SEC Use Only
+4	Citizenship or Place of Organization	USA
+
+Number of Shares Beneficially Owned by Each Reporting Person With	5	Sole Voting Power	0
+6	Shared Voting Power	12,221,784
+7	Sole Dispositive Power	0
+8	Shared Dispositive Power	12,221,784
+
+9	Aggregate Amount Beneficially Owned by Each Reporting Person	12,221,784
+10	Check if the Aggregate Amount in Row (9) Excludes Certain Shares	¨
+11	Percent of Class Represented by Amount in Row (9)	6.50%
+12	Type of Reporting Person	IN
+
+CUSIP No. H2906T 109	Page 6 of 11 pages
+
+	Item 1(a)	Name of Issuer: Garmin Ltd.
+
+	Item 1(b)	Address of Issuer's Principal Executive Offices: Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland
+
+	Item 2(a)	Name of Person Filing: (i) Min H. Kao
+
+	(ii)	Yu-Fan C. Kao
+
+	(iii)	Jennifer Kao
+
+	(iv)	Kenneth Kao
+
+	Item 2(b)	Address of Principal Business Office or, if none, Residence: 1200 East 151st Street, Olathe, Kansas 66062 for each person listed in 2(a)(i) - (iv)
+
+	Item 2(c)	Citizenship: USA for each person listed in 2(a)(i)-(iv)
+
+	Item 2(d)	Title of Class of Securities: Registered Shares
+
+	Item 2(e)	CUSIP Number: H2906T 109
+
+	Item 3.	If this statement is filed pursuant to § § 240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+
+(a) ¨ Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);
+
+(b) ¨ Bank is defined in section 3(a)(6) of the Act (15 U.S.C. 78c);
+
+(c) ¨ Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c);
+
+(d) ¨ Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8);
+
+(e) ¨ An investment adviser in accordance with § 240.13d-1(b)(1)(ii)(E);
+
+(f) ¨ An employee benefit plan or endowment fund in accordance with § 240.13d-1(b)(1)(ii)(F);
+
+(g) ¨ A parent holding company or control person in accordance with § 240.13d-1(b)(1)(ii)(G);
+
+CUSIP No. H2906T 109	Page 7 of 11 pages
+
+(h) ¨ A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+
+(i) ¨ A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);
+
+(j) ¨ Group, in accordance with § 240.13d-1(b)(1)(ii)(J).
+
+x Not applicable. (For each person listed in 2(a)(i)-(iv))
+
+	Item 4.	Ownership
+
+	(a)	Amount beneficially owned:
+
+Min H. Kao	33,243,093 (1)
+Yu-Fan C. Kao	29,540,363 (2)
+Jennifer Kao	12,110,755 (3)
+Kenneth Kao	12,221,784 (3)
+
+	(b)	Percent of class:
+
+Min H. Kao	17.69%
+Yu-Fan C. Kao	15.72%
+Jennifer Kao	6.44%
+Kenneth Kao	6.50%
+
+	(c)	Number of shares as to which the person has:
+
+	(i)	sole power to vote or to direct the vote:
+
+Min H. Kao	8,910,554
+Yu-Fan C. Kao	5,207,824
+Jennifer Kao	0
+Kenneth Kao	0
+
+	(ii)	shared power to vote or to direct the vote:
+
+Min H. Kao	24,332,539
+Yu-Fan C. Kao	24,332,539
+Jennifer Kao	12,110,755
+Kenneth Kao	12,221,784
+
+	(iii)	sole power to dispose or to direct the disposition of:
+
+Min H. Kao	8,910,554
+Yu-Fan C. Kao	5,207,824
+Jennifer Kao	0
+Kenneth Kao	0
+
+	(iv)	shared power to dispose or to direct the disposition of:
+
+Min H. Kao	24,332,539
+Yu-Fan C. Kao	24,332,539
+Jennifer Kao	12,110,755
+Kenneth Kao	12,221,784
+
+CUSIP No. H2906T 109	Page 8 of 11 pages
+
+	(1)	Of the 33,243,093 Registered Shares, (i) 8,910,554 Registered Shares are held by the Min-Hwan Kao Revocable Trust 9/28/95, over which Registered Shares Min H. Kao has sole voting and dispositive power, and (ii) 24,332,539 Registered Shares are held by revocable trusts established by Jennifer Kao and Kenneth Kao, the children of Min H. Kao and Yu-Fan C. Kao, for which Min H. Kao and Yu-Fan C. Kao are co-trustees and together share voting and dispositive power with respect to those Registered Shares. In addition to the 33,243,093 Registered Shares reported, 5,207,824 Registered Shares are held by the Yu-Fan C. Kao Revocable Trust 9/28/95, over which Registered Shares Min H. Kao’s spouse has sole voting and dispositive power. Min H. Kao disclaims beneficial ownership of these 5,207,824 Registered Shares.
+
+	(2)	Of the 29,540,363 Registered Shares, (i) 5,207,824 Registered Shares are held by the Yu-Fan C. Kao Revocable Trust 9/28/95, over which Registered Shares Yu-Fan C. Kao has sole voting and dispositive power, and (ii) 24,332,539 Registered Shares are held by revocable trusts established by Jennifer Kao and Kenneth Kao, the children of Min H. Kao and Yu-Fan C. Kao, for which Min H. Kao and Yu-Fan C. Kao are co-trustees and together share voting and dispositive power with respect to those Registered Shares. In addition to the 29,540,363 Registered Shares reported, 8,910,554 Registered Shares are held by the Min-Hwan Kao Revocable Trust 9/28/95, over which Registered Shares Yu-Fan C. Kao’s spouse has sole voting and dispositive power. Yu-Fan C. Kao disclaims beneficial ownership of these 8,910,554 Registered Shares.
+
+	(3)	A revocable trust established by Jennifer Kao holds 12,110,755 Registered Shares and a revocable trust established by Kenneth Kao holds 12,221,784 Registered Shares. Min H. Kao and Yu-Fan C. Kao are co-trustees for each of these trusts and together share voting and dispositive power with respect to the Registered Shares held by those trusts. However, Jennifer Kao may be deemed the beneficial owner of the 12,110,755 Registered Shares held by the trust that she established because she has the power to revoke that trust, and Kenneth Kao may be deemed the beneficial owner of the 12,221,784 Registered Shares held by the trust that he established because he has the power to revoke that trust.
+
+	Item 5.	Ownership of Five Percent or Less of a Class
+
+If this statement is being filed to report the fact that as of the date hereof the reporting person has ceased to be the beneficial owner of more than five percent of the class of securities, check the following. ¨
+
+	Item 6.	Ownership of More than Five Percent on Behalf of Another Person
+
+Not Applicable
+
+CUSIP No. H2906T 109	Page 9 of 11 pages
+
+	Item 7.	Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on By the Parent Holding Company
+
+Not Applicable
+
+	Item 8.	Identification and Classification of Members of the Group
+
+Not Applicable
+
+	Item 9.	Notice of Dissolution of Group
+
+Not Applicable
+
+	Item 10.	Certification
+
+Not Applicable
+
+CUSIP No. H2906T 109	Page 10 of 11 pages
+
+SIGNATURES
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+Dated: January 28, 2018
+
+By:	/s/ Min H. Kao
+Name:	Min H. Kao
+
+By:	/s/ Yu-Fan C. Kao
+Name:	Yu-Fan C. Kao
+
+By:	/s/ Min H. Kao	by Min H. Kao, attorney-in-fact
+Name:	Jennifer Kao
+
+By:	/s/ Min H. Kao	by Min H. Kao, attorney-in-fact
+Name:	Kenneth Kao
+
+Pursuant to the Joint Filing Agreement with respect to Schedule 13G attached hereto as Exhibit I, among Min H. Kao, Yu-Fan C. Kao, Jennifer Kao and Kenneth Kao, this statement on Schedule 13G is filed on behalf of each of them.
+
+CUSIP No. H2906T 109	Page 11 of 11 pages
+
+EXHIBIT I
+
+JOINT FILING AGREEMENT
+
+Each of the undersigned hereby agrees that the Schedule 13G filed herewith is filed jointly, pursuant to Rule 13d-1(f)(1) of the Securities Exchange Act of 1934, as amended, on behalf of each of them.
+
+Dated: January 28, 2018
+
+MIN H. KAO
+
+/s/ Min H. Kao
+Min H. Kao
+
+YU-FAN C. KAO
+
+/s/ Yu-Fan C. Kao
+Yu-Fan C. Kao
+
+JENNIFER KAO
+
+/s/ Min H. Kao	by Min H. Kao, attorney-in-fact
+Jennifer Kao
+
+KENNETH KAO
+
+/s/ Min H. Kao	by Min H. Kao, attorney-in-fact
+Kenneth Kao

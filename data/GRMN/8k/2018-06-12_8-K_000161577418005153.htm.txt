@@ -1,0 +1,132 @@
+8-K 1 s110769_8k.htm 8-K
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+Current Report Pursuant to Section 13 or 15(d) of
+the Securities Act of 1934
+
+Date of Report (Date of earliest event reported): June 8, 2018
+
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	0-31983	98-0229227
+(State or other jurisdiction	(Commission File Number)	(I.R.S. Employer Identification No.)
+of incorporation)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: +41 52 630 1600
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+	☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+	☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+	☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+	☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+On June 8, 2018, Garmin Ltd. (“Garmin”) held its annual general meeting of shareholders. At the annual general meeting, the shareholders: (i) elected Andrew Etkind as ad hoc Chairman of the meeting; (ii) approved Garmin’s 2017 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 30, 2017 and the statutory financial statements of Garmin for the fiscal year ended December 30, 2017; (iii) approved the appropriation of available earnings; (iv) approved the payment of a cash dividend in the aggregate amount of $2.12 per share out of Garmin’s reserve from capital contribution in four equal installments; (v) discharged the members of Garmin’s Board of Directors and the members of Executive Management from liability for the fiscal year ended December 30, 2017; (vi) re-elected Joseph J. Hartnett, Min H. Kao, Charles W. Peffer, Clifton A. Pemble and Rebecca R. Tilden and elected Jonathan C. Burrell as directors of Garmin for a term extending until completion of the 2019 annual general meeting of shareholders; (vii) re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2019 annual general meeting of shareholders; (viii) re-elected Joseph J. Hartnett, Charles W. Peffer and Rebecca R. Tilden and elected Jonathan C. Burrell as members of Garmin’s Compensation Committee for a term extending until completion of the 2019 annual general meeting of shareholders; (ix) re-elected the law firm of Reiss+Preuss LLP as Independent Proxy for a term extending until completion of the 2019 annual general meeting of shareholders; (x) ratified the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the 2018 fiscal year and re-elected Ernst & Young Ltd. as Garmin’s statutory auditor for another one-year term; (xi) approved an advisory resolution approving the compensation of Garmin’s Named Executive Officers, as disclosed in Garmin’s proxy statement for the 2018 annual general meeting of shareholders pursuant to the executive compensation disclosure rules promulgated by the Securities and Exchange Commission; (xii) approved a binding vote to approve the Fiscal Year 2019 maximum aggregate compensation for Garmin’s Executive Management; (xiii) approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2018 Annual General Meeting and the 2019 Annual General Meeting; (xiv) approved the amendment to Garmin’s Articles of Association to add the CEO, the Corporate Secretary or any person appointed by Garmin’s Board of Directors to the list of persons who can act as chairman of a general meeting of the shareholders; and (xv) approved the amendment to Garmin’s Articles of Association to authorize Garmin’s Board of Directors at any time until June 8, 2020 to increase the share capital in an amount not to exceed CHF 3,961,548.30 through the issuance of up to 39,615,483 fully paid-in registered shares with a nominal value of CHF 0.10 each.
+
+The tabulation of votes with respect to the re-election of five directors and the election of one new director was as follows:
+
+	For	Against	Abstain	Not Voted
+Joseph H. Hartnett	121,743,735	932,926	50,635	29,022,106
+Min H. Kao	121,779,513	907,336	40,447	29,022,106
+Charles W. Peffer	117,188,492	5,486,464	52,340	29,022,106
+Clifton A. Pemble	122,182,008	504,388	40,900	29,022,106
+Rebecca R. Tilden	117,126,584	5,546,144	54,568	29,022,106
+Jonathan C. Burrell	122,080,098	603,140	44,058	29,022,106
+
+The tabulation of votes with respect to the re-election of three members and the election of one new member of the Compensation Committee was as follows:
+
+	For	Against	Abstain	Not Voted
+Joseph H. Hartnett	122,046,849	621,366	59,081	29,022,106
+Charles W. Peffer	117,985,669	4,685,742	55,885	29,022,106
+Rebecca R. Tilden	115,701,581	6,960,648	65,067	29,022,106
+Jonathan C. Burrell	122,433,513	237,214	56,569	29,022,106
+
+The shareholders elected Andrew Etkind as ad hoc Chairman of the meeting. The tabulation of votes on this matter was as follows: 151,366,575 votes for; 212,946 votes against; 169,881 abstentions; and 0 non-votes.
+
+2
+
+The shareholders approved Garmin’s 2017 Annual Report, including the consolidated financial statements for the fiscal year ended December 30, 2017 and the statutory financial statements for the fiscal year ended December 30, 2017. The tabulation of votes on this matter was as follows: 151,177,776 votes for; 258,677 votes against; 312,949 abstentions; and 0 non-votes.
+
+The shareholders approved the appropriation of available earnings. The tabulation of votes on this matter was as follows: 151,369,782 votes for; 164,413 votes against; 215,207 abstentions; and 0 non-votes.
+
+The shareholders approved the payment of a cash dividend in the aggregate amount of $2.12 per share out of Garmin’s reserve from capital contribution in four equal installments. The tabulation of votes on this matter was as follows: 151,611,834 votes for; 70,251 votes against; 67,317 abstentions; and 0 non-votes.
+
+The shareholders discharged the members of Garmin’s Board of Directors and the members of Garmin’s Executive Management from liability for the fiscal year ended December 30, 2017. The tabulation of votes on this matter was as follows: 117,715,392 votes for; 298,683 votes against; 4,713,221 abstentions; and 29,022,106 non-votes.
+
+The shareholders re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2019 annual general meeting of shareholders. The tabulation of votes on this matter was as follows: 115,835,807 votes for; 6,845,060 votes against; 46,429 abstentions; and 29,022,106 non-votes.
+
+The shareholders re-elected the law firm of Reiss+Preuss LLP as Independent Proxy for a term extending until completion of the 2019 annual general meeting of shareholders. The tabulation of votes on this matter was as follows: 151,383,306 votes for; 161,400 votes against; 204,696 abstentions; and 0 non-votes.
+
+The shareholders ratified the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the 2018 fiscal year and elected Ernst & Young Ltd. as Garmin’s statutory auditor for another one-year term. The tabulation of votes on this matter was as follows: 150,026,725 votes for; 1,599,734 votes against; 122,943 abstentions; and 0 non-votes.
+
+The shareholders approved an advisory resolution approving the compensation of Garmin’s Named Executive Officers, as disclosed in Garmin’s proxy statement for the 2018 annual general meeting of shareholders pursuant to the executive compensation disclosure rules promulgated by the Securities and Exchange Commission. The tabulation of votes on this matter was as follows: 117,580,768 votes for; 4,999,605 votes against; 146,923 abstentions; and 29,022,106 non-votes.
+
+The shareholders approved a binding vote to approve the Fiscal Year 2019 maximum aggregate compensation for Garmin’s Executive Management. The tabulation of votes on this matter was as follows: 122,065,006 votes for; 424,327 votes against; 237,963 abstentions; and 29,022,106 non-votes.
+
+The shareholders approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2018 Annual General Meeting and the 2019 Annual General Meeting. The tabulation of votes on this matter was as follows: 122,271,779 votes for; 219,239 votes against; 236,278 abstentions; and 29,022,106 non-votes.
+
+The shareholders approved the amendment to Garmin’s Articles of Association to add the CEO, the Corporate Secretary or any person appointed by Garmin’s Board of Directors to the list of persons who can act as chairman of a general meeting of the shareholders. The tabulation of votes on this matter was as follows: 150,956,975 votes for; 352,812 votes against; 439,615 abstentions; and 0 non-votes.
+
+The shareholders approved the amendment to Garmin’s Articles of Association to authorize Garmin’s Board of Directors at any time until June 8, 2020 to increase the share capital in an amount not to exceed CHF 3,961,548.30 through the issuance of up to 39,615,483 fully paid-in registered shares with a nominal value of CHF 0.10 each. The tabulation of votes on this matter was as follows: 145,930,328 votes for; 5,364,039 votes against; 455,035 abstentions; and 0 non-votes.
+
+3
+
+Item 8.01. Other Events
+
+On June 8, 2018, Garmin issued a press release, a copy of which is attached hereto as Exhibit No. 99.1 and incorporated by reference herein, announcing that its shareholders have approved a cash dividend in the amount of $2.12 per share out of Garmin’s reserve from capital contribution payable in four equal installments on dates to be determined by the Board of Directors in its discretion. The Board has determined that the first installment of $0.53 will be payable on June 29, 2018 to shareholders of record on June 18, 2018. The Board currently expects that the dividend payment and record dates for the remaining three installments will be as follows: $0.53 on September 28, 2018 to shareholders of record on September 14, 2018, $0.53 on December 31, 2018 to shareholders of record on December 14, 2018 and $0.53 on March 29, 2019 to shareholders of record on March 15, 2019.
+
+Item 9.01. Financial Statements and Exhibits
+
+	(a)	Not applicable.
+
+	(b)	Not applicable.
+
+	(c)	Not applicable.
+
+	(d)	Exhibits. The following exhibits are furnished herewith:
+
+Exhibit No.	Description
+10.1	Garmin Ltd. Articles of Association, as amended and restated on June 8, 2018
+
+99.1	Press Release dated June 8, 2018 (furnished pursuant to Item 8.01)
+
+4
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+Date: June 12, 2018	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and Corporate Secretary
+
+5
+
+EXHIBIT INDEX
+
+Exhibit No.	Description
+10.1	Garmin Ltd. Articles of Association, as amended and restated on June 8, 2018
+
+99.1	Press Release dated June 8, 2018 (furnished pursuant to Item 8.01)
+
+6

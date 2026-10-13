@@ -1,0 +1,160 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+Current Report
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): June 4, 2021
+
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	0-31983	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: +41 52 630 1600
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares	GRMN	The Nasdaq Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+On June 4, 2021, Garmin Ltd. (“Garmin”) held its annual general meeting of shareholders. At the annual general meeting, the shareholders: (i) approved Garmin’s 2020 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 26, 2020 and the statutory financial statements of Garmin for the fiscal year ended December 26, 2020; (ii) approved the appropriation of available earnings; (iii) approved the payment of a cash dividend in the aggregate amount of U.S. $2.68 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments; (iv) discharged the members of Garmin’s Board of Directors and the members of Executive Management from liability for the fiscal year ended December 26, 2020; (v) re-elected Jonathan C. Burrell, Joseph, J. Hartnett, Min H. Kao, Catherine A. Lewis, Charles W. Peffer and Clifton A. Pemble as directors of Garmin for a term extending until completion of the 2022 annual general meeting of shareholders; (vi) re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2022 annual general meeting of shareholders; (vii) re-elected Jonathan C. Burrell, Joseph, J. Hartnett, Catherine A. Lewis and Charles W. Peffer as members of Garmin’s Compensation Committee for a term extending until completion of the 2022 annual general meeting of shareholders; (viii) re-elected the law firm of Wuersch & Gering LLP as independent voting rights representative for a term extending until completion of the 2022 annual general meeting of shareholders; (ix) ratified the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the 2021 fiscal year and re-elected Ernst & Young Ltd. as Garmin’s statutory auditor for another one-year term; (x) approved an advisory resolution approving the compensation of Garmin’s Named Executive Officers, as disclosed in Garmin’s proxy statement for the 2021 annual general meeting of shareholders pursuant to the executive compensation disclosure rules promulgated by the Securities and Exchange Commission; (xi) approved a binding vote to approve the Fiscal Year 2022 maximum aggregate compensation for Garmin’s Executive Management; and (xii) approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2021 annual general meeting of shareholders and the 2022 annual general meeting of shareholders.
+
+The tabulation of votes with respect to the re-election of six directors was as follows:
+
+	For	Against	Abstain	Non-votes
+Jonathan C. Burrell	119,265,552	24,205,789	67,032	24,428,443
+Joseph H. Hartnett	128,282,916	15,181,832	73,625	24,428,443
+Min H. Kao	141,318,923	2,155,425	64,026	24,428,443
+Catherine A. Lewis	141,683,948	1,781,706	72,719	24,428,443
+Charles W. Peffer	124,588,334	18,875,888	74,153	24,428,443
+Clifton A. Pemble	141,790,383	1,680,614	67,377	24,428,443
+
+The tabulation of votes with respect to the re-election of four members of the Compensation Committee was as follows:
+
+	For	Against	Abstain	Non-votes
+Jonathan C. Burrell	133,643,352	9,810,693	84,329	24,428,443
+Joseph H. Hartnett	141,540,609	1,909,666	88,099	24,428,443
+Catherine A. Lewis	142,153,480	1,297,625	87,269	24,428,443
+Charles W. Peffer	138,109,657	5,339,491	89,227	24,428,443
+
+1
+
+The shareholders approved Garmin’s 2020 Annual Report, including the consolidated financial statements for the fiscal year ended December 26, 2020 and the statutory financial statements for the fiscal year ended December 26, 2020. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+167,618,164	31,354	317,300	0
+
+The shareholders approved the appropriation of available earnings. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+142,457,928	1,020,901	59,546	24,428,443
+
+The shareholders approved the payment of a cash dividend in the aggregate amount of $2.68 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+166,882,754	1,018,488	65,576	0
+
+The shareholders discharged the members of Garmin’s Board of Directors and the members of Garmin’s Executive Management from liability for the fiscal year ended December 26, 2020. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+109,762,080	687,932	33,088,362	24,428,443
+
+2
+
+The shareholders re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2022 annual general meeting of shareholders. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+134,652,401	8,816,071	69,902	24,428,443
+
+The shareholders re-elected the law firm of Wuersch & Gering LLP as independent voting rights representative for a term extending until completion of the 2022 annual general meeting of shareholders. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+167,682,936	82,539	201,342	0
+
+The shareholders ratified the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the 2021 fiscal year and elected Ernst & Young Ltd. as Garmin’s statutory auditor for another one-year term. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+162,841,332	5,000,338	125,148	0
+
+The shareholders approved an advisory resolution approving the compensation of Garmin’s Named Executive Officers, as disclosed in Garmin’s proxy statement for the 2021 annual general meeting of shareholders pursuant to the executive compensation disclosure rules promulgated by the Securities and Exchange Commission. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+136,568,475	6,855,146	114,753	24,428,443
+
+The shareholders approved a binding vote to approve the Fiscal Year 2022 maximum aggregate compensation for Garmin’s Executive Management. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+140,541,697	2,598,872	397,805	24,428,443
+
+The shareholders approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2021 annual general meeting of shareholders and the 2022 annual general meeting of shareholders. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+142,747,253	375,979	415,141	24,428,443
+
+3
+
+Item 8.01. Other Events
+
+On June 4, 2021, Garmin issued a press release, a copy of which is attached hereto as Exhibit No. 99.1 and incorporated by reference herein, announcing that its shareholders have approved a cash dividend in the amount of $2.68 per outstanding share out of Garmin’s reserve from capital contribution payable in four equal installments on dates to be determined by the Board of Directors in its discretion. The Board has determined that the first installment of $0.67 will be payable on June 30, 2021 to shareholders of record on June 15, 2021. The Board currently expects that the dividend payment and record dates for the remaining three installments will be as follows: $0.67 on September 30, 2021 to shareholders of record on September 15, 2021, $0.67 on December 31, 2021 to shareholders of record on December 15, 2021 and $0.67 on March 31, 2022 to shareholders of record on March 15, 2022.
+
+Item 9.01. Financial Statements and Exhibits
+
+	(a)	Not applicable.
+
+	(b)	Not applicable.
+
+	(c)	Not applicable.
+
+	(d)	Exhibits. The following exhibits are furnished herewith:
+
+Exhibit No.	Description
+99.1	Press Release dated June 4, 2021 (furnished pursuant to Item 8.01)
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+4
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+Date: June 7, 2021	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and Corporate Secretary
+
+5

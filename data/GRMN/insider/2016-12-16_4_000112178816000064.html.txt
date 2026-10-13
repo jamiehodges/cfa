@@ -1,273 +1,57 @@
-SEC FORM
-4
-
-SEC Form 4
-
-FORM 4
-
-UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+SEC FORM 4
+SEC Form 4 FORM 4	UNITED STATES SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
+
 STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP
+
 Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934
-or Section 30(h) of the Investment Company Act of 1940
-
-OMB APPROVAL
-
-OMB Number:
-
-3235-0287
-
+or Section 30(h) of the Investment Company Act of 1940	OMB APPROVAL
+OMB Number:	3235-0287
 Estimated average burden
+hours per response:	0.5
 
-hours per response:
+	Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b).
 
-0.5
-
-Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue.
-
-See
-
-Instruction 1(b).
-
-1. Name and Address of Reporting Person
-*
-Boessen Douglas G.
-
-(Last)
-
-(First)
-
-(Middle)
-
+1. Name and Address of Reporting Person*Boessen Douglas G.
+(Last)	(First)	(Middle)
 1200 E. 151ST ST.
 
-(Street)
+(Street) OLATHE	KS	66062
+(City)	(State)	(Zip)
+	2. Issuer Name and Ticker or Trading Symbol
+GARMIN LTD [ GRMN ]	5. Relationship of Reporting Person(s) to Issuer
+(Check all applicable)	Director	10% Owner
+X	Officer (give title below)	Other (specify below)
+	CFO and Treasurer
 
-OLATHE
-
-KS
-
-66062
-
-(City)
-
-(State)
-
-(Zip)
-
-2. Issuer Name
-and
-Ticker or Trading Symbol
-
-GARMIN LTD
-
-[
-GRMN
-]
-
-5. Relationship of Reporting Person(s) to Issuer
-
-(Check all applicable)
-
-Director
-
-10% Owner
-
-X
-
-Officer (give title below)
-
-Other (specify below)
-
-CFO and Treasurer
-
-3. Date of Earliest Transaction
-(Month/Day/Year)
+3. Date of Earliest Transaction (Month/Day/Year)
 12/14/2016
-
-4. If Amendment, Date of Original Filed
-(Month/Day/Year)
-
-6. Individual or Joint/Group Filing (Check Applicable Line)
-
-X
-
-Form filed by One Reporting Person
-
-Form filed by More than One Reporting Person
+4. If Amendment, Date of Original Filed (Month/Day/Year)
+	6. Individual or Joint/Group Filing (Check Applicable Line) X	Form filed by One Reporting Person
+	Form filed by More than One Reporting Person
 
 Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned
-
-1. Title of Security (Instr.
-3)
-
-2. Transaction Date
-(Month/Day/Year)
-
-2A. Deemed Execution Date, if any
-(Month/Day/Year)
-
-3. Transaction Code (Instr.
-8)
-
-4. Securities Acquired (A) or Disposed Of (D) (Instr.
-3, 4 and 5)
-
-5.
-Amount of Securities Beneficially Owned Following Reported Transaction(s) (Instr.
-3 and 4)
-
-6. Ownership Form: Direct (D) or Indirect (I) (Instr.
-4)
-
-7. Nature of Indirect Beneficial Ownership (Instr.
-4)
-
-Code
-
-V
-
-Amount
-
-(A) or (D)
-
-Price
-
-Registered Shares
-
-12/15/2016
-
-F
-
-1,081
-(1)
-
-D
-
-$
-49.42
-
-9,190
-(2)
-
-D
-
-Registered Shares
-
-12/15/2016
-
-A
-
-4,392
-(3)
-
-A
-
-$
-0
-
-13,582
-(4)
-
-D
+1. Title of Security (Instr. 3)	2. Transaction Date (Month/Day/Year)	2A. Deemed Execution Date, if any (Month/Day/Year)	3. Transaction Code (Instr. 8)	4. Securities Acquired (A) or Disposed Of (D) (Instr. 3, 4 and 5)	5. Amount of Securities Beneficially Owned Following Reported Transaction(s) (Instr. 3 and 4)	6. Ownership Form: Direct (D) or Indirect (I) (Instr. 4)	7. Nature of Indirect Beneficial Ownership (Instr. 4)
+Code	V	Amount	(A) or (D)	Price
+Registered Shares	12/15/2016	F	1,081(1)	D	$49.42	9,190(2)	D
+Registered Shares	12/15/2016	A	4,392(3)	A	$0	13,582(4)	D
 
 Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned
 (e.g., puts, calls, warrants, options, convertible securities)
-
-1. Title of Derivative Security (Instr.
-3)
-
-2. Conversion or Exercise Price of Derivative Security
-
-3. Transaction Date
-(Month/Day/Year)
-
-3A. Deemed Execution Date, if any
-(Month/Day/Year)
-
-4. Transaction Code (Instr.
-8)
-
-5.
-Number of Derivative Securities Acquired (A) or Disposed of (D) (Instr.
-3, 4 and 5)
-
-6. Date Exercisable and Expiration Date
-(Month/Day/Year)
-
-7. Title and Amount of Securities Underlying Derivative Security (Instr.
-3 and 4)
-
-8. Price of Derivative Security (Instr.
-5)
-
-9.
-Number of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr.
-4)
-
-10. Ownership Form: Direct (D) or Indirect (I) (Instr.
-4)
-
-11. Nature of Indirect Beneficial Ownership (Instr.
-4)
-
-Code
-
-V
-
-(A)
-
-(D)
-
-Date Exercisable
-
-Expiration Date
-
-Title
-
-Amount or Number of Shares
+1. Title of Derivative Security (Instr. 3)	2. Conversion or Exercise Price of Derivative Security	3. Transaction Date (Month/Day/Year)	3A. Deemed Execution Date, if any (Month/Day/Year)	4. Transaction Code (Instr. 8)	5. Number of Derivative Securities Acquired (A) or Disposed of (D) (Instr. 3, 4 and 5)	6. Date Exercisable and Expiration Date (Month/Day/Year)	7. Title and Amount of Securities Underlying Derivative Security (Instr. 3 and 4)	8. Price of Derivative Security (Instr. 5)	9. Number of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr. 4)	10. Ownership Form: Direct (D) or Indirect (I) (Instr. 4)	11. Nature of Indirect Beneficial Ownership (Instr. 4)
+Code	V	(A)	(D)	Date Exercisable	Expiration Date	Title	Amount or Number of Shares
 
 Explanation of Responses:
-
 1. On December 15, 2016, 3,398 shares that were required by the reporting person pursuant to previously granted restricted stock units awards vested and were paid to the reporting person. Of those 3,398 shares, 1,081 shares were withheld to pay the resulting tax liability.
-
 2. Includes 5,478 unvested shares acquired pursuant to the award of previously granted restricted stock units awards and 496 shares acquired by the reporting person in December 2015 and June 2016 under the Garmin Ltd. Employee Stock Purchase Plan.
-
 3. On December 15, 2016, the reporting person received a grant of 4,392 restricted stock units, which vest in three equal annual installments, beginning on December 15, 2017.
-
 4. Includes 9,870 unvested shares acquired pursuant to the December 15, 2016 restricted stock units award and previously granted restricted stock units awards.
-
 Remarks:
 
-By Joshua H. Maxfield, Attorney-in-Fact
-
-12/16/2016
-
-** Signature of Reporting Person
-
-Date
-
+	By Joshua H. Maxfield, Attorney-in-Fact	12/16/2016
+	** Signature of Reporting Person	Date
 Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.
-
-* If the form is filed by more than one reporting person,
-
-see
-
-Instruction
-4
-
-(b)(v).
-
-** Intentional misstatements or omissions of facts constitute Federal Criminal Violations
-
-See
-
-18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
-
-Note: File three copies of this Form, one of which must be manually signed. If space is insufficient,
-
-see
-
-Instruction 6 for procedure.
-
+* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).
+** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
+Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, see Instruction 6 for procedure.
 Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.

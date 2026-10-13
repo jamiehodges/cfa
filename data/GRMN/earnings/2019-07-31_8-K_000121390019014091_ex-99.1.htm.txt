@@ -1,0 +1,414 @@
+EX-99.1 2 f8k073119ex99-1_garminltd.htm PRESS RELEASE DATED JULY 31, 2019
+Exhibit 99.1
+
+Garmin reports record second quarter revenue and profits; raises guidance
+
+Schaffhausen, Switzerland / July 31, 2019/ Business Wire
+
+Garmin Ltd. (Nasdaq: GRMN – News) today announced results for the second quarter ended June 29, 2019.
+
+Highlights for the second quarter 2019 include:
+
+	·	Record second quarter revenue of $955 million, a 7% increase, with aviation, marine, fitness and outdoor collectively increasing 12% over the prior year quarter
+
+	·	Gross margin of 60.3% compared to 58.5% in the prior year quarter
+
+	·	Operating margin of 26.8% compared to 24.3% in the prior year quarter
+
+	·	Operating income of $256 million, increasing 18% over the prior year quarter
+
+	·	GAAP diluted EPS was $1.17 and pro forma diluted EPS(1) was $1.16, increasing 17% over the prior year quarter
+
+	·	Aviation segment continues to capitalize on the ADS-B opportunity with strong unit market share
+
+	·	Recently announced the innovative ForceTM trolling motor and won Best of Show at ICAST, the world’s largest sportfishing trade show
+
+	·	Launched the refreshed line of Forerunner® running watches, providing both smartwatch features and enhanced running dynamics for all runners
+
+(in thousands,
+except per share data)	13-Weeks Ended	26-Weeks Ended
+	June 29,	June 30,	Yr over Yr	June 29,	June 30,	Yr over Yr
+	2019	2018	Change	2019	2018	Change
+Net sales	$	954,840	$	894,452	7	%	$	1,720,890	$	1,605,325	7	%
+Aviation	183,965	153,006	20	%	354,741	298,719	19	%
+Marine	151,407	134,583	13	%	285,376	248,138	15	%
+Fitness	251,653	225,095	12	%	431,908	391,130	10	%
+Outdoor	210,404	201,640	4	%	364,455	345,899	5	%
+Auto	157,411	180,128	-13	%	284,410	321,439	-12	%
+
+Gross margin %	60.3	%	58.5	%	59.7	%	59.2	%
+
+Operating income %	26.8	%	24.3	%	23.7	%	22.4	%
+
+GAAP diluted EPS	$	1.17	$	1.00	17	%	$	1.91	$	1.69	13	%
+Pro forma diluted EPS (1)	$	1.16	$	0.99	17	%	$	1.89	$	1.67	13	%
+
+	(1)	See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+
+“We achieved record second quarter revenue and profits with three of our five segments delivering strong double-digit revenue growth rates,” said Cliff Pemble, president and chief executive officer of Garmin Ltd. “We are very pleased with the results we have delivered thus far, giving us the confidence to raise our full year 2019 revenue and EPS guidance.”
+
+Aviation:
+
+Revenue in the aviation segment grew 20% in the quarter with contributions from both the aftermarket and OEM categories. Gross and operating margins came in at 75% and 36%, respectively, resulting in 27% operating income growth. Aftermarket systems and ADS-B solutions contributed to our positive results and we continue to capitalize on ADS-B opportunities ahead of the December 31, 2019 mandate deadline. During the quarter, we achieved certification of the G5000® integrated flight deck for the Citation Excel and XLS, bringing modernization to this family of aircraft. We recently announced the availability of the G1000® NXi integrated flight deck retrofit for additional aircraft models and continue to see strong customer demand and appreciation for this upgrade program.
+
+Marine:
+
+Revenue from the marine segment grew 13% in the quarter, driven by strong demand for our chartplotters and Panoptix TM LiveScope TM sonars. Gross and operating margins improved to 61% and 28%, respectively, resulting in strong operating income growth. Fusion®, a Garmin brand and worldwide leader in marine entertainment, was selected by Independent Boat Builders, Inc. to supply audio entertainment to their 19-member network. We recently announced our entry into the freshwater trolling motor market with Force. This quiet, powerful and efficient trolling motor has quickly earned accolades in the industry, winning the coveted Best of Show at the recent ICAST, sportfishing trade show.
+
+Fitness:
+
+Revenue from the fitness segment grew 12% in the quarter driven by strength in running and contributions from Tacx, our recent acquisition. Gross and operating margins were 54% and 20%, respectively. During the quarter we began shipping the Tacx cycling and accessory products, strengthening our cycling portfolio. Tacx® smart trainers provide a highly realistic ride simulation allowing riders to continue their training regardless of the weather conditions. We also launched our refreshed line of Forerunners, providing both smartwatch features and enhanced running dynamics for all runners.
+
+2
+
+Outdoor:
+
+Revenue from the outdoor segment grew 4% in the quarter with growth driven by our golf and inReach® product offerings. Gross and operating margins remained strong at 64% and 34%, respectively. During the quarter, we began shipping the MARQTM luxury watch. In addition, we experienced strong demand for golf wearables and the InstinctTM adventure watch. We also refreshed several of our handheld offerings, including the new GPSMAP® 66i, combining Garmin’s GPS capability with inReach satellite communication capabilities.
+
+Auto:
+
+The auto segment declined 13% in the quarter, due to the ongoing PND market contraction. Gross and operating margins improved to 48% and 16%, respectively. During the quarter, we announced the Garmin OverlanderTM, an all terrain GPS navigator specifically designed to fit the needs of the growing overlanding community. We also announced the DriveSmartTM 65 with built-in Alexa personal assistant, bringing easy voice-controlled functionality to drivers, and the RV785, with a built-in dash cam to record and save video.
+
+Additional Financial Information:
+
+Total operating expenses in the quarter were $319 million, a 4% increase from the prior year. Research and development expenses increased 5%, primarily due to engineering personnel costs. Selling, general and administrative expenses increased 7% driven primarily by personnel related expenses and incremental costs associated with acquisitions. Advertising decreased 5%, driven primarily by lower expense in the Auto segment.
+
+The effective tax rate in the second quarter of 2019 was 18.9% compared to 19.4% in the prior year quarter.
+
+In the second quarter of 2019, we generated $80 million of free cash flow (see attached table for reconciliation of this non-GAAP measure). We continued to return cash to shareholders with our quarterly dividend of approximately $108 million. We ended the quarter with cash and marketable securities of approximately $2.4 billion.
+
+2019 Guidance (2):
+
+Based on our strong performance in the first half of 2019, we are updating our full year guidance. We now anticipate revenue of approximately $3.6 billion driven by higher expectations for our aviation, marine and auto segments. Our outlook for the fitness and outdoor segments is unchanged. We anticipate our full year pro forma EPS will be approximately $3.90 based on a gross margin of about 59.5%, operating margin of about 23.2% and an unchanged full year pro forma effective tax rate of about 16.5%.
+
+3
+
+	2019 Guidance
+	Updated	Prior
+Revenue	~$3.6B	~$3.5B
+Gross Margin	~59.5%	~59.5%
+Operating Margin	~23.2%	~22.7%
+Tax Rate	~16.5%	~16.5%
+EPS	~$3.90	~$3.70
+
+	(2)	See attached discussion on Forward-looking Financial Measures
+
+	2019 Revenue Growth Estimates
+Segment	Updated	Prior
+Aviation	~17%	~10%
+Fitness	~13%	~13%
+Marine	~12%	~10%
+Outdoor	~10%	~10%
+Auto	~(15%)	~(18%)
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+	When:	Wednesday, July 31, 2019 at 10:30 a.m. Eastern
+
+	Where:	http://www.garmin.com/en-US/company/investors/events/
+
+	How:	Simply log on to the web at the address above or call to listen in at 855-757-3897
+
+An archive of the live webcast will be available until August 7, 2020 on the Garmin website at www.garmin.com. To access the replay, click on the Investor Relations link and click over to the Events Calendar page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, potential future acquisitions, currency movements, expenses, pricing, new products to be introduced in 2019, statements relating to possible future dividends and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 29, 2018 filed by Garmin with the Securities and Exchange Commission (Commission file number 0-31983). A copy of Garmin’s 2018 Form 10-K can be downloaded from https://www.garmin.com/en-US/company/investors/sec/form-10-K/.
+
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company’s use of these measures are included in the attachments.
+
+Garmin, the Garmin logo, the Garmin delta, G1000, G5000, GPSMAP, Forerunner, Fusion, inReach, and Tacx, are trademarks of Garmin Ltd. or its subsidiaries. and are registered in one or more countries, including the U.S. DriveSmart, Garmin Overlander, Force, Instinct, LiveScope, MARQ and Panoptix are trademarks of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Carly Hysell
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+4
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 29,	June 30,	June 29,	June 30,
+	2019	2018	2019	2018
+Net sales	$	954,840	$	894,452	$	1,720,890	$	1,605,325
+
+Cost of goods sold	379,475	371,182	693,827	655,520
+
+Gross profit	575,365	523,270	1,027,063	949,805
+
+Advertising expense	41,523	43,549	69,139	68,861
+Selling, general and administrative expense	128,738	120,500	255,519	237,564
+Research and development expense	148,883	141,713	294,801	283,670
+Total operating expense	319,144	305,762	619,459	590,095
+
+Operating income	256,221	217,508	407,604	359,710
+
+Other income:
+Interest income	13,735	10,995	27,439	21,222
+Foreign currency gains	3,413	2,647	3,727	3,463
+Other income	2,409	4,918	3,273	5,653
+Total other income	19,557	18,560	34,439	30,338
+
+Income before income taxes	275,778	236,068	442,043	390,048
+
+Income tax provision	52,122	45,726	78,214	70,333
+
+Net income	$	223,656	$	190,342	$	363,829	$	319,715
+
+Net income per share:
+Basic	$	1.18	$	1.01	$	1.92	$	1.70
+Diluted	$	1.17	$	1.00	$	1.91	$	1.69
+
+Weighted average common shares outstanding:
+Basic	189,855	188,542	189,728	188,432
+Diluted	190,714	189,461	190,657	189,377
+
+See accompanying notes.
+
+5
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	June 29,	December 29,
+	2019	2018
+Assets
+Current assets:
+Cash and cash equivalents	$	820,181	$	1,201,732
+Marketable securities	239,765	182,989
+Accounts receivable, net	583,913	569,833
+Inventories	648,140	561,840
+Deferred costs	27,040	28,462
+Prepaid expenses and other current assets	141,539	120,512
+Total current assets	2,460,578	2,665,368
+
+Property and equipment, net	702,108	663,527
+Operating lease right-of-use assets	59,166	-
+
+Restricted cash	73	73
+Marketable securities	1,319,026	1,330,123
+Deferred income taxes	162,739	176,959
+Noncurrent deferred costs	27,018	29,473
+Intangible assets, net	653,014	417,080
+Other assets	141,061	100,255
+Total assets	$	5,524,783	$	5,382,858
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	214,763	$	204,985
+Salaries and benefits payable	106,331	113,087
+Accrued warranty costs	39,330	38,276
+Accrued sales program costs	74,302	90,388
+Deferred revenue	94,980	96,372
+Accrued royalty costs	14,578	24,646
+Accrued advertising expense	28,444	31,657
+Other accrued expenses	90,439	69,777
+Income taxes payable	39,879	51,642
+Dividend payable	324,655	200,483
+Total current liabilities	1,027,701	921,313
+
+Deferred income taxes	105,865	92,944
+Noncurrent income taxes	121,997	127,211
+Noncurrent deferred revenue	71,700	76,566
+Noncurrent operating lease liabilities	46,281	-
+Other liabilities	273	1,850
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; 190,102 shares outstanding at June 29, 2019 and 189,461 shares outstanding at December 29, 2018	17,979	17,979
+Additional paid-in capital	1,825,135	1,823,638
+Treasury stock	(368,200	)	(397,692	)
+Retained earnings	2,641,371	2,710,619
+Accumulated other comprehensive income	34,681	8,430
+Total stockholders’ equity	4,150,966	4,162,974
+Total liabilities and stockholders’ equity	$	5,524,783	$	5,382,858
+
+See accompanying notes.
+
+6
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	26-Weeks Ended
+	June 29,	June 30,
+	2019	2018
+Operating activities:
+Net income	$	363,829	$	319,715
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	34,526	31,800
+Amortization	16,208	16,420
+Loss (gain) on sale or disposal of property and equipment	94	(1,042	)
+Provision for doubtful accounts	660	616
+Provision for obsolete and slow moving inventories	17,842	11,725
+Unrealized foreign currency (gain) loss	(6,811	)	2,401
+Deferred income taxes	7,077	11,000
+Stock compensation expense	30,961	27,747
+Realized (gains) losses on marketable securities	(60	)	231
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable	5,529	48,099
+Inventories	(86,059	)	(4,666	)
+Other current and non-current assets	(68,370	)	(4,841	)
+Accounts payable	5,960	1,618
+Other current and non-current liabilities	(33,001	)	(49,237	)
+Deferred revenue	(6,252	)	(7,483	)
+Deferred costs	3,876	962
+Income taxes payable	(10,791	)	32,998
+Net cash provided by operating activities	275,218	438,063
+
+Investing activities:
+Purchases of property and equipment	(60,495	)	(93,072	)
+Proceeds from sale of property and equipment	271	1,282
+Purchase of intangible assets	(853	)	(2,452	)
+Purchase of marketable securities	(192,168	)	(209,387	)
+Redemption of marketable securities	182,860	127,152
+Acquisitions, net of cash acquired	(276,014	)	(9,417	)
+Net cash used in investing activities	(346,399	)	(185,894	)
+
+Financing activities:
+Dividends	(308,905	)	(196,086	)
+Proceeds from issuance of treasury stock related to equity awards	12,982	14,142
+Purchase of treasury stock related to equity awards	(12,954	)	(6,900	)
+Net cash used in financing activities	(308,877	)	(188,844	)
+
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash	(1,493	)	(8,217	)
+
+Net (decrease) increase in cash, cash equivalents, and restricted cash	(381,551	)	55,108
+Cash, cash equivalents, and restricted cash at beginning of period	1,201,805	891,759
+Cash, cash equivalents, and restricted cash at end of period	$	820,254	$	946,867
+
+See accompanying notes.
+
+7
+
+Garmin Ltd. And Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment (Unaudited)
+(in thousands)
+
+	Reportable Segments
+	Outdoor	Fitness	Marine	Auto	Aviation	Total
+
+13-Weeks Ended June 29, 2019
+
+Net sales	$	210,404	$	251,653	$	151,407	$	157,411	$	183,965	$	954,840
+Gross profit	135,508	135,136	91,683	74,861	138,177	575,365
+Operating income	71,336	50,413	42,730	24,908	66,834	256,221
+
+13-Weeks Ended June 30, 2018
+
+Net sales	$	201,640	$	225,095	$	134,583	$	180,128	$	153,006	$	894,452
+Gross profit	128,872	126,431	78,785	75,452	113,730	523,270
+Operating income	71,916	52,548	27,768	12,612	52,664	217,508
+
+26-Weeks Ended June 29, 2019
+
+Net sales	$	364,455	$	431,908	$	285,376	$	284,410	$	354,741	$	1,720,890
+Gross profit	232,996	225,970	169,739	132,198	266,160	1,027,063
+Operating income	113,290	68,537	68,205	33,121	124,451	407,604
+
+26 -Weeks Ended June 30, 2018
+
+Net sales	$	345,899	$	391,130	$	248,138	$	321,439	$	298,719	$	1,605,325
+Gross profit	222,158	223,032	145,468	136,463	222,684	949,805
+Operating income	115,739	85,922	40,899	16,079	101,071	359,710
+
+In the first quarter of fiscal 2019, the methodology used to allocate certain selling, general, and administrative expenses to the segments was refined. The Company’s composition of segments did not change. Prior year amounts are presented above as they were originally reported. For comparative purposes, we estimate segment operating income for the 13 weeks ended June 30, 2018 would have been approximately $5 million less for the aviation segment, approximately $4 million more for the marine segment, $1 million more for the outdoor segment, and not significantly different for the fitness and auto segments. We estimate segment operating income for the 26 weeks ended June 30, 2018 would have been approximately $9 million less for the aviation segment, approximately $8 million more for the marine segment, $1 million more for the outdoor segment, and not significantly different for the fitness and auto segments. Also, we estimate segment operating income for the 52 weeks ended December 29, 2018 would have been approximately $18 million less for the aviation segment, approximately $11 million more for the marine segment, approximately $7 million more for the outdoor segment, and not significantly different for the fitness and auto segments.
+
+8
+
+Garmin Ltd. And Subsidiaries
+Net Sales by Geography (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 29,	June 30,	Yr over Yr	June 29,	June 30,	Yr over Yr
+	2019	2018	Change	2019	2018	Change
+Net sales	$	954,840	$	894,452	7	%	$	1,720,890	$	1,605,325	7	%
+Americas	470,840	437,116	8	%	850,296	783,091	9	%
+EMEA	338,595	309,116	10	%	598,615	555,029	8	%
+APAC	145,405	148,220	-2	%	271,979	267,205	2	%
+
+EMEA - Europe, Middle East and Africa; APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma net income (earnings) per share, pro forma effective tax rate and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes disclosure of the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors’ consistent comparison between periods. In the first and second quarters of 2019 and 2018, there were no such discrete tax items identified. The net release of uncertain tax position reserves, amounting to approximately $6.7 million and $10.3 million in the 26 weeks ended June 29, 2019 and June 30, 2018, respectively, have not been identified as pro forma adjustments as such items tend to be more recurring in nature.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+9
+
+Garmin Ltd. And Subsidiaries
+Pro Forma Net Income (Earnings) Per Share
+(in thousands, except per share information)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 29,	June 30,	June 29,	June 30,
+	2019	2018	2019	2018
+
+Net income (GAAP)	$	223,656	$	190,342	$	363,829	$	319,715
+Foreign currency gains / losses(1)	(3,413	)	(2,647	)	(3,727	)	(3,463	)
+Tax effect of foreign currency gains / losses(2)	645	513	660	624
+Net income (Pro Forma)	$	220,888	$	188,208	$	360,762	$	316,876
+
+Net income per share (GAAP):
+Basic	$	1.18	$	1.01	$	1.92	$	1.70
+Diluted	$	1.17	$	1.00	$	1.91	$	1.69
+
+Net income per share (Pro Forma):
+Basic	$	1.16	$	1.00	$	1.90	$	1.68
+Diluted	$	1.16	$	0.99	$	1.89	$	1.67
+
+Weighted average common shares outstanding:
+Basic	189,855	188,542	189,728	188,432
+Diluted	190,714	189,461	190,657	189,377
+
+	(1)	The majority of the Company’s consolidated foreign currency gains and losses are driven by movements in the Taiwan Dollar, Euro, and British Pound Sterling in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at one of the Company’s subsidiaries. However, there is minimal cash impact from such foreign currency gains and losses.
+
+	(2)	The tax effect of foreign currency gains and losses was calculated using the effective tax rate of 18.9% and 17.7% for the second quarter and year-to-date ended June 29, 2019, respectively, and an effective tax rate of 19.4% and 18.0% for the quarter and year-to-date ended June 30, 2018, respectively.
+
+	(3)	The discrete tax items are discussed in the pro forma effective tax rate section above.
+
+Free cash flow
+
+Management believes that free cash flow is an important financial measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes that excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operating performance and allows more accurate comparisons of the Company’s operating results to historical performance. This metric may also be useful to investors, but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+10
+
+Garmin Ltd. And Subsidiaries
+Free Cash Flow
+(in thousands)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 29,	June 30,	June 29,	June 30,
+	2019	2018	2019	2018
+
+Net cash provided by operating activities	$	110,636	$	223,873	$	275,218	$	438,063
+Less: purchases of property and equipment	(30,401	)	(66,736	)	(60,495	)	(93,072	)
+Free Cash Flow	$	80,235	$	157,137	$	214,723	$	344,991
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2019 guidance provided above do not consider the potential future net effect of certain discrete tax items, foreign currency exchange gains and losses, and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The Company expects to record an income tax benefit due to the revaluation of certain Switzerland deferred tax assets resulting from Swiss tax reform, which may have a favorable effect on the U.S. GAAP-basis effective tax rate and may be identified as a pro forma adjustment in fiscal 2019. However, the Company is unable to estimate the timing and the amount of the income tax benefit due to the dependency on the future enactment of Swiss cantonal tax rate.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on EPS of foreign currency gains and losses, net of tax effects, was $0.02 per share for the 26-weeks ended June 29, 2019.
+
+At this time, management is unable to determine whether or not other significant discrete tax items will occur in fiscal 2019 or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.
+
+11

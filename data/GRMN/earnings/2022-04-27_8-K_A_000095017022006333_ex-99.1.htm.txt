@@ -1,0 +1,408 @@
+EX-99.1 2 grmn-ex99_1.htm EX-99.1 EX-99.1
+
+EXHIBIT 99.1
+
+Garmin announces first quarter 2022 results
+Company reports record first quarter revenue and announces share repurchase plan
+
+Schaffhausen, Switzerland / April 27, 2022/ Business Wire – Garmin® Ltd. (NYSE: GRMN), today announced results for the first quarter ended March 26, 2022.
+
+Highlights for first quarter 2022 include:
+
+•Record consolidated revenue of $1.17 billion, a 9% increase over the prior year quarter with three segments posting double digit growth
+
+•Gross and operating margins were 56.5% and 19.5%, respectively
+
+•Operating income of $229 million, an 8% decrease compared to the prior year quarter
+
+•GAAP EPS was $1.09 and pro forma EPS(1) was $1.11
+
+•Launched a sweeping update to our lineup of outdoor adventure watches
+
+•Named the 2022 Associate Member of the Year by the Aircraft Electronics Association, and for the 18th consecutive year, ranked 1st place in Professional Pilot Magazine’s 2022 Avionics Product Support Survey
+
+•Unveiled LiveScope Plus a high-resolution live sonar that raises the performance bar in the recreational fishing market
+
+(In thousands, except per share information)	13-Weeks Ended
+	March 26,	March 27,	YoY
+	2022	2021	Change
+Net sales	$	1,172,662	$	1,072,327	9%
+	Fitness	220,896	308,125	(28)%
+	Outdoor	384,604	256,455	50%
+	Aviation	174,766	173,889	1%
+	Marine	254,069	209,372	21%
+	Auto	138,327	124,486	11%
+
+Gross margin %	56.5%	59.8%
+
+Operating income %	19.5%	23.3%
+
+GAAP diluted EPS	$	1.09	$	1.14	(4)%
+Pro forma diluted EPS(1)	$	1.11	$	1.18	(6)%
+
+(1) See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+“We delivered another quarter of growth and record revenue in an increasingly complex and challenging business environment,” said Cliff Pemble, President and CEO of Garmin. “High freight cost and component supply challenges persist while new headwinds emerge such as the strengthening of the U.S. dollar and the uncertainty created by Russia’s invasion of Ukraine. In this dynamic environment, we remain focused on creating highly differentiated products that excite our customers and lead to success.”
+
+Fitness:
+Revenue from the fitness segment decreased 28% in the first quarter. All categories declined but the weakness is primarily attributable to the normalization of demand for cycling products from the pandemic-driven levels in the prior year. Gross and operating margins were 48% and 0% in the quarter, respectively, resulting in $1 million of operating income. Our Garmin Connect platform contains a sizable repository of health insights covering millions of Garmin device users. Utilizing anonymized data from Garmin Connect, we showed that people who sleep more also experience lower levels of stress during the day. In addition, we provided useful insights on the link between modest levels of activity and lower resting heart rate, which is an indicator often associated with improved cardiac health. These insights are made possible by the state-of-the-art bio sensors and algorithms found in Garmin wearables.
+
+Outdoor:
+Revenue from the outdoor segment grew a robust 50% in the first quarter primarily due to strong demand for our adventure watches. Gross and operating margins were 64% and 39%, respectively, resulting in $149 million of operating income. During the quarter, we announced a sweeping update to our lineup of adventure watches including our flagship fēnix 7, the exciting new epix premium smartwatch, and the next generation Instinct 2 which includes versions that can operate indefinitely by harvesting the power of the sun.
+
+Aviation:
+Revenue from the aviation segment grew 1% in the first quarter primarily driven by growth in the OEM category. Gross and operating margins were 73% and 23%, respectively, resulting in $40 million of operating income. During the quarter we launched the D2 Mach 1, a premium aviator smartwatch with a vibrant AMOLED display, and the D2 Air X10, which combines powerful aviation features with voice functionality, allowing pilots to take calls and use their compatible smartphone’s voice assistant. We also announced additional certifications for our GFC 500/600 autopilot, bringing the performance and safety enhancing benefits of our flight control technology to more aircraft models.
+
+Marine:
+Revenue from the marine segment grew 21% in the first quarter with growth across multiple categories led by strong demand for our chartplotters. Gross and operating margins were 51% and 23%, respectively, resulting in $59 million of operating income. During the quarter, we launched the new LiveScope Plus with enhanced resolution, clearer images and improved target separation. Also during the quarter, our LiveScope technology helped Garmin sponsored fishing pro Jason Christie win the 2022 Bassmaster Classic, which drew more than 150,000 spectators over a three day period.
+
+Auto:
+Revenue from the auto segment grew 11% during the first quarter driven by growth in both OEM and consumer products. Gross margin was 38%, and we recorded an operating loss of $20 million in the quarter driven by ongoing investments in auto OEM programs. During the quarter, we launched the Instinct 2 dēzl edition smartwatch. This rugged smartwatch was created for professional truck drivers seeking to lead a healthy over-the-road lifestyle.
+
+Additional Financial Information:
+Total operating expenses in the first quarter were $434 million, an 11% increase over the prior year. Research and development increased by 11%, primarily due to engineering personnel costs. Selling, general and administrative expenses increased 11%, driven primarily by personnel related expenses and information technology costs. Advertising increased 10% over the prior year quarter primarily due to higher spend in the outdoor and marine segments.
+
+The effective tax rate in the first quarter was 10.3% compared to 12.2% in the prior year quarter. The year-over-year decrease in the effective tax rate is primarily due to an increase in U.S. tax deductions and credits.
+
+In the first quarter of 2022, we generated approximately $126 million of free cash flow(1), and paid a quarterly dividend of approximately $129 million. We ended the quarter with cash and marketable securities of approximately $3.0 billion.
+
+(1)See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including free cash flow.
+
+2022 Fiscal Year Guidance:
+We are maintaining our 2022 guidance for revenue of approximately $5.5 billion and pro forma EPS of $5.90 (see discussion on Forward-looking Financial Measures).
+
+Dividend Recommendation and Share Repurchase Program:
+As announced in February, the Board will recommend to the shareholders for approval at the annual meeting to be held on June 10, 2022 a cash dividend in the total amount of $2.92 per share (subject to possible adjustment based on the total amount of the dividend in Swiss Francs as approved at the annual meeting) payable in four equal quarterly installments.
+
+On April 22, 2022, the Board of Directors authorized the Company to repurchase up to $300 million of the Company’s shares through December 29, 2023. The timing and volume of any share repurchases under this authorization will be determined by management at its discretion. Share repurchases, which are subject to market conditions, other business conditions and applicable legal requirements, may be made from time to time in the open market or in privately negotiated transactions, including under plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, as amended.
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+When:	Wednesday, April 27, 2022 at 10:30 a.m. Eastern
+Where:	https://www.garmin.com/en-US/investors/events/
+How:	Simply log on to the web at the address above or call to listen in at 855-757-3897
+
+An archive of the live webcast will be available until April 26, 2023 on the Garmin website at www.garmin.com. To access the replay, click on the Investors link and click over to the Events Calendar page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “anticipates,” “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s expected fiscal 2022 GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, potential future acquisitions, share repurchase programs, currency movements, expenses, pricing, new product launches, market reach, statements relating to possible future dividends, statements related to the ongoing impact of the COVID-19 pandemic, and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 25, 2021 filed by Garmin with the Securities and Exchange Commission (Commission file number 001-41118). A copy of Garmin’s 2021 Form 10-K can be downloaded from https://www.garmin.com/en-US/investors/sec/. All information provided in this release and in the attachments is as of March 26, 2022. Undue reliance should not be placed on the forward-looking statements in this press release, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company's use of these measures are included in the attachments.
+
+Garmin, the Garmin logo, the Garmin delta, dēzl, fēnix, Instinct are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S. D2, epix, Garmin Connect, GFC, LiveScope and Panoptix are trademarks of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved.
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Krista Klaus
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Changes in Classification and Allocation
+
+Prior period information presented here has been recast to conform to the current period presentation. See Appendix A for further discussion and recast presentation of additional prior periods.
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended
+	March 26,	March 27,
+	2022	2021
+Net sales	$	1,172,662	$	1,072,327
+Cost of goods sold	510,183	430,771
+Gross profit	662,479	641,556
+
+Advertising expense	34,133	31,061
+Selling, general and administrative expense	190,784	171,987
+Research and development expense	209,006	188,849
+Total operating expense	433,923	391,897
+
+Operating income	228,556	249,659
+Other income (expense):
+Interest income	7,553	7,652
+Foreign currency losses	(3,506	)	(8,281	)
+Other income	3,261	1,484
+Total other income (expense)	7,308	855
+
+Income before income taxes	235,864	250,514
+Income tax provision	24,272	30,485
+Net income	$	211,592	$	220,029
+
+Net income per share:
+Basic	$	1.10	$	1.15
+Diluted	$	1.09	$	1.14
+
+Weighted average common shares outstanding:
+Basic	192,887	191,896
+Diluted	193,579	192,810
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	March 26,2022	December 25, 2021
+Assets
+Current assets:
+Cash and cash equivalents	$	1,417,531	$	1,498,058
+Marketable securities	375,237	347,980
+Accounts receivable, net	599,733	843,445
+Inventories	1,339,530	1,227,609
+Deferred costs	15,003	15,961
+Prepaid expenses and other current assets	335,169	328,719
+Total current assets	4,082,203	4,261,772
+
+Property and equipment, net	1,092,520	1,067,478
+Operating lease right-of-use assets	101,198	89,457
+Noncurrent marketable securities	1,238,500	1,268,698
+Deferred income tax assets	301,718	260,205
+Noncurrent deferred costs	11,396	12,361
+Goodwill	572,996	575,080
+Other intangible assets, net	209,325	215,993
+Other noncurrent assets	93,393	103,383
+Total assets	$	7,703,249	$	7,854,427
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	298,992	$	370,048
+Salaries and benefits payable	170,835	211,371
+Accrued warranty costs	40,698	45,467
+Accrued sales program costs	68,715	121,514
+Other accrued expenses	209,155	225,988
+Deferred revenue	86,444	87,654
+Income taxes payable	148,268	128,083
+Dividend payable	129,394	258,023
+Total current liabilities	1,152,501	1,448,148
+
+Deferred income tax liabilities	117,649	117,595
+Noncurrent income taxes payable	62,732	62,539
+Noncurrent deferred revenue	39,061	41,618
+Noncurrent operating lease liabilities	82,127	70,044
+Other noncurrent liabilities	337	324
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; 193,125 shares outstanding at March 26, 2022 and 192,608 shares outstanding at December 25, 2021	17,979	17,979
+Additional paid-in capital	1,982,561	1,960,722
+Treasury stock	(294,711	)	(303,114	)
+Retained earnings	4,532,102	4,320,737
+Accumulated other comprehensive income	10,911	117,835
+Total stockholders’ equity	6,248,842	6,114,159
+Total liabilities and stockholders’ equity	$	7,703,249	$	7,854,427
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	13-Weeks Ended
+	March 26, 2022	March 27, 2021
+Operating Activities:
+Net income	$	211,592	$	220,029
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	28,984	23,988
+Amortization	12,228	12,902
+(Gain) loss on sale or disposal of property and equipment	(1,129	)	133
+Unrealized foreign currency (gains) losses	(5,113	)	7,277
+Deferred income taxes	(25,996	)	497
+Stock compensation expense	24,706	22,698
+Realized (gain) loss on marketable securities	(2	)	22
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	238,134	281,524
+Inventories	(134,807	)	(87,450	)
+Other current and noncurrent assets	(1,628	)	(13,710	)
+Accounts payable	(61,939	)	(3,470	)
+Other current and noncurrent liabilities	(119,159	)	(95,977	)
+Deferred revenue	(3,704	)	(7,998	)
+Deferred costs	1,904	3,945
+Income taxes	21,563	3,952
+Net cash provided by operating activities	185,634	368,362
+
+Investing activities:
+Purchases of property and equipment	(59,715	)	(36,894	)
+Proceeds from sale of property and equipment	1,131	—
+Purchase of intangible assets	(547	)	(760	)
+Purchase of marketable securities	(497,526	)	(404,599	)
+Redemption of marketable securities	431,604	354,039
+Acquisitions, net of cash acquired	(10,828	)	(15,893	)
+Net cash used in investing activities	(135,881	)	(104,107	)
+
+Financing activities:
+Dividends	(128,856	)	(116,655	)
+Proceeds from issuance of treasury stock related to equity awards	20,146	17,657
+Purchase of treasury stock related to equity awards	(14,610	)	(17,281	)
+Net cash used in financing activities	(123,320	)	(116,279	)
+
+Effect of exchange rate changes on cash and cash equivalents	(6,960	)	(6,488	)
+
+Net (decrease) increase in cash, cash equivalents, and restricted cash	(80,527	)	141,488
+Cash, cash equivalents, and restricted cash at beginning of period	1,498,843	1,458,748
+Cash, cash equivalents, and restricted cash at end of period	$	1,418,316	$	1,600,236
+
+The following table includes supplemental financial information for the consumer auto and auto OEM operating segments that management believes is useful.
+
+Garmin Ltd. and Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment
+(In thousands)
+
+	Auto
+	Fitness	Outdoor	Aviation	Marine	TotalAuto	ConsumerAuto	AutoOEM	Total
+13-Weeks Ended March 26, 2022
+Net sales	$	220,896	$	384,604	$	174,766	$	254,069	$	138,327	$	65,130	$	73,197	$	1,172,662
+Gross profit	106,189	247,495	127,543	128,581	52,671	30,960	21,711	662,479
+Operating income (loss)	580	148,979	40,127	58,882	(20,012	)	3,831	(23,843	)	228,556
+
+13-Weeks Ended March 27, 2021
+Net sales	$	308,125	$	256,455	$	173,889	$	209,372	$	124,486	$	62,395	$	62,091	$	1,072,327
+Gross profit	173,545	171,676	126,182	121,379	48,774	31,964	16,810	641,556
+Operating income (loss)	70,682	92,011	45,014	62,906	(20,954	)	9,038	(29,992	)	249,659
+
+Garmin Ltd. and Subsidiaries
+Net Sales by Geography
+(In thousands)
+
+	13-Weeks Ended
+	March 26,	March 27,	YoY
+	2022	2021	Change
+Net sales	$	1,172,662	$	1,072,327	9%
+Americas	570,634	503,691	13%
+EMEA	397,477	399,508	(1)%
+APAC	204,551	169,128	21%
+
+EMEA - Europe, Middle East and Africa; APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma effective tax rate, pro forma net income (earnings) per share and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes disclosure of the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors' consistent comparison between periods. In the first quarter 2022 and 2021 there were no such discrete tax items identified.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+(In thousands, except per share information)	13-Weeks Ended
+	March 26,	March 27,
+	2022	2021
+GAAP net income	$	211,592	$	220,029
+Foreign currency losses(1)	3,506	8,281
+Tax effect of foreign currency losses(2)	(361	)	(1,008	)
+Pro forma net income	$	214,737	$	227,302
+
+GAAP net income per share:
+Basic	$	1.10	$	1.15
+Diluted	$	1.09	$	1.14
+
+Pro forma net income per share:
+Basic	$	1.11	$	1.18
+Diluted	$	1.11	$	1.18
+
+Weighted average common shares outstanding:
+Basic	192,887	191,896
+Diluted	193,579	192,810
+
+(1) Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at a given legal entity. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency losses was calculated using the effective tax rates of 10.3% and 12.2% for the 13-weeks ended March 26, 2022, and March 27, 2021 respectively.
+
+Free cash flow
+
+Management believes that free cash flow is an important liquidity measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes that excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operations and allows more accurate comparisons of the Company’s results between periods. This metric may also be useful to investors, but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+(In thousands)	13-Weeks Ended
+	March 26,	March 27,
+	2022	2021
+Net cash provided by operating activities	$	185,634	$	368,362
+Less: purchases of property and equipment	(59,715	)	(36,894	)
+Free Cash Flow	$	125,919	$	331,468
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2022 guidance provided above do not consider the potential future net effect of foreign currency exchange gains and losses, certain discrete tax items and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.02 per share for the first quarter ended March 26, 2022.
+
+At this time, management is unable to determine whether or not significant discrete tax items will occur in fiscal 2022 or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.
+
+Appendix A – Expense classification and segment allocation methodology changes
+
+Beginning in the first quarter of 2022, the Company refined its methodology used in classifying certain indirect costs and allocating certain operating expenses to the segments. These changes had no effect on the Company’s consolidated operating income, net income, or composition of operating segments and reportable segments. Each prior period that will be presented in the forthcoming Form 10-Q and Form 10-K filings will be recast to conform to current period presentation. The following tables provide the relevant financial results as previously reported, as recast for the current period and forthcoming filings, and the associated impacts of the changes. Within these tables, the references to periods such as “FY 2020” and “Q1 2021” refer to the corresponding periods as reported in the applicable Form 10-K, Form 10-Q, or Form 8-K filings. The tables may not foot due to rounding.
+
+Garmin Ltd. and Subsidiaries
+Operating Expense
+(In thousands)
+
+	Previously Reported
+	FY 2020	Q1 2021	Q2 2021	Q3 2021	Q4 2021	FY 2021
+Advertising expense	$	151,166	$	31,061	$	42,939	$	36,705	$	61,124	$	171,829
+Selling, general and administrative expense	570,245	157,622	165,759	162,515	174,090	659,986
+Research and development expense	705,685	203,214	200,981	214,057	221,772	840,024
+Total operating expense	$	1,427,096	$	391,897	$	409,679	$	413,277	$	456,986	$	1,671,839
+
+	Recast
+	FY 2020	Q1 2021	Q2 2021	Q3 2021	Q4 2021	FY 2021
+Advertising expense	$	151,166	$	31,061	$	42,939	$	36,705	$	61,124	$	171,829
+Selling, general and administrative expense	623,588	171,987	180,717	177,647	190,909	721,260
+Research and development expense	652,342	188,849	186,023	198,925	204,953	778,750
+Total operating expense	$	1,427,096	$	391,897	$	409,679	$	413,277	$	456,986	$	1,671,839
+
+	Impact
+	FY 2020	Q1 2021	Q2 2021	Q3 2021	Q4 2021	FY 2021
+Advertising expense	$	—	$	—	$	—	$	—	$	—	$	—
+Selling, general and administrative expense	53,343	14,365	14,958	15,132	16,819	61,274
+Research and development expense	(53,343	)	(14,365	)	(14,958	)	(15,132	)	(16,819	)	(61,274	)
+Total operating expense	$	—	$	—	$	—	$	—	$	—	$	—
+
+Garmin Ltd. and Subsidiaries
+Operating Income by Segment
+(In thousands)
+
+	Previously Reported
+	Auto
+	Fitness	Outdoor	Aviation	Marine	TotalAuto	ConsumerAuto	AutoOEM	Total
+FY 2020
+Operating income (loss)	$	318,884	$	441,085	$	137,203	$	175,724	$	(18,656	)	$	41,464	$	(60,120	)	$	1,054,240
+Q1 2021
+Operating income (loss)	73,736	93,030	44,868	61,564	(23,539	)	8,398	(31,937	)	249,659
+Q2 2021
+Operating income (loss)	116,966	122,056	50,810	89,752	(8,412	)	15,684	(24,096	)	371,172
+Q3 2021
+Operating income (loss)	77,788	123,946	51,296	53,726	(24,086	)	11,305	(35,391	)	282,670
+Q4 2021
+Operating income (loss)	104,085	141,747	44,800	39,158	(14,671	)	10,213	(24,884	)	315,119
+FY 2021
+Operating income (loss)	372,575	480,777	191,775	244,199	(70,706	)	45,603	(116,309	)	1,218,620
+
+	Recast
+	Auto
+	Fitness	Outdoor	Aviation	Marine	TotalAuto	ConsumerAuto	AutoOEM	Total
+FY 2020
+Operating income (loss)	$	305,283	$	438,197	$	146,608	$	177,184	$	(13,032	)	$	45,033	$	(58,065	)	$	1,054,240
+Q1 2021
+Operating income (loss)	70,682	92,011	45,014	62,906	(20,954	)	9,038	(29,992	)	249,659
+Q2 2021
+Operating income (loss)	113,733	120,843	51,126	91,091	(5,621	)	16,355	(21,976	)	371,172
+Q3 2021
+Operating income (loss)	74,469	122,875	51,747	55,142	(21,563	)	11,979	(33,542	)	282,670
+Q4 2021
+Operating income (loss)	100,317	140,393	45,301	40,642	(11,534	)	10,975	(22,509	)	315,119
+FY 2021
+Operating income (loss)	359,201	476,122	193,188	249,781	(59,672	)	48,347	(108,019	)	1,218,620
+
+	Impact
+	Auto
+	Fitness	Outdoor	Aviation	Marine	TotalAuto	ConsumerAuto	AutoOEM	Total
+FY 2020
+Operating income (loss)	$	(13,601	)	$	(2,888	)	$	9,405	$	1,460	$	5,624	$	3,569	$	2,055	$	—
+Q1 2021
+Operating income (loss)	(3,054	)	(1,019	)	146	1,342	2,585	640	1,945	—
+Q2 2021
+Operating income (loss)	(3,233	)	(1,213	)	316	1,339	2,791	671	2,120	—
+Q3 2021
+Operating income (loss)	(3,319	)	(1,071	)	451	1,416	2,523	674	1,849	—
+Q4 2021
+Operating income (loss)	(3,768	)	(1,354	)	501	1,484	3,137	762	2,375	—
+FY 2021
+Operating income (loss)	(13,374	)	(4,655	)	1,413	5,582	11,034	2,744	8,290	—

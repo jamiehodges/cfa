@@ -1,0 +1,177 @@
+8-K
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+Current Report
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): June 7, 2024
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	001-41118	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: +41 52 630 1600
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares, $0.10 Per Share Par Value	GRMN	New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) Effective as of June 7, 2024, Garmin Ltd. ("Garmin") amended and restated the Garmin Ltd. 2005 Equity Incentive Plan (the "Plan"), primarily to increase the number of shares authorized under the Plan from 13,000,000 shares to 18,000,000 shares and to increase the maximum number of shares that may be delivered as restricted shares or pursuant to performance units or restricted stock units from 12,000,000 shares to 17,000,000 shares. A copy of the Plan, as amended and restated, is filed herewith as Exhibit 10.1 and is incorporated herein by reference, and the foregoing summary of the Plan is qualified in its entirety by reference to such exhibit.
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+On June 7, 2024, Garmin held its annual general meeting of shareholders. At the annual general meeting, Garmin's shareholders voted on the proposals set forth below, each of which is described in Garmin’s proxy statement for the 2024 annual general meeting.
+
+Under Swiss law and Garmin's Articles of Association, shareholder approval of proposals is generally determined by a simple majority of votes cast, such that abstentions and broker non-votes are disregarded in the calculation of the vote required for approval. At the 2024 annual general meeting, abstentions and broker non-votes were not considered in the tabulation of the vote (and should be disregarded) for each of Proposals 1 through 15. Approval of Proposal 16 is determined by the affirmative vote of at least two-thirds of the votes and the absolute majority of the par value of shares, such that abstentions and broker non-votes were considered as votes against this proposal.
+
+1. The shareholders approved Garmin’s 2023 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 30, 2023 and Garmin’s statutory financial statements for the fiscal year ended December 30, 2023. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+167,104,491	145,787	367,732	0
+
+2. The shareholders approved the appropriation of available earnings. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+167,339,574	102,869	175,567	0
+
+3. The shareholders approved the payment of a cash dividend in the aggregate amount of U.S. $3.00 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+167,391,444	102,245	124,321	0
+
+4. The shareholders discharged the members of the Board of Directors and the Executive Management from liability for the fiscal year ended December 30, 2023. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+111,766,902	770,898	29,378,503	25,701,707
+
+5. The shareholders re-elected five directors and elected one new director, each for a term extending until completion of the 2025 annual general meeting. The tabulation of votes with respect to the re-election and election of directors was as follows:
+
+	For	Against	Abstain	Non-votes
+Jonathan C. Burrell	132,368,097	9,483,622	64,584	25,701,707
+Joseph J. Hartnett	124,080,999	17,759,990	75,314	25,701,707
+Min H. Kao	137,439,204	4,415,751	61,348	25,701,707
+Catherine A. Lewis	138,707,497	3,137,743	71,063	25,701,707
+Clifton A. Pemble	139,520,552	2,332,609	63,142	25,701,707
+Susan M. Ball	141,076,263	759,764	80,276	25,701,707
+
+1
+
+6. The shareholders re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2025 annual general meeting. The tabulation of votes with respect to the re-election of the Executive Chairman was as follows:
+
+For	Against	Abstain	Non-votes
+133,249,669	8,603,652	62,982	25,701,707
+
+7. The shareholders re-elected four members of the Compensation Committee and elected one new member of the Compensation Committee, each for a term extending until completion of the 2025 annual general meeting. The tabulation of votes with respect to the re-election and election of members of the Compensation Committee was as follows:
+
+	For	Against	Abstain	Non-votes
+Jonathan C. Burrell	134,823,370	7,014,013	78,920	25,701,707
+Joseph J. Hartnett	135,865,629	5,974,794	75,880	25,701,707
+Catherine A. Lewis	138,683,801	3,160,223	72,279	25,701,707
+Susan M. Ball	141,135,018	710,135	71,150	25,701,707
+
+8. The shareholders re-elected the law firm of Wuersch & Gering LLP as independent voting rights representative for a term extending until completion of the 2025 annual general meeting. The tabulation of votes with respect to the re-election of the independent voting rights representative was as follows:
+
+For	Against	Abstain	Non-votes
+167,288,852	94,484	234,674	0
+
+9. The shareholders ratified the appointment of Ernst & Young LLP as Garmin’s independent registered public accounting firm for the fiscal year ending December 28, 2024 and re-elected Ernst & Young Ltd as Garmin’s statutory auditor for another one-year term. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+162,170,514	5,283,043	164,453	0
+
+10. The shareholders passed an advisory resolution approving the compensation of Garmin’s Named Executive Officers. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+133,533,973	8,269,766	112,564	25,701,707
+
+11. The shareholders passed an advisory resolution approving Garmin’s Swiss Statutory Compensation Report for the fiscal year ended December 30, 2023. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+133,577,807	8,228,732	109,764	25,701,707
+
+12. The shareholders passed an advisory resolution approving Garmin’s Swiss Non-Financial Matters Report for the fiscal year ended December 30, 2023. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+166,583,799	631,695	402,516	0
+
+13. The shareholders approved a binding vote to approve the Fiscal Year 2025 maximum aggregate compensation for Garmin’s Executive Management. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+135,691,058	5,926,735	298,510	25,701,707
+
+14. The shareholders approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2024 annual general meeting and the 2025 annual general meeting. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+
+2
+
+141,588,655	219,244	108,404	25,701,707
+
+15. The shareholders approved the amendment and restatement of Garmin's 2005 Equity Incentive Plan, primarily to increase the number of shares authorized under the Plan from 13,000,000 shares to 18,000,000 shares and to increase the maximum number of shares that may be delivered as restricted shares or pursuant to performance units or restricted stock units from 12,000,000 shares to 17,000,000 shares. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+139,018,656	2,802,679	94,968	25,701,707
+
+16. The shareholders approved the renewal of Garmin's existing capital band by giving the Board of Directors’ authority to issue new shares and/or to cancel shares or reduce the nominal value of the shares thereunder for a one-year period ending on June 7, 2025. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+161,996,847	5,335,400	285,763	0
+
+Item 8.01. Other Events
+
+On June 7, 2024, Garmin issued a press release, a copy of which is attached hereto as Exhibit No. 99.1 and incorporated by reference herein, announcing that its shareholders have approved a cash dividend in the amount of $3.00 per outstanding share out of Garmin’s reserve from capital contribution payable in four equal installments on dates to be determined by the Board of Directors in its discretion. The Board has determined that the first installment of $0.75 will be payable on June 28, 2024 to shareholders of record on June 17, 2024. The Board currently expects that the dividend payment and record dates for the remaining three installments will be as follows: $0.75 on September 27, 2024 to shareholders of record on September 13, 2024, $0.75 on December 27, 2024 to shareholders of record on December 13, 2024 and $0.75 on March 28, 2025 to shareholders of record on March 14, 2025.
+
+3
+
+Item 9.01. Financial Statements and Exhibits
+(a) Not applicable.
+(b) Not applicable.
+(c) Not applicable.
+(d) Exhibits. The following exhibits are furnished herewith.
+
+Exhibit No.	Description
+10.1	Garmin Ltd. 2005 Equity Incentive Plan, as amended and restated on June 7, 2024
+10.2	Garmin Ltd. Articles of Association, as amended and restated on June 7, 2024
+99.1	Press Release dated June 7, 2024 (furnished pursuant to Item 8.01)
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+4
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+Date: June 11, 2024	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and Corporate Secretary
+
+5

@@ -1,0 +1,159 @@
+8-K
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+Current Report
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): June 10, 2022
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	001-41118	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: +41 52 630 1600
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares, CHF 0.10 Per Share Par Value	GRMN	New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e) Effective as of June 10, 2022, Garmin Ltd. (“Garmin”) amended and restated the Garmin Ltd. 2005 Equity Incentive Plan (the “Equity Incentive Plan”) to increase the number of shares authorized for issuance under the Plan that may be delivered as Restricted Shares or pursuant to Performance Units or Restricted Stock Units from 10,000,000 to 12,000,000. A copy of the Equity Incentive Plan, as amended and restated, is filed herewith as Exhibit 10.1 and is incorporated herein by reference, and the foregoing summary of the Equity Incentive Plan is qualified in its entirety by reference to such exhibit.
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+On June 10, 2022, Garmin held its annual general meeting of shareholders. At the annual general meeting, Garmin's shareholders voted on the proposals set forth below, each of which is described in Garmin’s proxy statement for the 2022 annual general meeting:
+
+The shareholders re-elected the six individuals listed below as directors, each for a term extending until completion of the 2023 annual general meeting. The tabulation of votes with respect to the re-election of directors was as follows:
+
+	For	Against	Abstain	Non-votes
+Jonathan C. Burrell	110,108,387	26,612,096	242,297	25,734,335
+Joseph H. Hartnett	114,866,864	21,927,913	168,003	25,734,335
+Min H. Kao	131,790,171	5,014,996	157,613	25,734,335
+Catherine A. Lewis	133,370,110	3,427,874	164,796	25,734,335
+Charles W. Peffer	111,469,776	25,328,028	164,976	25,734,335
+Clifton A. Pemble	134,514,531	2,293,064	155,185	25,734,335
+
+The shareholders re-elected the four individuals listed below as members of the Compensation Committee, each for a term extending until completion of the 2023 annual general meeting. The tabulation of votes with respect to the re-election of members of the Compensation Committee was as follows:
+
+	For	Against	Abstain	Non-votes
+Jonathan C. Burrell	127,317,255	9,399,068	246,457	25,734,335
+Joseph H. Hartnett	132,085,652	4,705,261	171,867	25,734,335
+Catherine A. Lewis	134,687,266	2,103,936	171,578	25,734,335
+Charles W. Peffer	131,492,956	5,301,144	168,680	25,734,335
+
+The shareholders approved Garmin’s 2021 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 25, 2021 and the statutory financial statements of Garmin for the fiscal year ended December 25, 2021. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+162,244,772	51,832	400,511	0
+
+The shareholders approved the appropriation of available earnings. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+162,341,948	89,502	265,665	0
+
+The shareholders approved the payment of a cash dividend in the aggregate amount of U.S. $2.92 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+162,521,253	43,307	132,555	0
+
+The shareholders discharged the members of the Board of Directors and the Executive Management from liability for the fiscal year ended December 25, 2021. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+106,499,364	872,257	29,591,159	25,734,335
+
+1
+
+The shareholders re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2023 annual general meeting. The tabulation of votes with respect to the re-election of the Executive Chairman was as follows:
+
+For	Against	Abstain	Non-votes
+129,617,076	7,187,568	158,136	25,734,335
+
+The shareholders re-elected the law firm of Wuersch & Gering LLP as independent voting rights representative for a term extending until completion of the 2023 annual general meeting. The tabulation of votes with respect to the re-election of the independent voting rights representative was as follows:
+
+For	Against	Abstain	Non-votes
+162,240,638	143,846	312,631	0
+
+The shareholders ratified the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the 2022 fiscal year and elected Ernst & Young Ltd. as Garmin’s statutory auditor for another one-year term. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+156,307,837	6,141,349	247,925	4
+
+The shareholders approved an advisory resolution approving the compensation of Garmin’s Named Executive Officers, as disclosed in Garmin’s proxy statement for the 2022 annual general meeting pursuant to the executive compensation disclosure rules promulgated by the Securities and Exchange Commission. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+129,725,177	6,771,791	465,812	25,734,335
+
+The shareholders approved a binding vote to approve the Fiscal Year 2023 maximum aggregate compensation for Garmin’s Executive Management. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+133,060,312	3,372,668	529,799	25,734,335
+
+The shareholders approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2022 annual general meeting and the 2023 annual general meeting. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+136,093,116	338,533	531,130	25,734,335
+
+The shareholders approved an amendment to Garmin's 2005 Equity Incentive Plan to increase the maximum number of shares authorized for issuance under the Plan that may be delivered as Restricted Shares or pursuant to Performance Units or Restricted Stock Units from 10 million to 12 million. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+133,072,123	3,582,809	307,847	25,734,335
+
+The shareholders approved an amendment to Garmin’s Articles of Association to renew the authorized share capital in the amount of CHF 1,980,774.10 corresponding to 19,807,741 registered shares with a nominal value of CHF 0.10 each, until June 10, 2024. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+161,659,553	758,918	278,644	0
+
+2
+
+Item 8.01. Other Events
+On June 10, 2022, Garmin issued a press release, a copy of which is attached hereto as Exhibit No. 99.1 and incorporated by reference herein, announcing that its shareholders have approved a cash dividend in the amount of $2.92 per outstanding share out of Garmin’s reserve from capital contribution payable in four equal installments on dates to be determined by the Board of Directors in its discretion. The Board has determined that the first installment of $0.73 will be payable on June 30, 2022 to shareholders of record on June 20, 2022. The Board currently expects that the dividend payment and record dates for the remaining three installments will be as follows: $0.73 on September 30, 2022 to shareholders of record on September 15, 2022, $0.73 on December 31, 2022 to shareholders of record on December 15, 2022 and $0.73 on March 31, 2023 to shareholders of record on March 15, 2023.
+Item 9.01. Financial Statements and Exhibits
+(a) Not applicable.
+(b) Not applicable.
+(c) Not applicable.
+(d) Exhibits. The following exhibits are furnished herewith.
+
+Exhibit No.	Description
+10.1	Garmin Ltd. 2005 Equity Incentive Plan, as amended and restated on June 10, 2022
+10.2	Garmin Ltd. Articles of Association, as amended and restated on June 10, 2022
+99.1	Press Release dated June 10, 2022 (furnished pursuant to Item 8.01)
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+3
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+Date: June 13, 2022	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and Corporate Secretary
+
+4

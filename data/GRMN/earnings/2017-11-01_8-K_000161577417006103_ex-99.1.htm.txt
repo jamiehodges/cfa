@@ -1,0 +1,410 @@
+EX-99.1 2 s107953_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+
+Garmin Reports Third Quarter Revenue and Profit Growth; Raises Guidance
+
+Schaffhausen, Switzerland / November 1, 2017 / Business Wire
+
+Garmin Ltd. (Nasdaq: GRMN – News) today announced results for the third quarter ended September 30, 2017.
+
+Highlights for the third quarter 2017 include:
+
+	●	Total revenue of $743 million, growing 3% over the prior year, with outdoor, aviation, marine and fitness collectively growing 9% over the prior year quarter and contributing 75% of total revenue
+
+	●	Gross margin improved to 58.4% compared to 56.2% in the prior year quarter
+
+	●	Operating margin improved to 22.8% compared to 22.1% in the prior year quarter
+
+	●	Operating income was $170 million, growing 6% over the prior year quarter
+
+	●	GAAP EPS was $0.78, an 18% improvement over the prior year quarter, and pro forma EPS(1) was $0.75, consistent with the prior year quarter
+
+	●	Completed the acquisition of Navionics®S.p.A., a privately-held worldwide provider of electronic navigational charts and mobile applications for the marine industry
+
+	●	Launched several new wearables within the fitness segment, including the vívoactive® 3, vívomove® HR, vívosport® and vívofit® jr. 2 featuring Disney, Star Wars and Marvel branded bands and mobile app adventures
+
+(in thousands,	13-Weeks Ended	39-weeks Ended
+except per share data)	September 30,	September 24,	Yr over Yr	September 30,	September 24,	Yr over Yr
+	2017	2016	Change	2017	2016	Change
+Net sales	$	743,077	$	722,250	3	%	$	2,198,508	$	2,157,898	2	%
+Outdoor	184,937	141,006	31	%	495,589	370,929	34	%
+Aviation	124,628	107,436	16	%	371,559	322,083	15	%
+Marine	77,312	70,010	10	%	290,302	264,489	10	%
+Fitness	167,147	189,161	-12	%	485,999	544,434	-11	%
+Auto	189,053	214,637	-12	%	555,059	655,963	-15	%
+
+Gross margin %	58.4	%	56.2	%	58.4	%	56.0	%
+
+Operating income %	22.8	%	22.1	%	22.3	%	21.5	%
+
+GAAP diluted EPS	$	0.78	$	0.66	18	%	$	2.95	$	1.98	49	%
+Pro forma diluted EPS (1)	$	0.75	$	0.75	0	%	$	2.15	$	2.10	2	%
+
+(1) See attached table for reconciliation of non-GAAP measures including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+
+“We continued our strong performance through the third quarter with double digit revenue and operating profit growth in outdoor, aviation, and marine,” said Cliff Pemble, president and chief executive officer of Garmin Ltd. “We are well positioned for the remainder of 2017 with a strong lineup of new products and opportunities in each business segment.”
+
+Outdoor:
+
+During the third quarter of 2017, the outdoor segment grew 31% driven by strong demand for our wearables. Gross margin improved to 64% while operating margin improved to 37%, resulting in operating income growth of 38%. We recently entered new product categories with the introduction of the DescentTM dive watch, bringing a sleek design to underwater adventurers, and the ImpactTM bat swing sensor helping coaches and players make every swing count. Looking forward, we are focused on growth opportunities in wearables and inReach product introductions.
+
+Aviation:
+
+The aviation segment posted revenue growth of 16%, driven by growth in both aftermarket and OEM sales. Gross and operating margins were 73% and 27%, respectively, resulting in 12% operating income growth. We recently announced the TXiTM series of touchscreen flight displays with engine monitoring solutions. During the fourth quarter, we began shipping the previously announced GFCTM 600, providing pilots with advanced autopilot capabilities in an aftermarket solution. Looking forward, we are focused on maximizing ADS-B mandate opportunities and gaining share in the OEM market.
+
+Marine:
+
+The marine segment posted solid third quarter revenue growth of 10% driven by our strong lineup of chartplotters and fishfinders. Gross margin increased year-over-year to 58%, while operating margin improved to 24%. For the third consecutive year Garmin was recognized as the Manufacturer of the Year by the NMEA (National Marine Electronics Association), winning a total of nine awards across a broad range of product categories. We recently completed the acquisition of Navionics S.p.A., a privately-held provider of electronic navigational charts and mobile applications. In addition, we announced our 2018 lineup of marine electronics with updated echoMAPTM and STRIKERTM products. Looking forward, we are focused on product innovations and gaining share in the inland fishing category.
+
+Fitness:
+
+Revenue in the fitness segment declined 12% during the quarter, with gross and operating margins of 58% and 20%, respectively. The decrease in revenue was primarily driven by the decline of the basic activity tracker market and the timing of our recent product introductions partially offset by growth in the running category. During the third quarter, we launched several new wearables including the vívoactive® 3, bringing Garmin Pay contactless payment solutions to the wrist, vívomoveTM HR, an analog watch with wrist heart rate and smart notifications, and vívosportTM, a slim activity tracker with built-in GPS and smart notifications. In addition, we launched our vívofit® jr. 2, featuring Disney, Star Wars and Marvel bands and mobile app adventures, encouraging children to be active. Looking forward, we are focused on growth opportunities in advanced wearables devices.
+
+Auto:
+
+Auto segment revenue declined 12% in the third quarter of 2017, primarily due to the ongoing PND market contraction partially offset by solid growth in OEM and niche categories such as camera, truck, fleet, and RV. Gross and operating margins were 44% and 8%, respectively. We recently introduced Garmin SpeakTM with Amazon Alexa, bringing digital assistant functionality to the vehicle. Looking forward, we are focused on disciplined execution to bring desired innovation to the market and to optimize profitability in this segment.
+
+Additional Financial Information:
+
+Total operating expenses in the quarter were $264 million, an increase of 7% over the prior year. Research and development increased 11% primarily due to engineering personnel costs related to our wearable product offerings and aviation. Selling, general and administrative expenses increased 5%, primarily due to legal related costs. Advertising decreased 2%, primarily due to lower cooperative advertising somewhat offset by increases in outdoor media.
+
+The effective tax rate in the third quarter was 20.8% up from 16.5% in the prior year quarter. The year-over-year increase in the effective tax rate is primarily due to the Company’s election to align certain Switzerland corporate tax positions with evolving international tax initiatives and income mix by jurisdiction, partially offset by the benefit associated with the release of income tax reserves.
+
+In the third quarter of 2017, we generated $153 million of free cash flow (see attached table for reconciliation of this non-GAAP measure). We continued to return cash to shareholders with our quarterly dividend of approximately $96 million and our share repurchases activity, which totaled approximately $11 million in the third quarter. We have about $1 million remaining in the share repurchase program authorized through December 31, 2017. We ended the quarter with cash and marketable securities of approximately $2.4 billion.
+
+2017 Guidance:
+
+Based on our performance through the first three quarters of 2017, we are updating our full year guidance. We now anticipate revenue of approximately $3.07 billion driven primarily by higher expectations for our outdoor, aviation and auto segments partially offset by lower expectations for the fitness segment. Our outlook for marine is unchanged. We anticipate our full year pro forma EPS will be approximately $2.90 based on gross margin of approximately 57.5%, operating margin of approximately 21.5% and a full year pro forma effective tax rate of approximately 21.5%.
+
+	2017 Guidance
+	Updated	Prior
+Revenue	~$3.07 B	~$3.04 B
+Gross Margin	~57.5%	~57.5%
+Operating Margin	~21.5%	~21%
+Tax Rate (Pro Forma)(1)	~21.5%	~22%
+EPS (Pro Forma)(1)	~$2.90	~$2.80
+
+(1) See attached table for reconciliation of non-GAAP measures including forward-looking pro forma tax rate and EPS
+
+	2017 Revenue Guidance
+	Updated	Prior
+Outdoor	~27%	25%
+Aviation	~13%	10%
+Marine	~10%	10%
+Fitness	~(7%)	(5%)
+Auto	~(15%)	(17%)
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+	When:	Wednesday, November 1, 2017 at 10:30 a.m. Eastern
+
+	Where:	http://www.garmin.com/en-US/company/investors/events/
+
+	How:	Simply log on to the web at the address above or call to listen in at 855-757-3897
+
+An archive of the live webcast will be available until November 2, 2018 on the Garmin website at www.garmin.com. To access the replay, click on the Investor Relations link and select the Quarterly and Annual Earnings page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, currency movements, expenses, pricing, new products to be introduced in 2017, statements relating to possible future dividends and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 31, 2016 filed by Garmin with the Securities and Exchange Commission (Commission file number 0-31983). A copy of Garmin’s 2016 Form 10-K can be downloaded from http://www.garmin.com/aboutGarmin/invRelations/finReports.html.
+
+Garmin, the Garmin logo, the Garmin delta, vívoactive, vívofit, and inReach are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S.; Descent, Impact, TXi, echoMAP, STRIKER, vívomove, vívosport, and Garmin Speak are trademarks of Garmin Ltd. or its subsidiaries. STAR WARS, and related properties and character names are trademarks and/or copyrights, in the United States and other countries, of Lucasfilm Ltd. and/or its affiliates. © & TM Lucasfilm Ltd. Amazon, Alexa, and all related logos are trademarks of Amazon.com, Inc. or its affiliates. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Ted Gartner
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	39-Weeks Ended
+	September 30,	September 24,	September 30,	September 24,
+	2017	2016	2017	2016
+Net sales	$	743,077	$	722,250	$	2,198,508	$	2,157,898
+
+Cost of goods sold	309,412	316,270	914,862	949,110
+
+Gross profit	433,665	405,980	1,283,646	1,208,788
+
+Advertising expense	32,449	32,956	105,983	109,441
+Selling, general and administrative expense	101,794	96,959	309,095	296,246
+Research and development expense	129,632	116,449	379,083	339,008
+Total operating expense	263,875	246,364	794,161	744,695
+
+Operating income	169,790	159,616	489,485	464,093
+
+Other income (expense):
+Interest income	9,207	8,226	26,931	24,109
+Foreign currency gains (losses)	8,579	(19,421	)	(13,808	)	(30,003	)
+Other (expense) income	(1,520	)	1,344	(805	)	2,914
+Total other income (expense)	16,266	(9,851	)	12,318	(2,980	)
+
+Income before income taxes	186,056	149,765	501,803	461,113
+
+Income tax provision (benefit)	38,643	24,711	(54,372	)	86,904
+
+Net income	$	147,413	$	125,054	$	556,175	$	374,209
+
+Net income per share:
+Basic	$	0.79	$	0.66	$	2.96	$	1.98
+Diluted	$	0.78	$	0.66	$	2.95	$	1.98
+
+Weighted average common shares outstanding:
+Basic	187,616	188,692	187,902	189,027
+Diluted	188,490	189,238	188,671	189,376
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Balance Sheets
+(In thousands, except per share information)
+
+	(Unaudited)
+	September 30,	December 31,
+	2017	2016
+Assets
+Current assets:
+Cash and cash equivalents	$	891,279	$	846,883
+Marketable securities	253,699	266,952
+Accounts receivable, net	457,391	527,062
+Inventories, net	575,335	484,821
+Deferred costs	47,483	47,395
+Prepaid expenses and other current assets	107,287	89,903
+Total current assets	2,332,474	2,263,016
+
+Property and equipment, net	554,441	482,878
+
+Marketable securities	1,210,323	1,213,285
+Restricted cash	117	113
+Deferred income taxes	262,473	110,293
+Noncurrent deferred costs	69,286	56,151
+Intangible assets, net	313,269	305,002
+Other assets	93,008	94,395
+Total assets	$	4,835,391	$	4,525,133
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	158,591	$	172,404
+Salaries and benefits payable	89,124	88,818
+Accrued warranty costs	35,669	37,233
+Accrued sales program costs	53,826	80,953
+Deferred revenue	138,570	146,564
+Accrued royalty costs	37,895	36,523
+Accrued advertising expense	20,099	37,440
+Other accrued expenses	105,783	70,469
+Income taxes payable	15,250	16,163
+Dividend payable	191,238	96,168
+Total current liabilities	846,045	782,735
+
+Deferred income taxes	68,204	61,220
+Noncurrent income taxes	123,905	121,174
+Noncurrent deferred revenue	155,814	140,407
+Other liabilities	1,738	1,594
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; 187,500 shares outstanding at September 30, 2017 and 188,565 shares outstanding at December 31, 2016	17,979	17,979
+Additional paid-in capital	1,851,529	1,836,047
+Treasury stock	(506,799	)	(455,964	)
+Retained earnings	2,230,489	2,056,702
+Accumulated other comprehensive income (loss)	46,487	(36,761	)
+Total stockholders’ equity	3,639,685	3,418,003
+Total liabilities and stockholders’ equity	$	4,835,391	$	4,525,133
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	39-Weeks Ended
+	September 30,	September 24,
+	2017	2016
+Operating activities:
+Net income	$	556,175	$	374,209
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	44,011	40,327
+Amortization	19,688	22,215
+(Gain) loss on sale or disposal of property and equipment	(184	)	155
+Provision for doubtful accounts	551	2,559
+Deferred income taxes	(143,846	)	(6,821	)
+Unrealized foreign currency loss	17,504	19,536
+Provision for obsolete and slow moving inventories	16,504	20,943
+Stock compensation expense	32,441	29,211
+Realized loss (gain) on marketable securities	594	(1,068	)
+Changes in operating assets and liabilities:
+Accounts receivable	84,982	76,372
+Inventories	(86,631	)	(41,002	)
+Other current and non-current assets	(9,635	)	3,400
+Accounts payable	(24,526	)	(40,694	)
+Other current and non-current liabilities	(37,403	)	1,942
+Deferred revenue	5,726	(13,660	)
+Deferred costs	(12,650	)	(9,906	)
+Income taxes payable	(724	)	14,648
+Net cash provided by operating activities	462,577	492,366
+
+Investing activities:
+Purchases of property and equipment	(85,211	)	(42,157	)
+Proceeds from sale of property and equipment	264	15
+Purchase of intangible assets	(9,069	)	(4,706	)
+Purchase of marketable securities	(438,046	)	(739,676	)
+Redemption of marketable securities	455,376	772,733
+Change in restricted cash	—	(6	)
+Acquisitions, net of cash acquired	(12,400	)	(62,137	)
+Net cash used in investing activities	(89,086	)	(75,934	)
+
+Financing activities:
+Dividends paid	(287,318	)	(289,331	)
+Purchase of treasury stock under share repurchase plan	(74,523	)	(65,221	)
+Purchase of treasury stock related to equity awards	(3,587	)	(184	)
+Proceeds from issuance of treasury stock related to equity awards	10,316	10,210
+Tax benefit from issuance of equity awards	—	365
+Net cash used in financing activities	(355,112	)	(344,161	)
+
+Effect of exchange rate changes on cash and cash equivalents	26,017	7,218
+
+Net increase in cash and cash equivalents	44,396	79,489
+Cash and cash equivalents at beginning of period	846,883	833,070
+Cash and cash equivalents at end of period	$	891,279	$	912,559
+
+Garmin Ltd. And Subsidiaries
+Net Sales, Gross Profit, and Operating Income by Segment (Unaudited)
+
+	Reportable Segments
+
+	Outdoor	Fitness	Marine	Auto	Aviation	Total
+
+13-Weeks Ended September 30, 2017
+
+Net sales	$	184,937	$	167,147	$	77,312	$	189,053	$	124,628	$	743,077
+Gross profit	$	118,175	$	96,135	$	44,574	$	83,961	$	90,820	$	433,665
+Operating income	$	67,810	$	33,492	$	18,420	$	15,971	$	34,097	$	169,790
+
+13-Weeks Ended September 24, 2016
+
+Net sales	$	141,006	$	189,161	$	70,010	$	214,637	$	107,436	$	722,250
+Gross profit	$	88,497	$	103,363	$	39,891	$	93,638	$	80,591	$	405,980
+Operating income	$	49,271	$	44,774	$	10,332	$	24,795	$	30,444	$	159,616
+
+39-Weeks Ended September 30, 2017
+
+Net sales	$	495,589	$	485,999	$	290,302	$	555,059	$	371,559	$	2,198,508
+Gross profit	$	319,457	$	276,014	$	166,690	$	246,931	$	274,554	$	1,283,646
+Operating income	$	176,544	$	89,452	$	60,860	$	50,566	$	112,063	$	489,485
+
+39-Weeks Ended September 24, 2016
+
+Net sales	$	370,929	$	544,434	$	264,489	$	655,963	$	322,083	$	2,157,898
+Gross profit	$	232,652	$	295,463	$	148,554	$	292,770	$	239,349	$	1,208,788
+Operating income	$	125,721	$	114,422	$	49,172	$	82,984	$	91,794	$	464,093
+
+Garmin Ltd. And Subsidiaries
+Net Sales by Geography (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	39-weeks Ended
+	September 30,	September 24,	Yr over Yr	September 30,	September 24,	Yr over Yr
+	2017	2016	Change	2017	2016	Change
+Net sales	$	743,077	$	722,250	3	%	$	2,198,508	$	2,157,898	2	%
+Americas	341,005	348,637	-2	%	1,049,287	1,073,610	-2	%
+EMEA	292,291	274,756	6	%	834,125	810,205	3	%
+APAC	109,781	98,857	11	%	315,096	274,083	15	%
+
+EMEA - Europe, Middle East and Africa; APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma net income (earnings) per share, forward-looking pro forma earnings per share, pro forma effective tax rate, forward-looking pro forma effective tax rate and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, the effective tax rate and income tax provision before the effect of such discrete tax items are important measures to permit consistent comparison between periods. In fiscal 2016, there were no such discrete tax items identified.
+
+Garmin Ltd. And Subsidiaries
+Pro Forma Effective Tax Rate
+(in thousands, except effective tax rate (ETR) information)
+
+	13-Weeks Ended	39-weeks Ended
+	September 30,	September 30,
+	2017	2017
+
+	$	ETR(1)	$	ETR(1)
+U.S. GAAP income tax provision (benefit)	$	38,643	20.8	%	$	(54,372	)	(10.8	%)
+Pro forma discrete tax items:
+Revaluation of deferred tax asset(2)	—	168,755
+Tax expense from share-based award expirations(3)	—	(7,275	)
+Total pro forma discrete tax items	—	161,480
+Income tax provision (Pro Forma)	$	38,643	20.8	%	$	107,108	21.3	%
+
+(1) Effective tax rate is calculated by taking the Income tax provision (benefit) divided by Income before taxes, as presented on the face of the Condensed Consolidated Statements of Income.
+
+(2) In first quarter 2017, a $169 million tax benefit was recognized resulting from the revaluation of certain Switzerland deferred tax assets. The revaluation is due to the Company’s election in February 2017 to align certain Switzerland corporate tax positions with international tax initiatives. As this revaluation is not reflective of income tax expense incurred related to the current period earnings, and therefore affects period-to-period comparability, it has been identified as a pro forma adjustment.
+
+(3) Following adoption in fiscal 2017 of Accounting Standards Update No. 2016-09, Compensation – Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting (“ASU 2016-09”), the Company may periodically incur tax expense resulting from stock options and stock appreciation rights (SARs) expiring unexercised. New grants of stock options and SARs no longer comprise a significant component of the Company’s compensation arrangements. As the tax expense from expired awards is not related to current period earnings or compensation activities, and affects period-to-period comparability, it has been identified as a pro forma adjustment.
+
+The net release of uncertain tax position reserves, amounting to approximately $17.2 million and $5.8 million for the 39-weeks ended September 30, 2017 and September 24, 2016, respectively, have not been included as pro forma adjustments in the above presentation of pro forma income tax provision as such amounts tend to be more recurring in nature.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+Garmin Ltd. And Subsidiaries
+Pro Forma Net Income (Earnings) Per Share
+(in thousands, except per share information)
+
+	13-Weeks Ended	39-weeks Ended
+	September 30,	September 24,	September 30,	September 24,
+	2017	2016	2017	2016
+
+Net income (GAAP)	$	147,413	$	125,054	$	556,175	$	374,209
+Foreign currency gains / losses(1)	(8,579	)	19,421	13,808	30,003
+Tax effect of foreign currency gains / losses(2)	1,782	(3,204	)	(2,948	)	(5,654	)
+Discrete tax items(3)	—	—	(161,480	)	—
+Net income (Pro Forma)	$	140,616	$	141,271	$	405,555	$	398,558
+
+Net income per share (GAAP):
+Basic	$	0.79	$	0.66	$	2.96	$	1.98
+Diluted	$	0.78	$	0.66	$	2.95	$	1.98
+
+Net income per share (Pro Forma):
+Basic	$	0.75	$	0.75	$	2.16	$	2.11
+Diluted	$	0.75	$	0.75	$	2.15	$	2.10
+
+Weighted average common shares outstanding:
+Basic	187,616	188,692	187,902	189,027
+Diluted	188,490	189,238	188,671	189,376
+
+(1) The majority of the Company’s consolidated foreign currency gains and losses are typically driven by movements in the Taiwan Dollar, Euro, and British Pound Sterling in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at one of the Company’s subsidiaries. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency gains and losses was calculated using the effective tax rate of 20.8% and the pro forma effective tax rate of 21.3% for the quarter and year-to-date ended September 30, 2017, respectively, and an effective tax rate of 16.5% and 18.8% for the quarter and year-to-date ended September 24, 2016, respectively.
+
+(3) The discrete tax items are discussed in the pro forma effective tax rate section.
+
+Free cash flow
+
+Management believes that free cash flow is an important financial measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flow less capital expenditures for property and equipment.
+
+Garmin Ltd. And Subsidiaries
+Free Cash Flow
+(in thousands)
+
+	13-Weeks Ended	39-weeks Ended
+	September 30,	September 24,	September 30,	September 24,
+	2017	2016	2017	2016
+
+Net cash provided by operating activities	$	198,750	$	212,994	$	462,577	$	492,366
+Less: purchases of property and equipment	(45,399	)	(13,543	)	(85,211	)	(42,157	)
+Free Cash Flow	$	153,351	$	199,451	$	377,366	$	450,209
+
+Forward-looking pro forma effective tax rate
+
+Forward-looking pro forma effective tax rate and forward-looking pro forma net income (earnings) per share are calculated before the effect of certain discrete tax items. Management believes certain discrete tax items may not be reflective of income tax expense incurred as a result of current period earnings. Therefore, in order to permit consistent comparison between periods, the effective tax rate and earnings per share before the effect of such discrete tax items are important measures. In fiscal 2017, management believes certain discrete tax items recognized on a GAAP-basis have an effect on comparability between periods:
+
+	●	The fiscal 2017 pro forma effective tax rate excludes certain tax effects from share-based compensation as a result of ASU 2016-09. The Company is unable to reasonably estimate these amounts on a forward-looking basis due to the dependency of this item on the underlying share price of the Company. The fiscal 2017 pro forma effective tax rate excludes the $7.3 million tax expense resulting from the expiration of share-based awards as discussed in the pro forma effective tax rate section above. The impact of this discrete tax item was $0.04 per share for the 39-weeks ended September 30, 2017.
+
+	●	The fiscal 2017 pro forma effective tax rate excludes the $168.8 million income tax benefit resulting from the revaluation of certain Switzerland deferred tax assets as discussed in the pro forma effective tax rate section above. The impact of this discrete tax item was ($0.90) per share for the 39-weeks ended September 30, 2017.
+
+While management expects the above to have a significant impact on comparability, management is unable to determine whether or not additional significant discrete tax items will be identified in the fourth quarter of 2017.
+
+Forward-looking pro forma earnings per share (EPS)
+
+In addition to the discrete tax items discussed in the forward-looking pro forma effective tax rate section above, our 2017 pro forma EPS excludes foreign currency exchange gains and losses. The estimated impact of such foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact of such foreign currency gains and losses, net of tax effects, was $10.9 million, or $0.06 per share for the 39-weeks ended September 30, 2017.

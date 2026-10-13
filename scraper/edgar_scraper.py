@@ -23,8 +23,12 @@ import sys
 import time
 from pathlib import Path
 
+import warnings
+
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 SEC_TICKERS_URL = "https://www.sec.gov/files/company_tickers.json"
 SUBMISSIONS_URL = "https://data.sec.gov/submissions/{name}"
@@ -110,6 +114,9 @@ def classify(filing, groups):
     return None
 
 
+BLOCK_TAGS = ["p", "div", "tr", "li", "table", "h1", "h2", "h3", "h4", "h5", "h6", "title"]
+
+
 def html_to_text(raw):
     soup = BeautifulSoup(raw, "lxml")
     # Inline XBRL filings carry a hidden header full of tagged facts; drop it.
@@ -117,9 +124,19 @@ def html_to_text(raw):
         tag.decompose()
     for tag in soup.find_all(style=re.compile(r"display:\s*none", re.I)):
         tag.decompose()
-    text = soup.get_text("\n")
-    text = re.sub(r"[ \t\xa0]+", " ", text)
-    text = re.sub(r" *\n *", "\n", text)
+    # Source whitespace (including newlines) is insignificant in HTML, so mark
+    # line and cell breaks with placeholders, collapse whitespace, then expand
+    # them. Inline spans stay on one line; table rows become tab-separated.
+    for tag in soup.find_all("br"):
+        tag.replace_with("\x00")
+    for tag in soup.find_all(["td", "th"]):
+        tag.append("\x01")
+    for tag in soup.find_all(BLOCK_TAGS):
+        if tag.name == "tr" or not tag.find_parent(["td", "th"]):
+            tag.append("\x00")
+    text = re.sub(r"[\s\u200b]+", " ", soup.get_text(""))
+    text = re.sub(r" *\x01[ \x01]*", "\t", text)
+    text = re.sub(r"\t*( *\x00 *)", "\n", text)
     return re.sub(r"\n{3,}", "\n\n", text).strip() + "\n"
 
 

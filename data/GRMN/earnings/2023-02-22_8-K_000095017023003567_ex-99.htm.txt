@@ -1,0 +1,429 @@
+EX-99 2 grmn-ex99_1.htm EX-99.1 EX-99
+
+EXHIBIT 99.1
+
+Garmin announces fourth quarter and fiscal year 2022 results
+Company reports record full year revenue for three reportable segments
+
+Schaffhausen, Switzerland / February 22, 2023/ PR Newswire – Garmin® Ltd. (NYSE: GRMN), today announced results for the fourth quarter ended December 31, 2022.
+
+Highlights for fourth quarter 2022 include:
+
+•Consolidated revenue of $1.31 billion, a 6% decrease compared to the prior year quarter
+
+•Gross margin expanded to 57.0% from 55.5% in the prior year quarter
+
+•Operating margin was 20.5% compared to 22.6% in the prior year quarter
+
+•Operating income was $267 million, a 15% decrease compared to the prior year quarter
+
+•GAAP EPS was $1.53 and pro forma EPS(1) was $1.35
+
+•Launched Bounce™, our first LTE-connected kids smartwatch
+
+•G3000® tandem integrated flight deck was selected by L3Harris for the Armed Overwatch program
+
+•Recognized by the BMW Group with a 2022 Supplier Innovation Award in the customer experience category for the BMW 7-series Theatre Screen rear-seat entertainment system
+
+•Enduro™ 2, MARQ® Adventurer, and dēzl® OTR 1010 all received the 2023 Honoree title for the CES Innovation Awards
+
+•Recently received FDA approval for a clinically-validated App that records ECG information and detects certain arrhythmias in combination with the Venu® 2 Plus
+
+Highlights for fiscal year 2022 include:
+
+•Consolidated revenue of $4.86 billion, a 2% decrease compared to the prior year, was unfavorably impacted by approximately $228 million due to the year-over-year strengthening of the U.S. Dollar relative to other major currencies
+
+•Outdoor, Aviation, and Marine segments each posted record full year revenue
+
+•Gross margin of 57.7% compared to 58.0% in the prior year
+
+•Operating margin of 21.1% compared to 24.5% in the prior year
+
+•Operating income of $1.03 billion, a 16% decrease compared to the prior year
+
+•GAAP EPS was $5.04 and pro forma EPS(1) was $5.13
+
+(In thousands, except per share information)	14-Weeks Ended	13-Weeks Ended	53-Weeks Ended	52-Weeks Ended
+	December 31,	December 25,	YoY	December 31,	December 25,	YoY
+	2022	2021	Change	2022	2021	Change
+Net sales	$	1,306,356	$	1,391,589	(6	)%	$	4,860,286	$	4,982,795	(2	)%
+Fitness	336,553	470,146	(28	)%	1,109,419	1,533,788	(28	)%
+Outdoor	388,259	378,218	3	%	1,495,167	1,281,933	17	%
+Aviation	225,251	177,582	27	%	792,799	712,468	11	%
+Marine	210,614	196,454	7	%	903,983	875,151	3	%
+Auto	145,679	169,189	(14	)%	558,918	579,455	(4	)%
+
+Gross margin %	57.0	%	55.5	%	57.7	%	58.0	%
+
+Operating income %	20.5	%	22.6	%	21.1	%	24.5	%
+
+GAAP diluted EPS	$	1.53	$	1.48	3	%	$	5.04	$	5.61	(10	)%
+Pro forma diluted EPS (1)	$	1.35	$	1.55	(13	)%	$	5.13	$	5.82	(12	)%
+
+(1) See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+“Our performance in 2022 was solid even as we faced increasing headwinds affecting the business environment and consumer behaviors," said Cliff Pemble, President and CEO of Garmin. “We are entering 2023 with a strong product lineup, and many more product launches are planned throughout the year. I am very proud of what we accomplished in 2022 and look forward to the opportunities and challenges ahead.”
+
+Fitness:
+Revenue from the fitness segment decreased 28% in the fourth quarter, with declines across all categories. Gross and operating margins were 49% and 12%, respectively, resulting in $40 million of operating income. During the quarter, we launched Bounce, our first LTE-connected kids smartwatch. Bounce offers two-way text and voice messaging, as well as real-time location tracking. Bounce also offers kids fitness tracking, games, and allows parents to assign chores and give rewards.
+
+Outdoor:
+Revenue from the outdoor segment grew 3% in the fourth quarter primarily due to growth in handhelds and services. Gross and operating margins were 64% and 34%, respectively, resulting in $132 million of operating income. During the quarter, we launched the second-generation MARQ luxury smartwatch collection built with Grade-5 titanium, sapphire glass, and a vibrant AMOLED touchscreen display.
+
+Aviation:
+Revenue from the aviation segment grew 27% in the fourth quarter with contributions from both the aftermarket and OEM categories. Gross and operating margins were 71% and 28%, respectively, resulting in $63 million of operating income. During the quarter, EASA approved the G5000® integrated retrofit flight deck in the Cessna Citation Excel and XLS. Also, we received Supplemental Type Certification by the Federal Aviation Administration for the GI 275 electronic flight instrument in the Dassault Falcon 7X business jet. In addition, during the quarter, we announced that L3Harris Technologies has chosen the G3000 tandem integrated flight deck as part of a U.S. Special Operations Command (USSOCOM) Armed Overwatch program contract.
+
+Marine:
+Revenue from the marine segment grew 7% in the fourth quarter primarily driven by our sonar and chartplotter products. Gross and operating margins were 54% and 20%, respectively, resulting in $43 million of operating income. During the quarter, we announced that Garmin Navionics®+ featuring a streamlined interface, combined coastal and inland content and access to daily chart updates with subscription is now pre-loaded in certain flagship GPSMAP® chartplotters. During the quarter, we received multiple accolades for advancing innovation and safety in the marine industry, including the prestigious IBEX Innovation Award, National Boating Industry Safety Award, and recognition as the Most Innovative Marine Company by Soundings Trade Only.
+
+Auto:
+Revenue from the auto segment decreased 14% during the fourth quarter as declines in our consumer products more than offset the growth in OEM programs. Gross margin was 39%, and we recorded an operating loss of $11 million in the quarter driven by ongoing investments in auto OEM programs. During the quarter, we were recognized by the BMW Group with a coveted 2022 Supplier Innovation Award in the customer experience category for contributions to the Theatre Screen in the all-new BMW 7 Series.
+
+Change in Operating Segments:
+
+In January 2023, the Company combined the consumer auto operating segment with the outdoor operating segment. As a result, beginning with reports filed in the first quarter of fiscal 2023, the Company’s operating segments will be fitness, outdoor, aviation, marine, and auto OEM. Prior periods will be recast to conform to the revised composition (see Appendix A for the recast presentation).
+
+Additional Financial Information:
+
+Total operating expenses in the fourth quarter were $478 million, a 5% increase over the prior year. Research and development increased 5% primarily due to engineering personnel costs. Selling, general and administrative expenses increased 7% driven primarily by personnel related expenses and information technology costs. Advertising expenses decreased 6% primarily due to lower cooperative advertising.
+
+The effective tax rate in the fourth quarter was 11.1%. Excluding $7 million of income tax expense due to the revaluation of certain Switzerland deferred tax assets associated with Switzerland tax reform transitional measures, our pro forma effective tax rate(1) in the fourth quarter of 2022 was 8.9% compared to 7.4% in the prior year quarter. The year-over-year increase in the pro forma effective tax rate is primarily due to benefits in the prior year related to a favorable adjustment of estimated quarterly taxes in fourth quarter of 2021 that were not repeated in the current year.
+
+In the fourth quarter of 2022, we generated approximately $309 million of free cash flow(1). We continued to return cash to shareholders through dividends and share repurchases. As a result of the additional week in the fourth quarter 2022, two quarterly dividends were paid totaling approximately $280 million and we repurchased approximately $93 million of Company stock. We have approximately $93 million remaining as of December 31, 2022 in the share repurchase program which is authorized through December 29, 2023. We ended the quarter with cash and marketable securities of approximately $2.7 billion.
+
+(1)See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including free cash flow.
+
+2023 Fiscal Year Guidance(2):
+We expect full year 2023 revenue of approximately $5.00 billion, an increase of approximately 3% over 2022. We expect our full year pro forma EPS to be approximately $5.15 based upon gross margin of approximately 57.5%, operating margin of approximately 20.3% and pro forma effective tax rate of approximately 8.0%.
+
+	2023 Guidance
+Revenue	$5.00B
+Gross Margin	57.5%
+Operating Margin	20.3%
+Pro forma Effective Tax Rate	8.0%
+Pro forma EPS	$5.15
+
+(2)All amounts and %’s in the above 2023 Guidance table are approximate. Also, see attached discussion on Forward-looking Financial Measures.
+
+Dividend Recommendation:
+
+The board of directors intends to recommend to the shareholders for approval at the annual meeting to be held on June 9, 2023, a cash dividend in the amount of $2.92 per share (subject to possible adjustment based on the total amount of the dividend in Swiss Francs as approved at the annual meeting), payable in four equal installments on dates to be determined by the board. The board currently anticipates the scheduling of the dividend in four installments as follows:
+
+Dividend Date	Record Date	Dividend Per Share
+June 30, 2023	June 20, 2023	$0.73
+September 29, 2023	September 15, 2023	$0.73
+December 29, 2023	December 15, 2023	$0.73
+March 29, 2024	March 15, 2024	$0.73
+
+In addition, the board has established March 31, 2023 as the payment date and March 15, 2023 as the record date for the final dividend installment of $0.73 per share, per the prior approval at the 2022 annual shareholders’ meeting. The first, second and third payments of $0.73 per share were made on June 30, 2022, September 30, 2022, and December 30, 2022, respectively.
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+When:	Wednesday, February 22, 2023 at 10:30 a.m. Eastern
+Where:	https://www.garmin.com/en-US/investors/events/
+How:	Simply log on to the web at the address above
+
+An archive of the live webcast will be available until February 21, 2024 on the Garmin website at www.garmin.com. To access the replay, click on the Investors link and click over to the Events Calendar page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “anticipates,” “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s expected fiscal 2023 GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, potential future acquisitions, share repurchase programs, currency movements, expenses, pricing, new product launches, market reach, statements relating to possible future dividends, statements related to the ongoing impact of the COVID-19 pandemic, and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 31, 2022 filed by Garmin with the Securities and Exchange Commission (Commission file number 001-41118). A copy of Garmin’s 2022 Form 10-K can be downloaded from https://www.garmin.com/en-US/investors/sec/. All information provided in this release and in the attachments is as of December 31, 2022. Undue reliance should not be placed on the forward-looking statements in this press release, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company's use of these measures are included in the attachments.
+
+Garmin, the Garmin logo, the Garmin delta, dēzl, G5000, G3000, GPSMAP, MARQ and Navionics are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S. Bounce and Enduro are trademarks of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved.
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Krista Klaus
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	14-Weeks Ended	13-Weeks Ended	53-Weeks Ended	52-Weeks Ended
+	December 31,	December 25,	December 31,	December 25,
+	2022	2021	2022	2021
+Net sales	$	1,306,356	$	1,391,589	$	4,860,286	$	4,982,795
+Cost of goods sold	561,386	619,484	2,053,511	2,092,336
+Gross profit	744,970	772,105	2,806,775	2,890,459
+
+Advertising expense	57,662	61,124	168,040	171,829
+Selling, general and administrative expenses	204,421	190,909	775,963	721,260
+Research and development expense	215,712	204,953	834,927	778,750
+Total operating expenses	477,795	456,986	1,778,930	1,671,839
+
+Operating income	267,175	315,119	1,027,845	1,218,620
+Other income (expense):
+Interest income	14,306	7,005	40,826	28,573
+Foreign currency (losses) gains	44,535	(14,642	)	(11,274	)	(45,263	)
+Other income	3,860	1,355	7,577	4,866
+Total other income (expense)	62,701	(6,282	)	37,129	(11,824	)
+
+Income before income taxes	329,876	308,837	1,064,974	1,206,796
+Income tax provision	36,604	22,702	91,389	124,596
+Net income	$	293,272	$	286,135	$	973,585	$	1,082,200
+
+Net income per share:
+Basic	$	1.53	$	1.49	$	5.06	$	5.63
+Diluted	$	1.53	$	1.48	$	5.04	$	5.61
+
+Weighted average common shares outstanding:
+Basic	191,613	192,353	192,544	192,180
+Diluted	192,104	193,306	193,042	193,043
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	December 31,2022	December 25, 2021
+Assets
+Current assets:
+Cash and cash equivalents	$	1,279,194	$	1,498,058
+Marketable securities	173,288	347,980
+Accounts receivable, net	656,847	843,445
+Inventories	1,515,045	1,227,609
+Deferred costs	14,862	15,961
+Prepaid expenses and other current assets	315,915	328,719
+Total current assets	3,955,151	4,261,772
+
+Property and equipment, net	1,147,005	1,067,478
+Operating lease right-of-use assets	138,040	89,457
+Noncurrent marketable securities	1,208,360	1,268,698
+Deferred income tax assets	441,071	260,205
+Noncurrent deferred costs	9,831	12,361
+Goodwill	567,994	575,080
+Other intangible assets, net	178,461	215,993
+Other noncurrent assets	85,257	103,383
+Total assets	$	7,731,170	$	7,854,427
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	212,417	$	370,048
+Salaries and benefits payable	176,114	211,371
+Accrued warranty costs	50,952	45,467
+Accrued sales program costs	97,772	121,514
+Other accrued expenses	197,376	225,988
+Deferred revenue	91,092	87,654
+Income taxes payable	246,180	128,083
+Dividend payable	139,732	258,023
+Total current liabilities	1,211,635	1,448,148
+
+Deferred income tax liabilities	129,965	117,595
+Noncurrent income taxes payable	34,627	62,539
+Noncurrent deferred revenue	35,702	41,618
+Noncurrent operating lease liabilities	114,541	70,044
+Other noncurrent liabilities	360	324
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued, 191,623 shares outstanding at December 31, 2022; and 192,608 shares outstanding at December 25, 2021	17,979	17,979
+Additional paid-in capital	2,042,472	1,960,722
+Treasury stock (6,454 and 5,469 shares, respectively)	(475,095	)	(303,114	)
+Retained earnings	4,733,517	4,320,737
+Accumulated other comprehensive income (loss)	(114,533	)	117,835
+Total stockholders’ equity	6,204,340	6,114,159
+Total liabilities and stockholders’ equity	$	7,731,170	$	7,854,427
+
+Garmin Ltd. and Subsidiaries
+Consolidated Statements of Cash Flows
+(In thousands)
+
+	53-Weeks Ended	52-Weeks Ended
+	December 31, 2022	December 25, 2021
+Operating Activities:
+Net income	$	973,585	$	1,082,200
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	118,743	103,498
+Amortization	45,110	51,320
+(Gain) loss on sale of property and equipment	(2,083	)	298
+Unrealized foreign currency (gains) losses	(5,867	)	36,385
+Deferred income taxes	(143,286	)	(5,368	)
+Stock compensation expense	76,801	92,522
+Realized losses (gains) on marketable securities	986	(622	)
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	167,336	(19,106	)
+Inventories	(363,327	)	(476,454	)
+Other current and noncurrent assets	72,185	(38,004	)
+Accounts payable	(131,268	)	108,946
+Other current and noncurrent liabilities	(71,756	)	70,007
+Deferred revenue	(2,379	)	(7,377	)
+Deferred costs	3,591	8,288
+Income taxes	49,888	5,894
+Net cash provided by operating activities	788,259	1,012,427
+
+Investing activities:
+Purchases of property and equipment	(244,286	)	(307,645	)
+Proceeds from sale of property and equipment	2,402	35
+Purchase of intangible assets	(1,907	)	(1,942	)
+Purchase of marketable securities	(1,051,994	)	(1,508,712	)
+Redemption of marketable securities	1,164,116	1,363,070
+Acquisitions, net of cash acquired	(13,455	)	(20,175	)
+Net cash used in investing activities	(145,124	)	(475,369	)
+
+Financing activities:
+Dividends	(679,096	)	(491,457	)
+Proceeds from issuance of treasury stock related to equity awards	62,221	35,733
+Purchase of treasury stock related to equity awards	(22,730	)	(30,985	)
+Purchase of treasury stock under share repurchase plan	(201,012	)	—
+Net cash used in financing activities	(840,617	)	(486,709	)
+
+Effect of exchange rate changes on cash and cash equivalents	(21,449	)	(10,254	)
+
+Net (decrease) increase in cash, cash equivalents, and restricted cash	(218,931	)	40,095
+Cash, cash equivalents, and restricted cash at beginning of year	1,498,843	1,458,748
+Cash, cash equivalents, and restricted cash at end of year	$	1,279,912	$	1,498,843
+
+Garmin Ltd. and Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment (Unaudited)
+(In thousands)
+
+	Auto
+	Fitness	Outdoor	Aviation	Marine	TotalAuto	ConsumerAuto	AutoOEM	Total
+14-Weeks Ended December 31, 2022
+Net sales	$	336,553	$	388,259	$	225,251	$	210,614	$	145,679	$	63,206	$	82,473	$	1,306,356
+Gross profit	164,496	249,079	159,858	114,723	56,814	30,952	25,862	744,970
+Operating income (loss)	39,844	132,377	62,829	42,853	(10,728	)	1,775	(12,503	)	267,175
+
+13-Weeks Ended December 25, 2021
+Net sales	$	470,146	$	378,218	$	177,582	$	196,454	$	169,189	$	93,143	$	76,046	$	1,391,589
+Gross profit	231,560	244,482	130,445	105,170	60,448	40,257	20,191	772,105
+Operating income (loss)	100,317	140,393	45,301	40,642	(11,534	)	10,975	(22,509	)	315,119
+
+53-Weeks Ended December 31, 2022
+Net sales	$	1,109,419	$	1,495,167	$	792,799	$	903,983	$	558,918	$	275,108	$	283,810	$	4,860,286
+Gross profit	552,417	969,810	573,063	491,457	220,028	129,598	90,430	2,806,775
+Operating income (loss)	104,738	556,448	213,186	215,304	(61,831	)	16,833	(78,664	)	1,027,845
+
+52-Weeks Ended December 25, 2021
+Net sales	$	1,533,788	$	1,281,933	$	712,468	$	875,151	$	579,455	$	324,731	$	254,724	$	4,982,795
+Gross profit	813,325	834,837	519,821	495,310	227,166	153,825	73,341	2,890,459
+Operating income (loss)	359,201	476,122	193,188	249,781	(59,672	)	48,347	(108,019	)	1,218,620
+
+Garmin Ltd. and Subsidiaries
+Net Sales by Geography (Unaudited)
+(In thousands)
+
+	14-Weeks Ended	13-Weeks Ended	53-Weeks Ended	52-Weeks Ended
+	December 31,	December 25,	YoY	December 31,	December 25,	YoY
+	2022	2021	Change	2022	2021	Change
+Net sales	$	1,306,356	$	1,391,589	(6)%	$	4,860,286	$	4,982,795	(2)%
+Americas	648,912	626,099	4%	2,429,029	2,349,515	3%
+EMEA	440,747	528,053	(17)%	1,633,640	1,858,907	(12)%
+APAC	216,697	237,437	(9)%	797,617	774,373	3%
+
+EMEA - Europe, Middle East and Africa
+APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma effective tax rate, pro forma net income (earnings) per share and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes disclosure of the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors' consistent comparison between periods.
+
+(In thousands)	14-Weeks Ended	13-Weeks Ended	53-Weeks Ended	52-Weeks Ended
+	December 31,	December 25,	December 31,	December 25,
+	2022	2021	2022	2021
+	$	ETR(1)	$	ETR(1)	$	ETR(1)	$	ETR(1)
+GAAP income tax provision	$	36,604	11.1%	$	22,702	7.4%	$	91,389	8.6%	$	124,596	10.3%
+Pro forma discrete tax item:
+Switzerland deferred tax assets (2)	(7,168	)	—	(7,168	)	—
+Pro forma income tax provision	$	29,436	8.9%	$	22,702	7.4%	$	84,221	7.9%	$	124,596	10.3%
+
+(1) Effective tax rate is calculated by taking the income tax provision divided by income before taxes, as presented on the face of the Condensed Consolidated Statements of Income.
+
+(2) Certain Switzerland deferred tax assets related to the enactment of Switzerland Federal and Schaffhausen cantonal tax reform and related transitional measures were revalued in the fourth quarter of 2022 resulting in $7.2 million of income tax expense. The impact of the revaluation of these Switzerland deferred tax assets is not reflective of income tax expense incurred as a result of current period earnings and therefore affects period-to-period comparability.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+(In thousands, except per share information)	14-Weeks Ended	13-Weeks Ended	53-Weeks Ended	52-Weeks Ended
+	December 31,	December 25,	December 31,	December 25,
+	2022	2021	2022	2021
+GAAP net income	$	293,272	$	286,135	$	973,585	$	1,082,200
+Foreign currency gains / losses (1)	(44,535	)	14,642	11,274	45,263
+Tax effect of foreign currency gains / losses (2)	3,974	(1,076	)	(892	)	(4,673	)
+Pro forma discrete tax item (3)	7,168	—	7,168	—
+Pro forma net income	$	259,879	$	299,701	$	991,136	$	1,122,790
+
+GAAP net income per share:
+Basic	$	1.53	$	1.49	$	5.06	$	5.63
+Diluted	$	1.53	$	1.48	$	5.04	$	5.61
+
+Pro forma net income per share:
+Basic	$	1.36	$	1.56	$	5.15	$	5.84
+Diluted	$	1.35	$	1.55	$	5.13	$	5.82
+
+Weighted average common shares outstanding:
+Basic	191,613	192,353	192,544	192,180
+Diluted	192,104	193,306	193,042	193,043
+
+(1) Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at a given legal entity. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency gains and losses was calculated using the pro forma effective tax rate of 8.9% and 7.9% for the 14-weeks and fiscal year ended December 31, 2022, respectively, and the pro forma effective tax rate of 7.4% and 10.3% for the 13-weeks and fiscal year ended December 25, 2021, respectively.
+
+(3) The 2022 discrete tax item is discussed in the pro forma effective tax rate section above.
+
+Free cash flow
+
+Management believes that free cash flow is an important liquidity measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes that excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operations and allows more accurate comparisons of the Company’s results between periods. This metric may also be useful to investors but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+(In thousands)	14-Weeks Ended	13-Weeks Ended	53-Weeks Ended	52-Weeks Ended
+	December 31,	December 25,	December 31,	December 25,
+	2022	2021	2022	2021
+Net cash provided by operating activities	$	368,665	$	168,962	$	788,259	$	1,012,427
+Less: purchases of property and equipment	(59,358	)	(119,685	)	(244,286	)	(307,645	)
+Free Cash Flow	$	309,307	$	49,277	$	543,973	$	704,782
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2023 guidance provided above do not consider the potential future net effect of foreign currency exchange gains and losses, certain discrete tax items and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.05 per share for the 53 weeks ended December 31, 2022.
+
+At this time, management is unable to determine whether or not significant discrete tax items will occur in fiscal 2023 or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.
+
+Appendix A – Change in operating segments
+
+In January 2023, the Company announced an organization realignment, which combines the consumer auto operating segment with the outdoor operating segment. As a result, beginning with reports filed in the first quarter of fiscal 2023, the Company’s operating segments will be fitness, outdoor, aviation, marine, and auto OEM. Each prior period that will be presented in the forthcoming Form 10-Q and Form 10-K filings will be recast to conform to the revised composition. This change had no effect on the Company’s consolidated financial results. The following table provides the relevant recast financial results. The table may not foot due to rounding.
+
+Garmin Ltd. and Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment (Unaudited)
+(In thousands)
+
+	Fitness	Outdoor	Aviation	Marine	Auto OEM	Total
+52-Weeks Ended December 25, 2021
+Net sales	$	1,533,788	$	1,606,664	$	712,468	$	875,151	$	254,724	$	4,982,795
+Gross profit	813,325	988,662	519,821	495,310	73,341	2,890,459
+Operating income (loss)	359,201	524,469	193,188	249,781	(108,019	)	1,218,620
+
+13-Weeks Ended March 26, 2022
+Net sales	$	220,896	$	449,734	$	174,766	$	254,069	$	73,197	$	1,172,662
+Gross profit	106,189	278,455	127,543	128,581	21,711	662,479
+Operating income (loss)	580	152,810	40,127	58,882	(23,843	)	228,556
+
+13-Weeks Ended June 25, 2022
+Net sales	$	272,095	$	462,243	$	204,739	$	242,794	$	58,962	$	1,240,833
+Gross profit	134,016	290,508	147,931	137,406	18,965	728,826
+Operating income (loss)	23,462	163,371	61,745	68,619	(24,457	)	292,740
+
+13-Weeks Ended September 24, 2022
+Net sales	$	279,875	$	406,832	$	188,043	$	196,506	$	69,178	$	1,140,434
+Gross profit	147,716	250,412	137,732	110,747	23,892	670,499
+Operating income (loss)	40,850	122,947	48,487	44,950	(17,861	)	239,373
+
+14-Weeks Ended December 31, 2022
+Net sales	$	336,553	$	451,465	$	225,251	$	210,614	$	82,473	$	1,306,356
+Gross profit	164,496	280,031	159,858	114,723	25,862	744,970
+Operating income (loss)	39,844	134,152	62,829	42,853	(12,503	)	267,175
+
+53-Weeks Ended December 31, 2022
+Net sales	$	1,109,419	$	1,770,275	$	792,799	$	903,983	$	283,810	$	4,860,286
+Gross profit	552,417	1,099,408	573,063	491,457	90,430	2,806,775
+Operating income (loss)	104,738	573,281	213,186	215,304	(78,664	)	1,027,845

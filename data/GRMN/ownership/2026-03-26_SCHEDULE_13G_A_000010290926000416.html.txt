@@ -1,0 +1,151 @@
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13G
+
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+(Amendment No. 10)
+
+Garmin Ltd(Name of Issuer)
+
+Common Stock(Title of Class of Securities)
+
+H2906T109(CUSIP Number)
+
+03/13/2026(Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+Rule 13d-1(b)
+Rule 13d-1(c)
+Rule 13d-1(d)
+
+SCHEDULE 13G
+
+CUSIP Number(s):	H2906T109
+
+1	Names of Reporting Persons
+
+The Vanguard Group
+2	Check the appropriate box if a member of a Group (see instructions)
+
+(a)
+(b)
+3	Sec Use Only
+4	Citizenship or Place of Organization
+
+PENNSYLVANIA
+Number of Shares Beneficially Owned by Each Reporting Person With:	5	Sole Voting Power
+
+0.00
+6	Shared Voting Power
+
+0.00
+7	Sole Dispositive Power
+
+0.00
+8	Shared Dispositive Power
+
+0.00
+
+9	Aggregate Amount Beneficially Owned by Each Reporting Person
+
+0.00
+10	Check box if the aggregate amount in row (9) excludes certain shares (See Instructions)
+
+11	Percent of class represented by amount in row (9)
+
+0 %
+12	Type of Reporting Person (See Instructions)
+
+IA
+
+Comment for Type of Reporting Person: On January 12, 2026, The Vanguard Group, Inc. went through an internal realignment. In accordance with SEC Release No. 34-39538 (January 12, 1998), certain subsidiaries or business divisions of subsidiaries of The Vanguard Group, Inc., that formerly had, or were deemed to have, beneficial ownership with The Vanguard Group, Inc., will report beneficial ownership separately (on a disaggregated basis) from The Vanguard Group, Inc. in reliance on such release. These subsidiaries and/or business divisions pursue the same investment strategies as previously pursued by The Vanguard Group, Inc. prior to the realignment. Further in accordance with SEC Release No. 34-39538 (January 12, 1998), The Vanguard Group, Inc. no longer has, or is deemed to have, beneficial ownership over securities beneficially owned by such subsidiaries and/or business divisions.
+
+SCHEDULE 13G
+
+Item 1.
+(a)	Name of issuer:
+
+Garmin Ltd
+(b)	Address of issuer's principal executive offices:
+
+Muhlentalstrasse 2, Schaffhausen, V8, 8200
+Item 2.
+(a)	Name of person filing:
+
+The Vanguard Group
+(b)	Address or principal business office or, if none, residence:
+
+100 Vanguard Blvd.,, Malvern, PA, 19355
+(c)	Citizenship:
+
+PA
+(d)	Title of class of securities:
+
+Common Stock
+(e)	CUSIP No.:
+
+H2906T109
+Item 3.	If this statement is filed pursuant to §§ 240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+(a)	Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);
+(b)	Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);
+(c)	Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c);
+(d)	Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8);
+(e)	An investment adviser in accordance with § 240.13d-1(b)(1)(ii)(E);
+(f)	An employee benefit plan or endowment fund in accordance with § 240.13d-1(b)(1)(ii)(F);
+(g)	A parent holding company or control person in accordance with § 240.13d-1(b)(1)(ii)(G);
+(h)	A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+(i)	A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);
+(j)	A non-U.S. institution in accordance with § 240.13d-1(b)(1)(ii)(J). If filing as a non-U.S. institution in accordance with § 240.13d-1(b)(1)(ii)(J),
+please specify the type of institution:
+(k)	Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K).
+
+Item 4.	Ownership
+(a)	Amount beneficially owned:
+
+0
+(b)	Percent of class:
+
+0 %
+(c)	Number of shares as to which the person has:
+
+	(i) Sole power to vote or to direct the vote:
+
+0
+
+	(ii) Shared power to vote or to direct the vote:
+
+0
+
+	(iii) Sole power to dispose or to direct the disposition of:
+
+0
+
+	(iv) Shared power to dispose or to direct the disposition of:
+
+0
+
+Item 5.	Ownership of 5 Percent or Less of a Class.
+	Ownership of 5 percent or less of a class
+Item 6.	Ownership of more than 5 Percent on Behalf of Another Person.
+	If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than 5 percent of the class, such person should be identified. A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required.
+
+The Vanguard Group, including investment companies registered under the Investment Company Act of 1940 and other managed accounts, have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, the securities reported herein.No one other person's interest in the securities reported herein is more than 5%.
+Item 7.	Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company or Control Person.
+	Not Applicable
+Item 8.	Identification and Classification of Members of the Group.
+	Not Applicable
+Item 9.	Notice of Dissolution of Group.
+	Not Applicable
+
+Item 10.	Certifications:
+	By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were acquired and are held in the ordinary course of business and were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under § 240.14a-11.
+
+SIGNATURE
+	After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+	The Vanguard Group
+
+	Signature:	Ashley Grim
+Name/Title:	Head of Global Fund Administration
+Date:	03/26/2026

@@ -1,0 +1,91 @@
+SEC FORM 4
+SEC Form 4 FORM 4	UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP
+
+Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934
+or Section 30(h) of the Investment Company Act of 1940	OMB APPROVAL
+OMB Number:	3235-0287
+Estimated average burden
+hours per response:	0.5
+
+	Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b).
+
+1. Name and Address of Reporting Person*KAO MIN H
+(Last)	(First)	(Middle)
+1200 EAST 151ST ST.
+
+(Street) OLATHE	KS	66062
+(City)	(State)	(Zip)
+	2. Issuer Name and Ticker or Trading Symbol
+GARMIN LTD [ GRMN ]	5. Relationship of Reporting Person(s) to Issuer
+(Check all applicable) X	Director	X	10% Owner
+X	Officer (give title below)	Other (specify below)
+	Executive Chairman
+
+3. Date of Earliest Transaction (Month/Day/Year)
+07/31/2019
+4. If Amendment, Date of Original Filed (Month/Day/Year)
+	6. Individual or Joint/Group Filing (Check Applicable Line) X	Form filed by One Reporting Person
+	Form filed by More than One Reporting Person
+
+Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned
+1. Title of Security (Instr. 3)	2. Transaction Date (Month/Day/Year)	2A. Deemed Execution Date, if any (Month/Day/Year)	3. Transaction Code (Instr. 8)	4. Securities Acquired (A) or Disposed Of (D) (Instr. 3, 4 and 5)	5. Amount of Securities Beneficially Owned Following Reported Transaction(s) (Instr. 3 and 4)	6. Ownership Form: Direct (D) or Indirect (I) (Instr. 4)	7. Nature of Indirect Beneficial Ownership (Instr. 4)
+Code	V	Amount	(A) or (D)	Price
+Registered Shares	07/31/2019	S	27,660(1)	D	$78.4786(2)	16,746,732	I	By Children
+Registered Shares	07/31/2019	S	68,335(1)	D	$79.0041(3)	16,678,397	I	By Children
+Registered Shares	07/31/2019	S	17,049(1)	D	$80.039(4)	16,661,348	I	By Children
+Registered Shares	07/31/2019	S	13,019(1)	D	$81.0661(5)	16,648,329	I	By Children
+Registered Shares	07/31/2019	S	1,175(1)	D	$82.0262(6)	16,647,154	I	By Children
+Registered Shares	07/31/2019	S	1,316(1)	D	$83.2814(7)	16,645,838	I	By Children
+Registered Shares	07/31/2019	S	82,980(1)	D	$78.4786(8)	16,562,858	I	By Children
+Registered Shares	07/31/2019	S	205,006(1)	D	$79.0041(9)	16,357,852	I	By Children
+Registered Shares	07/31/2019	S	51,146(1)	D	$80.039(10)	16,306,706	I	By Children
+Registered Shares	07/31/2019	S	39,057(1)	D	$81.066(11)	16,267,649	I	By Children
+Registered Shares	07/31/2019	S	3,525(1)	D	$82.0262(12)	16,264,124	I	By Children
+Registered Shares	07/31/2019	S	3,949(1)	D	$83.2816(13)	16,260,175	I	By Children
+Registered Shares	07/31/2019	G	V	20,000(14)	D	$0	1,779,429	D
+Registered Shares	07/31/2019	G	V	20,000(14)	D	$0	4,810,324	I	By Spouse(15)
+Registered Shares	08/01/2019	S	13,983(1)	D	$77.5665(16)	16,246,192	I	By Children
+Registered Shares	08/01/2019	S	850(1)	D	$78.4003(17)	16,245,342	I	By Children
+Registered Shares	08/01/2019	S	201,644(1)	D	$76.7454(18)	16,043,698	I	By Children
+Registered Shares	08/01/2019	S	41,951(1)	D	$77.5665(19)	16,001,747	I	By Children
+Registered Shares	08/01/2019	S	2,550(1)	D	$78.4003(20)	15,999,197	I	By Children
+Registered Shares	08/01/2019	S	67,215(1)	D	$76.7454(21)	15,931,982	I	By Children
+
+Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned
+(e.g., puts, calls, warrants, options, convertible securities)
+1. Title of Derivative Security (Instr. 3)	2. Conversion or Exercise Price of Derivative Security	3. Transaction Date (Month/Day/Year)	3A. Deemed Execution Date, if any (Month/Day/Year)	4. Transaction Code (Instr. 8)	5. Number of Derivative Securities Acquired (A) or Disposed of (D) (Instr. 3, 4 and 5)	6. Date Exercisable and Expiration Date (Month/Day/Year)	7. Title and Amount of Securities Underlying Derivative Security (Instr. 3 and 4)	8. Price of Derivative Security (Instr. 5)	9. Number of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr. 4)	10. Ownership Form: Direct (D) or Indirect (I) (Instr. 4)	11. Nature of Indirect Beneficial Ownership (Instr. 4)
+Code	V	(A)	(D)	Date Exercisable	Expiration Date	Title	Amount or Number of Shares
+
+Explanation of Responses:
+1. Sale of shares pursuant to a Rule 10b5-1 trading plan adopted on June 12, 2019.
+2. This transaction was executed in multiple trades at prices ranging from $77.63 to $78.62. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+3. This transaction was executed in multiple trades at prices ranging from $78.63 to $79.61. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+4. This transaction was executed in multiple trades at prices ranging from $79.63 to $80.62. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+5. This transaction was executed in multiple trades at prices ranging from $80.63 to $81.62. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+6. This transaction was executed in multiple trades at prices ranging from $81.63 to $82.18. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+7. This transaction was executed in multiple trades at prices ranging from $83.25 to $83.85. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+8. This transaction was executed in multiple trades at prices ranging from $77.63 to $78.62. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+9. This transaction was executed in multiple trades at prices ranging from $78.63 to $79.61. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+10. This transaction was executed in multiple trades at prices ranging from $79.63 to $80.62. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+11. This transaction was executed in multiple trades at prices ranging from $80.63 to $81.62. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+12. This transaction was executed in multiple trades at prices ranging from $81.63 to $82.18. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+13. This transaction was executed in multiple trades at prices ranging from $83.25 to $83.85. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+14. Shares were gifted to a charitable organization.
+15. The reporting person disclaims beneficial ownership of these shares, and the filing of this report is not an admission that the reporting person is the beneficial owner of these shares for purposes of Section 16 or for any other purpose.
+16. This transaction was executed in multiple trades at prices ranging from $77.20 to $78.17. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+17. This transaction was executed in multiple trades at prices ranging from $78.32 to $78.59. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+18. This transaction was executed in multiple trades at prices ranging from $76.20 to $77.19. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+19. This transaction was executed in multiple trades at prices ranging from $77.20 to $78.17. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+20. This transaction was executed in multiple trades at prices ranging from $78.32 to $78.59. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+21. This transaction was executed in multiple trades at prices ranging from $76.20 to $77.19. The price reported above reflects the weighted average sale price. The reporting person hereby undertakes to provide upon request to the SEC staff, Garmin Ltd. or a security holder of Garmin Ltd. full information regarding the number of shares sold at each separate price within the range.
+
+	By Andrew R. Etkind, Attorney-in-Fact	08/02/2019
+	** Signature of Reporting Person	Date
+Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.
+* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).
+** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
+Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, see Instruction 6 for procedure.
+Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.

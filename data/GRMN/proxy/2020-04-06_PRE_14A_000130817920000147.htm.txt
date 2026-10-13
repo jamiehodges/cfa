@@ -1,0 +1,1371 @@
+PRE 14A 1 lgrmn2020_pre14a.htm GARMIN LTD - PRE 14A GARMIN LTD. - PRE 14A
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+SCHEDULE 14A INFORMATION
+
+Proxy Statement Pursuant to Section 14(a) of the Securities
+Exchange Act of 1934
+[Amendment No. _____]
+
+	Filed by the Registrant	Filed by a Party other than the Registrant
+
+Check the appropriate box:
+	Preliminary Proxy Statement
+	Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+	Definitive Proxy Statement
+	Definitive Additional Materials
+	Soliciting Materials under §240.14a-12
+
+GARMIN LTD.
+
+(Name of Registrant as Specified in Its Charter)
+
+(Name of Person(s) Filing Proxy Statement if other than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box):
+	No fee required
+	Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+	(1)	Title of each class of securities to which transaction applies:
+	(2)	Aggregate number of securities to which transaction applies:
+	(3)	Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11
+(set forth the amount on which the filing fee is calculated and state how it was determined):
+	(4)	Proposed maximum aggregate value of transaction:
+	(5)	Total fee paid:
+	Fee paid previously with preliminary materials.
+	Check box if any part of the fee is offset as provided by Exchange Act Rule O-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.
+	(1)	Amount Previously Paid:
+	(2)	Form Schedule or Registration Statement No.:
+	(3)	Filing Party:
+	(4)	Date Filed:
+
+Garmin Ltd.
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+
+Notice of Annual General Meeting of Shareholders
+
+To be held on June 5, 2020
+
+To the Shareholders of Garmin Ltd.:
+
+The 2020 Annual General Meeting (the “Annual Meeting”) of Shareholders of Garmin Ltd., a Swiss company (“Garmin” or the “Company”), will be held at 5:00 p.m. Central European Summer Time (10:00 a.m., U.S. Central Daylight Time) on Friday, June 5, 2020. Due to the extraordinary situation in connection with the COVID-19 (coronavirus) pandemic, our Annual Meeting cannot take place in the usual format. In accordance with the Swiss Federal Council Ordinance on Measures to Combat the Coronavirus dated March 13, 2020, as amended from time to time (the “COVID-19 Ordinance”), we have determined that it will not be possible for shareholders to attend the Annual Meeting in person at the venue (i.e., the offices of the law firm Homburger Ltd., Prime Tower, Hardstrasse 201, CH-8005 Zurich, Switzerland). Due to the current prohibition of any meetings with over 50 people under an Executive Order of the Governor of Kansas and the need to protect the health of our employees and shareholders, it will also not be possible to host a simultaneous in-person Annual Meeting at the offices of our principal U.S. subsidiary in Olathe, Kansas. Shareholders may exercise their voting rights only by giving voting instructions to the independent voting rights representative, the law firm of Wuersch & Gering LLP, 100 Wall Street, 10th Floor, New York, NY 10005, USA, or its substitute, as further described in the accompanying proxy statement. We greatly regret these measures, but believe they are necessary and appropriate to protect our employees and shareholders from the risk of contagion with the COVID-19 virus.
+
+The purpose of the meeting is to consider and vote upon the following matters:
+
+PROPOSALS
+
+	1.	Approval of Garmin’s 2019 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and the statutory financial statements of Garmin for the fiscal year ended December 28, 2019
+	The Board of Directors proposes to the Annual Meeting to approve Garmin’s 2019 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and Garmin’s statutory financial statements for the fiscal year ended December 28, 2019.
+	2.	Approval of the appropriation of available earnings
+	The Board of Directors proposes to the Annual Meeting to approve the appropriation of available earnings as follows:
+
+	Proposed Appropriation of Available Earnings: in Swiss Francs (“CHF”)
+	Balance brought forward from previous years	CHF	77,320,000
+	Net loss for the period (on a stand-alone unconsolidated basis):	CHF	(12,719,000)
+	Total available for the general meeting:	CHF	64,601,000
+	Resolution proposed by the Board of Directors:
+	- RESOLVED, that the available earnings of CHF 64,601,000 shall be carried forward.
+
+GARMIN LTD. - 2020 Proxy Statement 3
+
+	3.	Approval of the payment of a cash dividend in the aggregate amount of U.S. $2.44 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments
+	The Board of Directors proposes to the Annual Meeting that Garmin pay a cash dividend in the amount of U.S. $2.44 per outstanding share as follows:
+
+	Reserve from Capital Contribution as per December 28, 2019	CHF	5,649,552,000
+	Resolutions proposed by the Board of Directors:
+	•	RESOLVED, that Garmin, out of, and limited at a maximum to the amount of, the Dividend Reserve (as defined below), pay a cash dividend in the amount of U.S. $2.44 per outstanding share1 out of Garmin’s reserve from capital contribution payable in four equal installments at the dates determined by the Board of Directors in its discretion, the record date and payment date for each such installment to be announced in a press release2 at least ten calendar days prior to the record date; and further
+	•	RESOLVED, that the cash dividend shall be made with respect to the outstanding share capital of Garmin on the record date for the applicable installment, which amount will exclude any shares of Garmin held by Garmin or any of its direct or indirect subsidiaries; and further
+	•	RESOLVED, that CHF 637,069,0003 be allocated to dividend reserves from capital contribution (the “Dividend Reserve”) from the reserve from capital contribution in order to pay such dividend of U.S. $2.44 per outstanding share (assuming a total of 198,077,418 shares4 eligible to receive the dividend); and further	CHF	(637,069,000)
+	•	RESOLVED that if the aggregate dividend payment is lower than the Dividend Reserve, the relevant difference will be allocated back to the reserve from capital contribution; and further
+	•	RESOLVED, that to the extent that any installment payment, when converted into Swiss francs, at a USD/CHF exchange rate prevailing at the relevant record date for the relevant installment payment, would exceed the Dividend Reserve then remaining, the U.S. dollar per share amount of that installment payment shall be reduced on a pro rata basis, provided, however, that the aggregate amount of that installment payment shall in no event exceed the then remaining Dividend Reserve.
+	Reserve from Capital Contribution after Dividend Reserve Allocation	CHF	5,012,484,000
+
+	(1)	In no event will the dividend payment exceed a total of U.S. $2.44 per share.
+	(2)	The announcements will not be published in the Swiss Official Gazette of Commerce.
+	(3)	Based on the currency conversion rate of 0.9764 as of December 28, 2019, with a total of 198,077,418 shares eligible for payout (based on the number of shares issued as at December 28, 2019), the aggregate Dividend Reserve would be CHF 637,069,000. The amount of the Dividend Reserve, calculated on the basis of the Company’s issued shares as at December 28, 2019, includes a margin of approximately 35% to accommodate (i) unfavorable currency fluctuation and (ii) new share issuance (see footnote 4 below) that may occur between the time when the dividend is approved by shareholders and when the last installment payment is made. Unused Dividend Reserves will be returned to the reserve from capital contribution after the last installment payment.
+	(4)	This number is based on the registered share capital as at December 28, 2019. The number of shares eligible for dividend payments may change due to the repurchase of shares, the sale of treasury shares or the issuance of new shares, including (without limitation) from the conditional share capital reserved for the employee profit sharing program.
+
+	4.	Discharge of the members of the Board of Directors and the Executive Management from liability for the fiscal year ended December 28, 2019
+	The Board of Directors proposes to the Annual Meeting that the members of the Board of Directors and the Executive Management be discharged from personal liability for the fiscal year ended December 28, 2019.
+	5.	Re-election of six directors
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting that each of Jonathan C. Burrell, Joseph J. Hartnett, Min H. Kao, Catherine A. Lewis, Charles W. Peffer, and Clifton A. Pemble be re-elected as directors, each for a term extending until completion of the next annual general meeting.
+	6.	Re-election of Chairman
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting that Min H. Kao be re-elected as Executive Chairman of the Board of Directors for a term extending until completion of the next annual general meeting.
+	7.	Re-election of four Compensation Committee members
+	The Board of Directors proposes to the Annual Meeting that each of Jonathan C. Burrell, Joseph J. Hartnett, Catherine A. Lewis and Charles W. Peffer be re-elected as members of the Compensation Committee, each for a term extending until completion of the next annual general meeting.
+	8.	Re-election of the independent voting rights representative
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting that the law firm of Wuersch & Gering LLP be re-elected as the independent voting rights representative for a term extending until completion of the next annual general meeting, including any extraordinary general meeting of shareholders prior to the 2021 annual general meeting.
+	9.	Ratification of the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the fiscal year ending December 26, 2020 and re-election of Ernst & Young Ltd as Garmin’s statutory auditor for another one-year term
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting that the appointment of Ernst & Young LLP as Garmin’s independent registered public accounting firm for the fiscal year ending December 26, 2020 be ratified and that Ernst & Young Ltd be re-elected as Garmin’s statutory auditor for another one-year term.
+	10.	Advisory vote on executive compensation
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting to approve an advisory resolution approving the compensation of Garmin’s Named Executive Officers, as disclosed in Garmin’s proxy statement for the Annual Meeting pursuant to the executive compensation disclosure rules promulgated by the Securities and Exchange Commission (“SEC”).
+	11.	Binding vote to approve Fiscal Year 2021 maximum aggregate compensation for the Executive Management
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting to approve the maximum aggregate compensation that can be paid or granted to the members of the Executive Management in Fiscal Year 2021 in an amount not to exceed U.S $5,823,000.
+
+GARMIN LTD. - 2020 Proxy Statement 4
+
+	12.	Binding vote to approve maximum aggregate compensation for the Board of Directors for the period between the 2020 Annual General Meeting and the 2021 Annual General Meeting
+	Proposal of the Board of Directors
+	The Board of Directors proposes to the Annual Meeting to approve the maximum aggregate compensation that can be paid or granted to the members of the Board of Directors between the 2020 Annual General Meeting and the 2021 Annual General Meeting in an amount not to exceed U.S. $1,612,903.
+	13.	Renewal of Authorized Share Capital
+	The Board of Directors proposes to the Annual Meeting to renew the authorized share capital in the decreased amount of CHF 1,980,774.10, corresponding to 19,807,741 registered shares with a nominal value of CHF 0.10 each, until June 5, 2022. The text of the proposed shareholder resolution and the proposed amendment to the Articles of Association are contained in Annex 1.
+
+Information concerning the matters to be acted upon at the Annual Meeting is contained in the accompanying Proxy Statement.
+
+A proxy card is being sent with this proxy statement to each holder of shares registered in Garmin’s share register with voting rights at the close of business, U.S. Eastern Time, on April 9, 2020. In addition, a proxy card will be sent with this proxy statement to each additional holder of shares who is registered with voting rights in Garmin’s share register as of the close of business, U.S. Eastern Time, on May 28, 2020. Shareholders registered in Garmin’s share register with voting rights as of the close of business, U.S. Eastern Time, on May 28, 2020 are entitled to notice of, and to exercise voting rights by giving instructions to our independent voting rights representative (in the manner as further set out in the accompanying proxy statement) with respect to the matters to be resolved upon at, the Annual Meeting and any adjournments thereof.
+
+We are pleased to again take advantage of the Securities and Exchange Commission rules that allow issuers to furnish proxy materials to their shareholders on the Internet. We are sending a Notice of Internet Availability of Proxy Materials (the “Notice”) to our beneficial owners of shares held in “street name” through a broker or other nominee as of April 9, 2020 and to participants in the Garmin International, Inc. Retirement Plan (the “Retirement Plan”) with a beneficial interest in our shares as of April 9, 2020, and we are mailing our proxy materials to shareholders whose shares are held directly in their names with our transfer agent, Computershare Trust Company, N.A. as of May 28, 2020. We believe these rules allow us to provide our shareholders with the information they need, while lowering costs of delivery and reducing the environmental impact of our Annual Meeting. Garmin’s Annual Report on Form 10-K for the fiscal year ended December 28, 2019 which contains the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019, the Swiss statutory financial statements of Garmin for the fiscal year ended December 28, 2019, and the Auditor’s Reports for Fiscal Year 2019, are available in the Investor Relations section of Garmin’s website www.garmin.com, and will also be available (subject to any limitations arising from the COVID-19 Ordinance and any other applicable laws and regulations to combat COVID-19 as may be enacted or amended from time to time), together with the Swiss Compensation Report for Fiscal Year 2019, for physical inspection by the shareholders at Garmin’s registered office at Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland, as of May 18, 2020. Copies of the Annual Report on Form 10-K for the fiscal year ended December 28, 2019, the Swiss statutory financial statements of Garmin for the fiscal year ended December 28, 2019, and the Auditor’s Reports may also be obtained without charge by contacting Garmin’s Investor Relations department at +1 (913) 397-8200.
+
+If you received the Notice, you can access the proxy materials on the website referred to in the Notice or request to receive a printed set of the proxy materials by mail. Instructions on how to access the proxy materials over the Internet or to request a printed copy by mail may be found in the Notice.
+
+If you received these proxy materials through the mail, please use the enclosed proxy card to direct the vote of your shares. Please date the proxy card, sign it and promptly return it in the enclosed envelope, which requires no postage if mailed in the United States, or you may exercise your voting rights by Internet or by telephone using the instructions provided on the proxy card. If you received the Notice and reviewed the proxy materials on the Internet, please follow the instructions included in the Notice.
+
+Please note that under the current rules of the New York Stock Exchange, your broker will not be able to exercise voting rights with respect to your shares at the Annual Meeting on the election of directors and on certain other proposals described in the attached proxy statement if you have not given your broker instructions on how to exercise voting rights with respect to your shares. Please be sure to give instructions to your broker so that your vote can be counted on the election and such proposals.
+
+April [ ], 2020
+
+By Order of the Board of Directors,
+
+Andrew R. Etkind
+Vice President, General Counsel and Secretary
+
+	Important Notice Regarding the Availability of Proxy Materials for the Annual Meeting to be Held on June 5, 2020
+	This Proxy Statement and Garmin’s Annual Report on Form 10-K
+for the fiscal year ended December 28, 2019, are available at http://materials.proxyvote.com/H2906T
+
+GARMIN LTD. - 2020 Proxy Statement 5
+
+Table of Contents
+
+PROXY STATEMENT	8
+
+INFORMATION CONCERNING SOLICITATION AND VOTING	8
+
+STOCK OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT	11
+
+PROPOSAL ONE	Approval of Garmin’s 2019 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and the statutory financial statements of Garmin for the fiscal year ended December 28, 2019	13
+
+PROPOSAL TWO	Appropriation of available earnings	14
+
+PROPOSAL THREE	Payment of a cash dividend in the aggregate amount of U.S. $2.44 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments	15
+
+PROPOSAL FOUR	Discharge of the members of the Board of Directors and the Executive Management from liability for the fiscal year ended December 28, 2019	16
+
+PROPOSAL FIVE	Re-election of six directors	17
+Board Meetings and Standing Committee Meetings	19
+Board Leadership Structure and Role in Risk Oversight	21
+Compensation and Risk	21
+Shareholder Communications with Directors	21
+Compensation Committee Interlocks and Insider Participation; Certain Relationships	22
+Non-Management Director Compensation	22
+
+PROPOSAL SIX	Re-election of Chairman	23
+
+PROPOSAL SEVEN	Re-election of four Compensation Committee members	24
+
+PROPOSAL EIGHT	Re-election of the independent voting rights representative	25
+
+PROPOSAL NINE	Ratification of the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the fiscal year ending December 26, 2020 and re-election of Ernst & Young Ltd as Garmin’s statutory auditor for another one-year term	26
+
+PROPOSAL TEN	Advisory Vote on Executive Compensation	27
+
+PROPOSAL ELEVEN	Binding Vote to Approve Fiscal Year 2021 Maximum Aggregate Compensation for the Executive Management	28
+
+Back to Contents
+
+PROPOSAL TWELVE	Binding Vote to Approve Maximum Aggregate Compensation for the Board of Directors for the period between the 2020 Annual General Meeting and the 2021 Annual General Meeting	29
+
+PROPOSAL THIRTEEN	Renewal of the Authorized Share Capital	30
+
+AUDIT MATTERS	31
+Report of Audit Committee	31
+Independent Registered Public Accounting Firm Fees	31
+
+EXECUTIVE COMPENSATION MATTERS	32
+
+EXECUTIVE COMPENSATION TABLE	39
+
+SHAREHOLDER PROPOSALS	43
+
+HOUSEHOLDING OF ANNUAL MEETING MATERIALS FOR BROKER CUSTOMERS	44
+
+OTHER MATTERS	44
+Annex 1 Renewal of Authorized Share Capital	A-1
+
+Back to Contents
+
+PROXY STATEMENT
+
+The accompanying proxy is solicited by the Board of Directors (“Board”) of Garmin Ltd., a Swiss company (“Garmin” or the “Company”), for use at the Annual General Meeting of Shareholders (the “Annual Meeting”) to be held at 5:00 p.m. Central European Summer Time (10:00 a.m. U.S. Central Daylight Time) on Friday, June 5, 2020, and at any adjournment(s) or postponement(s) thereof for the purposes set forth herein and in the accompanying Notice of the Annual General Meeting of Shareholders. This Proxy Statement and the accompanying proxy card are first being furnished to shareholders on or about April [ ], 2020.
+
+INFORMATION CONCERNING SOLICITATION AND VOTING
+
+We are sending a Notice of Internet Availability of Proxy Materials (the “Notice”) to our beneficial owners of shares held in “street name” through a broker or other nominee (“Broker Customers”) and to participants in the Garmin International, Inc. Retirement Plan (the “Retirement Plan”) with a beneficial interest in our shares (“Plan Participants”), and we are mailing our proxy materials to shareholders whose shares are held directly in their names with our transfer agent, Computershare Trust Company, N.A. (“Record Holders”).
+
+Proposals
+
+At the Annual Meeting, the Board intends to ask you to exercise your voting rights with respect to the following matters:
+
+1.	Approval of Garmin’s 2019 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and the statutory financial statements of Garmin for the fiscal year ended December 28, 2019;
+2.	Approval of the appropriation of available earnings;
+3.	Approval of the payment of a cash dividend in the aggregate amount of U.S. $2.44 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments;
+4.	Discharge of the members of the Board and the Executive Management from liability for the fiscal year ended December 28, 2019;
+5.	Re-election of six directors;
+6.	Re-election of Chairman;
+7.	Re-election of four Compensation Committee members;
+8.	Election of the independent voting rights representative;
+9.	Ratification of the appointment of Ernst & Young LLP as Garmin’s independent registered public accounting firm for the fiscal year ending December 26, 2020 and re-election of Ernst & Young Ltd as Garmin’s statutory auditor for another one-year term;
+10.	Advisory vote on executive compensation;
+11.	Binding vote to approve Fiscal Year 2021 maximum aggregate compensation for the Executive Management;
+12.	Binding vote to approve maximum aggregate compensation for the Board of Directors for the period between the 2020 Annual General Meeting and the 2021 Annual General Meeting; and
+13.	Renewal of Authorized Share Capital.
+
+Shareholders Entitled to Exercise Voting Rights
+
+April 9, 2020 is the record date (the “Record Date”) for the Annual Meeting. On the Record Date there were _________ shares (excluding shares held by Garmin or any of its direct or indirect subsidiaries) outstanding and entitled to exercise voting rights with respect to the matters to be resolved upon at the Annual Meeting. Shareholders registered in our share register at the close of business, U.S. Eastern Time, on the Record Date are entitled to exercise voting rights with respect to the matters to be resolved upon at the Annual Meeting, except as provided below.
+
+Any additional shareholders who are registered in Garmin’s share register on May 28, 2020 will receive a copy of the proxy materials after May 28, 2020 and are entitled to exercise voting rights by giving instructions to our independent voting rights representative (in the manner as further set out in the proxy statement) with respect to the matters to be resolved upon at the Annual Meeting. Shareholders not registered in Garmin’s share register as of May 28, 2020 will not be entitled to exercise voting rights with respect to the matters to be resolved upon at the Annual Meeting. No shareholder will be entered in Garmin’s share register as a shareholder with voting rights between the close of business on May 28, 2020 and the opening of business on the day following the Annual Meeting. Computershare Trust Company, N.A., which maintains Garmin’s share register, will, however, continue to register transfers of Garmin’s shares in the share register in its capacity as transfer agent during this period. Shareholders who are registered in Garmin’s share register on May 28, 2020 but have sold their shares before the Annual Meeting date are not entitled to exercise voting rights with respect to the matters to be resolved upon at the Annual Meeting.
+
+GARMIN LTD. - 2020 Proxy Statement 8
+
+Back to Contents
+
+Solicitation of Proxies
+
+The cost of soliciting proxies will be borne by Garmin. In addition to soliciting shareholders by mail and through its regular employees not specifically engaged or compensated for that purpose, Garmin will request banks and brokers, and other custodians, nominees and fiduciaries to solicit their customers who have shares of Garmin registered in the names of such persons and, if requested, will reimburse them for their reasonable, out-of-pocket costs. Garmin may use the services of its officers, directors and others to solicit proxies, personally or by telephone, facsimile or electronic mail, without additional compensation.
+
+Voting
+
+Each shareholder is entitled to one vote on each proposal presented in this Proxy Statement for each share held. There is no cumulative voting in the election of directors. The required presence quorum for the transaction of business at the Annual Meeting is the presence by proxy of shareholders holding not less than a majority of the shares entitled to vote at the meeting with abstentions, invalid ballots and broker non-votes regarded as represented for purposes of establishing the quorum.
+
+A shareholder who purchases shares from a registered holder after the Record Date but before May 28, 2020 and who wishes to exercise voting rights with respect to the matters to be resolved upon at the Annual Meeting must ask to be registered as a shareholder with respect to such shares in our share register prior to May 28, 2020. Registered holders of our shares (as opposed to beneficial shareholders) on May 28, 2020 who sell their shares prior to the Annual Meeting will not be entitled to exercise voting rights to those shares in relation to the matters to be resolved upon at the Annual Meeting.
+
+Proposals 1 through 12 each require the affirmative vote of a majority of the share votes cast (in person or by proxy) at the Annual Meeting, excluding unmarked, invalid and non-exercisable votes and abstentions. Proposal 13 requires the affirmative vote of at least two-thirds of the votes and the absolute majority of the par value of shares, each as represented at the Annual Meeting. An abstention, blank or invalid ballot will have the effect of a vote “AGAINST” this proposal.
+
+Members of our Board and members of Executive Management are not allowed to exercise voting rights with respect to Proposal 4, the proposal to discharge the members of the Board and the Executive Management from liability for the fiscal year ended December 28, 2019.
+
+Shareholder ratification of the appointment of Ernst & Young LLP as Garmin’s independent registered public accounting firm for the fiscal year ending December 26, 2020 is not legally required, but your views are important to the Audit Committee and the Board. If shareholders do not ratify the appointment of Ernst & Young LLP, our Audit Committee will reconsider the appointment of Ernst & Young LLP as Garmin’s independent registered public accounting firm.
+
+The proposal relating to the advisory vote on executive compensation is advisory and non-binding on Garmin. However, the Compensation Committee of our Board will review voting results on this proposal and will give consideration to such voting.
+
+Broker Non-Votes
+
+Although brokers have discretionary authority to exercise voting rights with respect to shares of Broker Customers on “routine” matters, they do not have authority to exercise voting rights with respect to shares of Broker Customers on “non-routine” matters pursuant to applicable New York Stock Exchange (“NYSE”) rules. We believe that the following proposals to be resolved upon at the Annual Meeting will be considered to be “non-routine” under NYSE rules and, therefore, brokers will not be able to exercise voting rights with respect to shares owned by Broker Customers in relation to these proposals unless the broker receives instructions from such customers:
+
+•	Proposal No. 4 (discharge of the members of the Board and Executive Management from liability for the fiscal year ended December 28, 2019),
+•	Proposal No. 5 (re-election of six directors);
+•	Proposal No. 6 (re-election of Chairman);
+•	Proposal No. 7 (re-election of four Compensation Committee members);
+•	Proposal No. 10 (advisory vote on executive compensation);
+•	Proposal No. 11 (binding vote to approve Fiscal Year 2021 maximum aggregate compensation for the Executive Management); and
+•	Proposal No. 12 (binding vote to approve maximum aggregate compensation for the Board of Directors for the period between the 2020 Annual Meeting and the 2021 Annual Meeting).
+
+The voting standard required to pass all of the above “non-routine” proposals is a simple majority of the votes cast by proxy at the Annual Meeting on the applicable proposal. Abstentions, broker non-votes (if any) or blank or invalid ballots are not counted for such purposes and do not have any impact on the approval of such agenda item.
+
+GARMIN LTD. - 2020 Proxy Statement 9
+
+Back to Contents
+
+How Shareholders Vote
+
+Shareholders, Plan Participants and Broker Customers may exercise voting rights (or in the case of Plan Participants, may direct the trustee of the Garmin International, Inc. Retirement Plan to exercise voting rights) with respect to their shares as follows:
+
+Shares of Record
+
+In accordance with the COVID-19 Ordinance shareholders of record must appoint as their proxy the independent voting rights representative, the law firm of Wuersch & Gering LLP, 100 Wall Street, 10th Floor, New York, NY 10005, USA, or its substitute, to vote their shares. Shareholders do so by checking the appropriate box on the enclosed proxy card. The independent voting rights representative will vote all shares for which it is the proxy in accordance with the instructions specified by the shareholders on the proxy card.
+
+In accordance with the COVID-19 Ordinance, it will not be possible for a registered shareholder to name as proxy someone other than the independent voting rights representative.
+
+Shares owned by shareholders who have timely submitted a properly executed proxy card and who have specifically instructed how their votes shall be cast will be voted by the independent voting rights representative in accordance with the instructions indicated on the shareholders’ proxy cards. Shares owned by shareholders who have timely submitted a properly executed proxy card and have not specifically indicated how their votes shall be cast are deemed to have instructed the independent voting rights representative to vote in the manner recommended by the Board. If any modifications to agenda items or proposals identified in the Notice of the Annual Meeting or other matters on which voting is permissible under Swiss law are properly presented at the Annual Meeting for consideration, a shareholder, in the absence of other specific instructions on the proxy card, is deemed to have instructed the independent voting rights representative, to vote in accordance with the recommendations of the Board.
+
+We urge you to return your proxy card by the close of business, U.S. Eastern Time on June 2, 2020 to ensure that your proxy can be timely submitted.
+
+Shares Held Under the Garmin International, Inc. Retirement Plan
+
+On the voting instructions card, Plan Participants may instruct the trustee of our Retirement Plan how to vote the shares allocated to their respective participant accounts. The trustee will vote all allocated shares accordingly. Shares for which inadequate or no voting instructions are received will not be voted by the trustee. The trustee of our Retirement Plan will vote shares allocated to the accounts of the Plan Participants by giving instructions to the independent voting rights representative accordingly.
+
+Shares Held Through a Broker or Other Nominee
+
+Each broker or nominee must solicit from the Broker Customers directions on how to vote the shares, and the broker or nominee must then vote such shares through voting instructions relayed to the independent voting rights representative in accordance with such directions. Brokers or nominees are to forward the Notice to the Broker Customers, at the reasonable expense of Garmin if the broker or nominee requests reimbursement. See “Broker Non-Votes”.
+
+Revoking Proxy Authorizations or Instructions
+
+Until the polls for a particular proposal on the agenda close (or in the case of Plan Participants, until the trustee of the Retirement Plan has submitted its voting instructions), voting instructions of Record Holders and voting instructions of Plan Participants may be revoked or recast with a later-dated, properly executed and delivered proxy card or, in the case of Plan Participants, a voting instruction card. Otherwise, shareholders may not revoke a vote, unless: (a) in the case of a Record Holder, the Record Holder delivers a written revocation to the independent voting rights representative at any time before the Chairman of the Annual Meeting closes the polls for a particular proposal on the agenda; (b) in the case of a Plan Participant, the revocation procedures of the trustee of the Retirement Plan are followed; or (c) in the case of a Broker Customer, the revocation procedures of the broker or nominee are followed.
+
+Access to a Live Audio Webcast of the Annual Meeting
+
+In accordance with the COVID-19 Ordinance, it will not be possible for shareholders to attend the Annual Meeting in person.
+
+Shareholders will, however, be able to listen to a live audio webcast of the Annual Meeting. The webcast can be accessed at https://edge.media-server. com/mmc/p/meoihi9r
+
+GARMIN LTD. - 2020 Proxy Statement 10
+
+Back to Contents
+
+STOCK OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+As of April 9, 2020, Garmin had outstanding _________ shares (excluding shares held by Garmin or any of its direct or indirect subsidiaries). The following table contains information as of April 9, 2020 concerning the beneficial ownership of shares by: (i) beneficial owners of shares who have publicly filed a report acknowledging ownership of more than 5% of the number of outstanding shares; (ii) each director and nominee; (iii) each executive officer named in the Summary Compensation Table; and (iv) all the directors and executive officers as a group. No officer or director of Garmin owns any equity securities of any subsidiary of Garmin. Unless otherwise indicated, the address for each person named below is c/o Garmin International, Inc., 1200 East 151st Street, Olathe, Kansas 66062, USA.
+
+Name of Beneficial Owner	Amount and
+Nature of
+Beneficial
+Ownership(1)	Percent of Class(2)
+Douglas G. Boessen
+CFO and Treasurer	-	(3)	*
+Jonathan Burrell(4)
+Shareholder and Director	-	(5)	-	%
+Patrick Desbois
+Executive Vice President, Operations	-	*
+Andrew R. Etkind
+Vice President, General Counsel and Corporate Secretary	-	*
+Joseph J. Hartnett
+Director	-	(6)	*
+Min H. Kao, Ph.D.
+Director and Executive Chairman	-	(7)	-	%
+Catherine A. Lewis
+Director	-	(8)	*
+Charles W. Peffer
+Director	-	(9)	*
+Clifton A. Pemble
+Director, President and CEO	-	(10)	*
+Philip I. Straub
+Executive Vice President - Managing Director, Aviation	-	*
+BlackRock, Inc.(11)
+Institutional Shareholder	-	-	%
+The Vanguard Group(12)
+Institutional Shareholder	-	-	%
+Directors and Executive Officers as a Group
+(10 persons)	-	(13)	-	%
+
+*	Less than 1% of the outstanding shares
+(1)	Beneficial ownership is determined in accordance with the rules of the Securities and Exchange Commission (“SEC”). In computing the number of shares beneficially owned by a person and the percentage ownership of that person, shares subject to options or stock appreciation rights held by that person that are currently exercisable as of April 9, 2020 or within 60 days of such date, and shares of restricted stock units that will be released to that person within 60 days of April 9, 2020 upon vesting of restricted stock unit awards, are deemed outstanding. The holders may disclaim beneficial ownership of any such shares that are owned by or with family members, trusts or other entities. Except as indicated in the footnotes to this table and pursuant to applicable community property laws, to Garmin’s knowledge, each shareholder named in the table has sole voting power and dispositive power with respect to the shares set forth opposite such shareholder’s name. In addition, except as indicated in the footnotes to this table, to Garmin’s knowledge, each shareholder named in the table owns the shares set forth opposite such shareholder’s name directly.
+(2)	The percentage is based upon the number of shares outstanding as of April 9, 2020 (excluding shares held directly or indirectly in treasury) and computed as described in footnote (1) above.
+(3)	Mr. Boessen’s beneficial ownership includes _____ shares that may be acquired through stock appreciation rights that are currently exercisable or will become exercisable within 60 days of April 9, 2020.
+(4)	Jonathan Burrell’s address is P.O. Box 507, Stillwell, KS 66085.
+(5)	Jonathan Burrell’s beneficial ownership includes (i) _____ shares held in a revocable trust established by his mother and for which Jonathan Burrell is a co-trustee, as to which shares Jonathan Burrell has shared voting and dispositive power; (ii) _____ shares held in several charitable lead annuity trusts over which Jonathan Burrell has sole voting and dispositive power; (iii) _____ shares held in several grantor retained annuity trusts established by his mother over which Jonathan Burrell has sole voting and dispositive power; and (iv) _____ shares that will be released to him within 60 days of April 9, 2020 upon vesting of restricted stock unit awards.
+
+GARMIN LTD. - 2020 Proxy Statement 11
+
+Back to Contents
+
+(6)	Mr. Hartnett’s beneficial ownership includes _____ shares that will be released to him within 60 days of April 9, 2020 upon vesting of restricted stock unit awards.
+(7)	Of the _____ shares, (i) _____ shares are held by the M&F Trust 10/17/19, over which Dr. Kao has shared voting and dispositive power (ii) _____ shares are held by revocable trusts established by Dr. Kao’s children, over which Dr. Kao has shared voting and dispositive power and (iii) _____ shares are held by the Kao Family Foundation, a charitable foundation of which Dr. Kao is president and director and in such capacity may be deemed to exercise shared voting and dispositive power over such shares. Dr. Kao disclaims beneficial ownership of the shares held by the Kao Family Foundation.
+(8)	Ms. Lewis’s beneficial ownership includes _____ shares that will be released to her within 60 days of April 9, 2020 upon vesting of restricted stock unit awards.
+(9)	Mr. Peffer’s beneficial ownership includes _____ shares that will be released to him within 60 days of April 9, 2020 upon vesting of restricted stock unit awards.
+(10)	Mr. Pemble’s beneficial ownership includes _____ shares that may be acquired through stock appreciation rights that are currently exercisable or will become exercisable within 60 days of April 9, 2020. Of the _____ shares, _____ shares are held by a child of Mr. Pemble who shares the same household.
+(11)	According to Schedule 13G Amendment No. 4 filed by BlackRock, Inc. on February 5, 2020. According to the Schedule 13G Amendment No. 3, BlackRock, Inc.’s address is 55 East 52nd Street, New York, NY 10055, USA.
+(12)	According to Schedule 13G Amendment No. 4 filed by The Vanguard Group on February 12, 2020. According to the Schedule 13G Amendment No. 3, The Vanguard Group’s address is 100 Vanguard Blvd., Malvern, PA 19355, USA.
+(13)	The number includes _____ shares that may be acquired through stock options and stock appreciation rights that are currently exercisable or will become exercisable within 60 days of April 9, 2020, and _____ shares that will be released upon vesting of restricted stock unit awards within 60 days of April 9, 2020. Individuals in the group have disclaimed beneficial ownership as to a total of _____ of the shares listed.
+
+GARMIN LTD. - 2020 Proxy Statement 12
+
+Back to Contents
+
+PROPOSAL ONE	Approval of Garmin’s 2019 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and the statutory financial statements of Garmin for the fiscal year ended December 28, 2019
+
+The consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and the Swiss statutory financial statements of Garmin for the fiscal year ended December 28, 2019 are contained in the 2019 Annual Report of Garmin on Form 10-K which was mailed to all registered shareholders with this proxy statement. A copy of this Annual Report on Form 10-K is available in the Investor Relations section of Garmin’s website at www.garmin.com. The 2019 Annual Report on Form 10-K also contains the reports of Ernst & Young Ltd, Garmin’s auditor pursuant to the Swiss Code of Obligations, and information on our business activities and financial situation.
+
+Under Swiss law, the 2019 Annual Report on Form 10-K and the consolidated financial statements and Swiss statutory financial statements must be submitted to shareholders for approval at each annual general meeting.
+
+Ernst & Young Ltd, as Garmin’s statutory auditor, has issued a recommendation to the Annual Meeting that the statutory financial statements of Garmin for the fiscal year ended December 28, 2019 be approved. As Garmin’s statutory auditor, Ernst & Young Ltd has expressed its opinion that such statutory financial statements and the proposed appropriation of available earnings comply with Swiss law and Garmin’s Articles of Association.
+
+Ernst & Young Ltd has also issued a recommendation to the Annual Meeting that the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 be approved. As Garmin’s statutory auditor, Ernst & Young Ltd has expressed its opinion that such consolidated financial statements present fairly, in all material respects, the consolidated financial position of Garmin, the consolidated results of operations and cash flows in accordance with accounting principles generally accepted in the United States (U.S. GAAP) and comply with Swiss law.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL OF THE 2019 ANNUAL REPORT, THE CONSOLIDATED FINANCIAL STATEMENTS OF GARMIN FOR THE FISCAL YEAR ENDED DECEMBER 28, 2019 AND THE STATUTORY FINANCIAL STATEMENTS OF GARMIN FOR THE FISCAL YEAR ENDED DECEMBER 28, 2019.
+
+GARMIN LTD. - 2020 Proxy Statement 13
+
+Back to Contents
+
+PROPOSAL TWO	Appropriation of available earnings
+
+Under Swiss law, the appropriation of available earnings as set forth in Garmin’s statutory financial statements must be submitted to shareholders for approval at each annual general meeting. The Board proposes the following appropriation of available earnings:
+
+Proposed Appropriation of Available Earnings in Swiss Francs (“CHF”)
+Balance brought forward from previous years	CHF	77,320,000
+Net loss for the period (on a stand-alone unconsolidated basis):	CHF	(12,719,000)
+Total available for the general meeting:	CHF	64,601,000
+Resolution proposed by the Board of Directors:
+- RESOLVED, that the available earnings of CHF 64,601,000 shall be carried forward.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE APPROPRIATION OF AVAILABLE EARNINGS.
+
+GARMIN LTD. - 2020 Proxy Statement 14
+
+Back to Contents
+
+PROPOSAL THREE	Payment of a cash dividend in the aggregate amount of U.S. $2.44 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments
+
+Under Swiss law, the shareholders must approve the payment of any dividend or distribution at a general meeting. The Board proposes to the Annual Meeting that Garmin pay a cash dividend in the amount of U.S. $2.44 per outstanding share out of Garmin’s reserve from capital contribution payable in four equal installments at the dates determined by the Board in its discretion, as further specified in the proposed shareholder resolution set forth below. The Board currently expects that the dividend payment and record dates will be as follows:
+
+Dividend Date	Record Date	$	Per Share
+June 30, 2020	June 15, 2020	$	0.61
+September 30, 2020	September 15, 2020	$	0.61
+December 31, 2020	December 15, 2020	$	0.61
+March 31, 2021	March 15, 2021	$	0.61
+
+The Board’s dividend proposal has been confirmed to comply with Swiss law and Garmin’s Articles of Association by Garmin’s statutory auditor, Ernst & Young Ltd, a state-supervised auditing enterprise, representatives of which will be present at the Annual Meeting. The Board proposes the following resolutions with respect to the dividend:
+
+Reserve from Capital Contribution as per December 28, 2019	CHF	5,649,552,000
+Resolutions proposed by the Board of Directors:
+•	RESOLVED, that Garmin, out of, and limited at a maximum to the amount of, the Dividend Reserve (as defined below), pay a cash dividend in the amount of U.S. $2.44 per outstanding share1 out of Garmin’s reserve from capital contribution payable in four equal installments at the dates determined by the Board of Directors in its discretion, the record date and payment date for each such installment to be announced in a press release2 at least ten calendar days prior to the record date; and further
+•	RESOLVED, that the cash dividend shall be made with respect to the outstanding share capital of Garmin on the record date for the applicable installment, which amount will exclude any shares of Garmin held by Garmin or any of its direct or indirect subsidiaries; and further
+•	RESOLVED, that CHF 637,069,0003 be allocated to dividend reserves from capital contribution (the “Dividend Reserve”) from the reserve from capital contribution in order to pay such dividend of U.S. $2.44 per outstanding share (assuming a total of 198,077,418 shares4 eligible to receive the dividend); and further	CHF	(637,069,000)
+•	RESOLVED that if the aggregate dividend payment is lower than the Dividend Reserve, the relevant difference will be allocated back to the reserve from capital contribution; and further
+•	RESOLVED, that to the extent that any installment payment, when converted into Swiss francs, at a USD/CHF exchange rate prevailing at the relevant record date for the relevant installment payment, would exceed the Dividend Reserve then remaining, the U.S. dollar per share amount of that installment payment shall be reduced on a pro rata basis, provided, however, that the aggregate amount of that installment payment shall in no event exceed the then remaining Dividend Reserve.
+Reserve from Capital Contribution after Dividend Reserve Allocation	CHF	5,012,484,000
+
+(1)	In no event will the dividend payment exceed a total of U.S. $2.44 per share.
+(2)	The announcements will not be published in the Swiss Official Gazette of Commerce.
+(3)	Based on the currency conversion rate of 0.9764 as of December 28, 2019, with a total of 198,077,418 shares eligible for payout (based on the number of shares issued as at December 28, 2019), the aggregate Dividend Reserve would be CHF 637,069,000. The amount of the Dividend Reserve, calculated on the basis of the Company’s issued shares as at December 28, 2019, includes a margin of approximately 35% to accommodate (i) unfavorable currency fluctuation and (ii) new share issuance (see footnote 4 below) that may occur between the time when the dividend is approved by shareholders and when the last installment payment is made. Unused dividend reserves will be returned to the reserve from capital contribution after the last installment payment.
+(4)	This number is based on the registered share capital as at December 28, 2019. The number of shares eligible for dividend payments may change due to the repurchase of shares, the sale of treasury shares or the issuance of new shares, including (without limitation) from the conditional share capital reserved for the employee profit sharing program.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE PAYMENT OF A CASH DIVIDEND IN THE AGGREGATE AMOUNT OF U.S. $2.44 PER OUTSTANDING SHARE OUT OF GARMIN’S RESERVE FROM CAPITAL CONTRIBUTION IN FOUR EQUAL INSTALLMENTS.
+
+GARMIN LTD. - 2020 Proxy Statement 15
+
+Back to Contents
+
+PROPOSAL FOUR	Discharge of the members of the Board of Directors and the Executive Management from liability for the fiscal year ended December 28, 2019
+
+In accordance with Article 698, paragraph 2, item 5 of the Swiss Code of Obligations, it is customary for Swiss companies to request shareholders at the annual general meeting to discharge the members of the Board of Directors and the Executive Management from personal liability for their activities during the preceding fiscal year. This discharge is only effective with respect to facts that have been disclosed to shareholders and only binds shareholders who either voted in favor of the proposal or who subsequently acquired shares with knowledge that shareholders have approved this proposal. In addition, shareholders who vote against this proposal, abstain from voting on this proposal, do not vote on this proposal, or acquire their shares without knowledge of the approval of this proposal, may bring, as a plaintiff, any claims in a shareholder derivative suit within six months after the approval of the proposal. After the expiration of the six-month period, such shareholders will generally no longer have the right to bring, as a plaintiff, claims in shareholder derivative suits against the directors and the management.
+
+Pursuant to Article 23.1 of the Organizational Regulations of Garmin Ltd., the Executive Management consists of the Chief Executive Officer and such other officers expressly designated by the Board to be members of the Executive Management. The Board has designated the Chief Executive Officer and the Chief Financial Officer to be the members of Executive Management.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE DISCHARGE OF THE MEMBERS OF THE BOARD AND THE EXECUTIVE MANAGEMENT FROM LIABILITY FOR THE FISCAL YEAR ENDED DECEMBER 28, 2019.
+
+GARMIN LTD. - 2020 Proxy Statement 16
+
+Back to Contents
+
+PROPOSAL FIVE	Re-election of six directors
+
+Pursuant to Swiss law and our Articles of Association, the members of our Board of Directors must be elected annually and individually for a term extending until completion of the next annual general meeting.
+
+Garmin believes that the size of its board is appropriate considering the primary duties of the board, its governance structure, the experience of each board member, and the capabilities of the management team it oversees. Accordingly, our Board consists of six directors.
+
+The Board has nominated the following persons, each of whom is currently a director of Garmin, to stand for re-election for a term extending until completion of the annual general meeting in 2021: Jonathan C. Burrell, Joseph J. Hartnett, Min H. Kao, Catherine A. Lewis, Charles W. Peffer, and Clifton A. Pemble.
+
+References to the length of time during which (and, in the case of persons who are employees of Garmin, the positions in which they have served) the nominees for re-election have served as directors and/or employees of Garmin in their biographies included in this section of this Proxy Statement refer to their service as directors and/or officers of both (i) Garmin Ltd., a Cayman Islands company (“Garmin Cayman”) which was the ultimate parent holding company of the Garmin group of companies until June 27, 2010 and (ii) Garmin Ltd., a Swiss company, which became the ultimate parent holding company of the Garmin group of companies on June 27, 2010 pursuant to a scheme of arrangement under Cayman Islands law that was approved by the shareholders of Garmin Cayman on May 20, 2010.
+
+Mr. Burrell, Mr. Hartnett, Dr. Kao, Ms. Lewis, Mr. Peffer, and Mr. Pemble, have each indicated that they are willing and able to continue to serve as directors if re-elected,, and have consented to being named as nominees in this Proxy Statement.
+
+Jonathan C. Burrell, age 56, has been a director of Garmin since June 2018. Mr. Burrell is the CEO of the Burrell Family Office. In this role, he manages and provides direction for the assets and investments of the Burrell family. In addition, he is an inventor and active investor in financial, technology and clean energy related businesses. Mr. Burrell is an inventor on 35 issued and pending U.S. patents, many of which are owned by Garmin. Mr. Burrell holds a Bachelor of Science in Mechanical Engineering from Wichita State University. He has served on several boards of charitable organizations and currently serves as president of the Burrell family’s charitable foundation. The Board has concluded that Mr. Burrell should be nominated for re-election as a director of Garmin because: (1) his significant experience in product design and development provides the Board with valuable experience relevant to Garmin’s products; (2) he has considerable knowledge of Garmin’s business and operations from his previous service as a leader of Garmin’s engineering department; (3) he meets the requirements to be an independent director as defined in the listing standards for the Nasdaq Global Select Market; and (4) he satisfies the general criteria described below under “Nominating and Corporate Governance Committee”.
+Joseph J. Hartnett, age 64, has been a director of Garmin since June 2013. Mr. Hartnett was Interim President and Chief Executive Officer of Sparton Corporation (NYSE: SPA) from February 2016 to March 2019. Previously he served as President and Chief Executive Officer of Ingenient Technologies, Inc., and U.S. Robotics Corporation where he also served as Chief Financial Officer. Mr. Hartnett was a partner with Grant Thornton LLP where he was employed for over 20 years in various leadership positions at the regional, national and international level. Mr. Hartnett is a registered Certified Public Accountant in the State of Illinois and holds a Bachelor’s degree in Accounting from the University of Illinois at Chicago. Mr. Hartnett was a director of Sparton Corporation from September 2008 to March 2019 and was Chairman of its Board of Directors from October 2014 to February 2016. At Sparton Corporation Mr. Hartnett served as past chairman and member of the audit committee, past member of the compensation and nominating and corporate governance committees. He was a director of Crossroads Systems, Inc. (Nasdaq: CRDS) from March 2011 through June 2013. Mr. Hartnett had served as chairman of the audit committee at Crossroads and as a member of the compensation and the nominating and corporate governance committees. He is also a former director of both Ingenient Technologies, Inc. and U.S. Robotics Corporation. The Board has concluded that Mr. Hartnett should be nominated for re-election as a director of Garmin because: (1) his 20 years of experience as a Certified Public Accountant with Grant Thornton LLP and his experience as the chairman of the audit committee of two other public companies gives him strong qualifications to be a member of the Audit Committee of the Board, and he qualifies as an “audit committee financial expert” as defined by the SEC regulations implementing Section 407 of the Sarbanes-Oxley Act of 2002; (2) he has significant industry experience as a senior executive in the areas of international business, operations management, executive leadership, strategic planning and finance, as well as extensive corporate governance, executive compensation and financial experience; (3) he meets the requirements to be an independent director as defined in the listing standards for the Nasdaq Global Select Market; (4) through his years of service on our Board he has obtained a thorough knowledge of Garmin’s business and culture which enables him to provide effective advice and oversight to management consistent with our goal of long-term value creation for shareholders and (5) he satisfies the general criteria described below under “Nominating and Corporate Governance Committee”.
+Min H. Kao, age 71, has served as Executive Chairman of Garmin since January 2013. Dr. Kao served as Chairman of Garmin from September 2004 to December 2012 and was previously Co-Chairman of Garmin from August 2000 to August 2004. He served as Chief Executive Officer of Garmin from August 2002 to December 2012 and previously served as Co-Chief Executive Officer from August 2000 to August 2002. Dr. Kao has served as a director and officer of various subsidiaries of Garmin since August 1990. Dr. Kao holds Ph.D. and MS degrees in Electrical Engineering from the University of Tennessee and a BS degree in Electrical Engineering from National Taiwan University. Dr. Kao has not been a member of the board of directors of any entity other than Garmin or various subsidiaries of Garmin during the last five years. The Board has concluded that Dr. Kao should be nominated for re-election as a director of Garmin because: (1) he is one of the co-founders of Garmin and its various subsidiaries; (2) he possesses over 30 years of experience in Garmin’s operations and has a high level of relevant technical and business knowledge and experience; (3) he is uniquely positioned to understand Garmin’s vision and values; and (4) he satisfies the general criteria described below under “Nominating and Corporate Governance Committee”.
+
+GARMIN LTD. - 2020 Proxy Statement 17
+
+Back to Contents
+
+Catherine A. Lewis, age 67, has been a director of Garmin since June 2019. Ms. Lewis has more than 25 years of experience in the accounting and tax professions. She served as Global Head of Tax for KPMG’s Energy and Natural Resources practice from 2002 until her retirement in 2012. She served on KPMG’s Board of Directors for five years starting in 2004. Before joining KPMG in 2002, Ms. Lewis spent 17 years at Arthur Andersen. She has held the designation of Certified Public Accountant since 1987. Ms. Lewis has been a director of CorEnergy Infrastructure Trust, Inc. (NYSE: CORR) since July 2013, Chair of its Audit Committee since May 2016 and a member of its Investment Committee since July 2013. Management recommended that the Nominating Committee consider Ms. Lewis as a candidate for Board nomination. The Board has concluded that Ms. Lewis should be nominated for re-election as a director of Garmin because: (1) she has more than 25 years of experience as a Certified Public Accountant and has experience as the Audit Committee Chair of another public company and she qualifies as an “audit committee financial expert” as defined by the SEC regulations implementing Section 407 of the Sarbanes-Oxley Act of 2002; (2) she has significant experience advising public companies on U.S. and international taxation; (3) she meets the requirements to be an independent director as defined in the listing standards for the Nasdaq Global Select Market; (4) she satisfies the general criteria described below under “Nominating and Corporate Governance Committee”; and (5) she provides gender diversity to the Board.
+Charles W. Peffer, age 72, has been a director of Garmin since August 2004. Mr. Peffer was a partner in KPMG LLP and its predecessor firms from 1979 to 2002 when he retired. He served in KPMG’s Kansas City office as Partner in Charge of Audit from 1986 to 1993 and as Managing Partner from 1993 to 2000. Mr. Peffer has been a director of Sensata Technologies Holding PLC (formerly Sensata Technology Holding N.V.) since 2010; and a director of HDSupply Holdings, Inc. since 2013. Mr. Peffer has also served since 2003 as a trustee of the Commerce Funds, a family of seven mutual funds. The Board has concluded that Mr. Peffer should be nominated for re-election as a director of Garmin because: (1) his significant experience with KPMG and its predecessor firms gives him strong qualifications to be a member of the Audit Committee of the Board, and he qualifies as an “audit committee financial expert” as defined by the SEC regulations implementing Section 407 of the Sarbanes-Oxley Act of 2002; (2) he meets the requirements to be an independent director as defined in the listing standards for the Nasdaq Global Select Market; (3) through his years of service on our Board he has obtained a thorough knowledge of Garmin’s business and culture which enables him to provide effective advice and oversight to management consistent with our goal of long-term value creation for shareholders and (4) he satisfies the general criteria described below under “Nominating and Corporate Governance Committee”.
+Clifton A. Pemble, age 54, has served as a director of Garmin since August 2004 and has been President and Chief Executive Officer of Garmin since January 2013. Mr. Pemble served as President and Chief Operating Officer of Garmin from October 2007 to December 2012. He has served as a director and officer of various subsidiaries of Garmin since August 2003. He has been President and Chief Executive Officer of Garmin International, Inc. since January 2013. Previously, he served as Chief Operating Officer of Garmin International, Inc. from October 2007 to December 2012 and he was Vice President, Engineering of Garmin International, Inc. from 2005 to October 2007, Director of Engineering of Garmin International, Inc. from 2003 to 2005, Software Engineering Manager of Garmin International, Inc. from 1995 to 2002, and a Software Engineer with Garmin International, Inc. from 1989 to 1995. Garmin International, Inc. is a subsidiary of Garmin. Mr. Pemble holds BA degrees in Mathematics and Computer Science from MidAmerica Nazarene University. Mr. Pemble has not been a member of the board of directors of any entity other than Garmin and various subsidiaries of Garmin during the last five years. The Board has concluded that Mr. Pemble should be nominated for re-election as a director of Garmin because: (1) he has served Garmin and its various operating subsidiaries in many important roles for over 30 years; (2) he has a high level of relevant technical and business knowledge and experience; (3) he has a keen understanding of Garmin’s vision and values; and (4) he satisfies the general criteria described below under “Nominating and Corporate Governance Committee”.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” RE-ELECTION OF EACH OF THESE NOMINEES.
+
+Director Independence
+
+The Board has determined that, Mr. Burrell, Mr. Hartnett, Ms. Lewis and Mr. Peffer are independent directors under the applicable rules of the Nasdaq Stock Market LLC and the SEC. Mr. Burrell, Mr. Hartnett, Ms. Lewis and Mr. Peffer would constitute a majority of the Board.
+
+GARMIN LTD. - 2020 Proxy Statement 18
+
+Back to Contents
+
+Board Meetings and Standing Committee Meetings
+
+Meetings
+
+The Board held four meetings and took action by unanimous written consent eight times during the fiscal year ended December 28, 2019. Four executive sessions of the independent directors were held in the 2019 fiscal year. The Board has established three standing committees: the Audit Committee, the Compensation Committee and the Nominating and Corporate Governance Committee (the “Nominating Committee”). During the 2019 fiscal year, the Audit Committee held four meetings and took action by written consent once, the Compensation Committee held six meetings and took action by written consent once and the Nominating Committee held four meetings and took action by written consent once. Each director attended at least 75% of the aggregate of: (1) the total number of meetings of the Board and (2) the total number of meetings held by all committees on which such director served. It is Garmin’s policy to encourage directors to attend Garmin’s annual general meeting. All of the directors of Garmin except Rebecca R. Tilden (whose term of office expired at the 2019 annual general meeting) attended the 2019 annual general meeting.
+
+Audit Committee
+
+Mr. Peffer (Chairman), Mr. Hartnett and Ms. Lewis serve as the members of the Audit Committee. The Board has adopted a written charter for the Audit Committee, a copy of which is available on Garmin’s website at www.garmin.com. The functions of the Audit Committee include overseeing Garmin’s financial reporting processes on behalf of the Board, and appointing, and approving the fee arrangement with Ernst & Young LLP, Garmin’s independent registered public accounting firm and Ernst & Young Ltd, Garmin’s statutory auditor. The Board has determined that Mr. Hartnett, Ms. Lewis and Mr. Peffer are “audit committee financial experts” as defined by the SEC regulations implementing Section 407 of the Sarbanes-Oxley Act of 2002. The Board has determined that all the members of the Audit Committee are independent under the applicable rules of the Nasdaq Stock Market LLC and the SEC.
+
+Compensation Committee
+
+Mr. Hartnett (Chairman), Mr. Burrell, Mr. Peffer and Ms. Lewis serve as the members of the Compensation Committee.
+
+Our Articles of Association provide that the Compensation Committee shall, among other things, (1) consider and make recommendations to the Board of Directors; (2) assist the Board of Directors in discharging its responsibilities relating to compensations and related disclosure of the members of Executive Management, including the development of policies relating to Executive Management compensation and benefit programs; and (3) prepare and recommend to the Board of Directors the proposals of the Board of Directors to the general meeting of the shareholders regarding the compensation of the Board of Directors and the Executive Management. In addition, the Board has adopted a written charter for the Compensation Committee, a copy of which is available on Garmin’s website at www.garmin.com.
+
+The primary responsibilities of the Compensation Committee are to (a) review, approve and oversee Garmin’s compensation philosophy for executive officers, and oversee the development and implementation of compensation programs aligned with Garmin’s goals and objectives; (b) determine the compensation levels, as well as the components and structure of the compensation packages, of the Executive Chairman and CEO, based on their performance in light of Garmin’s goals and objectives, recent compensation history, and the application of any policies and procedures established by the Committee; (c) determine the compensation levels, as well as the components and structure of the compensation packages, of the other executive officers, based on input and recommendations from the CEO and based on their performance in light of relevant performance goals and objectives, recent compensation history, and the application of any policies or procedures established by the Committee; (d) review and approve any employment, change of control, severance or other agreements with the executive officers, and any amendments to such agreements; (e) prepare and recommend to the Board the proposals for submission at the annual general meeting of shareholders regarding the maximum aggregate compensation of the members of the Board and Garmin’s Executive Management, as required under applicable Swiss law; (f) review and discuss with management the proposed Compensation Discussion and Analysis section (“CD&A”) of Garmin’s annual meeting proxy statement and, based on such review and discussion, make a recommendation to the Board regarding inclusion of the CD&A in the proxy statement; and produce the annual Compensation Committee Report required by the Securities Exchange Act of 1934, as amended; (g) review and discuss with management the report regarding the compensation of the members of the Board and Garmin’s Executive Management to accompany Garmin’s statutory financial statements in accordance with Swiss law, and make a recommendation to the Board regarding inclusion of such report with the statutory financial statements; (h) recommend to the Board any changes in the amount, components and structure of compensation paid to the non-employee members of the Board for their service on the Board and its committees; (i) review the design and oversee the administration of Garmin’s broad-based employee compensation and benefit programs in a manner that is consistent with Garmin’s compensation philosophy and long-term strategic plan; (j) review potential risks related to Garmin’s compensation programs and policies, including whether any such programs and policies incentivize unnecessary and excessive risk taking; (k) review and make recommendations to the Board with respect to adoption and approval of, or amendments to, all equity-based incentive compensation plans for employees and non-employee directors, and the shares and amounts reserved thereunder after taking into consideration Garmin’s strategy
+
+GARMIN LTD. - 2020 Proxy Statement 19
+
+Back to Contents
+
+of long-term and equity-based compensation; (l) serve as the Board committee administering all such plans, including establishing guidelines, interpreting plan documents, and approving awards granted under the plans; and (m) make regular reports to the Board.
+
+The Board has determined that all the members of the Compensation Committee are independent under the applicable rules of the Nasdaq Stock Market LLC and the SEC. The processes and procedures for considering and determining executive compensation, including the Compensation Committee’s authority and role in the process, its delegation of authority to others, and the roles of Garmin executives and third-party executive compensation consultants in making decisions or recommendations on executive compensation, are described in “Executive Compensation Matters – Compensation Discussion and Analysis” below. Pursuant to Swiss law, the members of the Compensation Committee are elected annually by the shareholders at the annual general meeting.
+
+Nominating and Corporate Governance Committee
+
+Mr. Burrell (Chairman), Mr. Hartnett, Mr. Peffer and Ms. Lewis serve as the members of the Nominating and Corporate Governance Committee (the “Nominating Committee”).
+
+The Board has adopted a written charter for the Nominating Committee. A copy of the Nominating Committee Charter is available on Garmin’s website at www.garmin.com. The primary responsibilities of the Nominating Committee are to (a) evaluate the current composition, size, role and functions of the Board and its committees to oversee successfully the business and affairs of Garmin and make recommendations to the Board for approval, except with respect to the size of the Board, make recommendations to the Board for submission to shareholders for approval; (b) determine director selection criteria and conduct searches for prospective directors whose skills and attributes reflect these criteria; (c) evaluate and recommend nominees for election to the Board; (d) evaluate and make recommendations to the Board concerning the appointment of directors to serve on each standing committee and the selection of Board committee chairpersons, except that, as required by mandatory Swiss law, members of the Compensation Committee shall be elected by the shareholders; (e) evaluate and make recommendations to the Board of a nominee for election by the shareholders to serve as Chairman of the Board; (f) evaluate prior to each annual general meeting, and report to the Board on, the financial literacy of the Audit Committee members and whether the Audit Committee has at least one Audit Committee Financial Expert and one Audit Committee member who has accounting or related financial management expertise; (g) evaluate prior to each annual general meeting, and report to the Board on, the independence of director nominees and Board members under applicable laws, regulations, and stock exchange listing standards; (h) create and implement a process for the Board to annually evaluate its own performance; (i) recommend to the Board Corporate Governance Guidelines; (j) review periodically the Corporate Governance Guidelines and recommend such modifications to the Board as the Nominating Committee deems appropriate; (k) oversee Garmin’s corporate governance practices, including reviewing and recommending to the Board for approval any changes to the other documents and policies in Garmin’s corporate governance framework, including its articles of association and organizational regulations; (l) verify that the Board and each Board committee has annually evaluated its own performance; (m) review and/ or investigate any matters pertaining to the integrity of management or the Board or any committee thereof; (n) annually evaluate the Nominating Committee’s own performance and periodically evaluate the adequacy of its Charter; and (o) report to the Board on Nominating Committee actions (other than routine or administrative actions).
+
+The Board has determined that all the members of the Nominating Committee are independent under the applicable rules of the Nasdaq Stock Market LLC and the SEC.
+
+The Nominating Committee believes that the composition of the Board should reflect a diversity of experience, race, gender and ethnicity and seeks to include individuals from diverse backgrounds (inclusive of race, gender and ethnicity) with varying perspectives, professional experience, education and skills in the pool from which nominees for vacancies on the Board are chosen.
+
+In selecting candidates for nomination at the annual general meeting of Garmin’s shareholders, the Nominating Committee begins by determining whether the incumbent directors desire and are qualified to continue their service on the Board. The Nominating Committee is of the view that the continuing service of qualified incumbents promotes stability and continuity in the board room, giving the Board the familiarity and insight into Garmin’s affairs that its directors have accumulated during their tenure, while contributing to their work as a collective body. Accordingly, it is the policy of the Nominating Committee, absent special circumstances, to nominate qualified incumbent directors who continue to satisfy the Nominating Committee’s criteria for membership on the Board, whom the Nominating Committee believes will continue to make a valuable contribution to the Board and who consent to stand for reelection and, if reelected, to continue their service on the Board. If there are Board vacancies and the Nominating Committee does not re-nominate a qualified incumbent, the Nominating Committee will consider and evaluate director candidates recommended by the Board, members of the Nominating Committee, management and any shareholder owning one percent or more of Garmin’s outstanding shares.
+
+The Nominating Committee will use the same criteria to evaluate all director candidates, whether recommended by the Board, members of the Nominating Committee, management or a one percent shareholder. The Nominating Committee has adopted the policy that a shareholder owning one percent or more of Garmin’s outstanding shares may recommend director candidates for consideration by the Nominating Committee by writing to the Company Secretary, by facsimile at +41 52 630 1601 or by mail at Garmin Ltd., Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland. The recommendation must contain the proposed candidate’s name, address, biographical data, a description of the proposed candidate’s business experience, a description of the proposed candidate’s qualifications for consideration as a director, a representation that the nominating shareholder is a beneficial or record owner of one percent or more of Garmin’s outstanding shares (based on the number of outstanding shares reported on the cover page of Garmin’s most recently filed Annual Report on Form 10-K) and a statement of the number of Garmin shares owned by such shareholder. The recommendation must also be accompanied by the written consent of the proposed candidate to be named as a nominee and to serve as a director of Garmin if nominated and elected. A shareholder may not recommend him or herself as a director candidate.
+
+Garmin’s Corporate Governance Guidelines adopted by the Board require that a majority of Garmin’s directors be independent and that any independent director candidate meet the definition of an independent director under the listing standards of the Nasdaq Global Select Market. The Nominating Committee also requires that at least one independent director qualify as an audit committee financial expert. The Nominating Committee also requires that an independent director candidate should have either (a) at least ten years’ experience at a policy-making level or other level with significant decision-making responsibility in an organization or institution or (b) a high level of technical knowledge or business experience relevant to Garmin’s technology or industry. In addition, the Nominating Committee requires that an independent director candidate have such financial expertise, character,
+
+GARMIN LTD. - 2020 Proxy Statement 20
+
+Back to Contents
+
+integrity, ethical standards, interpersonal skills and time to devote to Board matters as would reasonably be considered to be appropriate in order for the director to carry out his or her duties as a director.
+
+In evaluating a director candidate (including the nomination of an incumbent director), the Nominating Committee considers, among other things, whether the candidate meets the Nominating Committee’s requirements for independent director candidates, if applicable. The Nominating Committee also considers a director candidate’s skills and experience and diversity of background and perspective (inclusive of race, gender and ethnicity) in the context of the perceived needs of the Board at the time of consideration. Additionally, in recommending an incumbent director for re-election, the Nominating Committee considers the nominee’s prior service to Garmin’s Board and continued commitment to service on the Board.
+
+Board Leadership Structure and Role in Risk Oversight
+
+Dr. Min H. Kao serves as Executive Chairman of the Board, and Clifton A. Pemble serves as President and Chief Executive Officer. The Board believes this Board leadership structure is appropriate and desirable because Mr. Pemble is well-positioned to be Chief Executive Officer since he has been at Garmin since 1989 and held a number of leadership positions prior to becoming Chief Executive Officer on January 1, 2013, including President and Chief Operating Officer, and Dr. Kao’s continued contribution as Executive Chairman adds significant value because he is a co-founder of Garmin, which gives him a unique perspective of the company’s history, vision and values. In addition, because of his significant ownership of Garmin shares, Dr. Kao’s interests are aligned with those of Garmin’s shareholders.
+
+Garmin does not have a lead independent director. Instead, all of the independent directors play an active role on the Board. The independent directors make up a majority of the Board, and a majority of the independent directors are or have been leaders in industry with a history of exercising critical thought and sound judgment.
+
+The entire Board performs the risk oversight role. Garmin’s Chief Executive Officer is a member of the Board, and Garmin’s Chief Financial Officer and its General Counsel regularly attend Board meetings, which helps facilitate discussions regarding risk between the Board and Garmin’s senior management, as well as the exchange of risk-related information or concerns between the Board and the senior management. Further, the independent directors meet in executive session at the majority of the regularly scheduled Board meetings to voice their observations or concerns and to shape the agendas for future Board meetings.
+
+The Board believes that, with these practices, each director has an equal stake in the Board’s actions and oversight role and equal accountability to Garmin and its shareholders.
+
+Compensation and Risk
+
+Garmin regularly assesses risks related to compensation programs, including our executive compensation programs. Garmin does not believe that there are any risks arising from Garmin’s compensation policies and practices that are reasonably likely to have a material adverse effect on Garmin.
+
+Shareholder Communications with Directors
+
+The Board has established a process to receive communications from shareholders. Shareholders may communicate with the Board or with any individual director of Garmin by writing to the Board or such individual director in care of Garmin’s Corporate Secretary, by facsimile at +41 52 630 1601 or by mail at Garmin Ltd., Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland. All such communications must identify the author as a shareholder, state the number of shares owned by the author and state whether the intended recipients are all members of the Board or just certain specified directors. The Company Secretary will make copies of all such communications and send them to the appropriate director or directors.
+
+GARMIN LTD. - 2020 Proxy Statement 21
+
+Back to Contents
+
+Compensation Committee Interlocks and Insider Participation; Certain Relationships
+
+Garmin had no compensation committee interlocks for the fiscal year ended December 28, 2019.
+
+Garmin has adopted a written policy for the review by the Audit Committee of transactions in which Garmin is a participant and any related person will have a direct or indirect material interest in the transaction. This policy is generally designed to cover those related party transactions that would be required to be disclosed in a proxy statement, annual report on Form 10-K or registration statement pursuant to Item 404(a) of Regulation S-K. However, the policy is more encompassing in that the amount involved in a transaction covered by the policy must only exceed $60,000 while disclosure under Item 404(a) is required only if the amount involved exceeds $120,000. The policy defines the terms “transaction” and “related person” in the same manner as Item 404(a) of Regulation S-K.
+
+If the nature of the timing of a related party transaction is such that it is not practical to obtain advance approval by the Audit Committee, then management may enter into it, subject to ratification by the Audit Committee. If ratification is not subsequently obtained, then management must take all reasonable efforts to cause the related person transaction to be null and void.
+
+The Audit Committee will approve or ratify only those related party transactions that it determines in good faith are in, or are not inconsistent with, the best interests of Garmin and its shareholders. In making that determination, the Audit Committee shall consider all of the relevant facts and circumstances available to it, including the benefits to Garmin and whether the related party transaction is on terms and conditions comparable to those available in arms-length dealing with an unrelated third party that can provide comparable products or services.
+
+The Audit Committee will also annually review ongoing related party transactions after considering all relevant facts and circumstances. The Audit Committee will then determine if those transactions should be terminated or modified based on whether it is still in the best interests, or not inconsistent with the best interests, of Garmin and its shareholders.
+
+Non-Management Director Compensation
+
+Each Garmin director, who is not an officer or employee of Garmin, or of a subsidiary of Garmin, is compensated for service on the Board and its committees. The annual director compensation package at Garmin is designed to attract and retain highly-qualified, independent professionals to represent Garmin’s shareholders.
+
+Each director, who is not an officer or employee of Garmin or its subsidiaries (a “Non-Management Director”), is paid an annual retainer of $85,000. Each Non-Management Director, who chairs a standing committee of the Board (other than the Audit Committee), also receives an annual retainer of $5,000. The Non-Management Director who chairs the Audit Committee receives an annual retainer of $10,000. Each Non-Management Director also receives an annual award of restricted stock units valued at $150,000.
+
+The maximum aggregate compensation for the Board of Directors for the period between the 2020 Annual General Meeting and the 2021 Annual General Meeting submitted to shareholders for approval under Proposal No. 12 reflects the above compensation program for Non-Management Directors, and also includes an annual salary for our Executive Chairman.
+
+Garmin does not have formal stock ownership guidelines for its directors.
+
+2019 Non-Management Director Compensation
+
+The following table shows the compensation paid to our Non-Management Directors in 2019:
+
+Name	Fees Earned or
+Paid in Cash
+($)	Stock Awards
+($)(1)	SAR/Option
+Awards
+($)	Non-Equity
+Incentive Plan
+Compensation
+($)	Change in
+Pension Value
+& Nonqualified
+Deferred
+Compensation
+Earnings
+($)	All Other
+Compensation
+($)	Total
+($)
+Jonathan Burrell	$	90,000	$	150,019	$	-	$	-	$	-	$	-	$	240,019
+Joseph Hartnett	$	90,000	$	150,019	$	-	$	-	$	-	$	-	$	240,019
+Catherine Lewis	$	49,583	$	150,019	$	-	$	-	$	-	$	-	$	199,602
+Charles Peffer	$	95,000	$	150,019	$	-	$	-	$	-	$	-	$	245,019
+Rebecca Tilden(2)	$	35,417	$	0	$	-	$	-	$	-	$	-	$	35,417
+
+(1)	This column shows the grant date fair value of stock awards granted in 2019 to each of the non-management directors. As of December 28, 2019, Mr. Burrell, Mr. Hartnett, Ms. Lewis and Mr. Peffer, respectively, owned 3,733, 4,602, 2,004 and 4,602 outstanding stock awards.
+(2)	Ms. Tilden’s term of office expired at the 2019 annual general meeting.
+
+GARMIN LTD. - 2020 Proxy Statement 22
+
+Back to Contents
+
+PROPOSAL SIX	Re-election of Chairman
+
+Pursuant to Swiss law, the chairman of a Swiss company listed on a stock exchange is required to be elected annually by the shareholders for a term extending until completion of the next annual general meeting.
+
+Subject to his re-election as a member of the Board, the Board has nominated Dr. Min Kao, who is currently the Executive Chairman of Garmin, to stand for re-election as Executive Chairman for a term extending until completion of the annual general meeting in 2021. Dr. Kao has indicated that he is willing and able to continue to serve as Executive Chairman if re-elected.
+
+Information about Dr. Kao can be found at page __ of this Proxy Statement.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE RE-ELECTION OF MIN H. KAO AS EXECUTIVE CHAIRMAN.
+
+GARMIN LTD. - 2020 Proxy Statement 23
+
+Back to Contents
+
+PROPOSAL SEVEN	Re-election of four Compensation Committee members
+
+Pursuant to Swiss law, the members of the compensation committee of a Swiss company listed on a stock exchange are required to be elected annually and individually by the shareholders for a term extending until completion of the next annual general meeting.
+
+Subject to their re-election as members of the Board, the Board has nominated Jonathan C. Burrell, Joseph J. Hartnett, Catherine A. Lewis and Charles W. Peffer, who are currently members of the Compensation Committee, to stand for re-election as members of the Compensation Committee for a term extending until completion of the annual general meeting in 2021. If elected, Mr. Hartnett will be re-appointed as chairman of the Compensation Committee. Mr. Burrell, Mr. Hartnett, Ms. Lewis and Mr. Peffer have each indicated that they are willing and able to serve as a member of the Compensation Committee if re-elected.
+
+Information about Messrs. Burrell, Hartnett and Peffer and Ms. Lewis can be found at pages __ through __ of this Proxy Statement.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” RE-ELECTION OF EACH OF THESE NOMINEES.
+
+GARMIN LTD. - 2020 Proxy Statement 24
+
+Back to Contents
+
+PROPOSAL EIGHT	Re-election of the independent voting rights representative
+
+Swiss law requires that the shareholders of a Swiss company listed on a stock exchange elect annually an independent voting rights representative for a term extending until completion of the next annual general meeting.
+
+The main duty of the independent voting rights representative is to exercise the voting rights in accordance with the instructions received from shareholders. The independent voting rights representative will not make statements, submit proposals or ask questions to the Board on behalf of shareholders. The Board has recommended that the law firm of Wuersch & Gering LLP, 100 Wall Street, 10th Floor, New York, NY 10005, USA be re-elected as the independent voting rights representative for a term extending until completion of the annual general meeting in 2021. Wuersch & Gering LLP is a New York law firm with lawyers who have experience in Swiss legal matters. Wuersch & Gering LLP does not perform any other services for Garmin.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE RE-ELECTION OF WUERSCH & GERING LLP AS THE INDEPENDENT VOTING RIGHTS REPRESENTATIVE.
+
+GARMIN LTD. - 2020 Proxy Statement 25
+
+Back to Contents
+
+PROPOSAL NINE	Ratification of the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the fiscal year ending December 26, 2020 and re-election of Ernst & Young Ltd as Garmin’s statutory auditor for another one-year term
+
+Ernst & Young LLP has acted as Garmin’s independent registered public accounting firm since 2000 and has been appointed by the Audit Committee to audit and certify Garmin’s financial statements for the fiscal year ending December 26, 2020.
+
+Ernst & Young Ltd was re-elected as Garmin’s statutory auditor for 2019. Swiss law and our Articles of Association require that our shareholders elect annually a firm as statutory auditor. The statutory auditor’s main task is to audit our consolidated financial statements and parent company financial statements that are required under Swiss law. The Audit Committee and Board propose that Ernst & Young Ltd be re-elected as Garmin’s statutory auditor for another one-year term.
+
+Representatives of Ernst & Young Ltd will be present at the Annual Meeting. They will have the opportunity to make a statement if they desire and will be available to respond to appropriate questions.
+
+If the shareholders do not ratify the appointment of Ernst & Young LLP, the Audit Committee will reconsider whether to appoint Ernst & Young LLP as Garmin’s registered independent public accounting firm for the fiscal year ending December 26, 2020.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE RATIFICATION OF THE APPOINTMENT OF ERNST & YOUNG LLP AS GARMIN’S INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM FOR THE FISCAL YEAR ENDING DECEMBER 26, 2020 AND RE-ELECTION OF ERNST & YOUNG LTD AS GARMIN’S STATUTORY AUDITOR FOR ANOTHER ONE-YEAR TERM.
+
+GARMIN LTD. - 2020 Proxy Statement 26
+
+Back to Contents
+
+PROPOSAL TEN	Advisory Vote on Executive Compensation
+
+As required by Section 14A of the Securities Exchange Act of 1934, the Board proposes that shareholders be provided with an annual advisory vote on the compensation of Garmin’s Named Executive Officers, as disclosed in the Compensation Discussion and Analysis, the accompanying compensation tables and any related material disclosed in this Proxy Statement. As described in the Compensation Discussion and Analysis, the objectives of Garmin’s executive compensation program are to:
+
+1.	Provide executive compensation that Garmin believes is fair, reasonable and competitive in order to attract, motivate and retain a highly qualified executive team;
+2.	Reward executives for individual performance and contribution;
+3.	Provide incentives to executives to enhance shareholder value;
+4.	Reward executives for long-term, sustained individual and Company performance; and
+5.	Provide executive compensation that is viewed as internally equitable by both the executives and the broader Garmin employee population.
+
+As an advisory vote, the shareholders’ vote on this proposal is not binding on Garmin. However, we value the opinions of Garmin shareholders and the Compensation Committee of our Board plans to review voting results on this proposal and will give consideration to such voting when making future executive compensation decisions for Garmin’s Named Executive Officers.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL OF THE COMPENSATION OF GARMIN’S NAMED EXECUTIVE OFFICERS AS DISCLOSED IN THIS PROXY STATEMENT RELATING TO THE ANNUAL GENERAL MEETING OF SHAREHOLDERS PURSUANT TO THE EXECUTIVE COMPENSATION DISCLOSURE RULES PROMULGATED BY THE SEC.
+
+GARMIN LTD. - 2020 Proxy Statement 27
+
+Back to Contents
+
+PROPOSAL ELEVEN	Binding Vote to Approve Fiscal Year 2021 Maximum Aggregate Compensation for the Executive Management
+
+Pursuant to Swiss law and Article 22(a) of the Articles of Association of Garmin, the shareholders must annually approve the maximum aggregate compensation of the Executive Management for the next fiscal year.
+
+Pursuant to Article 23.1 of the Organizational Regulations of Garmin, the Executive Management consists of the Chief Executive Officer and such other officers expressly designated by the Board to be members of the Executive Management. The Board has designated the Chief Executive Officer and the Chief Financial Officer to be the members of Executive Management.
+
+The Board proposes that the amount of U.S. $5,823,000 be approved as the maximum aggregate amount of compensation of the Executive Management for the fiscal year commencing on December 27, 2020 and ending on December 25, 2021. Such maximum aggregate amount includes all forms of cash, stock and other compensation and is based on the expected fiscal year 2021 compensation of the Executive Management with the addition of 20% for unforeseen contingencies and possible compensation increases as shown in the table below. This amount represents the maximum possible amount that Garmin could pay to the Executive Management in the 2021 fiscal year and not necessarily the actual amount that will be paid. Actual 2021 fiscal year compensation for the Executive Management will be determined by the Compensation Committee based on company and individual performance and other relevant factors.
+
+Maximum Aggregate Executive Management Compensation Proposal for the 2021 Fiscal Year
+
+CEO 2021 annual salary	$	1,050,000
+CEO 2021 stock compensation (assuming full vesting of all performance-based RSUs)	$	2,450,000
+Maximum company contributions for CEO under Retirement Plan	$	33,750
+CFO 2021 annual salary	$	650,000
+CFO 2021 stock compensation (assuming full vesting of all performance-based RSUs)	$	650,000
+Maximum company contributions for CFO under Retirement Plan	$	33,750
+Subtotal	$	4,852,500
+Add buffer for possible compensation increases and all other contingencies	$	970,500
+TOTAL	$	5,823,000	(1)
+
+(1)	Garmin’s social security and Medicare contributions for the Executive Management pursuant to applicable law are not included in the maximum aggregate amount. The estimated aggregate amount of Garmin’s social security contributions for the Executive Management is U.S. $17,075 and Garmin is also required to pay Medicare contributions in the amount of 1.45% of all taxable income of the Executive Management.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL OF THE FISCAL YEAR 2021 MAXIMUM AGGREGATE COMPENSATION FOR THE EXECUTIVE MANAGEMENT.
+
+GARMIN LTD. - 2020 Proxy Statement 28
+
+Back to Contents
+
+PROPOSAL TWELVE	Binding Vote to Approve Maximum Aggregate Compensation for the Board of Directors for the period between the 2020 Annual General Meeting and the 2021 Annual General Meeting
+
+Pursuant to Swiss law and Article 22(a) of the Articles of Association of Garmin the shareholders must annually approve the maximum aggregate compensation of the Board of Directors for the period between the annual general meeting at which approval is sought and the next annual general meeting. This proposal is based on the Board of Directors consisting of six directors, of whom four are Non-Management Directors. Only the Non-Management Directors and the Executive Chairman are included in this proposal. The President and Chief Executive Officer, who also is a member of the Board of Directors, does not receive any compensation for his role as a director.
+
+The Board proposes that the amount of $1,612,903 be approved as the maximum aggregate amount of compensation for the Board of Directors for the period between the 2020 annual general meeting and the 2021 annual general meeting. A description of the compensation program for the Board of Directors is provided on page ___ (the “Board Compensation Program”). The proposed maximum aggregate amount includes all forms of cash, stock and other compensation and is based on the Board Compensation Program with the addition of a buffer for unforeseen contingencies as shown in the table below. This amount represents the maximum possible amount that Garmin could pay to the Board of Directors for the period between the 2020 annual general meeting and the 2021 annual general meeting and not necessarily the actual amount that will be paid. The actual amount is currently expected to be the same as provided for in the Board Compensation Program in the case of the Non-Management Directors.
+
+Maximum Aggregate Board Compensation Proposal for the period between the 2020 AGM and the 2021 AGM
+
+Annual Board retainer of $85,000 x 4 outside directors	$	340,000
+Audit Committee Chairman annual retainer	$	10,000
+Compensation Committee Chairman annual retainer	$	5,000
+Nominating Committee Chairman annual retainer	$	5,000
+Annual RSU grant value $150,000 x 4 outside directors	$	600,000
+Executive Chairman annual salary	$	350,336
+Maximum retirement contribution for Executive Chairman under Garmin International, Inc. Retirement Plan	$	33,750
+Subtotal	$	1,344,086
+Add buffer for contingencies	$	268,817
+TOTAL	$	1,612,903	(1)
+
+(1)	Garmin’s social security and Medicare contributions for the Executive Chairman pursuant to applicable law are not included in the maximum aggregate amount. The estimated amount of Garmin’s social security contributions for the Executive Chairman is $8,537and Garmin is also required to pay Medicare contributions in the amount of 1.45% of all taxable compensation of the Executive Chairman.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL OF THE MAXIMUM AGGREGATE COMPENSATION FOR THE BOARD OF DIRECTORS FOR THE PERIOD BETWEEN THE 2020 ANNUAL GENERAL MEETING AND THE 2021 ANNUAL GENERAL MEETING.
+
+GARMIN LTD. - 2020 Proxy Statement 29
+
+Back to Contents
+
+PROPOSAL THIRTEEN	Renewal of the Authorized Share Capital
+
+Under Swiss law, the power of the Board to issue shares from authorized share capital must be renewed by approval of the shareholders every two years. The authorized share capital according to Article 5 of Garmin’s Articles of Association resolved by the Annual General Meeting on June 8, 2018 expires on June 8, 2020. The Board proposes to renew the authorized share capital in the amount of CHF 1,980,774.10 corresponding to 19,807,741 registered shares with a nominal value of CHF 0.10 each, until June 5, 2022. The proposed shareholder resolution and the proposed amendments to the Articles of Association are included in Annex 1.
+
+The Board believes that it is customary for public companies incorporated in Switzerland to maintain an authorized share capital and that the renewal of the authorized share capital is prudent to ensure that Garmin maintains financial flexibility. The renewal of the authorized share capital does not mean that there will be any increase in share capital. The Board does not currently have any plans to issue shares out of the authorized share capital. The share capital would only be increased if and when the Board makes use of this authorization. The authorized share capital will not be used in connection with any employee share incentive plans.
+
+If the proposed renewal of the authorized share capital is approved, and the Board resolves to use the authorized share capital, the Board will determine the time of the issuance, the issuance price, the manner in which the shares have to be paid, the date from which the shares carry the right to dividends and, subject to the provisions of our Articles of Association, the conditions for the exercise of the preemptive rights with respect to the issuance and the allotment of pre-emptive rights that are not exercised. Further, under our Articles of Association, in connection with the issuance of shares from authorized capital, the Board is authorized to limit or withdraw the preemptive rights of the existing shareholders in various circumstances, including financing and acquisitions purposes. To the extent that shares are issued out of the authorized share capital in the future, the issuance may decrease the existing shareholders’ percentage of equity ownership and, depending on the price at which such shares are issued, could be dilutive to the existing shareholders up to the amount of the authorized capital proposed above.
+
+THE BOARD UNANIMOUSLY RECOMMENDS THAT YOU VOTE “FOR” THE APPROVAL OF THE RENEWAL OF THE AUTHORIZED SHARE CAPITAL
+
+GARMIN LTD. - 2020 Proxy Statement 30
+
+Back to Contents
+
+AUDIT MATTERS
+
+Report of Audit Committee
+
+This report is submitted by the Audit Committee of the Board.
+
+The Board pursues its responsibility for oversight of Garmin’s financial reporting process through the Audit Committee. The Board, in its business judgment, has determined that all members of the Audit Committee are independent and financially literate as required by the applicable listing standards of the Nasdaq Global Select Market. The Audit Committee operates pursuant to a charter adopted by the Board, as amended and restated on July 26, 2019, a copy of which is posted at https://www8.garmin.com/ aboutGarmin/invRelations/documents/Audit_Committee_Charter_190726. pdf. The Audit Committee and the Board annually review and assess the adequacy of the charter.
+
+The Audit Committee meets regularly with the independent auditor, management and Garmin’s internal auditors. The independent auditor and Garmin’s internal auditors have direct access to the Audit Committee, with and without the presence of management representatives, to discuss the scope and results of their work and their comments on the adequacy of internal accounting controls and the quality of financial reporting.
+
+In performing its oversight function, the Audit Committee reviewed and discussed Garmin’s audited consolidated financial statements for the fiscal year ended December 28, 2019, with management and with Ernst & Young LLP, the independent registered public accounting firm retained by Garmin to audit its financial statements, and with Ernst & Young Ltd, its statutory auditor. The Audit Committee received and reviewed management’s representation and the opinion of the independent registered public accounting firm and the statutory auditor that Garmin’s audited financial statements were prepared in accordance with United States generally accepted accounting principles. The Audit Committee also discussed with the independent registered public accounting firm and the statutory auditor during the 2019 fiscal year the matters required to be discussed by applicable requirements of the Public Company Accounting Oversight Board and the SEC.
+
+The Audit Committee received from Ernst & Young LLP the written disclosures and the letter required by applicable requirements of the Public Company Accounting Oversight Board regarding Ernst & Young LLP’s communications with the Audit Committee concerning independence and discussed with Ernst & Young LLP the independence of their firm. The Audit Committee considered whether the non-audit services provided by Ernst & Young LLP are compatible with their independence.
+
+Based upon the review and discussions referenced above, the Audit Committee recommended to Garmin’s Board, and the Board approved, that the audited consolidated financial statements be included in Garmin’s Annual Report on Form 10-K for the fiscal year ended December 28, 2019, for filing with the SEC.
+
+Audit Committee
+Charles W. Peffer, Chairman
+Joseph J. Hartnett
+Catherine A. Lewis
+
+Independent Registered Public Accounting Firm Fees
+
+The following table sets forth the aggregate fees billed to Garmin for the fiscal year ended December 28, 2019 and the fiscal year ended December 29, 2018 by Garmin’s independent registered public accounting firm, Ernst & Young LLP (U.S. dollars listed in thousands):
+
+(U.S. Dollars listed in thousands)	2019	2018
+Audit Fees	$	3,192	$	2,983
+Audit Related Fees	-	-
+Tax Fees(a)(b)	-	7
+All Other Fees(a)(b)	7	-
+TOTAL	$	3,199	$	2,990
+
+(a)	The Audit Committee has concluded that the provision of these services is compatible with maintaining the independence of Ernst & Young.
+(b)	All Other Fees and Tax Fees include online subscription fees in 2019 and 2018, respectively.
+
+Pre-Approval of Services Provided by the Independent Auditor
+
+The Audit Committee has adopted a policy that requires advance approval by the Audit Committee of all audit services, audit-related services, tax services and other services performed by Ernst & Young. The policy provides for pre-approval by the Audit Committee annually of specifically defined services up to specifically defined fee levels. Unless the specific service has been previously pre-approved with respect to that year, the Audit Committee must approve the permitted service before Ernst & Young is engaged to perform it. The Audit Committee has delegated to the Audit Committee Chairman authority to approve permitted services provided that the Chairman reports any such approval decisions to the Audit Committee at its next meeting. The Audit Committee pre-approved all services that Ernst & Young rendered to Garmin and its subsidiaries in 2019.
+
+GARMIN LTD. - 2020 Proxy Statement 31
+
+Back to Contents
+
+EXECUTIVE COMPENSATION MATTERS
+
+Compensation Committee Report
+
+The Compensation Committee reviewed and discussed with management the “Compensation Discussion and Analysis” section of this Proxy Statement. Based upon such review and discussion, the Compensation Committee recommended to the Board that the “Compensation Discussion and Analysis” section be included in this Proxy Statement.
+
+Compensation Committee
+
+Joseph J. Hartnett (Chairman)
+Jonathan C. Burrell
+Catherine A. Lewis
+Charles W. Peffer
+
+Compensation Discussion and Analysis
+
+This Compensation Discussion and Analysis provides a detailed description of our executive compensation philosophy and programs, the compensation recommendations the Compensation Committee made to the Board under those programs and the factors considered in making those recommendations. This Compensation Discussion and Analysis focuses on the compensation of our Named Executive Officers for 2019, who were:
+
+Name	Title
+Dr. Min H. Kao	Executive Chairman
+Clifton A. Pemble	President and Chief Executive Officer
+Douglas G. Boessen	Chief Financial Officer and Treasurer
+Andrew R. Etkind	Vice President, General Counsel and Secretary
+Philip I. Straub	Executive Vice President, Managing Director - Aviation, Garmin International, Inc.
+Patrick G. Desbois	Executive Vice President, Operations, Garmin International, Inc.
+
+Our Business
+
+Garmin is a leading, worldwide provider of navigation, communication and information devices and applications, many of which are enabled by Global Positioning System (GPS) technology. Garmin designs, develops, manufactures and markets a diverse family of hand-held, wearable, portable and fixed-mount GPS-enabled products and other navigation, communications and information products for the automotive, aviation, fitness, marine, and outdoor recreation markets. For a detailed discussion of our business, please see Part I, Item 1, “Business”, of our Annual Report on Form 10-K for the year ended December 28, 2019.
+
+2019 Business Highlights
+
+	•	Record total revenue of $3,758 million, a 12% increase, with aviation, marine, outdoor and fitness collectively increasing 18% over 2018.
+	•	Gross and operating margins improved to 59.5% and 25.2%, respectively, in 2019.
+	•	Record operating income of $946 million, representing 21% growth over 2018.
+	•	Selected by BMW AG as their lead design and production partner of infotainment modules for the BMW Group.
+
+GARMIN LTD. - 2020 Proxy Statement 32
+
+Back to Contents
+
+Our Compensation Philosophy
+
+Garmin’s management and Compensation Committee consider executive compensation in light of the entire associate population in order to establish compensation practices that are internally equitable and competitive with other companies that compete with us for talent, based on market information, including data obtained from third party compensation data providers and through Garmin’s recruitment and retention experience. Executives are therefore compensated using the same elements and approach as the broader group of associates who contribute to Garmin’s success.
+
+Although the Compensation Committee considers market information, including data obtained from third party compensation data providers and through Garmin’s recruitment and retention experience, the Compensation Committee does not attempt to set compensation to meet specific benchmarks, such as targeting a specific percentile of a compensation component paid by one or more peer groups. The Compensation Committee makes recommendations to the Board regarding executive compensation based on its knowledge of individualized contributions and capabilities of our executives, the positions involved and the amount and form of compensation that the Compensation Committee believes is needed to attract, motivate and retain appropriate talent. The Board makes the final determinations regarding executive compensation, based on the recommendations of the Compensation Committee.
+
+Objectives of the Compensation Program
+
+The objectives of Garmin’s executive compensation program are to:
+
+	•	Provide executive compensation that Garmin believes is fair, reasonable and competitive in order to attract, motivate and retain a highly qualified executive team;
+	•	Reward executives for individual performance and contribution;
+	•	Provide incentives to executives to enhance shareholder value;
+	•	Reward executives for long-term, sustained individual and Company performance; and
+	•	Provide executive compensation that is viewed as internally equitable and fair by both the executives and the broader Garmin employee population.
+
+Key Governance Features
+
+What We Do	What We Don’t Do
+Mitigate excessive risk-taking behaviors by Named Executive Officers: Garmin’s Compensation Committee regularly reviews the risks related to our executive compensation program, and our program includes features that reduce the likelihood of our Named Executive Officers, either individually or as a group, making excessively risky business decisions that could maximize short-term results at the expense of long-term value. Use long-term incentives to link a significant portion of pay to company performance over time A significant portion of each Named Executive Officer’s total direct compensation consists of long-term incentive compensation, with equity incentive awards that vest over time and have their values directly linked to company performance. Have a Clawback Policy that authorizes the Compensation Committee to recoup executive compensation: In the event of an accounting restatement of Garmin’s financial statements due to misconduct resulting in Garmin’s material noncompliance with financial reporting requirements under securities laws, Garmin may recoup performance-based compensation received by Garmin’s Named Executive Officers. See “Adjustment or Recovery of Awards or Payments” below for a more detailed description of this policy. Include double-trigger change in control provisions in equity awards: Accelerated vesting of equity awards would only occur following change in control if a Named Executive Officer resigns with good reason or is terminated without cause within 12 months following the change in control. Have a Policy that prohibits hedging and pledging of Garmin securities Named Executive Officers are prohibited from engaging in any hedging or pledging transactions involving Garmin securities. Encourage stock ownership through long-term equity compensation A significant portion of the compensation paid to Named Executive Officers is in the form of long-term equity incentive awards, which aligns the long-term interests of the Named Executive Officers with the interests of Garmin’s shareholders.	No severance agreements: We do not have severance agreements with any of our Named Executive Officers that would require us to make cash payments upon termination of their employment. No cash payments upon change in control: We do not have any separate change in control agreements that would obligate us to make any cash payments to any Named Executive Officers upon a change of control. No post-retirement benefit plans. No supplemental executive retirement plans. We do not have any post-retirement benefit plans that would provide post-retirement benefits to any of our Named Executive Officers. We do not have any supplemental executive retirement plans. No repricing or backdating of underwater equity awards We do not reprice or backdate any underwater equity awards. No setting of executive compensation to meet specific benchmarks We do not attempt to set executive compensation to meet specific benchmarks, such as targeting a specific percentile of a compensation component paid by one or more peer groups.
+
+GARMIN LTD. - 2020 Proxy Statement 33
+
+Back to Contents
+
+Engagement with Our Shareholders
+
+Garmin seeks shareholder input on executive compensation matters through an annual advisory vote on executive compensation in accordance with U.S. securities laws. In addition, the maximum prospective aggregate compensation of our Executive Management (which consists of our CEO and CFO) and the maximum prospective aggregate compensation of our Board are each subject to an annual binding vote in accordance with Swiss law.
+
+Consideration of Last Year’s “Say on Pay” Vote
+
+Garmin provides its shareholders with an annual, advisory “say on pay” vote. At Garmin’s 2019 Annual General Meeting of Shareholders, in an advisory, non-binding vote, over 96% of the shares voted were voted in favor of approval of the compensation of Garmin’s Named Executive Officers. Although this was only an advisory vote and the results were not binding on Garmin or the Compensation Committee, the Compensation Committee reviewed and considered the results. Taking into account the strong support demonstrated by our shareholders, the Committee and the Board were encouraged to continue their practices in determining executive compensation. The next vote on the frequency of “say on pay” votes will be held at our Annual General Meeting in 2023.
+
+How We Determine Executive Compensation
+
+Role of the Compensation Committee
+
+Our Compensation Committee is comprised of the four non-executive members of the Board, each of whom is an independent director under the applicable rules of the Nasdaq Stock Market LLC and the SEC. The Compensation Committee oversees the determination of specific compensation for Named Executive Officers and other executives, and evaluates these programs against competitive practices, legal and regulatory developments and corporate governance trends. The Board makes the final determinations regarding compensation for Named Executive Officers and other executives, based on the recommendations of the Compensation Committee. Pursuant to its charter, the Compensation Committee is authorized to retain and terminate any consultant, as well as to approve the consultant’s fees and other terms of the engagement.
+
+Role of Management
+
+Mr. Pemble, our Chief Executive Officer, discusses with the Compensation Committee compensation recommendations for the other Named Executive Officers and other executives. Mr. Pemble attends meetings of the Compensation Committee to discuss executive compensation matters, but he is not a member of the Compensation Committee and does not vote on Compensation Committee matters. Mr. Pemble is not present for certain portions of Compensation Committee meetings, such as when the Compensation Committee discusses his performance and compensation.
+
+Role of Compensation Consultant
+
+The Compensation Committee engaged Meridian Compensation Partners LLC (“Meridian”) in 2017 to assist the Compensation Committee with evaluating and updating, as appropriate, Garmin’s focused comparator group, which takes into account company size, market capitalization, revenue, industry, and that Garmin is a culture-driven company, which helps to retain talented executives.
+
+The comparator group consists of the following companies:
+
+Adobe Inc.	National Instruments Corporation
+Ametek Inc.	NCR Corp.
+Amphenol Corporation	NetApp, Inc.
+Autodesk, Inc.	Netflix, Inc.
+Belden Inc.	Sensata Technologies Holding plc
+Cerner Corporation	Toro Co.
+Citrix Systems, Inc.	Trimble Inc.
+Fitbit, Inc.	Visteon Corporation
+FLIR Systems, Inc.	Zebra Technologies Corporation
+GoPro, Inc.
+
+The Compensation Committee uses the comparator group’s executive compensation data primarily to assess the overall competitiveness of Garmin’s compensation programs and to obtain information on compensation trends.
+
+GARMIN LTD. - 2020 Proxy Statement 34
+
+Back to Contents
+
+Factors We Consider when Determining Compensation for Individual Executives
+
+In making compensation recommendations to the Board for individual executives, including Named Executive Officers, the Compensation Committee considers the individual’s performance, scope of responsibilities, past compensation adjustments, mix of fixed compensation (e.g. base salary) versus variable compensation (e.g. long-term incentives), and the level of risk associated with the individual’s total direct compensation package. The Compensation Committee also factors in overall Company performance, internal equity considerations, retention considerations, and the current business environment.
+
+Elements of Compensation
+
+We have two elements of total direct compensation for our executives: base salary and long-term equity compensation. We also provide retirement and benefit programs to our executives.
+
+Current Year’s Performance: Salary and Annual Incentives
+
+Base Salary
+
+We believe that a competitive base compensation program is an important factor in attracting, motivating and retaining talented associates at all levels of the organization. Named Executive Officers are paid a base salary as compensation for the performance of their primary duties and responsibilities. Because Dr. Kao owns a significant amount of Garmin shares, and, therefore, already has a strong incentive to create shareholder value, he has requested that the Compensation Committee provide him only a relatively modest base salary in consideration for his activities as Executive Chairman and that he not be awarded restricted stock units or any other form of equity compensation.
+
+The following table shows the base salary in U.S. dollars of each of the Named Executive Officers in 2017, 2018 and 2019:
+
+Name	2017	2018	2019
+Dr. Kao	$	350,000	$	350,000	$	350,000
+Mr. Pemble	$	750,000	$	900,000	$	1,000,000
+Mr. Boessen	$	579,000	$	593,000	$	615,000
+Mr. Etkind	$	579,000	$	600,000	$	625,000
+Mr. Straub	$	475,000	$	600,000	$	650,000
+Mr. Desbois	$	474,000	$	500,000	$	550,000
+
+Annual Incentive and Bonus Awards
+
+Garmin does not pay material annual cash bonuses. In 2019, Garmin’s Named Executive Officers each received a U.S. $307 annual holiday cash bonus (or its equivalent in Swiss francs in the case of Mr. Etkind). This is the same annual holiday cash bonus that was paid to other Garmin employees.
+
+Long-Term Performance: Restricted Stock Units
+
+Garmin’s management and Compensation Committee believe stock ownership is the most important element in achieving the goals of Garmin’s compensation program. Stock ownership aligns the long-term interests of associates with those of shareholders, provides long-term retention incentive, and ties compensation to performance through the creation of shareholder value.
+
+Time-Based Vesting Restricted Stock Units
+
+It is Garmin’s practice to grant stock in the form of full value restricted stock units (each on “RSU”) under the Company’s 2005 Equity Incentive Plan that vest over a three-year period, which provides a long-term retention incentive, aligns the interests of Named Executive Officers and other key employees with those of other shareholders and encourages an appropriate degree of risk-taking that is consistent with long-term growth. The Compensation Committee believes that time vesting is an appropriate structure to achieve the objectives described above. The value of RSUs increases over time only if our share price increases, which serves to encourage improved Company performance and long-term value creation, thereby benefitting all of our shareholders. While RSUs are dependent upon share price appreciation for increased value, they also offer downside risk protection because they continue to have value even if the share price declines from the price on the date of grant. The Compensation Committee believes this downside risk protection is important and appropriate considering that Garmin does not pay material cash bonuses to its Named Executive Officers or other employees.
+
+GARMIN LTD. - 2020 Proxy Statement 35
+
+Back to Contents
+
+The following table shows the grant date fair value in U.S. dollars of the RSUs awarded to each of the Named Executive Officers (other than Dr. Kao) in 2017, 2018 and 2019:
+
+Name	2017	2018	2019
+Mr. Pemble	$	900,054	$	1,000,065	$	1,199,958
+Mr. Boessen	$	200,030	$	224,946	$	274,874
+Mr. Etkind	$	225,014	$	250,062	$	250,038
+Mr. Straub	$	499,994	$	499,941	$	524,912
+Mr. Desbois	$	249,997	$	299,928	$	375,057
+
+Performance-Based Vesting Restricted Stock Units
+
+In each of 2017, 2018 and 2019, the Compensation Committee granted performance-contingent RSU awards under the Company’s 2005 Equity Incentive Plan to certain employees, including Named Executive Officers, whose initial vesting is solely contingent upon the achievement of certain fiscal year revenue and profitability targets established by the Compensation Committee, and thereafter the remaining unvested shares are subject to time based vesting (“PC-RSUs”). At a meeting of the Compensation Committee following the end of the fiscal year (the “Certification Date”) in which the PC-RSU awards were granted, the Compensation Committee determines whether the performance targets for these PC-RSU awards were achieved, and the percentage of the PC-RSU’s that corresponds with the weighting attributed to each performance target that was achieved and will vest as follows: one-third will vest on the Certification Date if the grantee is then still employed by the Garmin entity that employs the grantee; one-third will vest on the first anniversary of the Certification Date if the grantee is then still employed by the Garmin entity that employs the grantee; and the remaining one-third will vest on the second anniversary of the Certification Date if the grantee is then still employed by the Garmin entity that employs the grantee.
+
+The Compensation Committee believes the performance-based element of these PC-RSU awards further aligns the interests of Garmin’s Named Executive Officers and other employees who receive PC-RSU awards with the interests of Garmin’s shareholders, and that the time-based element will further the objective of retaining Named Executive Officers and other key employees.
+
+The Compensation Committee also believes that basing the performance-based vesting conditions of the PC-RSU awards on absolute performance targets (i.e. targets based on Garmin’s actual performance) rather than relative performance targets (i.e. targets based on Garmin’s performance as compared to the performance of other companies in a selected comparator group) aligns the interests of Garmin’s Named Executive Officers and other employees who receive PC-RSU awards with the long term interests of Garmin’s shareholders because the value of Garmin’s shares are based more on Garmin’s actual performance than on Garmin’s relative performance compared to other companies in a selected comparator group. In addition, the absolute targets are closely aligned with full-year guidance publicly released by Garmin, meaning that Garmin’s shareholders should benefit as well when the absolute targets are achieved. This would not necessarily be the case with relative targets because such targets could be achieved even if Garmin’s absolute performance was not as good as expected.
+
+The following table shows the grant date fair value in U.S. dollars of the PC-RSUs awarded to each of the Named Executive Officers (other than Dr. Kao) in 2017, 2018 and 2019:
+
+Name	2017	2018	2019
+Mr. Pemble	$	750,029	$	1,000,057	$	1,000,031
+Mr. Boessen	$	200,018	$	299,966	$	325,076
+Mr. Etkind	$	210,026	$	324,964	$	350,118
+Mr. Straub	$	225,038	$	599,933	$	600,066
+Mr. Desbois	$	225,038	$	399,955	$	399,964
+
+GARMIN LTD. - 2020 Proxy Statement 36
+
+Back to Contents
+
+The performance measures, percentage weighting, performance targets, actual results and status for each of the 2017 PC-RSUs, 2018 PC-RSU’s and 2019 PC-RSU’s are set forth below:
+
+*	We adopted ASC Topic 606, Revenue from Contracts with Customers (“ASC Topic 606”) in the first quarter of 2018, effective for Garmin’s fiscal year ending December 29, 2018. ASC Topic 606 replaced existing revenue recognition rules with a comprehensive revenue measurement and recognition standard. The results shown in this column for fiscal year 2017 are the results we reported in our Annual Report on Form 10-K for fiscal year 2017. The results for fiscal year 2017 were restated after we adopted ASC Topic 606. The restated results did not impact the 2017 PC-RSUs. The restated results for fiscal year 2017 were as follows: revenue of $3.12B, operating income of $684M, and operating margin of 21.9%.
+
+Employee Stock Purchase Plan
+
+Garmin offers a discounted stock purchase plan to employees. This plan allows employees to purchase Garmin shares at a per share price equal to 85% of the lesser of (a) the per share closing price of Garmin’s shares on the last stock trading day of the offering period, and (b) the per share closing price of Garmin’s shares on the first stock trading day of the offering period. Named Executive Officers can participate in this program under the same terms and conditions as all other employees. The plan provides limits on the percentage of salary an employee, including Named Executive Officers, may contribute to the plan and on the total value of Garmin shares that an employee, including Named Executive Officers, may purchase under the plan in any one calendar year.
+
+Benefits; Retirement Contributions
+
+For Garmin’s U.S. employees, Garmin matches employee contributions to the Retirement Plan and makes an additional employer contribution to this plan. In 2019, for all U.S. employees, including the Named Executive Officers employed by Garmin in the U.S., (a) for every dollar the employee contributed to the plan up to 10% of the employee’s salary, Garmin contributed 75 cents, and (b) Garmin made an additional contribution equal to 5% of the employee’s salary, whether or not the employee contributed to the plan. For 2019, no salary in excess of U.S. $280,000 was taken into account for either of the foregoing contributions. For 2018, no salary in excess of U.S. $275,000 was taken into account for either of the foregoing contributions. For 2017, no salary in excess of U.S. $270,000 was taken into account for either of the foregoing contributions. Garmin’s Vice President, General Counsel and Corporate Secretary, Mr. Etkind, resides in Switzerland and is employed by Garmin in Switzerland. In each of 2019, 2018 and 2017, Garmin made contributions to Mr. Etkind’s statutory Swiss pension plan account in accordance with Swiss law.
+
+GARMIN LTD. - 2020 Proxy Statement 37
+
+Back to Contents
+
+Other Considerations
+
+Executive Ownership; Policies Regarding Hedging and Pledging of Garmin Securities
+
+Garmin does not have formal executive stock ownership guidelines. However, Garmin executives receive a large portion of their total direct compensation in equity awards, and, as set forth in the “Stock Ownership of Certain Beneficial Owners and Management” table on pages ______________ of this Proxy Statement, each of the Named Executive Officers owns a significant number of Garmin shares.
+
+Pursuant to the Garmin Ltd. Anti-Hedging and Anti-Pledging Policy, Garmin prohibits members of the Board of Directors and Named Executive Officers from engaging in transactions pursuant to which they would hedge the economic risk of Garmin stock ownership or pledge Garmin securities as collateral for a loan.
+
+Adjustment or Recovery of Awards or Payments
+
+In the event of an accounting restatement of Garmin’s financial statements due to misconduct resulting in Garmin’s material noncompliance with financial reporting requirements under securities laws, the Compensation Committee has the discretion to require reimbursement or forfeiture of any performance-based compensation received by any Named Executive Officer or other covered employee during the three-year period preceding the date on which Garmin is required to prepare an accounting restatement. In determining the amount to be recovered, the Compensation Committee may consider, in addition to other factors, the excess of the performance-based compensation paid to the covered employee based on the erroneous data over the performance-based compensation that would have been paid to the covered employee had it been based on the restated results, as determined by the Compensation Committee.
+
+In addition, each of the Named Executive Officers has entered into an agreement with Garmin that include a provision that the Named Executive Officer agrees and consents to forfeiture or required recovery or reimbursement obligations of Garmin with respect to any compensation paid to the Named Executive Officer that is forfeitable or recoverable by Garmin pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (“Dodd-Frank”) and in accordance with Garmin policies and procedures adopted by the Compensation Committee in order to comply with Dodd-Frank, as the same may be amended from time to time.
+
+Tax and Accounting Considerations
+
+The Compensation Committee reviews projections of the estimated accounting and tax impact of all material elements of the executive compensation program. Generally, an accounting expense is accrued over the requisite service period of the particular pay element (generally equal to the performance period) and Garmin realizes a tax deduction upon the payment to/realization by the executive.
+
+While the Compensation Committee considers the deductibility of awards as one factor in considering executive compensation, the Committee also looks at other factors in making its recommendations to the Board, as noted above, and retains the flexibility to grant awards it determines to be consistent with Garmin’s objectives for its executive compensation program even if the award is not deductible by Garmin for tax purposes.
+
+Severance Agreements
+
+Garmin does not have severance agreements with any of its Named Executive Officers.
+
+Change-in-Control Benefits
+
+If a Named Executive Officer’s employment is terminated without cause, or the executive resigns with good reason, within twelve months following a change in control of Garmin, all of the executive’s unvested stock options and stock appreciation rights (SARs), if any, would immediately become exercisable and all of the executive’s unvested RSUs and performance shares would immediately become payable.
+
+If a Named Executive Officer’s employment is terminated without cause, or the executive resigns with good reason, after the Certification Date for PC-RSUs and within twelve months following a change in control of Garmin, all of the executive’s PC-RSUs that were earned pursuant to the performance-based vesting element but not yet vested due to the time-based vesting element would immediately become payable. If the executive’s employment is terminated without cause, or the executive resigns with good reason, prior to the Certification Date and within twelve months after the change in control of Garmin, then all of the executive’s PC-RSUs that would have been earned as of the Certification Date pursuant to the performance-based element but for the termination of employment will become immediately payable.
+
+Such accelerated vesting is the only benefit that would be received by the executives upon a change in control, and such benefit would also be received by all other Garmin employees who own unvested stock options, SARs, RSUs, PC-RSUs or performance shares. This change-in-control protection is designed to provide adequate protection for executives and other Garmin employees who own unvested equity awards so that they may focus their efforts on effective leadership, rather than significant compensation loss, during a time that Garmin is considering or undertaking a change in control, and to provide executives and other Garmin employees who own unvested equity awards with incentives to remain with Garmin during a time that Garmin is considering or undertaking a change in control.
+
+The Compensation Committee reviewed and discussed with management this “Compensation Discussion and Analysis” section of this Proxy Statement. Based upon such review and discussion, the Compensation Committee recommended to the Board that the “Compensation Discussion and Analysis” section be included in this Proxy Statement.
+
+Compensation Committee
+
+Joseph J. Hartnett (Chairman)
+Jonathan C. Burrell
+Catherine A. Lewis
+Charles W. Peffer
+
+GARMIN LTD. - 2020 Proxy Statement 38
+
+Back to Contents
+
+EXECUTIVE COMPENSATION TABLE
+
+SUMMARY COMPENSATION TABLE
+
+The following table shows 2019, 2018 and 2017 compensation for the Executive Chairman, the Chief Executive Officer, the Chief Financial Officer and the next three highest paid executive officers other than the Executive Chairman, the Chief Executive Officer and the Chief Financial Officer (collectively, the “Named Executive Officers”):
+
+	Stock	SARs/Option	All Other
+	Salary	Bonus	Awards	Awards	Compensation	Total
+Name & Principal Position	Year	($)	($)(1)	($)(2)	($)(3)	($)(4)	($)
+Min H. Kao	2017	$	350,000	$	256	$	0	$	0	$	31,749	$	382,005
+Executive Chairman	2018	$	350,000	$	307	$	0	$	0	$	32,382	$	382,689
+	2019	$	350,000	$	307	$	0	$	0	$	33,007	$	383,314
+Clifton A. Pemble	2017	$	750,000	$	256	$	1,650,083	$	0	$	31,854	$	2,432,193
+President & Chief Executive Officer	2018	$	900,000	$	307	$	2,000,122	$	0	$	32,491	$	2,932,920
+	2019	$	1,000,000	$	307	$	2,199,989	$	0	$	33,116	$	3,233,412
+Douglas G. Boessen	2017	$	579,000	$	256	$	400,048	$	0	$	31,854	$	1,011,158
+Chief Financial Officer & Treasurer	2018	$	593,000	$	307	$	524,912	$	0	$	32,491	$	1,150,710
+	2019	$	615,000	$	1,014	$	599,950	$	0	$	33,116	$	1,249,080
+Andrew R. Etkind	2017	$	579,000	$	269	$	435,040	$	0	$	392,397	$	1,406,706
+Vice President, General	2018	$	600,000	$	2,324	$	575,026	$	0	$	390,797	$	1,568,147
+Counsel & Secretary	2019	$	625,000	$	302	$	600,156	$	0	$	396,903	$	1,622,361
+Philip I. Straub	2017	$	475,000	$	256	$	725,032	$	0	$	27,337	$	1,227,625
+Executive Vice President,	2018	$	600,000	$	3,846	$	1,099,874	$	0	$	27,991	$	1,731,711
+Managing Director-Aviation	2019	$	650,000	$	307	$	1,124,978	$	0	$	28,616	$	1,803,901
+Patrick G. Desbois	2017	$	474,000	$	256	$	475,035	$	0	$	27,336	$	976,627
+Executive Vice President, Operations	2018	$	500,000	$	307	$	699,883	$	0	$	32,491	$	1,232,681
+	2019	$	550,000	$	307	$	775,021	$	0	$	33,116	$	1,358,444
+
+(1)	Annual discretionary cash incentive awards based on financial and non-financial factors considered by the Compensation Committee, as discussed in the Compensation Discussion and Analysis section. In 2019, Garmin’s Named Executive Officers, including the Executive Chairman and the Chief Executive Officer, each received an annual holiday cash bonus. In addition, Mr. Boessen received an additional cash bonus equal to $707 in recognition of his 5th anniversary with Garmin.
+(2)	This column shows the grant date fair value with respect to the PC-RSUs and RSUs granted in 2017, 2018 and 2019. See the Grants of Plan-Based Awards table for information on awards made in 2019.
+(3)	This column shows the grant date fair value with respect to the SARs and stock options granted in 2017, 2018 and 2019. There were no SARs or stock options granted in 2019.
+(4)	All Other Compensation for each of the Named Executives for 2017, 2018 and 2019 includes amounts contributed by the Company (in the form of profit sharing and matching contributions) to the trust and in the Named Executive Officers’ benefit under the Company’s qualified 401(k) plan. With respect to 2019, for each Named Executive Officer except Mr. Etkind, $14,000 was contributed as a profit sharing contribution under the qualified 401(k) plan; Dr. Kao, Mr. Pemble, Mr. Boessen and Mr. Desbois received $18,750 in company matching contributions related to the qualified 401(k) plan; and Mr. Straub received $14,250 in company matching contributions related to the qualified 401(k) plan. Mr. Etkind’s All Other Compensation in 2019 includes $270,290 cost of living adjustment, $46,787 Swiss pension plan contribution, $12,039 automobile allowance, and $67,787 tax equalization payment. All Other Compensation for 2017, 2018 and 2019 includes for all Named Executives except Mr. Etkind premiums on life insurance.
+
+GARMIN LTD. - 2020 Proxy Statement 39
+
+Back to Contents
+
+GRANTS OF PLAN BASED AWARDS
+
+The following table provides information for each of the Named Executive Officers regarding 2019 grants of RSUs and PC-RSUs:
+
+	Estimated Future Payouts	Estimated Future Payouts	All Other	All Other
+	Under Non-Equity Incentive	Under Equity Incentive Plan	Stock	Option	Exercise
+	Plan Awards	Awards(1)	Awards:	Awards:	or Base	Closing	Grant Date
+	Number of	Number of	Price of	Market	Fair Value
+	Shares of	Securities	Option	Price on	of Stock
+	Threshold	Target	Maximum	Threshold	Target	Maximum	Stock or	Underlying	Awards	Grant	and Option
+Name	Grant Date	($)	($)	($)	(#)	(#)	(#)	Units (#)(2)	Options (#)	($/Sh)	Date	Awards(3)
+Min H. Kao
+
+Clifton A. Pemble	12/15/2019	12,900	$ 93.02	$	1,199,958
+	2/25/2019	3,774	8,805	12,579	$ 79.50	$	1,000,031
+Douglas G. Boessen	12/15/2019	2,955	$ 93.02	$	274,874
+	2/25/2019	1,227	2,862	4,089	$ 79.50	$	325,076
+Andrew R. Etkind	12/15/2019	2,688	$ 93.02	$	250,038
+	2/25/2019	1,321	3,083	4,404	$ 79.50	$	350,118
+Philip Straub	12/15/2019	5,643	$ 93.02	$	524,912
+	2/25/2019	2,264	5,284	7,548	$ 79.50	$	600,066
+Patrick Desbois	12/15/2019	4,032	$ 93.02	$	375,057
+	2/25/2019	1,509	3,522	5,031	$ 79.50	$	399,964
+
+(1)	Awards made in the form of time-based and performance-based restricted stock units (PC-RSUs) on February 25, 2019.
+(2)	Awards made in the form of restricted stock units (RSUs) on December 15, 2019.
+(3)	This column represents the grant date fair value of PC-RSUs and RSUs. For PC-RSUs, that amount assumes all performance conditions will be met and is calculated by multiplying the closing price of Garmin shares on the Nasdaq Stock Market LLC on the date of grant discounted in accordance with accounting requirements to reflect that dividend equivalents are not paid on the RSUs, then multiplied by the number of shares to be awarded. For RSUs, that amount is calculated by multiplying the closing price of Garmin shares on the Nasdaq Stock Market LLC on the date of grant discounted in accordance with accounting requirements to reflect that dividend equivalents are not paid on the RSUs, then multiplied by the number of shares to be awarded. For additional information on the valuation assumptions with respect to the 2018 grants, refer to Note 9 of Garmin’s financial statements in the Form 10-K for the fiscal year ended December 28, 2019, as filed with the SEC.
+
+GARMIN LTD. - 2020 Proxy Statement 40
+
+Back to Contents
+
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END
+
+The following table provides information for each of the Named Executive Officers regarding outstanding equity awards held by them as of December 28, 2019:
+
+	Option Awards	Stock Awards
+Name	Number of
+Securities
+Underlying
+Unexercised
+Options (#)
+Exercisable	Number of
+Securities
+Underlying
+Unexercised
+Options (#)
+Unexercisable	Equity
+Incentive
+Plan Awards:
+Number of
+Securities
+Underlying
+Unexercised
+Unearned
+Options (#)	Option
+/ SAR
+Exercise
+Price ($)	Option
+/ SAR
+Expiration
+Date	Number
+of
+Shares
+or Units
+of Stock
+That
+Have
+Not
+Vested
+(#)	Market
+Value of
+Shares or
+Units of
+Stock That
+Have Not
+Vested ($)	Equity
+Incentive
+Plan
+Awards:
+Number of
+Unearned
+Shares,
+Units or
+Other Rights
+That Have
+Not Vested
+(#)	Equity Incentive
+Plan Awards:
+Market or Payout
+Value of Unearned
+Shares, Units or
+Other Rights That
+Have Not Vested
+($)(4)
+Min H. Kao	-	-	-	-	-	-	-	-	-
+Clifton A. Pemble	34,415	(1)	-	-	$	52.44	12/15/24	-	-	5,512	(2)	$	543,042
+	19,246	(1)	-	-	$	49.07	12/10/23	-	-	10,910	(2)	$	1,074,853
+	-	-	-	-	-	-	-	12,900	(2)	$	1,270,908
+	-	-	-	-	-	-	-	5,096	(3)	$	502,058
+	-	-	-	-	-	-	-	11,842	(3)	$	1,166,674
+	-	-	-	-	-	-	-	12,579	(3)	$	1,239,283
+Douglas G. Boessen	12,680	(1)	-	-	$	52.44	12/15/24	-	-	1,225	(2)	$	120,687
+	-	-	-	-	-	-	-	2,454	(2)	$	241,768
+	-	-	-	-	-	-	-	2,955	(2)	$	291,127
+	-	-	-	-	-	-	-	1,359	(3)	$	133,889
+	-	-	-	-	-	-	-	3,552	(3)	$	349,943
+	-	-	-	-	-	-	-	4,089	(3)	$	402,848
+Andrew R. Etkind	-	-	-	-	-	-	-	1,378	(2)	$	135,761
+	-	-	-	-	-	-	-	2,728	(2)	$	268,763
+	-	-	-	-	-	-	-	2,688	(2)	$	264,822
+	-	-	-	-	-	-	-	1,427	(3)	$	140,588
+	-	-	-	-	-	-	-	3,848	(3)	$	379,105
+	-	-	-	-	-	-	-	4,404	(3)	$	433,882
+Philip I. Straub	-	-	-	-	-	-	-	3,062	(2)	$	301,668
+	-	-	-	-	-	-	-	5,454	(2)	$	537,328
+	-	-	-	-	-	-	-	5,643	(2)	$	555,948
+	-	-	-	-	-	-	-	1,529	(3)	$	150,637
+	-	-	-	-	-	-	-	7,104	(3)	$	699,886
+	-	-	-	-	-	-	-	7,548	(3)	$	743,629
+Patrick G. Desbois	-	-	-	-	-	-	-	1,531	(2)	$	150,834
+	-	-	-	-	-	-	-	3,272	(2)	$	322,357
+	-	-	-	-	-	-	-	4,032	(2)	$	397,233
+	-	-	-	-	-	-	-	1,529	(3)	$	150,637
+	-	-	-	-	-	-	-	4,736	(3)	$	466,591
+	-	-	-	-	-	-	-	5,031	(3)	$	495,654
+
+(1)	Represents stock appreciation rights.
+(2)	Represents restricted stock units.
+(3)	Represents time-based and performance-based vesting restricted stock units.
+(4)	Determined by multiplying the number of unearned shares by $98.52, which was the closing price of Garmin shares on the Nasdaq Stock Market on December 27, 2019.
+
+GARMIN LTD. - 2020 Proxy Statement 41
+
+Back to Contents
+
+OPTIONS EXERCISED AND STOCK VESTED
+
+The following table provides stock awards vested in 2019 as well as information for each of the Named Executive Officers regarding stock options or SARs exercised in 2019:
+
+	Option Awards	Stock Awards
+Name	Number of Shares
+Acquired on Exercise
+(#)	Value Realized
+on Exercise
+($)	Number of Shares
+Acquired on Vesting
+(#)	Value Realized on
+Vesting
+($)
+Min H. Kao	0	$	0	0	$	0
+Clifton A. Pemble	19,246	$	786,846	33,441	$	3,022,419
+Douglas G. Boessen	0	$	0	8,978	$	804,466
+Andrew R. Etkind	0	$	0	9,557	$	857,880
+Philip I. Straub	0	$	0	14,581	$	1,321,454
+Patrick G. Desbois	0	$	0	10,775	$	967,070
+
+POTENTIAL POST-EMPLOYMENT PAYMENTS
+
+None of the Named Executive Officers has a severance agreement with Garmin. In the event that (a) a Named Executive Officer dies or becomes disabled, or (b) a Named Executive Officer’s employment is terminated without cause, or a Named Executive Officer resigns with good reason, within twelve months following a change of control of Garmin, all of the Named Executive Officer’s unvested stock options and stock appreciation rights would immediately become exercisable and all of the Named Executive Officer’s unvested RSUs and performance shares would immediately become payable. Such accelerated vesting is the only benefit that would be received by a Named Executive Officer upon a change in control and such benefit would also be received by all other employees of Garmin or its subsidiaries who own unvested stock options, stock appreciation rights, restricted stock units or performance shares.
+
+If a Named Executive Officer’s employment is terminated without cause, or the executive resigns with good reason, after the Certification Date for PC-RSUs and within twelve months following a change in control of Garmin, all of the executive’s PC-RSUs that were earned pursuant to the performance-based vesting element but not yet vested due to the time-based vesting element would immediately become payable. If the executive’s employment is terminated without cause, or the executive resigns with good reason, prior to the Certification Date and within twelve months after the change in control of Garmin, then all of the executive’s PC-RSUs that would have been earned as of the Certification Date pursuant to the performance-based element but for the termination of employment will become immediately payable.
+
+Estimated Current Value of Potential Post-Employment Benefits(1)
+
+	Involuntary
+	Termination within
+	12 months of
+Name	Voluntary	For Cause	Death	Disability	Without Cause	Change in Control
+Min H. Kao	$	-	$	-	$	-	$	-	$	-	$	-
+Clifton A. Pemble	$	-	$	-	$	5,796,818	$	5,796,818	$	-	$	5,796,818
+Douglas G. Boessen	$	-	$	-	$	1,540,262	$	1,540,262	$	-	$	1,540,262
+Andrew R. Etkind	$	-	$	-	$	1,622,920	$	1,622,920	$	-	$	1,622,920
+Philip I. Straub	$	-	$	-	$	2,989,097	$	2,989,097	$	-	$	2,989,097
+Patrick G. Desbois	$	-	$	-	$	1,983,306	$	1,983,306	$	-	$	1,983,306
+
+(1)	Value of unvested SARs and RSU and PC-RSU awards, based on $98.52 per share, the closing price of the Company’s shares on the Nasdaq Stock Market on December 27, 2019.
+
+GARMIN LTD. - 2020 Proxy Statement 42
+
+Back to Contents
+
+Pay Ratio Disclosure Rule
+
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees (on a worldwide basis) and the annual total compensation of our CEO, Mr. Pemble.
+
+For 2019, our last completed fiscal year, the respective annual total compensation for our median employee and for Mr. Pemble, and the ratio of Mr. Pemble’s annual total compensation to the median employee’s annual total compensation, are set forth below:
+
+Median employee annual total compensation: $35,188.
+
+Mr. Pemble (CEO) annual total compensation: $3,233,412, as reported in the Summary Compensation Table included in this Proxy Statement.
+
+Based on this information, for 2019 the ratio of annual total compensation of our CEO to the median of the annual total compensation of all employees was 92:1.
+
+To identify the median of the annual total compensation of all of our employees, we prepared a listing of all employees as of October 1, 2017. We selected that date to allow sufficient time to identify the median employee given the global scope of our operations. Gross earnings for 2017, as reported to applicable tax authorities, for example, the Internal Revenue Service for our U.S. employees, were then calculated for each of those employees, other than our CEO. Gross earnings for 2017 were annualized for those employees who were hired between January 1, 2017 and October 1, 2017 and for those whose employment terminated between October 2, 2017 and December 31, 2017. Gross earnings paid in currencies other than U.S. dollars were converted to U.S. Dollars using the average 2017 currency exchange rate for each applicable currency. The median employee was then selected from the annualized list.
+
+There were no changes in our employee population or employee compensation practices since the median employee was selected in 2017 that we believe would significantly impact our pay ratio disclosure. Therefore, as permitted under Item 402(u) of Regulation S-K, we are using the same median employee for 2019 that we used for 2018 and 2017.
+
+The median employee’s total annual compensation for 2019 was calculated using the same methodology we used to calculate total annual compensation for our CEO and other Named Executive Officers, as set forth in the Summary Compensation Table on page _____ of this Proxy Statement. We then compared the median employee’s total annual compensation for 2019 to our CEO’s total annual compensation for 2019 to calculate the pay ratio set forth above. We did not make any cost-of-living adjustments in identifying the “median employee.”
+
+Our median employee on a worldwide basis is located in the United Kingdom. For informational purposes, our median U.S. - based employee’s total annual compensation for 2019 was $95,551, and the ratio of our CEO’s total annual compensation for 2019 to our median U.S. based employee’s total annual compensation for 2019 was 34:1.
+
+SHAREHOLDER PROPOSALS
+
+To be properly brought before the Annual Meeting, a proposal must be either (i) specified in the notice of the meeting (or any supplement thereto) given by or at the direction of the Board, (ii) otherwise properly brought before the meeting by or at the direction of the Board, or (iii) otherwise properly brought before the meeting by a shareholder, and the proposal must be a proper subject for shareholder action under Swiss law.
+
+If a holder of Garmin shares wishes to present a proposal for inclusion in Garmin’s Proxy Statement for next year’s annual general meeting of shareholders, such proposal must be received by Garmin on or before December 23, 2020. Such proposal must be made in accordance with Rule 14a-8 promulgated by the SEC and the interpretations thereof. Any such proposal should be sent to the Corporate Secretary, Garmin Ltd., Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland.
+
+Under Swiss law, a shareholder of record can request in writing for an item to be put on the agenda for an annual general meeting, provided that we receive such requests by the date that is 90 calendar days in advance of the anniversary of the date that we filed our proxy statement for the previous year’s annual general meeting with the SEC. In order for a shareholder proposal that is not included in Garmin’s Proxy Statement for the 2021 annual general meeting to be properly brought before the meeting, such proposal must be delivered to the Corporate Secretary and received at Garmin’s executive offices in Schaffhausen, Switzerland no later than January 22, 2021, and specify the relevant agenda items and motions, together with evidence of the required shareholdings recorded in the share register, and must also comply with the procedures outlined in this Proxy Statement under the heading “Nominating and Corporate Governance Committee.” The determination that any such proposal has been properly brought before such meeting is made by the director presiding over such meeting.
+
+GARMIN LTD. - 2020 Proxy Statement 43
+
+Back to Contents
+
+HOUSEHOLDING OF ANNUAL MEETING MATERIALS FOR BROKER CUSTOMERS
+
+Pursuant to the rules of the SEC, services that deliver Garmin’s communications to shareholders that hold their shares through a bank, broker or other nominee holder of record may deliver to multiple shareholders sharing the same address a single copy of Garmin’s Annual Report and Proxy Statement. Garmin will promptly deliver upon written or oral request a separate copy of the Annual Report and/or Proxy Statement to any shareholder at a shared address to which a single copy of the documents was delivered. Written requests should be made to Garmin Ltd., c/o Garmin International, Inc., 1200 East 151st Street, Olathe, Kansas 66062, Attention: Investor Relations Manager, and oral requests may be made by calling Investor Relations at +1 (913) 397-8200. Any shareholder who wants to receive separate copies of the Proxy Statement or Annual Report in the future, or any shareholder who is receiving multiple copies and would like to receive only one copy per household, should contact the shareholder’s bank, broker or other nominee holder of record.
+
+OTHER MATTERS
+
+The Board knows of no matters that are expected to be presented for consideration at the Annual Meeting other than the proposals listed in this Proxy Statement.
+
+Garmin will furnish without charge upon written request a copy of Garmin’s Annual Report on Form 10-K. The Annual Report on Form 10-K includes a list of all exhibits thereto. Garmin will furnish copies of such exhibits upon written request therefore and payment of Garmin’s reasonable expenses in furnishing such exhibits. Each such request must set forth a good faith representation that, as of the Record Date, the person making such request was a beneficial owner of Garmin shares entitled to exercise voting rights at the Annual Meeting. Such written request should be directed to the Corporate Secretary, Garmin Ltd., Mühlentalstrasse 2, 8200 Schaffhausen, Switzerland. The Annual Report on Form 10-K is available at www.garmin.com and is also available through the SEC’s Internet site at www.sec.gov. See the Notice of the Annual General Meeting included at the beginning of this Proxy Statement for information on the physical inspection and delivery without charge of the 2019 Annual Report on Form 10-K of Garmin containing the consolidated financial statements of Garmin for the fiscal year ended December 28, 2019 and the statutory financial statements of Garmin for the fiscal year ended December 28, 2019 as well as the respective Auditor’s Reports and the Swiss Compensation Report for Fiscal Year 2019.
+
+GARMIN LTD. - 2020 Proxy Statement 44
+
+Back to Contents
+
+Annex 1	Renewal of Authorized Share Capital
+
+Proposed Shareholder Resolution
+The Board of Directors submits and recommends the shareholder resolution set forth below for approval by Garmin’s shareholders:
+
+Shareholder Resolution
+It is hereby resolved that the Articles of Association shall be amended by insertion of a new Article 5 as set out further below:
+
+Art. 5 Genehmigtes Kapital
+
+Der Verwaltungsrat ist ermächtigt, jederzeit bis zum 5 Juni 2022 das Aktienkapital im Maximalbetrag von CHF 1’980’774.10 durch Ausgabe von höchstens 19’807’741 vollständig zu liberierenden Namenaktien mit einem Nennwert von je CHF 0.10. zu erhöhen. Erhöhungen in Teilbeträgen sind gestattet.
+
+Der Verwaltungsrat legt den Ausgabebetrag, die Art der Einlagen, den Zeitpunkt der Ausgabe, die Bedingungen der Bezugsrechtsausübung und den Beginn der Dividendenberechtigung fest. Dabei kann der Verwaltungsrat neue Aktien mittels Festübernahme durch eine Bank oder einen Dritten und anschliessendem Angebot an die bisherigen Aktionäre ausgeben.
+
+Der Verwaltungsrat ist ermächtigt, den Handel mit Bezugsrechten zu ermöglichen, zu beschränken oder auszuschliessen. Der Verwaltungsrat kann nicht ausgeübte Bezugsrechte verfallen lassen oder er kann diese bzw. Aktien, für welche Bezugsrechte eingeräumt, aber nicht ausgeübt werden, zu Marktkonditionen platzieren oder anderweitig im Interesse der Gesellschaft verwenden.
+
+Der Verwaltungsrat ist ferner ermächtigt, das Bezugsrecht der Aktionäre zu beschränken oder aufzuheben und Dritten zuzuweisen, im Falle der Verwendung der Aktien:
+
+(a)	für die Ausgabe von neuen Aktien, wenn der Ausgabebetrag der neuen Aktien unter Berücksichtigung des Marktpreises festgesetzt wird; oder
+
+(b)	für die Übernahme von Unternehmen, Unternehmensteilen oder Beteiligungen oder für neue Investitionsvorhaben oder für die Finanzierung oder Refinanzierung solcher Transaktionen; oder
+
+(c)	zum Zwecke der Erweiterung des Aktionärskreises in gewissen Finanz-oder Investorenmärkten oder im Zusammenhang mit der Kotierung der Aktien an inländischen oder an ausländischen Börsen; oder
+
+(d)	für nationale und internationale Aktienplatzierungen zum Zwecke der Erhöhung des Streubesitzes oder zur Einhaltung anwendbarer Kotierungsvorschriften; oder werden, ersatzlos annulieren.
+
+(e)	zwecks Beteiligung von strategischen Investoren; oder
+
+(f)	für die Einräumung einer Mehrzuteilungsoption (“greenshoe”) an ein oder mehrere Finanzinstitute im Zusammenhang mit einer Aktienplatzierung; oder
+
+(g)	für die Beteiligung von Verwaltungsräten, Geschäftsleitungsmitgliedern, Mitarbeitern, Beauftragten, Beratern der Gesellschaft oder einer Gruppengesellschaft, oder anderen Personen, die Dienstleistungen an die Gesellschaft oder eine Gruppengesellschaft erbringen; oder
+
+(h)	um Kapital auf eine schnelle und flexible Weise zu beschaffen, welche ohne den Ausschluss der Bezugsrechte der bestehenden Aktionäre nur schwer möglich wäre.
+
+Zeichnung und Erwerb .der neuen Aktien sowie jede nachfolgende Übertragung der Aktien unterliegen den Beschränkungen von Artikel 8 dieser Statuten.
+
+Art. 5 Authorized Capital
+
+The Board of Directors is authorized, at any time until June 5, 2022 to increase the share capital in an amount not to exceed CHF 1,980,774.10 through the issuance of up to 19,807,741 fully paid-in registered shares with a nominal value of CHF 0.10 each. An increase in partial amounts shall be permitted.
+
+The Board of Directors shall determine the issue price, the type of payment, the date of issue of new shares, the conditions for the exercise of pre-emptive rights and the beginning date for dividend entitlement. In this regard, the Board of Directors may issue new shares by means of a firm underwriting through a banking institution or a third party and a subsequent offer of these shares to the current shareholders.
+
+The Board of Directors is entitled to permit, to restrict or to exclude the trade with pre-emptive rights. The Board of Directors may permit pre-emptive rights that have not been exercised to expire or it may place these rights and/or shares as to which pre-emptive rights have been granted but not exercised at market conditions or use them for other purposes in the interest of the Company.
+
+The Board of Directors is further authorized to limit or withdraw the pre-emptive rights of shareholders and allocate such rights to individual shareholders or to third parties if the shares are to be used:
+
+(a)	for issuing new shares if the issue price of the new shares is determined by reference to the market price; or
+
+(b)	for the acquisition of an enterprise, parts of an enterprise or participations or for new investment projects or for purposes of financing or refinancing any such transactions; or
+
+(c)	for the purpose of broadening the shareholder constituency in certain financial or investor markets or in connection with the listing of new shares on domestic or foreign stock exchanges; or
+
+(d)	for purposes of national and international offerings of shares for the purpose of increasing the free float or to meet applicable listing requirements; or
+
+(e)	for purposes of the participation of strategic partners; or
+
+(f)	for an over-allotment option (“greenshoe”) being granted to one or more financial institutions in connection with an offering of shares; or
+
+(g)	for the participation of directors, officers, employees, contractors, consultants of, or other persons providing services to the Company or a group company; or
+
+(h)	for raising capital in a fast and flexible manner which could only be achieved with great difficulty without exclusion of the pre-emptive rights of the existing shareholders.
+
+The subscription and acquisition of the new shares as well as any subsequent transfer of the shares shall be subject to the restrictions pursuant to Article 8 of these articles of association.
+
+GARMIN LTD. - 2020 Proxy Statement A-1
+
+Back to Contents
+
+Back to Contents

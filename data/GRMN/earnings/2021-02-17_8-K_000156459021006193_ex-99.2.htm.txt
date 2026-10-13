@@ -1,0 +1,59 @@
+EX-99.2 3 grmn-ex992_25.htm EX-99.2 grmn-ex992_25.htm
+
+EXHIBIT 99.2
+
+Management believes that supplemental financial information for the consumer auto and auto OEM operating segments is useful to the readers of the financial statements. As such, this information has been included in the segment tables in the attached earnings release and the Annual Report on Form 10-K for the year ended December 26, 2020. Because comparable quarterly information will be presented in subsequent Quarterly Reports on Form 10-Q, we have provided the following 2020 and 2019 quarterly supplemental consumer auto and auto OEM financial information to further enhance comparability of the financial information that will be presented in subsequent Quarterly Reports on Form 10-Q. The table may not foot due to rounding.
+
+Garmin Ltd. and Subsidiaries
+Results of Operations (Unaudited)
+(In thousands)
+
+	Q1 2020	Q2 2020	Q3 2020	Q4 2020	FY 2020
+Consumer Auto
+Net sales	$	59,013	$	55,270	$	82,659	$	78,552	$	275,493
+Gross profit	28,112	26,917	43,319	41,516	139,864
+
+Operating expenses:
+Advertising	2,198	1,612	3,178	3,399	10,387
+Selling, general and administrative	11,196	9,804	9,333	9,760	40,094
+Research and development	11,505	11,264	12,630	12,521	47,919
+Total operating expenses	24,899	22,680	25,141	25,680	98,400
+
+Operating income	3,213	4,237	18,178	15,836	41,464
+
+Auto OEM
+Net sales	$	46,788	$	29,788	$	46,696	$	61,559	$	184,833
+Gross profit	21,227	13,001	14,816	17,653	66,698
+
+Operating expenses:
+Advertising	182	3	5	6	195
+Selling, general and administrative	6,111	6,039	6,772	6,527	25,448
+Research and development	18,322	21,321	22,755	38,775	101,175
+Total operating expenses	24,615	27,363	29,532	45,308	126,818
+
+Operating income (loss)	(3,388	)	(14,362	)	(14,716	)	(27,655	)	(60,120	)
+
+	Q1 2019	Q2 2019	Q3 2019	Q4 2019	FY 2019
+Consumer Auto
+Net sales	$	75,474	$	106,745	$	94,425	$	88,868	$	365,511
+Gross profit	32,827	50,903	46,544	41,945	172,218
+
+Operating expenses:
+Advertising	2,757	4,344	2,853	4,221	14,174
+Selling, general and administrative	14,033	14,360	12,591	12,460	53,444
+Research and development	10,590	10,200	10,035	10,476	41,301
+Total operating expenses	27,380	28,904	25,479	27,157	108,919
+
+Operating income	5,447	21,999	21,065	14,788	63,299
+
+Auto OEM
+Net sales	$	51,525	$	50,666	$	43,297	$	37,104	$	182,592
+Gross profit	24,510	23,958	19,270	16,639	84,377
+
+Operating expenses:
+Advertising	145	59	21	36	261
+Selling, general and administrative	5,262	5,013	5,227	9,162	24,666
+Research and development	16,337	15,977	14,230	19,338	65,881
+Total operating expenses	21,744	21,049	19,478	28,536	90,808
+
+Operating income (loss)	2,766	2,909	(208	)	(11,897	)	(6,431	)

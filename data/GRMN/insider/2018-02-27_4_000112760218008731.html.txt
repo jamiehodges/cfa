@@ -1,0 +1,56 @@
+SEC FORM 4
+SEC Form 4 FORM 4	UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+STATEMENT OF CHANGES IN BENEFICIAL OWNERSHIP
+
+Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934
+or Section 30(h) of the Investment Company Act of 1940	OMB APPROVAL
+OMB Number:	3235-0287
+Estimated average burden
+hours per response:	0.5
+
+	Check this box if no longer subject to Section 16. Form 4 or Form 5 obligations may continue. See Instruction 1(b).
+
+1. Name and Address of Reporting Person*Desbois Patrick
+(Last)	(First)	(Middle)
+1200 E. 151ST ST.
+
+(Street) OLATHE	KS	66062
+(City)	(State)	(Zip)
+	2. Issuer Name and Ticker or Trading Symbol
+GARMIN LTD [ GRMN ]	5. Relationship of Reporting Person(s) to Issuer
+(Check all applicable)	Director	10% Owner
+X	Officer (give title below)	Other (specify below)
+	EVP, Operations
+
+3. Date of Earliest Transaction (Month/Day/Year)
+02/25/2018
+4. If Amendment, Date of Original Filed (Month/Day/Year)
+	6. Individual or Joint/Group Filing (Check Applicable Line) X	Form filed by One Reporting Person
+	Form filed by More than One Reporting Person
+
+Table I - Non-Derivative Securities Acquired, Disposed of, or Beneficially Owned
+1. Title of Security (Instr. 3)	2. Transaction Date (Month/Day/Year)	2A. Deemed Execution Date, if any (Month/Day/Year)	3. Transaction Code (Instr. 8)	4. Securities Acquired (A) or Disposed Of (D) (Instr. 3, 4 and 5)	5. Amount of Securities Beneficially Owned Following Reported Transaction(s) (Instr. 3 and 4)	6. Ownership Form: Direct (D) or Indirect (I) (Instr. 4)	7. Nature of Indirect Beneficial Ownership (Instr. 4)
+Code	V	Amount	(A) or (D)	Price
+Registered Shares	02/25/2018	A	4,587(1)	A	$0	32,850(2)	D
+Registered Shares	02/25/2018	F	1,092(3)	D	$60.35	31,758(4)	D
+
+Table II - Derivative Securities Acquired, Disposed of, or Beneficially Owned
+(e.g., puts, calls, warrants, options, convertible securities)
+1. Title of Derivative Security (Instr. 3)	2. Conversion or Exercise Price of Derivative Security	3. Transaction Date (Month/Day/Year)	3A. Deemed Execution Date, if any (Month/Day/Year)	4. Transaction Code (Instr. 8)	5. Number of Derivative Securities Acquired (A) or Disposed of (D) (Instr. 3, 4 and 5)	6. Date Exercisable and Expiration Date (Month/Day/Year)	7. Title and Amount of Securities Underlying Derivative Security (Instr. 3 and 4)	8. Price of Derivative Security (Instr. 5)	9. Number of derivative Securities Beneficially Owned Following Reported Transaction(s) (Instr. 4)	10. Ownership Form: Direct (D) or Indirect (I) (Instr. 4)	11. Nature of Indirect Beneficial Ownership (Instr. 4)
+Code	V	(A)	(D)	Date Exercisable	Expiration Date	Title	Amount or Number of Shares
+
+Explanation of Responses:
+1. Shares acquired pursuant to a restricted stock units award granted in February 2017 that had both performance-based and time-based vesting conditions. The performance-based vesting conditions have been satisfied, and now the award is subject only to time-based vesting conditions. The award vests in three equal annual installments beginning on February 25, 2018.
+2. Includes 14,246 unvested shares acquired pursuant to previously granted restricted stock unit awards and the 4,587 unvested shares acquired pursuant to the restricted stock units award described in Footnote 1.
+3. 1,529 shares that were acquired by the reporting person pursuant to the restricted stock units award described in Footnote 1 and 2,067 shares that were acquired by the reporting person pursuant to another previously granted restricted stock units award vested and were paid to the reporting person. Of these shares, 1,092 shares were withheld to pay a resulting tax liability.
+4. Includes 12,179 unvested shares acquired pursuant to previously granted restricted stock units awards and 3,058 remaining unvested shares acquired pursuant to the restricted stock units award described in Footnote 1.
+
+	By Joshua H. Maxfield, Attorney-in-Fact	02/27/2018
+	** Signature of Reporting Person	Date
+Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.
+* If the form is filed by more than one reporting person, see Instruction 4 (b)(v).
+** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
+Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, see Instruction 6 for procedure.
+Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.

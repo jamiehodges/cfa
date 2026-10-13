@@ -1,0 +1,49 @@
+SEC FORM 3
+SEC Form 3 FORM 3	UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+INITIAL STATEMENT OF BENEFICIAL OWNERSHIP OF SECURITIES
+
+Filed pursuant to Section 16(a) of the Securities Exchange Act of 1934
+or Section 30(h) of the Investment Company Act of 1940	OMB APPROVAL
+OMB Number:	3235-0104
+Estimated average burden
+hours per response:	0.5
+
+1. Name and Address of Reporting Person*LINK EDWARD J.
+(Last)	(First)	(Middle)
+1200 E 151ST ST
+
+(Street) OLATHE	KS	66062
+(City)	(State)	(Zip)
+	2. Date of Event Requiring Statement (Month/Day/Year)
+02/14/2025	3. Issuer Name and Ticker or Trading Symbol
+GARMIN LTD [ GRMN ]
+4. Relationship of Reporting Person(s) to Issuer
+(Check all applicable)	Director	10% Owner
+X	Officer (give title below)	Other (specify below)
+	VP, Information Technology
+	5. If Amendment, Date of Original Filed (Month/Day/Year)
+
+6. Individual or Joint/Group Filing (Check Applicable Line) X	Form filed by One Reporting Person
+	Form filed by More than One Reporting Person
+
+Table I - Non-Derivative Securities Beneficially Owned
+1. Title of Security (Instr. 4)	2. Amount of Securities Beneficially Owned (Instr. 4)	3. Ownership Form: Direct (D) or Indirect (I) (Instr. 5)	4. Nature of Indirect Beneficial Ownership (Instr. 5)
+Registered Shares	27,261(1)	D
+
+Table II - Derivative Securities Beneficially Owned
+(e.g., puts, calls, warrants, options, convertible securities)
+1. Title of Derivative Security (Instr. 4)	2. Date Exercisable and Expiration Date (Month/Day/Year)	3. Title and Amount of Securities Underlying Derivative Security (Instr. 4)	4. Conversion or Exercise Price of Derivative Security	5. Ownership Form: Direct (D) or Indirect (I) (Instr. 5)	6. Nature of Indirect Beneficial Ownership (Instr. 5)
+Date Exercisable	Expiration Date	Title	Amount or Number of Shares
+
+Explanation of Responses:
+1. Includes 5,173 unvested shares acquired pursuant to previously granted restricted stock unit awards.
+
+	/s/ Paul E. Cassat, as attorney-in-fact for Edward J. Link	02/18/2025
+	** Signature of Reporting Person	Date
+Reminder: Report on a separate line for each class of securities beneficially owned directly or indirectly.
+* If the form is filed by more than one reporting person, see Instruction 5 (b)(v).
+** Intentional misstatements or omissions of facts constitute Federal Criminal Violations See 18 U.S.C. 1001 and 15 U.S.C. 78ff(a).
+Note: File three copies of this Form, one of which must be manually signed. If space is insufficient, see Instruction 6 for procedure.
+Persons who respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB Number.

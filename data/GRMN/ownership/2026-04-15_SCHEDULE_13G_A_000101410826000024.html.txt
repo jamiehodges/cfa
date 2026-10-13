@@ -1,0 +1,149 @@
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+SCHEDULE 13G
+
+UNDER THE SECURITIES EXCHANGE ACT OF 1934
+(Amendment No. 95)
+
+Garmin Ltd.(Name of Issuer)
+
+Registered Shares(Title of Class of Securities)
+
+H2906T109(CUSIP Number)
+
+03/31/2026(Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule is filed:
+Rule 13d-1(b)
+Rule 13d-1(c)
+Rule 13d-1(d)
+
+SCHEDULE 13G
+
+CUSIP Number(s):	H2906T109
+
+1	Names of Reporting Persons
+
+BURRELL JONATHAN
+2	Check the appropriate box if a member of a Group (see instructions)
+
+(a)
+(b)
+3	Sec Use Only
+4	Citizenship or Place of Organization
+
+UNITED STATES
+Number of Shares Beneficially Owned by Each Reporting Person With:	5	Sole Voting Power
+
+7,965,266.00
+6	Shared Voting Power
+
+1,696,766.00
+7	Sole Dispositive Power
+
+7,965,266.00
+8	Shared Dispositive Power
+
+1,696,766.00
+
+9	Aggregate Amount Beneficially Owned by Each Reporting Person
+
+9,662,032.00
+10	Check box if the aggregate amount in row (9) excludes certain shares (See Instructions)
+
+11	Percent of class represented by amount in row (9)
+
+5.02 %
+12	Type of Reporting Person (See Instructions)
+
+IN
+
+SCHEDULE 13G
+
+Item 1.
+(a)	Name of issuer:
+
+Garmin Ltd.
+(b)	Address of issuer's principal executive offices:
+
+Muhlentalstrasse 2, 8200 Schaffhausen, Switzerland
+Item 2.
+(a)	Name of person filing:
+
+Jonathan Burrell
+(b)	Address or principal business office or, if none, residence:
+
+P.O. Box 507, Stillwell, KS 66085
+(c)	Citizenship:
+
+USA
+(d)	Title of class of securities:
+
+Registered Shares
+(e)	CUSIP No.:
+
+H2906T109
+Item 3.	If this statement is filed pursuant to §§ 240.13d-1(b) or 240.13d-2(b) or (c), check whether the person filing is a:
+(a)	Broker or dealer registered under section 15 of the Act (15 U.S.C. 78o);
+(b)	Bank as defined in section 3(a)(6) of the Act (15 U.S.C. 78c);
+(c)	Insurance company as defined in section 3(a)(19) of the Act (15 U.S.C. 78c);
+(d)	Investment company registered under section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8);
+(e)	An investment adviser in accordance with § 240.13d-1(b)(1)(ii)(E);
+(f)	An employee benefit plan or endowment fund in accordance with § 240.13d-1(b)(1)(ii)(F);
+(g)	A parent holding company or control person in accordance with § 240.13d-1(b)(1)(ii)(G);
+(h)	A savings associations as defined in Section 3(b) of the Federal Deposit Insurance Act (12 U.S.C. 1813);
+(i)	A church plan that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 (15 U.S.C. 80a-3);
+(j)	A non-U.S. institution in accordance with § 240.13d-1(b)(1)(ii)(J). If filing as a non-U.S. institution in accordance with § 240.13d-1(b)(1)(ii)(J),
+please specify the type of institution:
+(k)	Group, in accordance with Rule 240.13d-1(b)(1)(ii)(K).
+
+Item 4.	Ownership
+(a)	Amount beneficially owned:
+
+Amount beneficially owned: 9,662,032 4,776,352 of the 9,662,032 Registered Shares reported are held in several Grantor Retained Annuity Trusts established by the reporting person's mother, over which Registered Shares the reporting person has the sole voting and dispositive power. 249,000 of the 9,662,032 Registered Shares reported are held by The Judith M. Burrell Revocable Trust, over which Registered Shares the reporting person shares voting and dispositive power with his mother, Judith M. Burrell, for whom the reporting person is attorney-in-fact. 1,326,443 of the 9,662,032 Registered Shares reported are held in the reporting person's revocable trust, over which Registered Shares the reporting person has the sole voting and dispositive power. 1,447,766 of the 9,662,032 Registered Shares reported are held in a GRAT remainder trust established for the reporting person's benefit, over which Registered Shares the reporting person shares voting and dispositive power with a third party co-trustee. 394,478 of the 9,662,032 Registered Shares reported are held in one or more limited liability companies that are wholly-owned by a GRAT remainder trust established for the reporting person's benefit, over which Registered Shares the reporting person has the sole voting and dispositive power. 1,459,500 of the 9,662,032 Registered Shares reported are held in several Grantor Retained Annuity Trusts established by the reporting person, over which Registered Shares the reporting person has the sole voting and dispositive power. 8,493 of the 9,662,032 Registered Shares reported are owned by the reporting person directly, and may include restricted stock units ("RSUs") awarded to the reporting person under the Garmin Ltd. Non-Employee Directors' Equity Incentive Plan that can be settled only in Registered Shares (to the extent that such RSUs have vested or, within 60 days of the date of this Statement, will vest).
+(b)	Percent of class:
+
+5.02 %
+(c)	Number of shares as to which the person has:
+
+	(i) Sole power to vote or to direct the vote:
+
+7,965,266
+
+	(ii) Shared power to vote or to direct the vote:
+
+1,696,766
+
+	(iii) Sole power to dispose or to direct the disposition of:
+
+7,965,266
+
+	(iv) Shared power to dispose or to direct the disposition of:
+
+1,696,766
+
+Item 5.	Ownership of 5 Percent or Less of a Class.
+	Not Applicable
+Item 6.	Ownership of more than 5 Percent on Behalf of Another Person.
+	If any other person is known to have the right to receive or the power to direct the receipt of dividends from, or the proceeds from the sale of, such securities, a statement to that effect should be included in response to this item and, if such interest relates to more than 5 percent of the class, such person should be identified. A listing of the shareholders of an investment company registered under the Investment Company Act of 1940 or the beneficiaries of employee benefit plan, pension fund or endowment fund is not required.
+
+4,776,352 of the 9,662,032 Registered Shares reported are held in several grantor retained annuity trusts established by the reporting person's mother, over which Registered Shares the reporting person has the sole voting and dispositive power. The grantor retained annuity trusts are for the benefit of the reporting person's mother during the two-year annuity period of the trusts, with any amounts remaining after distribution to the reporting person's mother being distributable to several remainder trusts for the benefit of certain descendants of the reporting person's parents. 249,000 of the 9,662,032 Registered Shares reported are held by The Judith M. Burrell Revocable Trust, over which Registered Shares the reporting person shares voting and dispositive power with his mother, Judith M. Burrell, for whom the reporting person is attorney-in-fact. The trust exists for the benefit of the reporting person's mother.
+Item 7.	Identification and Classification of the Subsidiary Which Acquired the Security Being Reported on by the Parent Holding Company or Control Person.
+	Not Applicable
+Item 8.	Identification and Classification of Members of the Group.
+	Not Applicable
+Item 9.	Notice of Dissolution of Group.
+	Not Applicable
+
+Item 10.	Certifications:
+	By signing below I certify that, to the best of my knowledge and belief, the securities referred to above were not acquired and are not held for the purpose of or with the effect of changing or influencing the control of the issuer of the securities and were not acquired and are not held in connection with or as a participant in any transaction having that purpose or effect, other than activities solely in connection with a nomination under ?? 240.14a-11.
+
+SIGNATURE
+	After reasonable inquiry and to the best of my knowledge and belief, I certify that the information set forth in this statement is true, complete and correct.
+
+	BURRELL JONATHAN
+
+	Signature:	/s/ Jonathan Burrell
+Name/Title:	Jonathan Burrell
+Date:	04/15/2026

@@ -1,0 +1,340 @@
+EX-99.1 2 grmn-ex99_1.htm EX-99.1 EX-99.1
+
+EXHIBIT 99.1
+
+Garmin announces second quarter 2025 results
+Company reports record second quarter operating results and raises full year guidance
+
+Schaffhausen, Switzerland / July 30, 2025 / PR Newswire – Garmin® Ltd. (NYSE: GRMN), today announced results for the second quarter ended June 28, 2025.
+
+Highlights for second quarter 2025 include:
+
+•Record consolidated revenue of $1.81 billion, a 20% increase compared to the prior year quarter
+
+•Gross margin expanded to 58.8% compared to 57.3% in the prior year quarter
+
+•Operating margin expanded to 26.0% from 22.7% in the prior year quarter
+
+•Record operating income of $472 million, a 38% increase compared to the prior year quarter
+
+•GAAP EPS of $2.07 and pro forma EPS(1) of $2.17, representing 37% growth in pro forma EPS over the prior year quarter
+
+•Launched the next-generation Forerunner® 570 and Forerunner 970, adding new training tools and recovery insights
+
+•Launched SmartCharts, the first dynamic, data-driven aviation charts tailored to simplify terminal procedures for pilots
+
+•Announced our revolutionary Autoland has been certified for the Cirrus SR Series G7+, the first piston-powered aircraft with Garmin’s autonomous emergency landing system
+
+•Recently completed the strategic acquisition of MYLAPS, a global market leader in sports timing and performance analysis
+
+(In thousands, except per share information)	13-Weeks Ended	26-Weeks Ended
+	June 28,	June 29,	YoY	June 28,	June 29,	YoY
+	2025	2024	Change	2025	2024	Change
+Net sales	$	1,814,564	$	1,506,671	20%	$	3,349,663	$	2,888,320	16%
+Fitness	605,425	428,404	41%	990,147	771,296	28%
+Outdoor	490,357	439,872	11%	928,853	806,065	15%
+Aviation	249,366	218,253	14%	472,481	435,108	9%
+Marine	299,262	272,953	10%	618,699	599,689	3%
+Auto OEM	170,154	147,189	16%	339,483	276,162	23%
+
+Gross profit	1,067,012	862,891	24	%	1,951,557	1,665,030	17	%
+Gross margin %	58.8	%	57.3	%	58.3	%	57.6	%
+
+Operating Income	472,295	342,027	38	%	805,119	640,437	26	%
+Operating income %	26.0	%	22.7	%	24.0	%	22.2	%
+
+GAAP diluted EPS	$	2.07	$	1.56	33	%	$	3.79	$	2.99	27	%
+Pro forma diluted EPS(1)	$	2.17	$	1.58	37	%	$	3.78	$	3.00	26	%
+
+(1) See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+“We delivered another quarter of outstanding financial results with double-digit growth in every segment, driven by our strong lineup of innovative and highly differentiated products that customers desire. We are very pleased with our results so far in 2025, which have exceeded our expectations and give us confidence to raise our full year guidance.” – Cliff Pemble, President and Chief Executive Officer of Garmin Ltd.
+
+Fitness:
+Revenue from the fitness segment increased 41% in the second quarter with growth led by strong demand for advanced wearables. Gross and operating margins were 60% and 33%, respectively, resulting in $198 million of operating income. During the quarter, we launched the Forerunner 570 and Forerunner 970 with advanced new training features and personalized training plans from Garmin Coach for running and triathlons. Also during the quarter, we launched the new Venu® X1 with an ultrathin case and a class-leading 2-inch display resulting in a sleek and lightweight design that is easy to read and packed full of our most popular features. We also launched the Index™ Sleep Monitor, our first smart sleep band, for a more comprehensive view of users’ overall fitness and recovery.
+
+Outdoor:
+Revenue from the outdoor segment increased 11% in the second quarter primarily due to growth in adventure watches. Gross and operating margins were 66% and 32%, respectively, resulting in $158 million of operating income. During the quarter, we launched the Instinct® 3 Tactical Edition, adding a bright AMOLED display and metal-reinforced bezel, a built-in LED flashlight, and a rucking activity. Also during the quarter, we launched Tread® 2, our latest all-terrain navigator, offering larger touchscreens and additional mapping options to enrich off-road adventures.
+
+Aviation:
+Revenue from the aviation segment increased 14% in the second quarter with growth contributions from both the OEM and aftermarket product categories. Gross and operating margins were 74% and 25%, respectively, resulting in $63 million of operating income. During the quarter, we launched SmartCharts, the first dynamic, data-driven charts tailored in real-time for the specific aircraft and approach being flown. Also during the quarter, we introduced the G5000® PRIME integrated flight deck, bringing our latest industry-leading cockpit innovations to Part 25 transport aircraft. We also announced that the Garmin Autoland system was certified for the Cirrus SR G7+ Series, becoming the first piston-powered aircraft equipped with this award-winning system. For the tenth consecutive year, we were recognized by Embraer as a Best Supplier, most recently in the Electrical and Electronic Systems category.
+
+Marine:
+Revenue from the marine segment increased 10% in the second quarter with growth across multiple categories led by chartplotters. Gross and operating margins were 55% and 21%, respectively, resulting in $63 million of operating income. During the quarter, we launched the GPSMAP® 15x3 chartplotters, with a premium ultrawide display. Also, we launched quatix® 8, our most advanced purpose-built smartwatch for mariners.
+
+Auto OEM:
+Revenue from the auto OEM segment increased 16% during the second quarter primarily driven by growth in domain controllers. Gross margin was 17% and we recorded an operating loss of $10 million in the quarter. We recently shipped the one millionth BMW domain controller out of our U.S. manufacturing facility, demonstrating our capability as a respected tier 1 supplier to the North American automotive market.
+
+Additional Financial Information:
+Total operating expenses in the second quarter were $595 million, a 14% increase over the prior year. Research and development and selling, general and administrative expenses increased 14% and 15%, respectively, driven primarily by personnel related costs.
+
+The effective tax rate in the second quarter was 16.5% compared to the effective tax rate of 17.9% in the prior year quarter. The decrease in the current quarter is primarily due to an increase in uncertain tax position reserve releases as compared to the same period last year.
+
+In the second quarter of 2025, we generated operating cash flows of $173 million and free cash flow(1) of $127 million. We paid a quarterly dividend of approximately $173 million and repurchased $67 million of the Company’s shares within the quarter, leaving approximately $143 million remaining as of June 28, 2025 in the $300 million share repurchase program authorized through December 2026. We ended the quarter with cash and marketable securities of approximately $3.9 billion.
+
+(1)See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma effective tax rate and free cash flow.
+
+2025 Fiscal Year Guidance:
+Based on our performance in the first half of 2025, we are raising our full year 2025 guidance. We now anticipate revenue of approximately $7.1 billion and pro forma EPS of $8.00 based on gross margin of 58.5%, operating margin of 24.8% and a full year tax rate of 17.5% (see attached discussion on Forward-looking Financial Measures).
+
+Dividend Recommendation:
+The Board of Directors has established September 26, 2025, as the payment date for the next dividend installment of $0.90 per share with a record date of September 12, 2025. At the 2025 annual shareholders’ meeting, Garmin shareholders, in accordance with Swiss corporate law, approved a cash dividend in the total amount of $3.60 per share, payable in four equal installments on dates to be determined by the Board in its discretion. The first payment was made on June 27, 2025. The Board currently anticipates the scheduling of the remaining quarterly dividend installments as follows:
+
+Dividend Date	Record Date	$s per share
+December 26, 2025	December 12, 2025	$0.90
+March 27, 2026	March 13, 2026	$0.90
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+When:	Wednesday, July 30, 2025 10:30 a.m. Eastern
+Where:	Join a live stream of the call at the following link
+	https://www.garmin.com/en-US/investors/events/
+
+An archive of the live webcast will be available until July 29, 2026 on the Garmin website at www.garmin.com. To access the replay, click on the Investors link and click over to the Events page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “anticipates,” “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s expected fiscal 2025 GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, global trade related impacts, potential future acquisitions, share repurchase programs, currency movements, expenses, pricing, new product launches, market reach, statements relating to possible future dividends, and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 28, 2024 and the Quarterly Report on Form 10-Q for the quarter ended June 28, 2025 filed by Garmin with the Securities and Exchange Commission (Commission file number 001-41118). A copy of Garmin’s 2024 Form 10-K and the Q2 2025 Form 10-Q can be downloaded from https://www.garmin.com/en-US/investors/sec/. All information provided in this release and in the attachments is as of June 28, 2025. Undue reliance should not be placed on the forward-looking statements in this press release, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company’s use of these measures are included in the attachments.
+
+Garmin, the Garmin logo, the Garmin delta, Forerunner, G5000, GPSMAP, Instinct, quatix, Tread, and venu are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S. Index is a trademark of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved.
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Krista Klaus
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28,	June 29,	June 28,	June 29,
+	2025	2024	2025	2024
+Net sales	$	1,814,564	$	1,506,671	$	3,349,663	$	2,888,320
+Cost of goods sold	747,552	643,780	1,398,106	1,223,290
+Gross profit	1,067,012	862,891	1,951,557	1,665,030
+
+Research and development expense	276,663	243,151	544,783	485,686
+Selling, general and administrative expenses	318,054	277,713	601,655	538,907
+Total operating expense	594,717	520,864	1,146,438	1,024,593
+
+Operating income	472,295	342,027	805,119	640,437
+
+Other income (expense):
+Interest income	31,724	29,286	62,231	54,313
+Foreign currency (losses) gains	(23,512	)	(4,828	)	1,248	(2,547	)
+Other (expense) income	(256	)	(513	)	730	809
+Total other income (expense)	7,956	23,945	64,209	52,575
+
+Income before income taxes	480,251	365,972	869,328	693,012
+Income tax provision	79,429	65,342	135,737	116,421
+Net income	$	400,822	$	300,630	$	733,591	$	576,591
+
+Net income per share:
+Basic	$	2.08	$	1.57	$	3.81	$	3.00
+Diluted	$	2.07	$	1.56	$	3.79	$	2.99
+
+Weighted average common shares outstanding:
+Basic	192,523	192,074	192,534	191,982
+Diluted	193,416	192,899	193,557	192,808
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands)
+
+	June 28,2025	December 28, 2024
+Assets
+Current assets:
+Cash and cash equivalents	$	2,072,208	$	2,079,468
+Marketable securities	515,038	421,270
+Accounts receivable, net	1,010,578	983,404
+Inventories	1,788,020	1,473,978
+Deferred costs	18,518	24,040
+Prepaid expenses and other current assets	415,069	353,993
+Total current assets	5,819,431	5,336,153
+
+Property and equipment, net	1,290,714	1,236,884
+Operating lease right-of-use assets	179,299	164,656
+Noncurrent marketable securities	1,285,887	1,198,331
+Deferred income tax assets	852,551	822,521
+Noncurrent deferred costs	5,222	6,898
+Goodwill	640,554	603,947
+Other intangible assets, net	147,285	154,163
+Other noncurrent assets	103,133	106,974
+Total assets	$	10,324,076	$	9,630,527
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	397,303	$	359,365
+Salaries and benefits payable	193,598	210,879
+Accrued warranty costs	71,197	62,473
+Accrued sales program costs	104,310	108,492
+Other accrued expenses	254,359	216,721
+Deferred revenue	108,444	110,997
+Income taxes payable	282,988	294,582
+Dividend payable	519,863	144,349
+Total current liabilities	1,932,062	1,507,858
+
+Deferred income tax liabilities	89,194	103,274
+Noncurrent income taxes payable	3,704	7,014
+Noncurrent deferred revenue	24,553	28,321
+Noncurrent operating lease liabilities	148,608	134,886
+Other noncurrent liabilities	844	776
+
+Stockholders’ equity:
+Common shares (194,901 and 194,901 shares authorized and issued; 192,542 and 192,468 shares outstanding)	19,490	19,490
+Additional paid-in capital	2,317,294	2,247,484
+Treasury shares (2,359 and 2,433 shares)	(356,358	)	(270,521	)
+Retained earnings	6,039,512	5,999,183
+Accumulated other comprehensive income (loss)	105,173	(147,238	)
+Total stockholders’ equity	8,125,111	7,848,398
+Total liabilities and stockholders’ equity	$	10,324,076	$	9,630,527
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	26-Weeks Ended
+	June 28, 2025	June 29, 2024
+Operating Activities:
+Net income	$	733,591	$	576,591
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	75,980	67,890
+Amortization	17,423	21,047
+Loss on sale or disposal of property and equipment	350	128
+Unrealized foreign currency (gains) losses	(16,566	)	3,165
+Deferred income taxes	(49,754	)	(35,778	)
+Stock compensation expense	82,279	65,983
+Realized loss on marketable securities	706	29
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	17,902	(8,600	)
+Inventories	(206,276	)	(11,368	)
+Other current and noncurrent assets	(37,092	)	(39,759	)
+Accounts payable	(2,591	)	92,065
+Other current and noncurrent liabilities	2,408	(62,099	)
+Deferred revenue	(6,843	)	667
+Deferred costs	7,262	(2,516	)
+Income taxes	(24,820	)	23,181
+Net cash provided by operating activities	593,959	690,626
+
+Investing activities:
+Purchases of property and equipment	(85,738	)	(70,325	)
+Purchase of marketable securities	(465,372	)	(281,297	)
+Redemption of marketable securities	306,469	203,775
+Net (payments for) cash from acquisitions	(1,973	)	5,011
+Other investing activities, net	503	(321	)
+Net cash used in investing activities	(246,111	)	(143,157	)
+
+Financing activities:
+Dividends	(317,748	)	(284,246	)
+Proceeds from issuance of treasury shares related to equity awards	29,065	24,530
+Purchase of treasury shares related to equity awards	(33,431	)	(16,264	)
+Purchase of treasury shares under share repurchase plan	(93,632	)	(9,713	)
+Net cash used in financing activities	(415,746	)	(285,693	)
+
+Effect of exchange rate changes on cash and cash equivalents	60,650	(17,761	)
+
+Net (decrease) increase in cash, cash equivalents, and restricted cash	(7,248	)	244,015
+Cash, cash equivalents, and restricted cash at beginning of period	2,080,154	1,694,156
+Cash, cash equivalents, and restricted cash at end of period	$	2,072,906	$	1,938,171
+
+Garmin Ltd. and Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment (Unaudited)
+(In thousands)
+
+	Fitness	Outdoor	Aviation	Marine	Auto OEM	Total
+13-Weeks Ended June 28, 2025
+Net sales	$	605,425	$	490,357	$	249,366	$	299,262	$	170,154	$	1,814,564
+Gross profit	364,670	324,429	185,472	164,338	28,103	1,067,012
+Operating income (loss)	197,630	157,881	63,383	62,921	(9,520	)	472,295
+
+13-Weeks Ended June 29, 2024
+Net sales	$	428,404	$	439,872	$	218,253	$	272,953	$	147,189	$	1,506,671
+Gross profit	245,248	284,214	161,366	147,787	24,276	862,891
+Operating income (loss)	107,610	135,592	50,485	59,892	(11,552	)	342,027
+
+26-Weeks Ended June 28, 2025
+Net sales	$	990,147	$	928,853	$	472,481	$	618,699	$	339,483	$	3,349,663
+Gross profit	584,813	606,964	353,374	348,271	58,135	1,951,557
+Operating income (loss)	275,344	286,668	111,739	149,785	(18,417	)	805,119
+
+26-Weeks Ended June 29, 2024
+Net sales	$	771,296	$	806,065	$	435,108	$	599,689	$	276,162	$	2,888,320
+Gross profit	440,050	526,953	323,992	327,039	46,996	1,665,030
+Operating income (loss)	175,743	242,543	102,619	147,583	(28,051	)	640,437
+
+Garmin Ltd. and Subsidiaries
+Net Sales by Geography (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28,	June 29,	YoY	June 28,	June 29,	YoY
+	2025	2024	Change	2025	2024	Change
+Net sales	$	1,814,564	$	1,506,671	20%	$	3,349,663	$	2,888,320	16%
+Americas	878,014	740,577	19%	1,623,747	1,456,694	11%
+EMEA	677,402	542,016	25%	1,246,355	1,005,399	24%
+APAC	259,148	224,078	16%	479,561	426,227	13%
+
+Americas - North America & South America; EMEA - Europe, Middle East & Africa; APAC - Asia Pacific & Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma effective tax rate, pro forma net income (earnings) per share and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors' consistent comparison between periods. In the first half 2025 and 2024 there were no such discrete tax items identified.
+
+Pro forma net income (earnings) per share
+
+Management believes net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure to permit a consistent comparison of the Company’s performance between periods.
+
+(In thousands, except per share information)	13-Weeks Ended	26-Weeks Ended
+	June 28,	June 29,	June 28,	June 29,
+	2025	2024	2025	2024
+GAAP net income	$	400,822	$	300,630	$	733,591	$	576,591
+Foreign currency gains / losses(1)	23,512	4,828	(1,248	)	2,547
+Tax effect of foreign currency gains / losses(2)	(3,889	)	(862	)	195	(428	)
+Pro forma net income	$	420,445	$	304,596	$	732,538	$	578,710
+
+GAAP net income per share:
+Basic	$	2.08	$	1.57	$	3.81	$	3.00
+Diluted	$	2.07	$	1.56	$	3.79	$	2.99
+
+Pro forma net income per share:
+Basic	$	2.18	$	1.59	$	3.80	$	3.01
+Diluted	$	2.17	$	1.58	$	3.78	$	3.00
+
+Weighted average common shares outstanding:
+Basic	192,523	192,074	192,534	191,982
+Diluted	193,416	192,899	193,557	192,808
+
+(1) Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at a given legal entity. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency gains was calculated using the effective tax rates of 16.5% and 15.6% for the 13-weeks and 26-weeks ended June 28, 2025 and 17.9% and 16.8% for the 13-weeks and 26-weeks ended June 29, 2024.
+
+Free cash flow
+
+Management believes free cash flow is an important liquidity measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operations and allows more accurate comparisons of the Company’s results between periods. This metric may also be useful to investors but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+(In thousands)	13-Weeks Ended	26-Weeks Ended
+	June 28,	June 29,	June 28,	June 29,
+	2025	2024	2025	2024
+Net cash provided by operating activities	$	173,171	$	255,321	$	593,959	$	690,626
+Less: purchases of property and equipment	(45,677	)	(37,157	)	(85,738	)	(70,325	)
+Free cash flow	$	127,494	$	218,164	$	508,221	$	620,301
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2025 guidance include certain economic assumptions such as foreign currency exchange rates and tariffs which are fluid and can rapidly change favorably or unfavorably.
+
+The forward-looking financial measures in our 2025 guidance provided above do not consider the potential future net effect of foreign currency exchange gains and losses, certain discrete tax items and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.01 per share for the 26-week period ended June 28, 2025.
+
+At this time, management is unable to determine whether or not significant discrete tax items will occur in fiscal 2025, estimate the impact of any such items, or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.

@@ -1,0 +1,409 @@
+EX-99.1 2 grmn-ex991_122.htm EX-99.1 grmn-ex991_122.htm
+
+EXHIBIT 99.1
+
+Garmin reports fourth quarter results
+Company reports record results and proposes dividend increase
+
+Schaffhausen, Switzerland / February 17, 2021/ Business Wire – Garmin® Ltd. (NASDAQ: GRMN), today announced results for the fourth quarter and fiscal year ended December 26, 2020.
+
+Highlights for fourth quarter 2020 include:
+
+	•	Total revenue of $1.35 billion, a 23% increase over the prior year quarter, led by robust growth in the marine, fitness and outdoor segments
+
+	•	Gross margin of 58.5% compared to 58.0% in the prior year quarter
+
+	•	Operating margin improved to 27.5% compared to 25.1% in the prior year quarter
+
+	•	Operating income of $371 million, increasing 34% over the prior year quarter
+
+	•	GAAP EPS was $1.73 and pro forma EPS(1) was $1.73, representing 34% growth in pro forma EPS over the prior year quarter
+
+	•	Added pregnancy tracking to Garmin Connect, providing innovative new tools to women who want to remain fit and healthy during pregnancy
+
+	•	Expanded our reach in the recreational diving market with the launch of the new Descent® Mk2i, our first dive watch featuring air integration in combination with the T1 tank transmitter
+
+	•	Garmin Autoland was named one of 2020’s greatest innovations by Popular Science and won a Top Flight Award from Aviation International News
+
+	•	Recently announced the acquisition of substantially all the assets of GEOS Worldwide Limited, a leading provider of emergency monitoring and response services for customers around the globe
+
+Highlights for fiscal year 2020 include:
+
+	•	Fifth consecutive year of revenue and operating income growth
+
+	•	Record consolidated revenue of $4.19 billion, an 11% increase
+
+	•	Gross margin of 59.3% compared to 59.5% in the prior year
+
+	•	Operating margin of 25.2% consistent with the prior year
+
+	•	Record operating income of $1.05 billion, increasing 11% over the prior year
+
+	•	GAAP EPS was $5.17 and pro forma EPS(1) was $5.14, representing 16% growth over the prior year pro forma EPS
+
+(in thousands, except per share data)	13-Weeks Ended	52-Weeks Ended
+	December 26,	December 28,	YoY	December 26,	December 28,	YoY
+	2020	2019	Change	2020	2019	Change
+Net sales	$	1,351,405	$	1,102,233	23	%	$	4,186,573	$	3,757,505	11	%
+Fitness	470,811	372,520	26	%	1,317,498	1,047,527	26	%
+Outdoor	411,935	294,819	40	%	1,128,081	917,567	23	%
+Aviation	156,969	193,143	(19	)%	622,820	735,458	(15	)%
+Marine	171,579	115,779	48	%	657,848	508,850	29	%
+Auto	140,111	125,972	11	%	460,326	548,103	(16	)%
+
+Gross margin %	58.5	%	58.0	%	59.3	%	59.5	%
+
+Operating income %	27.5	%	25.1	%	25.2	%	25.2	%
+
+GAAP diluted EPS	$1.73	$1.89	(8	)%	$5.17	$4.99	4	%
+Pro forma diluted EPS (1)	$1.73	$1.29	34	%	$5.14	$4.45	16	%
+
+(1) See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+“In a year filled with unimaginable challenges, Garmin delivered record revenue and profits,” said Cliff Pemble, President and CEO of Garmin. “Strong demand for active lifestyle products fueled our growth, and we expect these trends to continue into 2021. I am very proud of what we have accomplished in 2020 and look forward to the opportunities and challenges of the new year.”
+
+Fitness:
+Revenue from the fitness segment grew 26% in the fourth quarter driven by strong demand for advanced wearables and cycling products. Gross margin and operating margin were 53% and 27%, respectively, resulting in 75% operating income growth. During the quarter, we launched the Tacx Boost, a powerful indoor trainer that is easy-to-use and features a magnetic brake, realistic ride-feel and manual resistance control for cyclists of all levels.
+
+Outdoor:
+Revenue from the outdoor segment grew 40% in the fourth quarter across all categories led by strong demand for adventure watches. Gross margin and operating margin were 66% and 43%, respectively, resulting in 55% operating income growth. During the quarter, we launched the Mk2i dive watch and T1 tank transmitter adding air integration to our growing lineup of dive electronics.
+
+Aviation:
+Revenue from the aviation segment declined 19% in the fourth quarter due to fewer shipments to OEM customers and reduced contributions from ADS-B products. Gross margin and operating margin were 73% and 21%, respectively. During the quarter, we introduced smart rudder bias technology into GFC 600 autopilot systems for select twin engine aircraft, providing control assistance to the pilot in the event of an engine failure.
+
+Marine:
+Revenue from the marine segment grew 48% in the fourth quarter across multiple categories led by chartplotters. Gross margin and operating margin were 56% and 24%, respectively, resulting in 92% operating income growth. We recently updated our mid-range GPSMAP chartplotter series with higher resolution displays and more processing power, and we launched the all new StrikerTM Vivid series with enhanced color depth in an entry level fishfinder.
+
+Auto:
+Revenue from the auto segment grew 11% during the fourth quarter primarily driven by OEM programs and growth in consumer specialty categories. Gross margin was 42%, and we recorded an operating loss of $12 million in the quarter driven by investments in OEM programs. We recently introduced the new RV 1090 GPS navigator with a new 10-inch high resolution touchscreen display, which further expands our reach in the growing market for recreational vehicles.
+
+Additional Financial Information:
+Total operating expenses in the fourth quarter were $420 million, a 16% increase over the prior year. Research and development increased by 23%, primarily due to engineering personnel costs and other expenses related to auto OEM programs. Selling, general and administrative expenses increased 15%, driven primarily by information technology costs and personnel related expenses. Advertising decreased 2%.
+
+The effective tax rate in the fourth quarter was 14.8%. Excluding $11 million of income tax expense due to the revaluation of certain Switzerland deferred tax assets associated with Switzerland tax reform, our pro forma effective tax rate(1) in the fourth quarter of 2020 was 12.0% compared to 15.5% in the prior year quarter. The decrease in the pro forma effective tax rate is primarily due to the migration of intellectual property ownership from Switzerland to the United States.
+
+In the fourth quarter of 2020, we generated approximately $387 million of free cash flow(1), and paid a quarterly dividend of approximately $117 million. We ended the quarter with cash and marketable securities of approximately $2.98 billion.
+
+	(1)	See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma effective tax rate and free cash flow.
+
+2021 Guidance (2):
+We expect full year 2021 revenue of approximately $4.6 billion with growth in all segments. We expect our full year pro forma EPS to be approximately $5.15 based upon gross margin of approximately 59.2%, operating margin of approximately 23.5% and a full year pro forma effective tax rate of approximately 10.5%.
+	2021 Guidance	Segment	2021 Revenue Growth Estimates
+Revenue	~$4.6B	Fitness	~10%
+Gross Margin	~59.2%	Outdoor	~10%
+Operating Margin	~23.5%	Aviation	~5%
+Pro forma Tax Rate	~10.5%	Marine	~15%
+Pro forma EPS	~$5.15	Auto	~5%
+
+	(2)	See attached discussion on Forward-looking Financial Measures
+
+Dividend Recommendation:
+
+The board of directors intends to recommend to the shareholders for approval at the annual meeting to be held on June 4, 2021, a cash dividend in the amount of $2.68 per share (subject to possible adjustment based on the total amount of the dividend in Swiss Francs as approved at the annual meeting), payable in four equal installments on dates to be determined by the board. The board currently anticipates the scheduling of the dividend in four installments as follows:
+Dividend Date	Record Date	$s per share
+June 30, 2021	June 15, 2021	$0.67
+September 30, 2021	September 15, 2021	$0.67
+December 31, 2021	December 15, 2021	$0.67
+March 31, 2022	March 15, 2022	$0.67
+
+In addition, the board has established March 31, 2021 as the payment date and March 15, 2021 as the record date for the final dividend installment of $0.61 per share, per the prior approval at the 2020 annual shareholders’ meeting. The first, second and third payments of $0.61 per share were made on June 30, 2020, September 30, 2020, and December 31, 2020, respectively.
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+When:	Wednesday, February 17, 2021 at 10:30 a.m. Eastern
+Where:	https://www.garmin.com/en-US/investors/events/
+How:	Simply log on to the web at the address above or call to listen in at 855-757-3897
+
+An archive of the live webcast will be available until February 16, 2022 on the Garmin website at www.garmin.com. To access the replay, click on the Investors link and click over to the Events Calendar page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “anticipates,” “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s expected fiscal 2021 GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, potential future acquisitions, currency movements, expenses, pricing, new products launches, statements relating to possible future dividends, statements related to the ongoing impact of the COVID-19 pandemic, and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 26, 2020 filed by Garmin with the Securities and Exchange Commission (Commission file number 0-31983). A copy of Garmin’s 2020 Form 10-K can be downloaded from https://www.garmin.com/en-US/investors/sec/. All information provided in this release and in the attachments is as of December 26, 2020. Undue reliance should not be placed on the forward-looking statements in this press release, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company's use of these measures are included in the attachments.
+Garmin, the Garmin logo, the Garmin delta, Descent and Tacx are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S. Garmin SubWave, and Striker, are trademarks of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Carly Hysell
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 26,	December 28,	December 26,	December 28,
+	2020	2019	2020	2019
+Net sales	$	1,351,405	$	1,102,233	$	4,186,573	$	3,757,505
+
+Cost of goods sold	560,422	462,777	1,705,237	1,523,529
+
+Gross profit	790,983	639,456	2,481,336	2,233,976
+
+Advertising expense	61,135	62,648	151,166	164,456
+Selling, general and administrative expense	158,910	138,280	570,245	518,568
+Research and development expense	199,672	162,005	705,685	605,366
+Total operating expense	419,717	362,933	1,427,096	1,288,390
+
+Operating income	371,266	276,523	1,054,240	945,586
+
+Other income (expense):
+Interest income	6,744	13,069	37,002	52,817
+Foreign currency gains (losses)	12,627	(4,230	)	2,825	(16,799	)
+Other income	828	2,051	9,343	5,618
+Total other income (expense)	20,199	10,890	49,170	41,636
+
+Income before income taxes	391,465	287,413	1,103,410	987,222
+
+Income tax provision (benefit)	57,918	(73,379	)	111,086	34,736
+
+Net income	$	333,547	$	360,792	$	992,324	$	952,486
+
+Net income per share:
+Basic	$	1.74	$	1.90	$	5.19	$	5.01
+Diluted	$	1.73	$	1.89	$	5.17	$	4.99
+
+Weighted average common shares outstanding:
+Basic	191,278	190,165	191,085	189,931
+Diluted	192,303	191,225	191,895	190,899
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	December 26, 2020	December 28, 2019
+Assets
+Current assets:
+Cash and cash equivalents	$	1,458,442	$	1,027,567
+Marketable securities	387,642	376,463
+Accounts receivable, net	849,469	706,763
+Inventories	762,084	752,908
+Deferred costs	20,145	25,105
+Prepaid expenses and other current assets	191,569	169,044
+Total current assets	3,669,351	3,057,850
+
+Property and equipment, net	855,539	728,921
+Operating lease right-of-use assets	94,626	63,589
+
+Restricted cash	306	71
+Marketable securities	1,131,175	1,205,475
+Deferred income taxes	245,455	268,518
+Noncurrent deferred costs	16,510	23,493
+Intangible assets, net	828,566	659,629
+Other assets	189,845	159,253
+Total assets	$	7,031,373	$	6,166,799
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	258,885	$	240,831
+Salaries and benefits payable	181,937	128,426
+Accrued warranty costs	42,643	39,758
+Accrued sales program costs	109,891	112,578
+Deferred revenue	86,865	94,562
+Accrued advertising expense	31,950	35,142
+Other accrued expenses	149,817	110,461
+Income taxes payable	68,585	56,913
+Dividend payable	233,644	217,262
+Total current liabilities	1,164,217	1,035,933
+
+Deferred income taxes	116,844	114,754
+Noncurrent income taxes	92,810	105,771
+Noncurrent deferred revenue	49,934	67,329
+Noncurrent operating lease liabilities	75,958	49,238
+Other liabilities	15,494	278
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued, 191,571 shares outstanding at December 26, 2020; and 190,686 shares outstanding at December 28, 2019	17,979	17,979
+Additional paid-in capital	1,880,354	1,835,622
+Treasury stock	(320,016	)	(345,040	)
+Retained earnings	3,754,372	3,229,061
+Accumulated other comprehensive income	183,427	55,874
+Total stockholders’ equity	5,516,116	4,793,496
+Total liabilities and stockholders’ equity	$	7,031,373	$	6,166,799
+
+Garmin Ltd. And Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	52-Weeks Ended
+	December 26, 2020	December 28, 2019
+Operating Activities:
+Net income	$	992,324	$	952,486
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	78,121	71,921
+Amortization	48,594	34,254
+Gain on sale of property and equipment	(1,799	)	(233	)
+Unrealized foreign currency (gains) losses	(9,873	)	18,663
+Deferred income taxes	6,931	(88,358	)
+Stock compensation expense	80,885	63,400
+Realized (gains) losses on marketable securities	(1,392	)	(799	)
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	(108,859	)	(123,401	)
+Inventories	28,726	(170,169	)
+Other current and non-current assets	(33,690	)	(86,073	)
+Accounts payable	1,447	26,192
+Other current and non-current liabilities	87,761	36,660
+Deferred revenue	(25,211	)	(11,032	)
+Deferred costs	11,973	9,335
+Income taxes payable	(20,671	)	(34,297	)
+Net cash provided by operating activities	1,135,267	698,549
+
+Investing activities:
+Purchases of property and equipment	(185,401	)	(118,031	)
+Proceeds from sale of property and equipment	1,977	529
+Purchase of intangible assets	(2,065	)	(2,377	)
+Purchase of marketable securities	(1,052,640	)	(789,352	)
+Redemption of marketable securities	1,126,253	758,774
+Acquisitions, net of cash acquired	(148,648	)	(300,289	)
+Net cash used in investing activities	(260,524	)	(450,746	)
+
+Financing activities:
+Dividends	(450,631	)	(417,264	)
+Proceeds from issuance of treasury stock related to equity awards	15,201	27,122
+Purchase of treasury stock related to equity awards	(26,330	)	(25,886	)
+Net cash used in financing activities	(461,760	)	(416,028	)
+
+Effect of exchange rate changes on cash and cash equivalents	18,127	(5,942	)
+
+Net increase (decrease) in cash, cash equivalents, and restricted cash	431,110	(174,167	)
+Cash, cash equivalents, and restricted cash at beginning of year	1,027,638	1,201,805
+Cash, cash equivalents, and restricted cash at end of year	$	1,458,748	$	1,027,638
+
+The following table includes supplemental financial information for the consumer auto and auto OEM operating segments that management believes is useful.
+
+Garmin Ltd. And Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment (Unaudited)
+(In thousands)
+
+	Auto
+	Fitness	Outdoor	Aviation	Marine	Total Auto	Consumer Auto	Auto OEM	Total
+
+13-Weeks Ended December 26, 2020
+
+Net sales	$	470,811	$	411,935	$	156,969	$	171,579	$	140,111	$	78,552	$	61,559	$	1,351,405
+Gross profit	250,603	270,627	114,237	96,347	59,169	41,516	17,653	790,983
+Operating income	128,809	179,028	33,718	41,530	(11,819	)	15,836	(27,655	)	371,266
+
+13-Weeks Ended December 28, 2019
+
+Net sales	$	372,520	$	294,819	$	193,143	$	115,779	$	125,972	$	88,868	$	37,104	$	1,102,233
+Gross profit	179,799	194,601	137,537	68,935	58,584	41,945	16,639	639,456
+Operating income	73,490	115,701	62,778	21,663	2,891	14,788	(11,897	)	276,523
+
+52-Weeks Ended December 26, 2020
+
+Net sales	$	1,317,498	$	1,128,081	$	622,820	$	657,848	$	460,326	$	275,493	$	184,833	$	4,186,573
+Gross profit	697,539	739,777	453,008	384,450	206,562	139,864	66,698	2,481,336
+Operating income	318,884	441,085	137,203	175,724	(18,656	)	41,464	(60,120	)	1,054,240
+
+52-Weeks Ended December 28, 2019
+
+Net sales	$	1,047,527	$	917,567	$	735,458	$	508,850	$	548,103	$	365,511	$	182,592	$	3,757,505
+Gross profit	532,604	598,443	543,385	302,949	256,595	172,218	84,377	2,233,976
+Operating income	191,858	334,041	252,943	109,876	56,868	63,299	(6,431	)	945,586
+
+Garmin Ltd. And Subsidiaries
+Net Sales by Geography (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 26,	December 28,	YoY	December 26,	December 28,	YoY
+	2020	2019	Change	2020	2019	Change
+Net sales	$	1,351,405	$	1,102,233	23%	$	4,186,573	$	3,757,505	11%
+Americas	595,720	528,362	13%	1,968,080	1,817,770	8%
+EMEA	536,822	407,908	32%	1,579,749	1,350,533	17%
+APAC	218,863	165,963	32%	638,744	589,202	8%
+
+EMEA - Europe, Middle East and Africa
+APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma effective tax rate, pro forma net income (earnings) per share and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes disclosure of the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors' consistent comparison between periods.
+
+Garmin Ltd. And Subsidiaries
+Pro Forma Effective Tax Rate
+(In thousands, except effective tax rate (ETR) information)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 26,	December 28,	December 26,	December 28,
+	2020	2019	2020	2019
+	$	ETR(1)	$	ETR(1)	$	ETR(1)	$	ETR(1)
+U.S GAAP income tax provision (benefit)	$	57,918	14.8%	$	(73,379	)	(25.5)%	$	111,086	10.1%	$	34,736	3.5%
+Pro forma discrete tax items:
+Uncertain Tax Reserve Release (2)	14,308
+Switzerland deferred tax assets (3)	(11,016	)	117,989	(11,016	)	117,989
+Pro forma income tax provision	$	46,902	12.0%	$	44,610	15.5%	$	114,378	10.4%	$	152,725	15.5%
+
+(1) Effective tax rate is calculated by taking the income tax provision divided by income before taxes, as presented on the face of the Condensed Consolidated Statements of Income.
+
+(2) In second quarter 2020, the Company recognized a $14.3 million income tax benefit due to the release of uncertain tax position reserves associated with the 2014 intercompany restructuring, which was a pro forma adjustment in 2014. The impact of the reserve release is not reflective of income tax expense incurred as a result of current period earnings and therefore affects period-to-period comparability.
+
+(3) In fourth quarter 2019, a $118 million income tax benefit was recognized resulting from the revaluation and step-up of certain Switzerland deferred tax assets as a result of the enactment of Switzerland Federal and Schaffhausen cantonal tax reform and related transitional measures. In fourth quarter 2020, certain Switzerland deferred tax assets related to the Switzerland tax reform transitional measures were revalued resulting in an $11 million income tax expense. The impact of the revaluation of these Switzerland deferred tax assets is not reflective of income tax expense incurred as a result of current period earnings and therefore affects period-to-period comparability.
+
+The net release of other uncertain tax position reserves, amounting to approximately $31.1 million and $28.9 million in the 52 weeks ended December 26, 2020 and December 28, 2019, respectively, have not been identified as pro forma adjustments as such items tend to be more recurring in nature.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+Garmin Ltd. And Subsidiaries
+Pro Forma Net Income (Earnings) Per Share
+(In thousands, except per share information)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 26,	December 28,	December 26,	December 28,
+	2020	2019	2020	2019
+GAAP net income	$	333,547	$	360,792	$	992,324	$	952,486
+Foreign currency gains / losses (1)	(12,627	)	4,230	(2,825	)	16,799
+Tax effect of foreign currency gains / losses (2)	1,513	(657	)	293	(2,599	)
+Pro forma discrete tax items (3)	11,016	(117,989	)	(3,292	)	(117,989	)
+Pro forma net income	$	333,449	$	246,376	$	986,500	$	848,697
+
+GAAP net income per share:
+Basic	$	1.74	$	1.90	$	5.19	$	5.01
+Diluted	$	1.73	$	1.89	$	5.17	$	4.99
+
+Pro forma net income per share:
+Basic	$	1.74	$	1.30	$	5.16	$	4.47
+Diluted	$	1.73	$	1.29	$	5.14	$	4.45
+
+Weighted average common shares outstanding:
+Basic	191,278	190,165	191,085	189,931
+Diluted	192,303	191,225	191,895	190,899
+
+(1) Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at a given legal entity. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency gains and losses was calculated using the pro forma effective tax rate of 12.0% and 10.4% for the 13-weeks and fiscal year ended December 26, 2020, respectively, and the pro forma effective tax rate of 15.5% for the 13-weeks and fiscal year ended December 28, 2019.
+
+(3) The 2019 and 2020 discrete tax items are discussed in the pro forma effective tax rate section above.
+
+Free cash flow
+
+Management believes that free cash flow is an important liquidity measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes that excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operations and allows more accurate comparisons of the Company’s results between periods. This metric may also be useful to investors, but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+Garmin Ltd. And Subsidiaries
+Free Cash Flow
+(In thousands)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 26,	December 28,	December 26,	December 28,
+	2020	2019	2020	2019
+Net cash provided by operating activities	$	435,818	$	234,379	$	1,135,267	$	698,549
+Less: purchases of property and equipment	(48,329	)	(26,562	)	(185,401	)	(118,031	)
+Free Cash Flow	$	387,489	$	207,817	$	949,866	$	580,518
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2021 guidance provided above do not consider the potential future net effect of foreign currency exchange gains and losses, certain discrete tax items and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.01 per share for the 52-weeks ended December 26, 2020.
+
+At this time, management is unable to determine whether or not significant discrete tax items will occur in fiscal 2021 or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.

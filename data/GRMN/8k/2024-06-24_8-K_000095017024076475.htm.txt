@@ -1,0 +1,85 @@
+8-K
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+Current Report
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): June 24, 2024
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	001-41118	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: +41 52 630 1600
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares, $0.10 Per Share Par Value	GRMN	New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On June 24, 2024, Garmin Ltd. (the “Company” or “Garmin”) announced that Patrick G. Desbois, age 56, and Bradley C. Trenkle, age 44, have been appointed as co-Chief Operating Officers of the Company, effective July 1, 2024.
+
+Mr. Desbois has served as Executive Vice President, Operations of Garmin International, Inc. (“Garmin International”), a principal subsidiary of the Company, since February 2017. He joined Garmin in November 2011 as Vice President, Executive Office.
+
+Mr. Trenkle has served as Vice President, Outdoor Segment of the Company since 2017. He joined Garmin as a Software Engineer in 2002, and he held various leadership positions at the Company, including Senior Director Outdoor Business Segment, before being promoted to Vice President, Outdoor Segment in 2017. Mr. Trenkle also serves as a director and officer of various Garmin subsidiaries.
+
+There are no family relationships between either Mr. Desbois or Mr. Trenkle and any director, executive officer or person nominated or chosen by the Company to become a director or executive officer of the Company within the meaning of Item 401(d) of Regulation S-K. Since the beginning of the Company’s last fiscal year, the Company has not engaged in any transaction in which Mr. Desbois or Mr. Trenkle had a direct or indirect material interest within the meaning of Item 404(a) of Regulation S-K.
+
+In their new roles, Mr. Desbois’s annual base salary will continue to be $875,000, and Mr. Trenkle’s annual base salary will continue to be $550,000. In addition, compensation for Mr. Desbois and Mr. Trenkle will continue to also include the following components: (a) eligibility to participate in awards under the Company’s 2005 Equity Incentive Plan, as amended and restated on June 7, 2024; and (b) group health insurance coverage and other employment benefits on the same terms as other employees of the Company.
+
+The Company entered into its standard Director and Officer Indemnification Agreement with each of Mr. Desbois and Mr. Trenkle, a copy of which was previously filed as Exhibit 10.1 to the Company's Current Report on Form 8-K filed with the Securities and Exchange Commission on August 8, 2014 and is incorporated by reference in this Item 5.02.
+
+Item 7.01 Regulation FD Disclosure
+
+On June 24, 2024, in connection with the announcement of Mr. Desbois’s and Mr. Trenkle’s appointments as co-Chief Operating Officers, the Company issued a press release, a copy of which is attached as Exhibit 99.1 and is incorporated by reference in this Item 7.01.
+
+Information in this Item 7.01, including the press release attached hereto as Exhibit 99.1, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934 (the “Exchange Act”) or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Company under the Securities Act of 1933 or the Exchange Act.
+
+Item 9.01. Financial Statements and Exhibits
+
+(d) Exhibits. The following exhibits are furnished herewith.
+
+Exhibit No.	Description
+99.1	Press Release dated June 24, 2024
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+1
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+June 24, 2024	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and Corporate Secretary
+
+2

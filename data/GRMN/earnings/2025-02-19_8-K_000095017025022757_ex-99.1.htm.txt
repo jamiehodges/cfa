@@ -1,0 +1,391 @@
+EX-99.1 2 grmn-ex99_1.htm EX-99.1 EX-99.1
+
+EXHIBIT 99.1
+
+Garmin announces fourth quarter and fiscal year 2024 results
+Reports record full-year revenue and profit, and proposes a 20% dividend increase
+
+Schaffhausen, Switzerland / February 19, 2025 / PR Newswire – Garmin® Ltd. (NYSE: GRMN), today announced results for the fourth quarter ended December 28, 2024.
+
+Highlights for fourth quarter 2024 include:
+
+•Consolidated revenue of $1.82 billion, a 23% increase compared to the prior year quarter
+
+•Gross margin expanded to 59.3% from 58.3% in the prior year quarter
+
+•Operating margin expanded to 28.3% compared to 23.0% in the prior year quarter
+
+•Operating income was $516 million, a 52% increase compared to the prior year quarter
+
+•GAAP EPS of $2.25 and pro forma EPS(1) of $2.41, representing 40% growth in pro forma EPS over the prior year quarter
+
+•Shipped over 300 million units since inception
+
+•Runway Occupancy Awareness technology honored with a prestigious Laureate Award from Aviation Week Network
+
+•Garmin ranked No. 1 for the 21st consecutive year in Professional Pilot’s Avionics Manufacturers Product Support Survey
+
+•Launched the Approach® R50, portable golf launch monitor with a built-in simulator
+
+•Launched the DescentTM X50i, our first large-format dive computer
+
+Highlights for fiscal year 2024 include:
+
+•Celebrated our 35th year anniversary of creating innovative products
+
+•Record consolidated revenue of $6.30 billion, a 20% increase compared to the prior year
+
+•All segments posted record full-year revenue
+
+•Gross margin expanded to 58.7% compared to 57.5% in the prior year
+
+•Operating margin expanded to 25.3% compared to 20.9% in the prior year
+
+•Record operating income of $1.59 billion, a 46% increase compared to the prior year
+
+•GAAP EPS of $7.30 and record pro forma EPS(1) of $7.39, representing 32% growth in pro forma EPS over the prior year
+
+(In thousands, except per share information)	13-Weeks Ended	52-Weeks Ended
+	December 28,	December 30,	YoY	December 28,	December 30,	YoY
+	2024	2023	Change	2024	2023	Change
+Net sales	$	1,822,560	$	1,482,501	23	%	$	6,296,903	$	5,228,252	20	%
+Fitness	539,305	412,076	31	%	1,774,487	1,344,637	32	%
+Outdoor	629,373	486,378	29	%	1,961,990	1,697,151	16	%
+Aviation	236,875	217,134	9	%	876,614	846,329	4	%
+Marine	251,259	239,886	5	%	1,073,192	916,911	17	%
+Auto OEM	165,748	127,027	30	%	610,620	423,224	44	%
+
+Gross profit	1,079,926	864,149	25	%	3,696,555	3,004,955	23	%
+Gross margin %	59.3	%	58.3	%	58.7	%	57.5	%
+
+Operating income	516,082	340,454	52	%	1,593,994	1,092,160	46	%
+Operating margin %	28.3	%	23.0	%	25.3	%	20.9	%
+
+GAAP diluted EPS	$	2.25	$	2.82	(20	)%	$	7.30	$	6.71	9	%
+Pro forma diluted EPS (1)	$	2.41	$	1.72	40	%	$	7.39	$	5.59	32	%
+
+(1) See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+“2024 was a year of remarkable growth and achievement for Garmin, resulting in record full-year consolidated revenue and record full-year revenue in all five of our segments, as well as record full-year consolidated operating income. We are entering 2025 with continued strong momentum from our robust product lineup and have many product launches planned during the year. I am very proud of what we accomplished in 2024 and look forward to all that 2025 will bring.” - Cliff Pemble, President and Chief Executive Officer of Garmin Ltd.
+
+Fitness:
+Revenue from the fitness segment increased 31% in the fourth quarter with growth across all categories led by strong demand for wearables. Gross and operating margins were 57% and 30%, respectively, resulting in $159 million of operating income. During the quarter, we launched Lily® 2 Active, our smallest smartwatch with GPS, featuring a timeless design and up to nine days of battery life in smartwatch mode. We also recently released our 2024 Connect Fitness Report which highlights overall health and fitness trends of our customers around the world.
+
+Outdoor:
+Revenue from the outdoor segment increased 29% in the fourth quarter with growth led by adventure watches. Gross and operating margins were 67% and 40%, respectively, resulting in $251 million of operating income. During the quarter, we launched the Approach R50, the only portable golf launch monitor with a built-in simulator, featuring a 10” built-in color touchscreen display and more than 43,000 preloaded golf courses worldwide. We also launched the Descent X50i, our largest dive computer with a vivid 3” color display providing rich information that is readable at a glance.
+
+Aviation:
+Revenue from the aviation segment grew 9% in the fourth quarter with growth contributions from both the OEM and aftermarket product categories. Gross and operating margins were 75% and 27%, respectively, resulting in $64 million of operating income. During the quarter, Textron Aviation announced the G3000® PRIME integrated flight deck with Autoland for the Cessna Citation CJ4 Gen3. Also, the G3000 PRIME has been selected by BETA Technologies for the ALIA conventional take-off and landing electric aircraft, which conducted its inaugural flight during the quarter.
+
+Marine:
+Revenue from the marine segment increased 5% in the fourth quarter with growth across multiple categories. Gross and operating margins were 58% and 20%, respectively, resulting in $51 million of operating income. During the quarter, Garmin was awarded a 2024 National Boating Safety Award from the Sea Tow Foundation for the fourth consecutive year. Also during the quarter, JL Audio® received an Innovation Award for its Pavilion line of outdoor home speakers from Home Technology Specialists of America, Inc., a leading consumer electronics trade group.
+
+Auto OEM:
+Revenue from the auto OEM segment increased 30% during the fourth quarter due to increased shipments of domain controllers. Gross margin was 17%, and we recorded an operating loss of $9 million in the quarter. Our Unified Cabin domain controller solution was recognized as a Consumer Electronics Show 2025 Innovation Award Honoree in the in-vehicle entertainment category.
+
+Additional Financial Information:
+Total operating expenses in the fourth quarter were $564 million, an 8% increase over the prior year, primarily driven by higher personnel-related costs.
+
+In the fourth quarter of 2024, we reported $80 million of income tax expense, representing an effective tax rate of 15.6%. In the fourth quarter of 2023, we reported a $159 million income tax benefit. Excluding $181 million of income tax benefit due to the revaluation of certain Switzerland deferred tax assets, and $12 million of income tax benefit due to auto OEM manufacturing tax incentives in Poland, our pro forma effective tax rate(1) in the fourth quarter of 2023 was 9.0%. The increase in the current quarter effective tax rate compared to the prior year pro forma tax rate is primarily due to an increase in the combined federal and cantonal Switzerland statutory tax rate in response to global minimum tax requirements.
+
+In the fourth quarter of 2024, we generated operating cash flow of $484 million and free cash flow(1) of $399 million. We paid a quarterly dividend of approximately $144 million and repurchased $33 million of the Company’s shares within the quarter, leaving approximately $238 million remaining as of December 28, 2024 in the share repurchase program authorized through December 2026. We ended the quarter with cash and marketable securities of approximately $3.7 billion.
+
+(1)See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma effective tax rate and free cash flow.
+
+2025 Fiscal Year Guidance(2):
+We expect full-year 2025 revenue of approximately $6.80 billion, an increase of approximately 8% over 2024. We expect our full-year pro forma EPS to be approximately $7.80 based upon gross margin of approximately 58.7%, operating margin of approximately 25.0% and pro forma effective tax rate of approximately 16.5%.
+
+	2025 Guidance
+Revenue	$6.80B
+Gross Margin	58.7%
+Operating Margin	25.0%
+Pro forma Effective Tax Rate	16.5%
+Pro forma EPS	$7.80
+
+(2)All amounts and %’s in the above 2025 Guidance table are approximate. Also, see attached discussion on Forward-looking Financial Measures.
+
+Dividend Recommendation:
+The Board of Directors intends to recommend to the shareholders for approval at the annual meeting to be held on June 6, 2025, a cash dividend in the amount of $3.60 per share, payable in four equal installments on dates to be determined by the Board. The Board currently anticipates the scheduling of the dividend in four installments as follows:
+
+Dividend Date	Record Date	Dividend Per Share
+June 27, 2025	June 16, 2025	$0.90
+September 26, 2025	September 12, 2025	$0.90
+December 26, 2025	December 12, 2025	$0.90
+March 27, 2026	March 13, 2026	$0.90
+
+In addition, the Board has established March 28, 2025 as the payment date and March 14, 2025 as the record date for the final dividend installment of $0.75 per share, per the prior dividend approval at the 2024 annual shareholders’ meeting. The first, second and third payments of $0.75 per share were made on June 28, 2024, September 27, 2024, and December 27, 2024, respectively.
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+When:	Wednesday, February 19, 2025 at 10:30 a.m. Eastern
+Where:	https://www.garmin.com/en-US/investors/events/
+How:	Simply log on to the web at the address above
+
+An archive of the live webcast will be available until February 18, 2026 on the Garmin website at www.garmin.com. To access the replay, click on the Investors link and click over to the Events Calendar page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “anticipates,” “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s expected fiscal 2025 GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, potential future acquisitions, share repurchase programs, currency movements, expenses, pricing, new product launches, market reach, statements relating to possible future dividends, and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report on Form 10-K for the year ended December 28, 2024 filed by Garmin with the Securities and Exchange Commission (Commission file number 001-41118). A copy of Garmin’s 2024 Form 10-K can be downloaded from https://www.garmin.com/en-US/investors/sec/. All information provided in this release and in the attachments is as of December 28, 2024. Undue reliance should not be placed on the forward-looking statements in this press release, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company's use of these measures are included in the attachments.
+
+Garmin, the Garmin logo, Approach, G3000, Lily and JL Audio are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S. Descent is a trademark of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved.
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Krista Klaus
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 28,	December 30,	December 28,	December 30,
+	2024	2023	2024	2023
+Net sales	$	1,822,560	$	1,482,501	$	6,296,903	$	5,228,252
+Cost of goods sold	742,634	618,352	2,600,348	2,223,297
+Gross profit	1,079,926	864,149	3,696,555	3,004,955
+
+Research and development expense	258,752	237,245	993,601	904,696
+Selling, general and administrative expenses	305,092	286,450	1,108,960	1,008,099
+Total operating expenses	563,844	523,695	2,102,561	1,912,795
+
+Operating income	516,082	340,454	1,593,994	1,092,160
+Other income (expense):
+Interest income	30,377	22,840	113,520	77,302
+Foreign currency (losses) gains	(36,184	)	19,488	(20,599	)	26,434
+Other income	5,864	254	8,486	4,460
+Total other income (expense)	57	42,582	101,407	108,196
+
+Income before income taxes	516,139	383,036	1,695,401	1,200,356
+Income tax provision (benefit)	80,405	(159,089	)	283,965	(89,280	)
+Net income	$	435,734	$	542,125	$	1,411,436	$	1,289,636
+
+Net income per share:
+Basic	$	2.27	$	2.83	$	7.35	$	6.74
+Diluted	$	2.25	$	2.82	$	7.30	$	6.71
+
+Weighted average common shares outstanding:
+Basic	192,075	191,363	192,060	191,397
+Diluted	193,759	192,557	193,281	192,058
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands)
+
+	December 28,2024	December 30, 2023
+Assets
+Current assets:
+Cash and cash equivalents	$	2,079,468	$	1,693,452
+Marketable securities	421,270	274,618
+Accounts receivable, net	983,404	815,243
+Inventories	1,473,978	1,345,955
+Deferred costs	24,040	16,316
+Prepaid expenses and other current assets	353,993	318,556
+Total current assets	5,336,153	4,464,140
+
+Property and equipment, net	1,236,884	1,224,097
+Operating lease right-of-use assets	164,656	143,724
+Noncurrent marketable securities	1,198,331	1,125,191
+Deferred income tax assets	822,521	754,635
+Noncurrent deferred costs	6,898	11,057
+Goodwill	603,947	608,474
+Other intangible assets, net	154,163	181,145
+Other noncurrent assets	106,974	91,106
+Total assets	$	9,630,527	$	8,603,569
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	359,365	$	253,790
+Salaries and benefits payable	210,879	190,014
+Accrued warranty costs	62,473	55,738
+Accrued sales program costs	108,492	98,610
+Other accrued expenses	216,721	245,874
+Deferred revenue	110,997	101,189
+Income taxes payable	294,582	225,475
+Dividend payable	144,349	139,997
+Total current liabilities	1,507,858	1,310,687
+
+Deferred income tax liabilities	103,274	114,682
+Noncurrent income taxes payable	7,014	16,521
+Noncurrent deferred revenue	28,321	36,148
+Noncurrent operating lease liabilities	134,886	113,035
+Other noncurrent liabilities	776	436
+
+Stockholders’ equity:
+Common shares (194,901 and 195,880 shares authorized and issued; 192,468 and 191,777 shares outstanding)	19,490	19,588
+Additional paid-in capital	2,247,484	2,125,467
+Treasury shares (2,433 and 4,103 shares)	(270,521	)	(330,909	)
+Retained earnings	5,999,183	5,263,528
+Accumulated other comprehensive income (loss)	(147,238	)	(65,614	)
+Total stockholders’ equity	7,848,398	7,012,060
+Total liabilities and stockholders’ equity	$	9,630,527	$	8,603,569
+
+Garmin Ltd. and Subsidiaries
+Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	52-Weeks Ended
+	December 28, 2024	December 30, 2023
+Operating Activities:
+Net income	$	1,411,436	$	1,289,636
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	140,494	132,347
+Amortization	39,241	45,225
+(Gain) loss on sale or disposal of property and equipment	(4,903	)	215
+Unrealized foreign currency losses (gains)	26,889	(25,541	)
+Deferred income taxes	(88,137	)	(340,774	)
+Stock compensation expense	137,162	101,422
+Realized losses on marketable securities	8	62
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	(196,256	)	(129,120	)
+Inventories	(178,815	)	244,506
+Other current and noncurrent assets	(42,130	)	7,887
+Accounts payable	120,637	28,503
+Other current and noncurrent liabilities	24,546	52,188
+Deferred revenue	2,223	10,411
+Deferred costs	(3,615	)	(2,661	)
+Income taxes	43,691	(38,041	)
+Net cash provided by operating activities	1,432,471	1,376,265
+
+Investing activities:
+Purchases of property and equipment	(193,571	)	(193,524	)
+Purchase of marketable securities	(507,518	)	(170,681	)
+Redemption of marketable securities	309,166	183,372
+Acquisitions, net of cash acquired	(16,444	)	(150,853	)
+Other investing activities, net	15,034	(1,286	)
+Net cash used in investing activities	(393,333	)	(332,972	)
+
+Financing activities:
+Dividends	(572,355	)	(558,769	)
+Proceeds from issuance of treasury shares related to equity awards	49,963	44,063
+Purchase of treasury shares related to equity awards	(42,117	)	(22,815	)
+Purchase of treasury shares under share repurchase plan	(62,348	)	(98,988	)
+Net cash used in financing activities	(626,857	)	(636,509	)
+
+Effect of exchange rate changes on cash and cash equivalents	(26,283	)	7,460
+
+Net increase in cash, cash equivalents, and restricted cash	385,998	414,244
+Cash, cash equivalents, and restricted cash at beginning of year	1,694,156	1,279,912
+Cash, cash equivalents, and restricted cash at end of year	$	2,080,154	$	1,694,156
+
+Garmin Ltd. and Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment (Unaudited)
+(In thousands)
+
+	Fitness	Outdoor	Aviation	Marine	Auto OEM	Total
+13-Weeks Ended December 28, 2024
+Net sales	$	539,305	$	629,373	$	236,875	$	251,259	$	165,748	$	1,822,560
+Gross profit	308,632	420,759	178,379	144,655	27,501	1,079,926
+Operating income (loss)	159,161	251,322	64,469	50,588	(9,458	)	516,082
+
+13-Weeks Ended December 30, 2023
+Net sales	$	412,076	$	486,378	$	217,134	$	239,886	$	127,027	$	1,482,501
+Gross profit	232,147	317,061	162,214	126,099	26,628	864,149
+Operating income (loss)	92,550	163,855	56,671	37,294	(9,916	)	340,454
+
+52-Weeks December 28, 2024
+Net sales	$	1,774,487	$	1,961,990	$	876,614	$	1,073,192	$	610,620	$	6,296,903
+Gross profit	1,032,007	1,306,405	656,509	594,127	107,507	3,696,555
+Operating income (loss)	482,672	702,730	211,367	236,010	(38,785	)	1,593,994
+
+52-Weeks December 30, 2023
+Net sales	$	1,344,637	$	1,697,151	$	846,329	$	916,911	$	423,224	$	5,228,252
+Gross profit	716,906	1,072,861	625,988	491,261	97,939	3,004,955
+Operating income (loss)	232,201	515,254	226,400	179,429	(61,124	)	1,092,160
+
+Garmin Ltd. and Subsidiaries
+Net Sales by Geography (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	52-Weeks Ended
+	December 28,	December 30,	YoY	December 28,	December 30,	YoY
+	2024	2023	Change	2024	2023	Change
+Net sales	$	1,822,560	$	1,482,501	23%	$	6,296,903	$	5,228,252	20%
+Americas	854,816	732,648	17%	3,036,083	2,614,358	16%
+EMEA	701,252	523,439	34%	2,319,310	1,775,965	31%
+APAC	266,492	226,414	18%	941,510	837,929	12%
+
+EMEA - Europe, Middle East and Africa
+APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma effective tax rate, pro forma net income (earnings) per share and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes disclosure of the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors' consistent comparison between periods. In the full year 2024 there were no such discrete tax items identified.
+
+(In thousands)	13-Weeks Ended	52-Weeks Ended
+	December 28,	December 30,	December 28,	December 30,
+	2024	2023	2024	2023
+	$	ETR(1)	$	ETR(1)	$	ETR(1)	$	ETR(1)
+GAAP income tax provision (benefit)	$	80,405	15.6%	$	(159,089	)	(41.5)%	$	283,965	16.7%	$	(89,280	)	(7.4)%
+Pro forma discrete tax items:
+Tax effect of state rate change (2)	—	—	—	(2,269	)
+Switzerland deferred tax assets (3)	—	181,410	—	181,410
+Poland incentive tax credits (4)	—	12,116	—	12,116
+Pro forma income tax provision	$	80,405	15.6%	$	34,437	9.0%	$	283,965	16.7%	$	101,977	8.5%
+
+(1) Effective tax rate is calculated by taking the income tax provision (benefit) divided by income before taxes, as presented on the face of the Condensed Consolidated Statements of Income.
+
+(2) In third quarter 2023, the Company recognized $2.3 million of tax expense due to the revaluation of deferred tax assets associated with the change in corporate income tax rate for the state of Kansas.
+
+(3) Certain Switzerland deferred tax assets related to the enactment of Switzerland Federal and Schaffhausen cantonal tax reform were revalued in the fourth quarter of 2023, resulting in income tax benefit of $181.4 million.
+
+(4) In fourth quarter 2023, the Company recognized $12.1 million of income tax benefit due to Auto OEM manufacturing tax incentives in Poland.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+(In thousands, except per share information)	13-Weeks Ended	52-Weeks Ended
+	December 28,	December 30,	December 28,	December 30,
+	2024	2023	2024	2023
+GAAP net income	$	435,734	$	542,125	$	1,411,436	$	1,289,636
+Foreign currency gains / losses (1)	36,184	(19,488	)	20,599	(26,434	)
+Tax effect of foreign currency gains / losses (2)	(5,637	)	1,752	(3,450	)	2,246
+Pro forma discrete tax items (3)	—	(193,526	)	—	(191,257	)
+Pro forma net income	$	466,281	$	330,863	$	1,428,585	$	1,074,191
+
+GAAP net income per share:
+Basic	$	2.27	$	2.83	$	7.35	$	6.74
+Diluted	$	2.25	$	2.82	$	7.30	$	6.71
+
+Pro forma net income per share:
+Basic	$	2.43	$	1.73	$	7.44	$	5.61
+Diluted	$	2.41	$	1.72	$	7.39	$	5.59
+
+Weighted average common shares outstanding:
+Basic	192,075	191,363	192,060	191,397
+Diluted	193,759	192,557	193,281	192,058
+
+(1) Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at a given legal entity. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency gains and losses was calculated using the pro forma effective tax rate of 15.6% and 16.7% for the 13-weeks and fiscal year ended December 28, 2024, respectively, and the pro forma effective tax rate of 9.0% and 8.5% for the 13-weeks and fiscal year ended December 30, 2023, respectively.
+
+(3) The 2023 discrete tax items are discussed in the pro forma effective tax rate section above.
+
+Free cash flow
+
+Management believes that free cash flow is an important liquidity measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes that excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operations and allows more accurate comparisons of the Company’s results between periods. This metric may also be useful to investors but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+(In thousands)	13-Weeks Ended	52-Weeks Ended
+	December 28,	December 30,	December 28,	December 30,
+	2024	2023	2024	2023
+Net cash provided by operating activities	$	483,890	$	465,941	$	1,432,471	$	1,376,265
+Less: purchases of property and equipment	(84,702	)	(48,648	)	(193,571	)	(193,524	)
+Free Cash Flow	$	399,188	$	417,293	$	1,238,900	$	1,182,741
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2025 guidance provided above do not consider the potential future net effect of foreign currency exchange gains and losses, certain discrete tax items and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.09 per share for the 52 weeks ended December 28, 2024.
+
+At this time, management is unable to determine whether or not significant discrete tax items will occur in fiscal 2025 or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.

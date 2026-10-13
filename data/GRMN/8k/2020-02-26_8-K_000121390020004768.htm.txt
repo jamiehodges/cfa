@@ -1,0 +1,100 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+Current Report
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 24, 2020
+
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	0-31983	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+
+Registrant’s telephone number, including area code: +41 52 630 1600
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+	☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+	☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+	☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+	☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares	GRMN	The Nasdaq Stock Market
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 1.01. Entry into a Material Definitive Agreement
+
+On February 24, 2020, the Compensation Committee of the Board of Directors of Garmin Ltd. (the “Company”) approved forms of Restricted Stock Unit Award Agreements (the “Form Award Agreements”) to be used for awards of restricted stock units under the Garmin Ltd. 2005 Equity Incentive Plan, as amended and restated on June 7, 2019, that have performance-based as well as time-based vesting requirements.
+
+Under the terms of the Form Award Agreements, the restricted stock unit awards are contingent upon the achievement of certain revenue and profitability goals for the Company’s fiscal year in the year of grant established by the Compensation Committee as well as on time-based vesting requirements. At a meeting of the Compensation Committee in the subsequent year (the “Certification Date”), the Compensation Committee will determine whether each of the performance goals for these awards was achieved during the year of grant, and the percentage of the restricted stock units that corresponds with the weighting attributed to each performance goal that was achieved will be payable to the grantee (subject to the time-based conditions) as follows: one-third will be payable within 30 days after the Certification Date if the grantee is then still employed by the Garmin entity that employs the grantee; one-third will be payable on the first anniversary of the Certification Date if the grantee is then still employed by the Garmin entity that employs the grantee; and the remaining one-third will then be payable on the second anniversary of the Certification Date if the grantee is then still employed by the Garmin entity that employs the grantee. The Form Award Agreements provide that the percentage of the restricted stock units that may vest upon achievement of the performance goals may exceed one hundred percent (100%).
+
+The Compensation Committee approved five separate Form Award Agreements. The first is for award grantees who reside in Switzerland and who are executive officers of the Company. The second is for award grantees who reside in countries other than Switzerland and who are executive officers of the Company. The third is for award grantees who reside in Switzerland and who are not executive officers of the Company. The fourth is for award grantees who reside in Canada and who are not executive officers of the Company. The fifth is for award grantees who reside in countries other than Switzerland and Canada and who are not executive officers of the Company. These Form Award Agreements are filed herewith as Exhibits 10.1, 10.2, 10.3, 10.4 and 10.5, respectively, and are incorporated herein by this reference.
+
+The description in this Form 8-K of the Form Award Agreements is qualified in its entirety by reference to the copies of the Form Award Agreements that are filed herewith as Exhibits 10.1, 10.2, 10.3, 10.4 and 10.5.
+
+Item 9.01. Financial Statements and Exhibits
+
+(d)	Exhibits. The following exhibits are furnished herewith.
+
+Exhibit No.	Description
+
+10.1	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are executive officers
+10.2	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss grantees who are executive officers
+10.3	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are not executive officers
+10.4	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Canadian grantees who are not executive officers
+10.5	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss and non-Canadian grantees who are not executive officers
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+1
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+February 26, 2020	/s/ Andrew R. Etkind
+	Andrew R. Etkind
+	Vice President, General Counsel and
+Corporate Secretary
+
+2
+
+EXHIBIT INDEX
+
+Exhibit No.	Description
+10.1	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are executive officers
+10.2	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss grantees who are executive officers
+10.3	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are not executive officers
+10.4	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Canadian grantees who are not executive officers
+10.5	Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss and non-Canadian grantees who are not executive officers
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+3

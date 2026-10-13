@@ -1,0 +1,1146 @@
+10-Q
+
+United States
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+FORM 10-Q
+
+☒	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 28, 2025
+
+or
+
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission file number 001-41118
+
+GARMIN LTD.
+(Exact name of Company as specified in its charter)
+
+Switzerland	98-0229227
+(State or other jurisdiction	(I.R.S. Employer
+of incorporation or organization)	identification no.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland	N/A
+(Address of principal executive offices)	(Zip Code)
+
+Company’s telephone number, including area code: +41 52 630 1600
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Registered Shares, $0.10 Per Share Par Value	GRMN	New York Stock Exchange
+(Title of each class)	(Trading Symbol)	(Name of each exchange on which registered)
+
+Indicate by check mark whether the Company (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Company was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☑ NO ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes ☑ NO ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer	☑	Accelerated Filer	☐
+Non-accelerated Filer	☐	Smaller reporting company	☐
+	Emerging growth company	☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. YES ☐ NO ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+YES ☐ NO ☑
+
+Number of shares outstanding of the registrant’s common shares as of July 25, 2025
+Registered Shares, $0.10 par value: 192,493,945 (excluding treasury shares)
+
+Garmin Ltd.
+Form 10-Q
+Quarter Ended June 28, 2025
+
+Table of Contents
+
+	Page
+
+Part I - Financial Information	1
+
+Item 1.	Condensed Consolidated Financial Statements	1
+
+	Condensed Consolidated Statements of Income for the 13-Weeks and 26-Weeks ended June 28, 2025 and June 29, 2024 (Unaudited)	1
+
+	Condensed Consolidated Statements of Comprehensive Income for the 13-Weeks and 26-Weeks ended June 28, 2025 and June 29, 2024 (Unaudited)	2
+
+	Condensed Consolidated Balance Sheets at June 28, 2025 and December 28, 2024 (Unaudited)	3
+
+	Condensed Consolidated Statements of Cash Flows for the 26-Weeks ended June 28, 2025 and June 29, 2024 (Unaudited)	4
+
+	Condensed Consolidated Statements of Stockholders’ Equity for the 13-Weeks and 26-Weeks ended June 28, 2025 and June 29, 2024 (Unaudited)	5
+
+	Notes to Condensed Consolidated Financial Statements (Unaudited)	7
+
+Item 2.	Management’s Discussion and Analysis of Financial Condition and Results of Operations	17
+
+Item 3.	Quantitative and Qualitative Disclosures About Market Risk	25
+
+Item 4.	Controls and Procedures	25
+
+Part II - Other Information	26
+
+Item 1.	Legal Proceedings	26
+
+Item 1A.	Risk Factors	26
+
+Item 2.	Unregistered Sales of Equity Securities and Use of Proceeds	27
+
+Item 3.	Defaults Upon Senior Securities	27
+
+Item 4.	Mine Safety Disclosures	27
+
+Item 5.	Other Information	27
+
+Item 6.	Exhibits	28
+
+Signature Page	29
+
+i
+
+Part I - Financial Information
+Item I - Condensed Consolidated Financial Statements
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28,
+2025	June 29,
+2024	June 28,
+2025	June 29,
+2024
+Net sales	$	1,814,564	$	1,506,671	$	3,349,663	$	2,888,320
+Cost of goods sold	747,552	643,780	1,398,106	1,223,290
+Gross profit	1,067,012	862,891	1,951,557	1,665,030
+
+Research and development expense	276,663	243,151	544,783	485,686
+Selling, general and administrative expenses	318,054	277,713	601,655	538,907
+Total operating expense	594,717	520,864	1,146,438	1,024,593
+
+Operating income	472,295	342,027	805,119	640,437
+Other income (expense):
+Interest income	31,724	29,286	62,231	54,313
+Foreign currency (losses) gains	(23,512	)	(4,828	)	1,248	(2,547	)
+Other (expense) income	(256	)	(513	)	730	809
+Total other income (expense)	7,956	23,945	64,209	52,575
+
+Income before income taxes	480,251	365,972	869,328	693,012
+Income tax provision	79,429	65,342	135,737	116,421
+Net income	$	400,822	$	300,630	$	733,591	$	576,591
+
+Net income per share:
+Basic	$	2.08	$	1.57	$	3.81	$	3.00
+Diluted	$	2.07	$	1.56	$	3.79	$	2.99
+
+Weighted average common shares outstanding:
+Basic	192,523	192,074	192,534	191,982
+Diluted	193,416	192,899	193,557	192,808
+
+See accompanying notes.
+
+1
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28,
+2025	June 29,
+2024	June 28,
+2025	June 29,
+2024
+Net income	$	400,822	$	300,630	$	733,591	$	576,591
+Foreign currency translation adjustment	223,845	(20,320	)	232,525	(79,375	)
+Change in fair value of available-for-sale marketable securities, net of deferred taxes	7,239	4,382	19,886	6,995
+Comprehensive income	$	631,906	$	284,692	$	986,002	$	504,211
+
+See accompanying notes.
+
+2
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands)
+
+	June 28,
+2025	December 28,
+2024
+Assets
+Current assets:
+Cash and cash equivalents	$	2,072,208	$	2,079,468
+Marketable securities	515,038	421,270
+Accounts receivable, net	1,010,578	983,404
+Inventories	1,788,020	1,473,978
+Deferred costs	18,518	24,040
+Prepaid expenses and other current assets	415,069	353,993
+Total current assets	5,819,431	5,336,153
+
+Property and equipment, net of accumulated depreciation of $1,255,042 and $1,139,156	1,290,714	1,236,884
+Operating lease right-of-use assets	179,299	164,656
+Noncurrent marketable securities	1,285,887	1,198,331
+Deferred income tax assets	852,551	822,521
+Noncurrent deferred costs	5,222	6,898
+Goodwill	640,554	603,947
+Other intangible assets, net	147,285	154,163
+Other noncurrent assets	103,133	106,974
+Total assets	$	10,324,076	$	9,630,527
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	397,303	$	359,365
+Salaries and benefits payable	193,598	210,879
+Accrued warranty costs	71,197	62,473
+Accrued sales program costs	104,310	108,492
+Other accrued expenses	254,359	216,721
+Deferred revenue	108,444	110,997
+Income taxes payable	282,988	294,582
+Dividend payable	519,863	144,349
+Total current liabilities	1,932,062	1,507,858
+
+Deferred income tax liabilities	89,194	103,274
+Noncurrent income taxes payable	3,704	7,014
+Noncurrent deferred revenue	24,553	28,321
+Noncurrent operating lease liabilities	148,608	134,886
+Other noncurrent liabilities	844	776
+
+Stockholders’ equity:
+Common shares (194,901 and 194,901 shares authorized and issued;
+192,542 and 192,468 shares outstanding)	19,490	19,490
+Additional paid-in capital	2,317,294	2,247,484
+Treasury shares (2,359 and 2,433 shares)	(356,358	)	(270,521	)
+Retained earnings	6,039,512	5,999,183
+Accumulated other comprehensive income (loss)	105,173	(147,238	)
+Total stockholders’ equity	8,125,111	7,848,398
+Total liabilities and stockholders’ equity	$	10,324,076	$	9,630,527
+
+See accompanying notes.
+
+3
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	26-Weeks Ended
+	June 28,
+2025	June 29,
+2024
+Operating Activities:
+Net income	$	733,591	$	576,591
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation	75,980	67,890
+Amortization	17,423	21,047
+Loss on sale or disposal of property and equipment	350	128
+Unrealized foreign currency (gains) losses	(16,566	)	3,165
+Deferred income taxes	(49,754	)	(35,778	)
+Stock compensation expense	82,279	65,983
+Realized loss on marketable securities	706	29
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	17,902	(8,600	)
+Inventories	(206,276	)	(11,368	)
+Other current and noncurrent assets	(37,092	)	(39,759	)
+Accounts payable	(2,591	)	92,065
+Other current and noncurrent liabilities	2,408	(62,099	)
+Deferred revenue	(6,843	)	667
+Deferred costs	7,262	(2,516	)
+Income taxes	(24,820	)	23,181
+Net cash provided by operating activities	593,959	690,626
+
+Investing activities:
+Purchases of property and equipment	(85,738	)	(70,325	)
+Purchase of marketable securities	(465,372	)	(281,297	)
+Redemption of marketable securities	306,469	203,775
+Net (payments for) cash from acquisitions	(1,973	)	5,011
+Other investing activities, net	503	(321	)
+Net cash used in investing activities	(246,111	)	(143,157	)
+
+Financing activities:
+Dividends	(317,748	)	(284,246	)
+Proceeds from issuance of treasury shares related to equity awards	29,065	24,530
+Purchase of treasury shares related to equity awards	(33,431	)	(16,264	)
+Purchase of treasury shares under share repurchase plan	(93,632	)	(9,713	)
+Net cash used in financing activities	(415,746	)	(285,693	)
+
+Effect of exchange rate changes on cash and cash equivalents	60,650	(17,761	)
+
+Net (decrease) increase in cash, cash equivalents, and restricted cash	(7,248	)	244,015
+Cash, cash equivalents, and restricted cash at beginning of period	2,080,154	1,694,156
+Cash, cash equivalents, and restricted cash at end of period	$	2,072,906	$	1,938,171
+
+See accompanying notes.
+
+4
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Stockholders’ Equity (Unaudited)
+For the 13-Weeks Ended June 28, 2025 and June 29, 2024
+(In thousands)
+
+	Common
+Shares	Additional
+Paid-In
+Capital	Treasury
+Shares	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at March 30, 2024	$	19,490	$	2,135,384	$	(226,921	)	$	5,440,200	$	(122,056	)	$	7,246,097
+Net income	—	—	—	300,630	—	300,630
+Translation adjustment	—	—	—	—	(20,320	)	(20,320	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $1,385	—	—	—	—	4,382	4,382
+Comprehensive income	284,692
+Dividends	—	—	—	(576,603	)	—	(576,603	)
+Issuance of treasury shares related to equity awards	—	12,510	12,020	—	—	24,530
+Stock compensation	—	35,264	—	—	—	35,264
+Purchase of treasury shares related to equity awards	—	—	(277	)	—	—	(277	)
+Purchase of treasury shares under share repurchase plan, including any associated excise tax	—	—	(8,721	)	—	—	(8,721	)
+Balance at June 29, 2024	$	19,490	$	2,183,158	$	(223,899	)	$	5,164,227	$	(137,994	)	$	7,004,982
+
+	Common
+Shares	Additional
+Paid-In
+Capital	Treasury
+Shares	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at March 29, 2025	$	19,490	$	2,255,968	$	(301,804	)	$	6,331,735	$	(125,911	)	$	8,179,478
+Net income	—	—	—	400,822	—	400,822
+Translation adjustment	—	—	—	—	223,845	223,845
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $2,324	—	—	—	—	7,239	7,239
+Comprehensive income	631,906
+Dividends	—	—	—	(693,045	)	—	(693,045	)
+Issuance of treasury shares related to equity awards	—	16,819	12,246	—	—	29,065
+Stock compensation	—	44,507	—	—	—	44,507
+Purchase of treasury shares related to equity awards	—	—	(287	)	—	—	(287	)
+Purchase of treasury shares under share repurchase plan, including any associated excise tax	—	—	(66,513	)	—	—	(66,513	)
+Balance at June 28, 2025	$	19,490	$	2,317,294	$	(356,358	)	$	6,039,512	$	105,173	$	8,125,111
+
+See accompanying notes.
+
+5
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Stockholders’ Equity (Unaudited)
+For the 26-Weeks Ended June 28, 2025 and June 29, 2024
+(In thousands)
+
+	Common
+Shares	Additional
+Paid-In
+Capital	Treasury
+Shares	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at December 30, 2023	$	19,588	$	2,125,467	$	(330,909	)	$	5,263,528	$	(65,614	)	$	7,012,060
+Net income	—	—	—	576,591	—	576,591
+Translation adjustment	—	—	—	—	(79,375	)	(79,375	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $2,196	—	—	—	—	6,995	6,995
+Comprehensive income	504,211
+Dividends	—	—	—	(576,817	)	—	(576,817	)
+Issuance of treasury shares related to equity awards	—	(8,292	)	32,822	—	—	24,530
+Stock compensation	—	65,983	—	—	—	65,983
+Purchase of treasury shares related to equity awards	—	—	(16,264	)	—	—	(16,264	)
+Purchase of treasury shares under share repurchase plan, including any associated excise tax	—	—	(8,721	)	—	—	(8,721	)
+Cancellation of treasury shares	(98	)	—	99,173	(99,075	)	—	—
+Balance at June 29, 2024	$	19,490	$	2,183,158	$	(223,899	)	$	5,164,227	$	(137,994	)	$	7,004,982
+
+	Common
+Shares	Additional
+Paid-In
+Capital	Treasury
+Shares	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at December 28, 2024	$	19,490	$	2,247,484	$	(270,521	)	$	5,999,183	$	(147,238	)	$	7,848,398
+Net income	—	—	—	733,591	—	733,591
+Translation adjustment	—	—	—	—	232,525	232,525
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $6,496	—	—	—	—	19,886	19,886
+Comprehensive income	986,002
+Dividends	—	—	—	(693,262	)	—	(693,262	)
+Issuance of treasury shares related to equity awards	—	(12,469	)	41,534	—	—	29,065
+Stock compensation	—	82,279	—	—	—	82,279
+Purchase of treasury shares related to equity awards	—	—	(33,431	)	—	—	(33,431	)
+Purchase of treasury shares under share repurchase plan, including any associated excise tax	—	—	(93,940	)	—	—	(93,940	)
+Cancellation of treasury shares	—	—	—	—	—	—
+Balance at June 28, 2025	$	19,490	$	2,317,294	$	(356,358	)	$	6,039,512	$	105,173	$	8,125,111
+
+See accompanying notes.
+
+6
+
+Garmin Ltd. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+June 28, 2025
+(In thousands, except per share information)
+
+1. Accounting Policies
+
+Basis of Presentation and Principles of Consolidation
+
+The accompanying unaudited condensed consolidated financial statements include the accounts of Garmin Ltd. and its wholly-owned subsidiaries (collectively, we, our, us, the Company or Garmin). Intercompany balances and transactions have been eliminated.
+
+The condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, the condensed consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The condensed consolidated balance sheet at December 28, 2024 has been derived from the audited financial statements at that date, but does not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. Additionally, the condensed consolidated financial statements should be read in conjunction with Part I, Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-Q, and the Company’s Annual Report on Form 10-K for the year ended December 28, 2024.
+
+The Company's operating results are subject to fluctuations associated with seasonal demand for consumer products, the timing of new product introductions, and original equipment manufacturer (OEM) customer production schedules. Therefore, operating results for the 13-week and 26-week periods ended June 28, 2025 are not necessarily indicative of the results that may be expected for the year ending December 27, 2025.
+
+The Company’s fiscal year is based on a 52-week or 53-week period ending on the last Saturday of the calendar year. Therefore, the financial results of certain 53-week fiscal years, and the associated 14-week quarters, will not be exactly comparable to the prior and subsequent 52-week fiscal years and the associated 13-week quarters. The quarters ended June 28, 2025 and June 29, 2024 both contain operating results for 13 weeks.
+
+Significant Accounting Policies
+
+For a description of the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements, refer to Note 1, “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Part II, Item 8 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 28, 2024. There were no material changes to the Company’s significant accounting policies during the 26-week period ended June 28, 2025.
+
+7
+
+Recently Adopted Accounting Standards
+
+There are no recently adopted accounting standards that have a material impact on the Company's consolidated financial statements, accounting policies, processes, or systems.
+
+Recently Issued Accounting Pronouncements Not Yet Adopted
+
+Disaggregation of Income Statement Expenses
+
+In November 2024, the Financial Accounting Standards Board issued Accounting Standards Update No. 2024-03, Income Statement–Reporting Comprehensive Income–Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses ("ASU 2024-03"), which requires additional disaggregated disclosures in the notes to financial statements for certain categories of expenses that are included in the expense captions on the face of the statements of income, on an interim and annual basis. ASU 2024-03 is effective for fiscal years beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027, with early adoption permitted. The amendments may be applied using either a prospective or retrospective approach. The Company is currently evaluating the impact that the updated standard will have on its financial statement disclosures.
+
+2. Revenue
+
+In order to further depict how the nature, amount, timing and uncertainty of the Company's revenue and cash flows are affected by economic factors, we disaggregate revenue (“net sales”) by geographic region, major product category, and pattern of recognition.
+
+Disaggregated revenue by geographic region (Americas, EMEA, and APAC) is presented in Note 11 – Segment Information and Geographic Data. Note 11 also contains disaggregated revenue information of the five major product categories identified by the Company – fitness, outdoor, aviation, marine, and auto OEM.
+
+A large majority of the Company’s sales are recognized on a point in time basis, usually once the product is shipped and title and risk of loss have transferred to the customer. Sales recognized over a period of time are primarily within the outdoor, aviation, and auto OEM segments and relate to performance obligations that are satisfied over the estimated life of the product or contractual service period. Revenue disaggregated by the timing of transfer of the goods or services is presented in the table below:
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28, 2025	June 29, 2024	June 28, 2025	June 29, 2024
+Point in time	$	1,731,996	$	1,428,175	$	3,185,350	$	2,734,622
+Over time	82,568	78,496	164,313	153,698
+Net sales	$	1,814,564	$	1,506,671	$	3,349,663	$	2,888,320
+
+Transaction price and costs associated with the Company’s unsatisfied performance obligations are reflected as deferred revenue and deferred costs, respectively, on the Company’s condensed consolidated balance sheets. Such amounts are recognized ratably over the applicable estimated useful life or contractual service period. Changes in deferred revenue and costs during the 26-week period ended June 28, 2025 are presented below:
+
+8
+
+	26-Weeks Ended
+June 28, 2025
+	Deferred
+Revenue (1)	Deferred
+Costs (2)
+Balance, beginning of period	$	139,318	$	30,938
+Deferrals in period	157,992	28,195
+Recognition of deferrals in period	(164,313	)	(35,393	)
+Balance, end of period	$	132,997	$	23,740
+
+(1) Deferred revenue is comprised of both deferred revenue and noncurrent deferred revenue per the condensed consolidated balance sheets.
+
+(2) Deferred costs are comprised of both deferred costs and noncurrent deferred costs per the condensed consolidated balance sheets.
+
+Of the $164,313 of deferred revenue recognized in the 26-week period ended June 28, 2025, approximately $64,000 was deferred as of the beginning of the period. Of the $132,997 of deferred revenue as of June 28, 2025, the Company expects to recognize approximately 87% ratably over a total period of three years or less.
+
+3. Earnings Per Share
+
+The following table sets forth the computation of basic and diluted net income per share. Stock options, stock appreciation rights, and restricted stock units are collectively referred to as “equity awards”. There were no anti-dilutive equity awards excluded from the calculation of diluted net income per share for the periods presented below.
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28,
+2025	June 29,
+2024	June 28,
+2025	June 29,
+2024
+Numerator:
+Numerator for basic and diluted net income per share – net income	$	400,822	$	300,630	$	733,591	$	576,591
+
+Denominator:
+Denominator for basic net income per share – weighted-average common shares	192,523	192,074	192,534	191,982
+
+Effect of dilutive equity awards	893	825	1,023	826
+
+Denominator for diluted net income per share – adjusted weighted-average common shares	193,416	192,899	193,557	192,808
+
+Basic net income per share	$	2.08	$	1.57	$	3.81	$	3.00
+
+Diluted net income per share	$	2.07	$	1.56	$	3.79	$	2.99
+
+4. Marketable Securities
+
+Accounting Standards Codification Topic 820, Fair Value Measurements and Disclosures, defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). The accounting guidance classifies the inputs used to measure fair value into the following hierarchy:
+
+	Level 1	Unadjusted quoted prices in active markets for the identical asset or liability
+
+	Level 2	Observable inputs for the asset or liability, either directly or indirectly, such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, or inputs other than quoted prices that are observable for the asset or liability
+
+	Level 3	Unobservable inputs for the asset or liability
+
+9
+
+The Company endeavors to utilize the best available information in measuring fair value. Financial assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement. Valuation is based on prices obtained from an independent pricing vendor using both market and income approaches. The primary inputs to the valuation include quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, contractual cash flows, benchmark yields, and credit spreads.
+
+The method described above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values. Furthermore, while the Company believes its valuation methods are appropriate and consistent with other market participants, the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date.
+
+Marketable securities classified as available-for-sale securities are summarized below:
+
+	Available-For-Sale Securities
+as of June 28, 2025
+	Fair Value Level	Amortized Cost	Gross Unrealized
+Gains	Gross Unrealized
+Losses	Fair Value
+U.S. Treasury securities	Level 2	$	5,773	$	50	$	—	$	5,823
+Agency securities	Level 2	65,702	58	(229	)	65,531
+Mortgage-backed securities	Level 2	96,042	370	(1,853	)	94,559
+Corporate debt securities	Level 2	1,367,634	6,446	(10,506	)	1,363,574
+Municipal securities	Level 2	274,713	381	(5,412	)	269,682
+Other	Level 2	1,801	—	(45	)	1,756
+Total	$	1,811,665	$	7,305	$	(18,045	)	$	1,800,925
+
+	Available-For-Sale Securities
+as of December 28, 2024
+	Fair Value Level	Amortized Cost	Gross Unrealized
+Gains	Gross Unrealized
+Losses	Fair Value
+U.S. Treasury securities	Level 2	$	4,930	$	8	$	—	$	4,938
+Agency securities	Level 2	42,236	38	(477	)	41,797
+Mortgage-backed securities	Level 2	43,599	—	(4,375	)	39,224
+Corporate debt securities	Level 2	1,281,981	1,498	(23,837	)	1,259,642
+Municipal securities	Level 2	281,295	21	(9,907	)	271,409
+Other	Level 2	2,683	1	(93	)	2,591
+Total	$	1,656,724	$	1,566	$	(38,689	)	$	1,619,601
+
+The primary objectives of the Company’s investment policy are to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. The fair value of securities varies from period to period due to changes in interest rates, the performance of the underlying collateral, and the credit performance of the underlying issuer, among other factors.
+
+Accrued interest receivable, which totaled $16,993 as of June 28, 2025, is excluded from both the fair value and amortized cost basis of available-for-sale securities and is included within prepaid expenses and other current assets on the Company’s condensed consolidated balance sheets. The Company writes off impaired accrued interest on a timely basis, generally within 30 days of the due date, by reversing interest income. No accrued interest was written off during the 26-week period ended June 28, 2025.
+
+The Company recognizes impairments relating to credit losses of available-for-sale securities through an allowance for credit losses and other income (expense) on the Company’s condensed consolidated statements of income. Impairment not relating to credit losses is recorded in accumulated other comprehensive income (loss) on the Company’s condensed consolidated balance sheets. The cost of securities sold is based on the specific identification method. Approximately 64% of securities in the Company’s portfolio were at an unrealized loss position as of June 28, 2025.
+
+10
+
+The following tables display additional information regarding gross unrealized losses and fair value by major security type for available-for-sale securities in an unrealized loss position as of June 28, 2025 and December 28, 2024.
+
+	As of June 28, 2025
+	Less than 12 Consecutive Months	12 Consecutive Months or Longer	Total
+	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value
+Agency securities	$	(9	)	$	20,966	$	(220	)	$	6,780	$	(229	)	$	27,746
+Mortgage-backed securities	(90	)	25,529	(1,763	)	16,334	(1,853	)	41,863
+Corporate debt securities	(1,321	)	233,406	(9,185	)	476,545	(10,506	)	709,951
+Municipal securities	(107	)	15,602	(5,305	)	205,337	(5,412	)	220,939
+Other	(5	)	653	(40	)	1,103	(45	)	1,756
+Total	$	(1,532	)	$	296,156	$	(16,513	)	$	706,099	$	(18,045	)	$	1,002,255
+
+	As of December 28, 2024
+	Less than 12 Consecutive Months	12 Consecutive Months or Longer	Total
+	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value
+Agency securities	$	(125	)	$	24,153	$	(352	)	$	6,647	$	(477	)	$	30,800
+Mortgage-backed securities	(137	)	9,803	(4,238	)	29,421	(4,375	)	39,224
+Corporate debt securities	(4,503	)	350,289	(19,334	)	667,176	(23,837	)	1,017,465
+Municipal securities	(228	)	35,001	(9,679	)	226,901	(9,907	)	261,902
+Other	—	—	(93	)	1,619	(93	)	1,619
+Total	$	(4,993	)	$	419,246	$	(33,696	)	$	931,764	$	(38,689	)	$	1,351,010
+
+As of June 28, 2025 and December 28, 2024, the Company had not recognized an allowance for credit losses on any securities in an unrealized loss position.
+
+The Company has not recorded an allowance for credit losses and charge to other income (expense) for the unrealized losses on agency, mortgage-backed, corporate debt, municipal, and other securities presented above because the Company does not consider the declines in fair value to have resulted from credit losses. The Company has not observed a significant deterioration in credit quality of these securities, which are highly rated with moderate to low credit risk. Declines in value are largely attributable to current global economic conditions. The securities continue to make timely principal and interest payments, and the fair values are expected to recover as they approach maturity. Management does not intend to sell the securities nor is it more likely than not that the Company will be required to sell the securities, before the respective recoveries of their amortized cost bases, which may be maturity.
+
+The amortized cost and fair value of marketable securities at June 28, 2025, by maturity, are shown below.
+
+	Amortized Cost	Fair Value
+Due in one year or less	$	521,022	$	515,038
+Due after one year through five years	1,260,979	1,257,852
+Due after five years through ten years	24,593	23,921
+Due after ten years	5,071	4,114
+Total	$	1,811,665	$	1,800,925
+
+5. Income Taxes
+
+The Company recorded income tax expense of $79,429 in the 13-week period ended June 28, 2025, compared to income tax expense of $65,342 in the 13-week period ended June 29, 2024. The effective tax rate was 16.5% in the second quarter of 2025, compared to 17.9% in the second quarter of 2024. The decrease in effective tax rate between comparative periods was primarily due to increased releases of uncertain tax position reserves.
+
+The Company recorded income tax expense of $135,737 in the 26-week period ended June 28, 2025, compared to income tax expense of $116,421 in the 26-week period ended June 29, 2024. The effective tax rate was 15.6% in the first half of 2025, compared to 16.8% in the first half of 2024. The decrease in effective tax rate between comparative periods was primarily due to increased tax benefits from stock-based compensation and increased releases of uncertain tax position reserves.
+
+11
+
+6. Inventories
+
+The details of inventories consisted of the following:
+
+	June 28,
+2025	December 28, 2024
+Raw materials	$	629,805	$	522,210
+Work-in-process	265,362	219,294
+Finished goods	892,853	732,474
+Inventories	$	1,788,020	$	1,473,978
+
+7. Warranty Reserves
+
+The Company accrues for estimated future warranty costs at the time products are sold. The Company provides standard warranties to its retail partners and end-users. The standard warranty generally provides for products to be free from defects in materials or worksmanship, and the warranty period is generally one to two years from the date of shipment, while certain aviation, marine, and auto OEM products have a warranty period of two years or more from the date of installation. The Company’s estimates of costs to service its warranty obligations are based on historical experience and management’s expectations and judgments of future conditions, with most claims resolved within a year of the sale. The following reconciliation presents details of the changes in the Company's accrued warranty costs:
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28, 2025	June 29, 2024	June 28, 2025	June 29, 2024
+Balance - beginning of period	$	61,142	$	55,219	$	62,473	$	55,738
+Accrual for products sold (1)	31,223	26,932	53,273	45,294
+Expenditures	(21,168	)	(23,898	)	(44,549	)	(42,779	)
+Balance - end of period	$	71,197	$	58,253	$	71,197	$	58,253
+
+(1) Changes in cost estimates related to pre-existing warranties were not material and are aggregated with accruals for new warranty contracts in the ‘accrual for products sold’ line.
+
+8. Commitments and Contingencies
+
+Commitments
+
+The Company is party to certain commitments that require the future purchase of goods or services (“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of payments for inventory, capital expenditures, and other indirect purchases in connection with conducting its business. The aggregate amount of purchase orders and other commitments open as of June 28, 2025 that may represent noncancelable unconditional purchase obligations having a remaining term in excess of one year was approximately $376,000.
+
+Certain cash balances are held as collateral in relation to bank guarantees. This restricted cash is reported within other assets on the condensed consolidated balance sheets and totaled $698 and $685 on June 28, 2025 and December 28, 2024, respectively. The total of the cash and cash equivalents balance and the restricted cash reported within other assets in the condensed consolidated balance sheets equals the total cash, cash equivalents, and restricted cash shown in the condensed consolidated statements of cash flows.
+
+Contingencies
+
+Management of the Company currently does not believe it is reasonably possible that the Company may have incurred a material loss, or a material loss in excess of recorded accruals, with respect to loss contingencies in the aggregate, for the fiscal quarter ended June 28, 2025. The results of legal proceedings, investigations and claims, however, cannot be predicted with certainty. An adverse resolution of one or more of such matters in excess of management’s expectations could have a material adverse effect in the particular quarter or fiscal year in which a loss is recorded, but based on information currently known, the Company does not believe it is likely that losses from such matters would have a material adverse effect on the Company’s business or its consolidated financial position, results of operations or cash flows.
+
+12
+
+The Company settled or resolved certain matters during the 13-week and 26-week periods ended June 28, 2025 that did not individually or in the aggregate have a material impact on the Company’s business or its consolidated financial position, results of operations or cash flows.
+
+9. Stockholders' Equity
+
+Dividends
+
+Under Swiss corporate law, dividends must be approved by shareholders at the annual general meeting of the Company’s shareholders. Approved dividends are payable in four equal installments on dates to be determined by the Board of Directors. A reduction of retained earnings and a corresponding liability are recorded at the time of shareholders' approval and are periodically adjusted based on the number of applicable shares outstanding.
+
+The Company's shareholders approved the following dividends:
+
+Approval Date	Dividend Payment Date	Record Date	Dividend Per Share
+Fiscal 2025
+June 6, 2025	June 27, 2025	June 16, 2025	$	0.90
+June 6, 2025	September 26, 2025	September 12, 2025	$	0.90
+June 6, 2025	December 26, 2025	December 12, 2025	$	0.90
+June 6, 2025	March 27, 2026	March 13, 2026	$	0.90
+Total	$	3.60
+
+Fiscal 2024
+June 7, 2024	June 28, 2024	June 17, 2024	$	0.75
+June 7, 2024	September 27, 2024	September 13, 2024	$	0.75
+June 7, 2024	December 27, 2024	December 13, 2024	$	0.75
+June 7, 2024	March 28, 2025	March 14, 2025	$	0.75
+Total	$	3.00
+
+Fiscal 2023
+June 9, 2023	June 30, 2023	June 20, 2023	$	0.73
+June 9, 2023	September 29, 2023	September 15, 2023	$	0.73
+June 9, 2023	December 29, 2023	December 15, 2023	$	0.73
+June 9, 2023	March 29, 2024	March 15, 2024	$	0.73
+Total	$	2.92
+
+Share Repurchase Program
+
+On February 16, 2024, the Board of Directors approved a share repurchase program (the “2024 Program”) authorizing the Company to repurchase up to $300,000 of the common shares of Garmin Ltd., exclusive of the cost of any associated excise tax. The timing and volume of share repurchases are subject to market conditions, business conditions and applicable laws, and are at management’s discretion. Share repurchases may be made from time to time in the open market or in privately negotiated transactions, including under plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, as amended. The 2024 Program does not require the purchase of any minimum number of shares and may be suspended or discontinued at any time. The 2024 Program expires on December 26, 2026. As of June 28, 2025, the Company had repurchased 827 shares for $156,707, leaving $143,293 available to repurchase additional shares under the 2024 Program.
+
+Treasury Shares
+
+In March 2024, the Board of Directors authorized the cancellation of 979 shares previously purchased under a share repurchase program. The capital reduction by cancellation of these shares became effective in March 2024. Total stockholders’ equity reported for the Company was not affected.
+
+13
+
+10. Accumulated Other Comprehensive Income (Loss)
+
+The following provides required disclosure of changes in accumulated other comprehensive income (loss) balances by component for the 13-week and 26-week periods ended June 28, 2025:
+
+	13-Weeks Ended June 28, 2025
+	Foreign currency
+translation adjustment	Net gains (losses) on available-for-sale securities	Total
+Balance - beginning of period	$	(108,186	)	$	(17,725	)	$	(125,911	)
+Other comprehensive income (loss) before reclassification, net of income tax expense of $2,250	223,845	6,705	230,550
+Amounts reclassified from accumulated other comprehensive income (loss) to other income (expense), net of income tax benefit of $74 included in income tax provision	—	534	534
+Net current-period other comprehensive income	223,845	7,239	231,084
+Balance - end of period	$	115,659	$	(10,486	)	$	105,173
+
+	26-Weeks Ended June 28, 2025
+	Foreign currency
+translation adjustment	Net gains (losses) on available-for-sale securities	Total
+Balance - beginning of period	$	(116,866	)	$	(30,372	)	$	(147,238	)
+Other comprehensive income (loss) before reclassification, net of income tax expense of $6,399	232,525	19,277	251,802
+Amounts reclassified from accumulated other comprehensive income (loss) to other income (expense), net of income tax benefit of $97 included in income tax provision	—	609	609
+Net current-period other comprehensive income	232,525	19,886	$	252,411
+Balance - end of period	$	115,659	$	(10,486	)	$	105,173
+
+11. Segment Information and Geographic Data
+
+Garmin is organized in the five operating segments of fitness, outdoor, aviation, marine, and auto OEM, which represent the primary markets served by the Company. These operating segments are also the Company's reportable segments.
+
+The Company’s Chief Executive Officer, who has been identified as the Company’s Chief Operating Decision Maker (CODM), primarily uses operating income as the measure of profit or loss to assess segment performance and allocate resources. Operating income represents net sales less costs of goods sold and operating expenses. Net sales are directly attributed to each segment. Most costs of goods sold and the majority of operating expenses are also directly attributed to each segment, while certain other costs of goods sold and operating expenses are allocated to the segments in a reasonable manner considering the specific facts and circumstances of the expenses being allocated. The accounting policies of the segments are the same as those described in Note 1 - Accounting Policies. There are no inter-segment sales or transfers.
+The Company’s segments share many common resources, infrastructures and assets in the normal course of business, and certain assets are therefore not separately tracked by segment. Thus, the Company does not report accounts receivable, inventories, property and equipment, intangible assets, capital expenditures, depreciation expense, or amortization expense by segment to the CODM.
+The CODM utilizes operating income to assess segment performance and make strategic decisions about the allocation of operating and capital resources by analyzing future opportunities and recent operating income results, trends, and variances of each segment in relation to forecasts and historical performance.
+
+14
+
+Net sales (“revenue”), cost of goods sold, gross profit, significant segment expenses, and operating income (loss) for each of the Company’s five reportable segments are presented below.
+
+	Fitness	Outdoor	Aviation	Marine	Auto OEM	Total
+13-Weeks Ended June 28, 2025
+Net sales	$	605,425	$	490,357	$	249,366	$	299,262	$	170,154	$	1,814,564
+Cost of goods sold	240,755	165,928	63,894	134,924	142,051	747,552
+Gross profit	364,670	324,429	185,472	164,338	28,103	1,067,012
+Research and development expense	52,696	66,997	85,126	46,920	24,924	276,663
+Selling, general and administrative expenses	114,344	99,551	36,963	54,497	12,699	318,054
+Operating income (loss)	197,630	157,881	63,383	62,921	(9,520	)	472,295
+
+13-Weeks Ended June 29, 2024
+Net sales	$	428,404	$	439,872	$	218,253	$	272,953	$	147,189	$	1,506,671
+Cost of goods sold	183,156	155,658	56,887	125,166	122,913	643,780
+Gross profit	245,248	284,214	161,366	147,787	24,276	862,891
+Research and development expense	45,024	58,892	77,894	39,362	21,979	243,151
+Selling, general and administrative expenses	92,614	89,730	32,987	48,533	13,849	277,713
+Operating income (loss)	107,610	135,592	50,485	59,892	(11,552	)	342,027
+
+26-Weeks Ended June 28, 2025
+Net sales	$	990,147	$	928,853	$	472,481	$	618,699	$	339,483	$	3,349,663
+Cost of goods sold	405,334	321,889	119,107	270,428	281,348	1,398,106
+Gross profit	584,813	606,964	353,374	348,271	58,135	1,951,557
+Research and development expense	103,153	130,060	169,324	90,907	51,339	544,783
+Selling, general and administrative expenses	206,316	190,236	72,311	107,579	25,213	601,655
+Operating income (loss)	275,344	286,668	111,739	149,785	(18,417	)	805,119
+
+26-Weeks Ended June 29, 2024
+Net sales	$	771,296	$	806,065	$	435,108	$	599,689	$	276,162	$	2,888,320
+Cost of goods sold	331,246	279,112	111,116	272,650	229,166	1,223,290
+Gross profit	440,050	526,953	323,992	327,039	46,996	1,665,030
+Research and development expense	88,814	115,562	155,541	78,398	47,371	485,686
+Selling, general and administrative expenses	175,493	168,848	65,832	101,058	27,676	538,907
+Operating income (loss)	175,743	242,543	102,619	147,583	(28,051	)	640,437
+
+Net sales to external customers by geographic region for the 13-week and 26-week periods ended June 28, 2025 and June 29, 2024 are presented below. Note that Americas includes North America and South America, EMEA includes Europe, the Middle East and Africa, and APAC includes Asia Pacific and Australian Continent.
+
+	13-Weeks Ended	26-Weeks Ended
+	June 28, 2025	June 29, 2024	June 28, 2025	June 29, 2024
+Americas (1)	$	878,014	$	740,577	$	1,623,747	$	1,456,694
+EMEA	677,402	542,016	1,246,355	1,005,399
+APAC	259,148	224,078	479,561	426,227
+Net sales to external customers	$	1,814,564	$	1,506,671	$	3,349,663	$	2,888,320
+
+(1) The United States is the only country which constitutes greater than 10% of net sales to external customers.
+
+15
+
+12. Subsequent Events
+
+On July 4, 2025, the United States enacted new tax legislation. The effects of the new United States tax legislation are not included in the Company's results for the 26-week period ended June 28, 2025 as the enactment date occurred after the end of the period. The Company is currently evaluating the full effects of the new United States tax legislation on the Company and its results of operations. Refer to Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations for further discussion.
+
+On July 15, 2025, the Company acquired MYLAPS, a privately-held company that provides technology solutions and services for sports timing and performance analysis. This acquisition was not material.
+
+16
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The discussion set forth below, as well as other portions of this Quarterly Report on Form 10-Q, contain statements concerning potential future events. Such forward-looking statements are based upon assumptions by management, as of the date of this Quarterly Report on Form 10-Q, including assumptions about risks and uncertainties faced by the Company. Readers can identify these forward-looking statements by their use of such words as "future", "expects", "anticipates", "believes", “estimates”, “would”, “could”, “can”, “may,” or other similar words or other comparable terms. If any of the Company’s assumptions prove incorrect or should unanticipated circumstances arise, actual results could materially differ from those anticipated by such forward-looking statements. The differences could be caused by a number of factors or combination of factors including, but not limited to, those factors identified in Part II, Item 1A of this Quarterly Report on Form 10-Q and in the Company’s Annual Report on Form 10-K for the year ended December 28, 2024. Readers are strongly encouraged to consider those factors when evaluating any forward-looking statement concerning the Company. These forward-looking statements are made as of the date hereof, and the Company disclaims any obligation to update any forward-looking statements in this Quarterly Report on Form 10-Q to reflect future events or developments, except as required by law.
+
+The information contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with the Condensed Consolidated Financial Statements and Notes thereto included in this Quarterly Report on Form 10-Q and the audited financial statements and notes thereto in the Company’s Annual Report on Form 10-K for the year ended December 28, 2024. Unless the context otherwise requires, references in this document to "we", "us", "our", the "Company" and similar terms refer to Garmin Ltd. and its subsidiaries.
+
+Unless otherwise indicated, amounts set forth in the discussion below are in thousands.
+
+Company Overview
+
+The Company is a leading worldwide provider of wireless devices, many of which feature location technology such as Global Positioning System (GPS), and applications that are designed for people who live an active lifestyle. We are organized in the five operating segments of fitness, outdoor, aviation, marine, and auto OEM, which represent the primary markets served by the Company. We design, develop, manufacture, market, and distribute a diverse family of GPS-enabled products and other navigation, communications, sensor-based and information products for these markets, as well as products installed by original equipment manufacturers (OEMs) and for aftermarket applications. Our products are sold through a variety of indirect distribution channels, including a large worldwide network of independent retailers, dealers, distributors, installation and repair shops, and OEMs. We also sell our products and services directly through our online webshop (garmin.com), subscriptions for connected services, and our own retail stores.
+
+Business Environment Update
+
+Global economic and geopolitical conditions impact our operations and financial results, although we believe our vertically integrated and diversified business model enables us to be resilient and flexible in a dynamic business environment. Foreign currency fluctuations and rapidly changing global trade policies, particularly those affecting the United States, increase the economic and operational uncertainties that could significantly harm our business and results of operations. During the 26-week period ended June 28, 2025, net sales in the United States of imported fitness, outdoor, and marine products represented approximately 25% of total net sales. Refer to Part II, Item 1A, “Risk Factors” of this Quarterly Report for further discussion of the risks and uncertainties facing our Company.
+
+On July 4, 2025, the United States enacted new tax legislation. The effects of the new United States tax legislation are not included in the Company's results for the 26-week period ended June 28, 2025 as the enactment date occurred after the end of the period. Certain provisions of the new United States tax legislation are effective for the 2025 tax year, while other provisions become effective in future years. We are currently evaluating the full effects of the new United States tax legislation. We currently estimate that the provisions effective for the 2025 tax year will result in a decrease in our originally anticipated cash outlays for income taxes in 2025, primarily due to the change in capitalization requirements of certain research and development costs, however, we estimate an increase to our full-year effective tax rate by approximately 100 basis points due to a decrease in U.S. tax deductions and credits.
+
+17
+
+Results of Operations
+
+The following tables and discussion provides an analysis of our results of operations for the second quarter of 2025 compared to the second quarter of 2024.
+
+Comparison of 13-Weeks Ended June 28, 2025 and June 29, 2024
+
+Net Sales
+
+Net Sales	13-Weeks Ended
+June 28, 2025	Year-over-Year Change	13-Weeks Ended
+June 29, 2024
+Fitness	$	605,425	41	%	$	428,404
+Percentage of Total Net Sales	33	%	28	%
+Outdoor	490,357	11	%	439,872
+Percentage of Total Net Sales	27	%	29	%
+Aviation	249,366	14	%	218,253
+Percentage of Total Net Sales	14	%	15	%
+Marine	299,262	10	%	272,953
+Percentage of Total Net Sales	17	%	18	%
+Auto OEM	170,154	16	%	147,189
+Percentage of Total Net Sales	9	%	10	%
+Total	$	1,814,564	20	%	$	1,506,671
+
+Net sales increased 20% for the 13-week period ended June 28, 2025 when compared to the year-ago quarter. Total unit sales in the second quarter of 2025 increased to 5,203 when compared to total unit sales of 4,655 in the second quarter of 2024, which differs from the percent increase in revenue primarily due to shifts in segment and product mix. Fitness was the largest portion of our revenue mix in the second quarter of 2025 at 33%, while Outdoor was the largest portion of our revenue mix in the second quarter of 2024 at 29%.
+
+The increase in fitness revenue was driven by strong demand for advanced wearables. Outdoor revenue increased primarily due to sales growth in adventure watches. The increase in aviation revenue was driven by sales growth in OEM and aftermarket product categories. The increase in marine revenue was driven by sales growth across multiple product categories, led by chartplotters. Auto OEM revenue increased primarily due to growth in domain controllers.
+
+Gross Profit
+
+Gross Profit	13-Weeks Ended
+June 28, 2025	Year-over-Year Change	13-Weeks Ended
+June 29, 2024
+Fitness	$	364,670	49	%	$	245,248
+Percentage of Segment Net Sales	60	%	57	%
+Outdoor	324,429	14	%	284,214
+Percentage of Segment Net Sales	66	%	65	%
+Aviation	185,472	15	%	161,366
+Percentage of Segment Net Sales	74	%	74	%
+Marine	164,338	11	%	147,787
+Percentage of Segment Net Sales	55	%	54	%
+Auto OEM	28,103	16	%	24,276
+Percentage of Segment Net Sales	17	%	16	%
+Total	$	1,067,012	24	%	$	862,891
+Percentage of Total Net Sales	59	%	57	%
+
+Gross profit dollars in the second quarter of 2025 increased 24%, primarily due to the increase in net sales when compared to the year-ago quarter, as described above. Consolidated gross margin increased 150 basis points when compared to the year-ago quarter due to higher margins across all segments, driven primarily by fitness and outdoor.
+
+The fitness and outdoor gross margin increases of 300 basis points and 160 basis points, respectively, were primarily attributable to favorable product mix. Gross margin remained relatively flat within the aviation, marine, and auto OEM segments when compared to the year-ago quarter.
+
+18
+
+Operating Expense
+
+Operating Expense	13-Weeks Ended
+June 28, 2025	Year-over-Year Change	13-Weeks Ended
+June 29, 2024
+Research and development expense	276,663	14	%	243,151
+Percentage of Total Net Sales	15	%	16	%
+Selling, general and administrative expenses	318,054	15	%	277,713
+Percentage of Total Net Sales	18	%	18	%
+Total	$	594,717	14	%	$	520,864
+Percentage of Total Net Sales	33	%	35	%
+
+Total operating expense in the second quarter of 2025 increased 14% in absolute dollars and decreased 180 basis points as a percent of revenue when compared to the year-ago quarter. Operating expense, as a percent of segment net sales, decreased in the fitness, aviation and auto OEM segments by 450 basis points, 180 basis points, and 220 basis points, respectively, when compared to the year-ago quarter due to increased sales and greater leverage of expenses. Operating expense, as a percent of segment net sales, increased by 170 basis points in the marine segment and remained relatively flat in the outdoor segment when compared to the year-ago quarter.
+
+Research and development expense increased 14% in absolute dollars when compared to the year-ago quarter. The absolute dollar expense increase was primarily due to higher engineering personnel-related expenses.
+
+Selling, general and administrative expenses increased 15% in absolute dollars when compared to the year-ago quarter. The absolute dollar expense increase was primarily attributable to increased personnel-related expenses.
+
+Operating Income
+
+Operating Income (Loss)	13-Weeks Ended
+June 28, 2025	Year-over-Year Change	13-Weeks Ended
+June 29, 2024
+Fitness	$	197,630	84	%	$	107,610
+Percentage of Segment Net Sales	33	%	25	%
+Outdoor	157,881	16	%	135,592
+Percentage of Segment Net Sales	32	%	31	%
+Aviation	63,383	26	%	50,485
+Percentage of Segment Net Sales	25	%	23	%
+Marine	62,921	5	%	59,892
+Percentage of Segment Net Sales	21	%	22	%
+Auto OEM	(9,520	)	NM	(11,552	)
+Percentage of Segment Net Sales	(6	%)	(8	%)
+Total	$	472,295	38	%	$	342,027
+Percentage of Total Net Sales	26	%	23	%
+
+NM - Represents that the percentage change is not meaningful.
+
+Total operating income in the second quarter of 2025 increased 38% in absolute dollars and increased 330 basis points as a percent of revenue when compared to the year-ago quarter. The increase in operating income was driven by increased sales, increased gross margin as a percent of revenue, and lower operating expenses as a percent of revenue, as described above. Operating performance improved across all segments.
+
+Other Income (Expense)
+
+Other Income (Expense)	13-Weeks Ended
+June 28, 2025	13-Weeks Ended
+June 29, 2024
+Interest income	$	31,724	$	29,286
+Foreign currency (losses) gains	(23,512	)	(4,828	)
+Other (expense) income	(256	)	(513	)
+Total	$	7,956	$	23,945
+
+The average interest rate return on cash and investments during the second quarter of 2025 was 3.2%, compared to 3.4% during the same quarter of 2024.
+
+19
+
+Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar and Polish Zloty. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash and marketable securities, receivables and payables held in a currency other than the functional currency at a given legal entity.
+
+The $23.5 million currency loss recognized in the second quarter of 2025 was primarily due to the U.S. Dollar weakening against the Taiwan Dollar, partially offset by the U.S. Dollar weakening against the Euro and British Pound Sterling, within the 13-week period ended June 28, 2025. During this period, the U.S. Dollar weakened 14.1% against the Taiwan Dollar, resulting in a loss of $67.7 million, while the U.S. Dollar weakened 8.2% against the Euro and 6.0% against the British Pound Sterling, resulting in gains of $36.5 million and $2.9 million, respectively. The remaining net currency gain of $4.8 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+The $4.8 million currency loss recognized in the second quarter of 2024 was primarily due to the U.S. Dollar strengthening against the Euro and Polish Zloty, offset by the U.S. Dollar strengthening against the Taiwan Dollar, within the 13-week period ended June 29, 2024. During this period, the U.S. Dollar strengthened 0.7% against the Euro and 0.8% against the Polish Zloty, resulting in losses of $3.3 million and $1.7 million, respectively, while the U.S. Dollar strengthened 1.7% against the Taiwan Dollar, resulting in a gain of $8.4 million. The remaining net currency loss of $8.2 million was related to the impacts of other drivers, each of which was individually immaterial.
+
+Income Tax Provision
+
+The Company recorded income tax expense of $79.4 million in the 13-week period ended June 28, 2025, compared to income tax expense of $65.3 million in the 13-week period ended June 29, 2024. The effective tax rate was 16.5% in the second quarter of 2025, compared to 17.9% in the second quarter of 2024. The decrease in effective tax rate between comparative periods was primarily due to increased releases of uncertain tax position reserves.
+
+Net Income
+
+As a result of the above, net income for the 13-week period ended June 28, 2025 was $400.8 million compared to $300.6 million for the 13-week period ended June 29, 2024, an increase of $100.2 million.
+
+Comparison of 26-Weeks Ended June 28, 2025 and June 29, 2024
+
+Net Sales
+
+Net Sales	26-Weeks Ended
+June 28, 2025	Year-over-Year Change	26-Weeks Ended
+June 29, 2024
+Fitness	$	990,147	28	%	$	771,296
+Percentage of Total Net Sales	30	%	27	%
+Outdoor	928,853	15	%	806,065
+Percentage of Total Net Sales	28	%	28	%
+Aviation	472,481	9	%	435,108
+Percentage of Total Net Sales	14	%	15	%
+Marine	618,699	3	%	599,689
+Percentage of Total Net Sales	18	%	21	%
+Auto OEM	339,483	23	%	276,162
+Percentage of Total Net Sales	10	%	9	%
+Total	$	3,349,663	16	%	$	2,888,320
+
+Net sales increased 16% for the 26-week period ended June 28, 2025 when compared to the year-ago period. Total unit sales in the first half of 2025 increased to 9,565 when compared to total unit sales of 8,545 in the first half of 2024, which differs from the percent increase in revenue primarily due to shifts in segment and product mix. Fitness was the largest portion of our revenue mix in the first half of 2025 at 30%, while outdoor was the largest portion of our revenue mix in the first half of 2024 at 28%.
+
+The increase in fitness revenue was driven by strong demand for advanced wearables. Outdoor revenue increased primarily due to growth in adventure watches. The increase in aviation revenue was driven by sales growth in OEM and aftermarket product categories. The increase in marine revenue was driven by sales growth across multiple product categories, led by chartplotters. Auto OEM revenue increased primarily due to growth in domain controllers.
+
+20
+
+Gross Profit
+
+Gross Profit	26-Weeks Ended
+June 28, 2025	Year-over-Year Change	26-Weeks Ended
+June 29, 2024
+Fitness	$	584,813	33	%	$	440,050
+Percentage of Segment Net Sales	59	%	57	%
+Outdoor	606,964	15	%	526,953
+Percentage of Segment Net Sales	65	%	65	%
+Aviation	353,374	9	%	323,992
+Percentage of Segment Net Sales	75	%	74	%
+Marine	348,271	6	%	327,039
+Percentage of Segment Net Sales	56	%	55	%
+Auto OEM	58,135	24	%	46,996
+Percentage of Segment Net Sales	17	%	17	%
+Total	$	1,951,557	17	%	$	1,665,030
+Percentage of Total Net Sales	58	%	58	%
+
+Gross profit dollars in the first half of 2025 increased 17%, primarily due to the increase in net sales when compared to the year-ago period, as described above. Consolidated gross margin as a percent of net sales was relatively flat when compared to the year-ago period, as the increases in fitness and marine gross margins were partially offset by unfavorable changes in segment mix.
+
+The fitness and marine gross margin increases of 200 and 180 basis points, respectively, were primarily attributable to favorable product mix and lower costs of goods. The outdoor, aviation, and auto OEM gross margins were relatively flat when compared to the year-ago period.
+
+Operating Expense
+
+Operating Expense	26-Weeks Ended
+June 28, 2025	Year-over-Year Change	26-Weeks Ended
+June 29, 2024
+Research and development expense	$	544,783	12	%	$	485,686
+Percentage of Total Net Sales	16	%	17	%
+Selling, General and administrative expenses	601,655	12	%	538,907
+Percentage of Total Net Sales	18	%	19	%
+Total	$	1,146,438	12	%	$	1,024,593
+Percentage of Total Net Sales	34	%	35	%
+
+Total operating expense in the first half of 2025 increased 12% in absolute dollars and decreased 130 basis points as a percent of revenue when compared to the year-ago period. Operating expense, as a percent of segment net sales, decreased in the fitness and auto OEM segments when compared to the year-ago period by 300 basis points and 460 basis points, respectively, due to the increase in sales and greater leverage of expenses. Operating expense, as a percent of segment net sales, increased in the marine segment by 220 basis points and remained relatively flat in the outdoor and aviation segments when compared to the year-ago period.
+
+Research and development expense increased 12% in absolute dollars when compared to the year-ago period. The absolute dollar expense increase was primarily due to higher engineering personnel-related expenses.
+
+Selling, general and administrative expense increased 12% in absolute dollars when compared to the year-ago period. The absolute dollar expense increase was primarily attributable to increased personnel-related expenses.
+
+21
+
+Operating Income
+
+Operating Income (Loss)	26-Weeks Ended
+June 28, 2025	Year-over-Year Change	26-Weeks Ended
+June 29, 2024
+Fitness	$	275,344	57	%	$	175,743
+Percentage of Segment Net Sales	28	%	23	%
+Outdoor	286,668	18	%	242,543
+Percentage of Segment Net Sales	31	%	30	%
+Aviation	111,739	9	%	102,619
+Percentage of Segment Net Sales	24	%	24	%
+Marine	149,785	1	%	147,583
+Percentage of Segment Net Sales	24	%	25	%
+Auto OEM	(18,417	)	NM	(28,051	)
+Percentage of Segment Net Sales	(5	%)	(10	%)
+Total	$	805,119	26	%	$	640,437
+Percentage of Total Net Sales	24	%	22	%
+
+NM - Represents that the percentage change is not meaningful.
+
+Total operating income in the first half of 2025 increased 26% in absolute dollars and 190 basis points as a percent of revenue when compared to the year-ago period. The increase as a percent of revenue was primarily due to increased sales, increased gross margin as a percent of revenue, and lower operating expenses as a percent of revenue, as described above. Operating performance improved across all segments.
+
+Other Income (Expense)
+
+Other Income (Expense)	26-Weeks Ended
+June 28, 2025	26-Weeks Ended
+June 29, 2024
+Interest income	$	62,231	$	54,313
+Foreign currency gains (losses)	1,248	(2,547	)
+Other income	730	809
+Total	$	64,209	$	52,575
+
+The average interest returns on cash and investments during the 26-week period ended June 28, 2025 and June 29, 2024 were 3.2% and 3.3%, respectively.
+
+Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar and Polish Zloty. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash and marketable securities, receivables and payables held in a currency other than the functional currency at a given legal entity.
+
+The $1.2 million currency gain recognized in the 26-week period ended June 28, 2025 was primarily due to the U.S. Dollar weakening against the Euro, British Pound Sterling, and Polish Zloty, offset by the U.S. Dollar weakening against the Taiwan Dollar, within the 26-week period ended June 28, 2025. During this period, the U.S. Dollar weakened 12.4% against the Euro, 9.0% against the British Pound Sterling, and 12.8% against the Polish Zloty, resulting in gains of $49.1 million, $4.4 million, and $3.6 million, respectively, while the U.S. Dollar weakened 12.8% against the Taiwan Dollar, resulting in a loss of $61.6 million. The remaining net currency gain of $5.7 million was related to the impacts of other drivers, each of which was individually immaterial.
+
+The $2.5 million currency loss recognized in the 26-week period ended June 29, 2024 was primarily due to the U.S. Dollar strengthening against the Polish Zloty, Euro, and Australian Dollar, offset by the U.S. Dollar strengthening against the Taiwan Dollar, within the 26-week period ended June 29, 2024. During this period, the U.S. Dollar strengthened 2.6% against the Polish Zloty, 2.9% against the Euro, and 2.7% against the Australian Dollar, resulting in losses of $8.5 million, $6.2 million, and $2.9 million, respectively, while the U.S. Dollar strengthened 5.6% against the Taiwan Dollar, resulting in a gain of $30.0 million. The remaining net currency loss of $14.9 million was related to the impacts of other drivers, each of which was individually immaterial.
+
+22
+
+Income Tax Provision
+
+The Company recorded income tax expense of $135.7 million in the first half of 2025, compared to income tax expense of $116.4 million in the first half of 2024. The effective tax rate was 15.6% in the first half of 2025, compared to 16.8% in the first half of 2024. The decrease in effective tax rate between comparative periods was primarily due to increased tax benefits from stock-based compensation and increased releases of uncertain tax position reserves.
+
+Net Income
+
+As a result of the above, net income for the 26-week period ended June 28, 2025 was $733.6 million compared to $576.6 million for the 26-week period ended June 29, 2024, an increase of $157.0 million.
+
+Liquidity and Capital Resources
+
+We primarily use cash flow from operations, and expect that future cash requirements may be used, to fund our capital expenditures, support our working capital requirements, pay dividends, fund share repurchases, and fund strategic acquisitions. We believe that our existing cash balances and cash flow from operations will be sufficient to meet our short- and long-term projected working capital needs, capital expenditures, and other cash requirements.
+
+Cash, Cash Equivalents, and Marketable Securities
+
+As of June 28, 2025, we had approximately $3.9 billion of cash, cash equivalents and marketable securities. Management invests idle or surplus cash in accordance with the Company's investment policy, which has been approved by the Company’s Board of Directors. The investment policy’s primary objectives are to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. Garmin’s average interest rate returns on cash and investments during the first two quarters of 2025 and 2024 were 3.2% and 3.3%, respectively. The fair value of our securities varies from period to period due to changes in interest rates, the performance of the underlying collateral, and the credit performance of the underlying issuer, among other factors. See Note 4 – Marketable Securities in the Notes to the Condensed Consolidated Financial Statements for additional information regarding marketable securities.
+
+Cash Flows
+
+Cash provided by operating activities totaled $594.0 million for the first half of 2025, compared to $690.6 million for the first half of 2024. The increase in cash received from customers primarily driven by higher net sales was offset by increases in cash paid for cost of goods sold and operating expenses, a strategic increase in inventory, as well as an increase in cash paid for taxes, resulting in a decrease in cash provided by operating activities in the first half of 2025 compared to the first half of 2024.
+
+Cash used in investing activities totaled $246.1 million for the first half of 2025, compared to $143.2 million for the first half of 2024. The increase was primarily due to an increase in net purchases of marketable securities in the first half of 2025 compared to the first half of 2024.
+
+Cash used in financing activities totaled $415.7 million for the first half of 2025, compared to $285.7 million for the first half of 2024. This increase was primarily due to higher purchases of treasury shares under the share repurchase plan, higher cash dividend payments, and an increase in the purchase of treasury shares related to equity awards in the first half of 2025 compared to the first half of 2024.
+
+Use of Cash
+
+Operating Leases
+
+The Company has lease arrangements for certain real estate properties, vehicles, and equipment. Leased properties are typically used for office space, distribution, and retail. As of June 28, 2025, the Company had fixed lease payment obligations of $213.9 million, with $41.1 million payable within 12 months.
+
+Inventory Purchase Obligations
+
+The Company obtains various raw materials and components for its products from a variety of third party suppliers. The Company’s inventory purchase obligations are primarily noncancelable. As of June 28, 2025, the Company had inventory purchase obligations of $1,026.3 million, with $802.4 million payable within 12 months.
+
+23
+
+Other Purchase Obligations
+
+The Company’s other purchase obligations primarily consist of noncancelable commitments for capital expenditures and other indirect purchases in connection with conducting our business. As of June 28, 2025, the Company had other purchase obligations of $417.0 million, with $206.3 million payable within 12 months.
+
+Critical Accounting Policies and Estimates
+
+General
+
+Our discussion and analysis of financial condition and results of operations are based upon the Company’s condensed consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The presentation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to customer sales programs and incentives, product returns, bad debts, inventories, investments, intangible assets, income taxes, warranty obligations, and contingencies and litigation. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+For a description of the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements, refer to Note 1, “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Part II, Item 8 and “Critical Accounting Policies and Estimates” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 28, 2024. There were no significant changes to the Company’s critical accounting policies and estimates in the 13-week and 26-week periods ended June 28, 2025.
+
+24
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+There are numerous market risks that can affect our future business, financial condition and results of operations. In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on Form 10-K for the fiscal year ended December 28, 2024. There have been no material changes during the 13-week and 26-week periods ended June 28, 2025 in the risks described in our Annual Report on Form 10-K related to market sensitivity, inflation, foreign currency exchange rate risk and interest rate risk.
+
+Item 4. Controls and Procedures
+
+(a) Evaluation of disclosure controls and procedures. The Company maintains a system of disclosure controls and procedures that are designed to provide reasonable assurance that information, which is required to be timely disclosed, is accumulated and communicated to management in a timely fashion. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. As of June 28, 2025, the Company carried out an evaluation, under the supervision and with the participation of the Company’s management, including the Company’s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company’s disclosure controls and procedures. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded as of June 28, 2025 that our disclosure controls and procedures were effective such that the information relating to the Company, required to be disclosed in our Securities and Exchange Commission (SEC) reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to the Company’s management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+(b) Changes in internal control over financial reporting. There has been no change in the Company’s internal controls over financial reporting that occurred during the Company’s fiscal quarter ended June 28, 2025 that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+25
+
+Part II - Other Information
+
+Item 1. Legal Proceedings
+
+In the normal course of business, the Company and its subsidiaries are parties to various legal claims, actions, and complaints, including matters involving patent infringement, other intellectual property, product liability, customer claims and various other risks. It is not possible to predict with certainty whether or not the Company and its subsidiaries will ultimately be successful in any of these legal matters, or if not, what the impact might be. However, the Company’s management does not expect that the results in any of these legal proceedings will have a material adverse effect on the Company’s business, results of operations, financial position or cash flows. For additional information, see Note 8, "Commitments and Contingencies" in the above Condensed Consolidated Financial Statements and Part I, Item 3, “Legal Proceedings” in the Company’s Annual Report on Form 10-K for the fiscal year ended December 28, 2024.
+
+Item 1A. Risk Factors
+
+There are many risks and uncertainties that can affect our future business, financial performance or share price. In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended December 28, 2024. There have been no material changes to the risks described in our Annual Report on Form 10-K for the fiscal year ended December 28, 2024, or our Quarterly Report for the period ended March 29, 2025, except as described in the updated risk factor below. These risks, however, are not the only risks facing our Company. Additional risks and uncertainties, including those not currently known to us or that we currently deem to be immaterial, also may materially adversely affect our business, financial condition and/or operating results.
+
+Changes to trade regulations, including trade restrictions, such as tariffs, duties, and sanctions, could significantly harm our results of operations.
+
+The rapidly evolving international trade environment has created economic and operational uncertainties that could significantly harm our business and results of operations.
+
+Certain of the goods we import are subject to tariffs and duties imposed by customs authorities of the jurisdictions into which they are imported. We manufacture our products in, and source goods from, multiple jurisdictions, such as Taiwan and China among others. New or increased tariffs, duties, or other trade restrictions imposed on products, goods, or components we import into the United States or other countries could have a substantial adverse impact on our business and financial results.
+
+Additionally, some tariffs and duties are based on the classifications of the goods imported, which are routinely subject to review by customs authorities. We are unable to predict whether those authorities will change the determination of the classifications of any of our imports. Any such changes could result in increased tariffs or duties, or other restrictions on our importation of goods. The imposition of and our response to new or enhanced trade restrictions on imports or exports, or any selective or inconsistent application relating to trade restrictions, could result in a substantial adverse effect on our business, competitive position, results of operations, and financial condition.
+
+26
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+Issuer Purchases of Equity Securities
+
+Share repurchase activity during the 13-week period ended June 28, 2025, summarized on a trade-date basis, was as follows (in thousands, except per share amounts):
+
+Period	Total Number of Shares Purchased (1)	Average Price Paid Per Share (2)	Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs	Approximate Dollar Value of Shares That May Yet Be Purchased Under the Program
+March 30, 2025 - April 26, 2025	170	$	189.80	170	$	177,443
+April 27, 2025 - May 24, 2025	61	$	196.98	61	$	165,468
+May 25, 2025 - June 28, 2025	109	$	203.45	109	$	143,293
+Total	340	340
+
+(1) The Board of Directors approved a share repurchase program on February 16, 2024 (the "2024 Program"), which was announced on February 21, 2024. The 2024 Program authorizes the Company to purchase up to $300 million of its common shares, exclusive of the cost of any associated excise tax. Share repurchases may be made in the open market or in privately negotiated transactions, including under plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, as amended. The timing and volume of share repurchases are subject to market conditions, business conditions and applicable laws, and are at management’s discretion. The 2024 Program does not require the purchase of any minimum number of shares and may be suspended or discontinued at any time. The 2024 Program expires on December 26, 2026. Refer to Note 9 – Stockholders’ Equity in the Notes to the Condensed Consolidated Financial Statements for additional information related to share repurchases.
+
+(2) Average price paid per share includes costs associated with the repurchases, except for the cost of any associated excise tax.
+
+Item 3. Defaults Upon Senior Securities
+
+None.
+
+Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+Item 5. Other Information
+
+(c) Trading Plans
+
+During the 13-week period ended June 28, 2025, no directors or officers (as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934) of the Company adopted or terminated any “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+
+27
+
+Item 6. Exhibits
+
+Exhibit 3.1	Articles of Association of Garmin Ltd., as amended and restated on June 6, 2025 (incorporated by reference to Exhibit 10.1 of the Registrant’s Current Report on Form 8-K filed on June 12, 2025).
+
+Exhibit 3.2	Organizational Regulations of Garmin Ltd., as amended on October 25, 2019 (incorporated by reference to Exhibit 3.2 of the Registrant’s Amendment No.1 to Current Report on Form 8-K/A filed on November 21, 2019).
+
+Exhibit 31.1‡	Certification of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 31.2‡	Certification of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 32.1†	Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 32.2†	Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 101.INS‡	Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+Exhibit 101.SCH‡	Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+
+Exhibit 104‡	Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+‡ Filed herewith.
+† Furnished herewith.
+
+28
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+	GARMIN LTD.
+
+	By	/s/ Douglas G. Boessen
+	Douglas G. Boessen
+	Chief Financial Officer
+	(Principal Financial Officer and
+	Principal Accounting Officer)
+
+Dated: July 30, 2025
+
+29

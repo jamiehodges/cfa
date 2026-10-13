@@ -1,0 +1,161 @@
+8-K
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+Current Report
+Pursuant to Section 13 or 15(d) of
+the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): June 5, 2026
+GARMIN LTD.
+(Exact name of registrant as specified in its charter)
+
+Switzerland	001-41118	98-0229227
+(State or other jurisdiction
+of incorporation)	(Commission
+File Number)	(I.R.S. Employer
+Identification No.)
+
+Mühlentalstrasse 36/38
+8200 Schaffhausen
+Switzerland
+(Address of principal executive offices)
+Registrant’s telephone number, including area code: +41 52 630 1600
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):
+
+☐	Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐	Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐	Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐	Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class	Trading Symbol(s)	Name of each exchange on which registered
+Registered Shares, $0.10 Per Share Par Value	GRMN	New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.07. Submission of Matters to a Vote of Security Holders.
+
+On June 5, 2026, Garmin held its annual general meeting of shareholders. At the annual general meeting, Garmin's shareholders voted on the proposals set forth below, each of which is described in Garmin’s proxy statement for the 2026 annual general meeting.
+
+Under Swiss law and Garmin's Articles of Association, shareholder approval of proposals is generally determined by a simple majority of votes cast, such that abstentions and broker non-votes are disregarded in the calculation of the vote required for approval. At the 2026 annual general meeting, abstentions and broker non-votes were not considered in the tabulation of the vote (and should be disregarded) for each proposal.
+
+1. The shareholders approved Garmin’s 2025 Annual Report, including the consolidated financial statements of Garmin for the fiscal year ended December 27, 2025 and the statutory financial statements of Garmin for the fiscal year ended December 27, 2025. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+166,720,742	54,838	300,694	0
+
+2. The shareholders approved the appropriation of available earnings. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+166,642,766	126,248	307,261	0
+
+3. The shareholders approved the payment of a cash dividend in the aggregate amount of U.S. $4.20 per outstanding share out of Garmin’s reserve from capital contribution in four equal installments. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+166,825,423	144,591	106,261	0
+
+4. The shareholders discharged members of the Board of Directors and the Executive Management from liability for the fiscal year ended December 27, 2025. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+99,005,980	1,081,147	22,377,268	27,279,587
+
+5. The shareholders re-elected six directors, each for a term extending until completion of the 2027 annual general meeting. The tabulation of votes with respect to the re-election of directors was as follows:
+
+	For	Against	Abstain	Non-votes
+Susan M. Ball	137,813,480	1,804,842	178,365	27,279,587
+Jonathan C. Burrell	127,104,653	12,592,380	99,654	27,279,587
+Joseph J. Hartnett	120,629,595	19,065,430	101,663	27,279,587
+Min H. Kao	137,177,400	2,519,279	100,008	27,279,587
+Catherine A. Lewis	137,170,914	2,448,340	177,434	27,279,587
+Clifton A. Pemble	139,049,728	644,172	102,788	27,279,587
+
+6. The shareholders re-elected Min H. Kao as Executive Chairman of the Board of Directors for a term extending until completion of the 2027 annual general meeting. The tabulation of votes with respect to the re-election of the Executive Chairman was as follows:
+
+For	Against	Abstain	Non-votes
+130,697,013	8,999,309	100,366	27,279,587
+
+1
+
+7. The shareholders re-elected four members of the Compensation Committee, each for a term extending until completion of the 2027 annual general meeting. The tabulation of votes with respect to the re-election of members of the Compensation Committee was as follows:
+
+	For	Against	Abstain	Non-votes
+Susan M. Ball	138,002,249	1,610,018	184,421	27,279,587
+Jonathan C. Burrell	128,457,372	11,228,019	111,296	27,279,587
+Joseph J. Hartnett	132,933,019	6,758,071	105,598	27,279,587
+Catherine A. Lewis	136,178,818	3,431,055	186,814	27,279,587
+
+8. The shareholders re-elected the law firm of Wuersch & Gering LLP as independent voting rights representative for a term extending until completion of the 2027 annual general meeting. The tabulation of votes with respect to the re-election of the independent voting rights representative was as follows:
+
+For	Against	Abstain	Non-votes
+166,836,297	87,192	152,786	0
+
+9. The shareholders ratified the appointment of Ernst & Young LLP as Garmin’s Independent Registered Public Accounting Firm for the fiscal year ending December 26, 2026 and re-election of Ernst & Young Ltd as Garmin’s statutory auditor for another one-year term. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+161,369,360	5,599,802	107,113	0
+
+10. The shareholders passed an advisory resolution approving the compensation of Garmin’s Named Executive Officers. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+133,143,435	6,492,185	161,068	27,279,587
+
+11. The shareholders passed an advisory resolution approving Garmin’s Swiss Statutory Compensation Report for the fiscal year ended December 27, 2025. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+133,864,405	5,817,625	114,658	27,279,587
+
+12. The shareholders passed a resolution approving Garmin’s Swiss Non-Financial Matters Report for the fiscal year ended December 27, 2025. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+166,195,499	556,630	324,146	0
+
+13. The shareholders approved a binding vote to approve the Fiscal Year 2027 maximum aggregate compensation for Garmin’s Executive Management. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+136,775,093	2,650,876	370,719	27,279,587
+
+14. The shareholders approved a binding vote to approve the maximum aggregate compensation for Garmin’s Board of Directors for the period between the 2026 annual general meeting and the 2027 annual general meeting. The tabulation of votes on this matter was as follows:
+
+For	Against	Abstain	Non-votes
+139,298,872	158,877	338,939	27,279,587
+
+2
+
+Item 8.01. Other Events
+
+On June 5, 2026, Garmin issued a press release, a copy of which is attached hereto as Exhibit No. 99.1 and incorporated by reference herein, announcing that its shareholders have approved a cash dividend in the amount of $4.20 per outstanding share out of Garmin’s reserve from capital contribution payable in four equal installments on dates to be determined by the Board of Directors in its discretion. The Board has determined that the first installment of $1.05 will be payable on June 26, 2026 to shareholders of record on June 15, 2026. The Board currently expects that the dividend payment and record dates for the remaining three installments will be as follows: $1.05 on September 25, 2026 to shareholders of record on September 11, 2026, $1.05 on December 24, 2026 to shareholders of record on December 11, 2026 and $1.05 on March 26, 2027 to shareholders of record on March 12, 2027.
+
+3
+
+Item 9.01. Financial Statements and Exhibits
+(a) Not applicable.
+(b) Not applicable.
+(c) Not applicable.
+(d) Exhibits. The following exhibits are furnished herewith.
+
+Exhibit No.	Description
+99.1	Press Release dated June 5, 2026 (furnished pursuant to Item 8.01)
+104	The cover page from this Current Report on Form 8-K, formatted in Inline XBRL (included as Exhibit 101)
+
+4
+
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+	GARMIN LTD.
+
+Date: June 8, 2026	/s/ Joshua H. Maxfield
+	Joshua H. Maxfield
+	Vice President, General Counsel and Secretary
+
+5

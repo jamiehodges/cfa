@@ -1,0 +1,960 @@
+10-Q
+
+United States
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+FORM 10-Q
+
+☒	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended March 27, 2021
+
+or
+
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission file number 0-31983
+
+GARMIN LTD.
+(Exact name of Company as specified in its charter)
+
+Switzerland	98-0229227
+(State or other jurisdiction	(I.R.S. Employer
+of incorporation or organization)	identification no.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland	N/A
+(Address of principal executive offices)	(Zip Code)
+
+Company’s telephone number, including area code: +41 52 630 1600
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Registered Shares, CHF 0.10 Per Share Par Value	GRMN	The Nasdaq Stock Market LLC
+(Title of each class)	(Trading Symbol)	(Name of each exchange on which registered)
+
+Indicate by check mark whether the Company (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Company was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☑ NO ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes ☑ NO ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer	☑	Accelerated Filer	☐
+Non-accelerated Filer	☐	Smaller reporting company	☐
+	Emerging growth company	☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. YES ☐ NO ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+YES ☐ NO ☑
+
+Number of shares outstanding of the registrant’s common shares as of April 23, 2021
+Registered Shares, CHF 0.10 par value: 192,144,655 (excluding treasury shares)
+
+Garmin Ltd.
+Form 10-Q
+Quarter Ended March 27, 2021
+
+Table of Contents
+
+	Page
+
+Part I - Financial Information	1
+
+Item 1.	Condensed Consolidated Financial Statements	1
+
+	Condensed Consolidated Balance Sheets at March 27, 2021 and December 26, 2020 (Unaudited)	1
+
+	Condensed Consolidated Statements of Income for the 13-Weeks ended March 27, 2021 and March 28, 2020 (Unaudited)	2
+
+	Condensed Consolidated Statements of Comprehensive Income for the 13-Weeks ended March 27, 2021 and March 28, 2020 (Unaudited)	3
+
+	Condensed Consolidated Statements of Stockholders’ Equity for the 13-Weeks ended March 27, 2021 and March 28, 2020 (Unaudited)	4
+
+	Condensed Consolidated Statements of Cash Flows for the 13-Weeks ended March 27, 2021 and March 28, 2020 (Unaudited)	5
+
+	Notes to Condensed Consolidated Financial Statements (Unaudited)	6
+
+Item 2.	Management’s Discussion and Analysis of Financial Condition and Results of Operations	14
+
+Item 3.	Quantitative and Qualitative Disclosures About Market Risk	20
+
+Item 4.	Controls and Procedures	20
+
+Part II - Other Information	21
+
+Item 1.	Legal Proceedings	21
+
+Item 1A.	Risk Factors	21
+
+Item 2.	Unregistered Sales of Equity Securities and Use of Proceeds	22
+
+Item 3.	Defaults Upon Senior Securities	22
+
+Item 4.	Mine Safety Disclosures	22
+
+Item 5.	Other Information	22
+
+Item 6.	Exhibits	23
+
+Signature Page	24
+
+i
+
+Part I - Financial Information
+Item I - Condensed Consolidated Financial Statements
+Garmin Ltd. and Subsidiaries
+
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	March 27,
+2021	December 26, 2020
+Assets
+Current assets:
+Cash and cash equivalents	$	1,599,475	$	1,458,442
+Marketable securities	342,656	387,642
+Accounts receivable, net	558,192	849,469
+Inventories	837,934	762,084
+Deferred costs	18,175	20,145
+Prepaid expenses and other current assets	201,488	191,569
+Total current assets	3,557,920	3,669,351
+
+Property and equipment, net	861,382	855,539
+Operating lease right-of-use assets	92,942	94,626
+Marketable securities	1,212,798	1,131,175
+Deferred income taxes	248,852	245,455
+Noncurrent deferred costs	14,520	16,510
+Intangible assets, net	822,229	828,566
+Other assets	189,086	190,151
+Total assets	$	6,999,729	$	7,031,373
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	250,789	$	258,885
+Salaries and benefits payable	148,558	181,937
+Accrued warranty costs	39,288	42,643
+Accrued sales program costs	64,557	109,891
+Deferred revenue	83,891	86,865
+Accrued advertising expense	23,805	31,950
+Other accrued expenses	137,968	149,817
+Income taxes payable	67,064	68,585
+Dividend payable	117,205	233,644
+Total current liabilities	933,125	1,164,217
+
+Deferred income taxes	117,596	116,844
+Noncurrent income taxes	95,505	92,810
+Noncurrent deferred revenue	44,856	49,934
+Noncurrent operating lease liabilities	74,741	75,958
+Other liabilities	18,079	15,494
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; 192,144
+shares outstanding at March 27, 2021 and 191,571 shares outstanding
+at December 26, 2020	17,979	17,979
+Additional paid-in capital	1,892,934	1,880,354
+Treasury stock	(309,522	)	(320,016	)
+Retained earnings	3,974,184	3,754,372
+Accumulated other comprehensive income	140,252	183,427
+Total stockholders’ equity	5,715,827	5,516,116
+Total liabilities and stockholders’ equity	$	6,999,729	$	7,031,373
+
+See accompanying notes.
+1
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended
+	March 27,
+2021	March 28,
+2020
+Net sales	$	1,072,327	$	856,108
+Cost of goods sold	430,771	349,168
+Gross profit	641,556	506,940
+
+Advertising expense	31,061	26,880
+Selling, general and administrative expenses	157,622	137,186
+Research and development expense	203,214	165,392
+Total operating expense	391,897	329,458
+
+Operating income	249,659	177,482
+Other income (expense):
+Interest income	7,652	12,026
+Foreign currency losses	(8,281	)	(15,423	)
+Other income	1,484	3,550
+Total other income (expense)	855	153
+
+Income before income taxes	250,514	177,635
+Income tax provision	30,485	16,455
+Net income	$	220,029	$	161,180
+
+Net income per share:
+Basic	$	1.15	$	0.84
+Diluted	$	1.14	$	0.84
+
+Weighted average common shares outstanding:
+Basic	191,896	190,803
+Diluted	192,810	191,684
+
+See accompanying notes.
+2
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)
+(In thousands)
+
+	13-Weeks Ended
+	March 27,
+2021	March 28,
+2020
+Net income	$	220,029	$	161,180
+Foreign currency translation adjustment	(35,291	)	(6,176	)
+Change in fair value of available-for-sale marketable securities, net of deferred taxes	(7,884	)	(17,891	)
+Comprehensive income	$	176,854	$	137,113
+
+See accompanying notes.
+3
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Stockholders’ Equity (Unaudited)
+For the 13-Weeks Ended March 27, 2021 and March 28, 2020
+(In thousands, except per share information)
+
+	Common
+Stock	Additional
+Paid-In
+Capital	Treasury
+Stock	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at December 28, 2019	$	17,979	$	1,835,622	$	(345,040	)	$	3,229,061	$	55,874	$	4,793,496
+Net income	—	—	—	161,180	—	161,180
+Translation adjustment	—	—	—	—	(6,176	)	(6,176	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $2,807	—	—	—	—	(17,891	)	(17,891	)
+Comprehensive income	137,113
+Dividends declared	—	—	—	(188	)	—	(188	)
+Issuance of treasury stock related to equity awards	—	(21,129	)	21,129	—	—	—
+Stock compensation	—	15,559	—	—	—	15,559
+Purchase of treasury stock related to equity awards	—	—	(11,580	)	—	—	(11,580	)
+Balance at March 28, 2020	$	17,979	$	1,830,052	$	(335,491	)	$	3,390,053	$	31,807	$	4,934,400
+
+	Common
+Stock	Additional
+Paid-In
+Capital	Treasury
+Stock	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at December 26, 2020	$	17,979	$	1,880,354	$	(320,016	)	$	3,754,372	$	183,427	$	5,516,116
+Net income	—	—	—	220,029	—	220,029
+Translation adjustment	—	—	—	—	(35,291	)	(35,291	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $2,231	—	—	—	—	(7,884	)	(7,884	)
+Comprehensive income	176,854
+Dividends declared	—	—	—	(217	)	—	(217	)
+Issuance of treasury stock related to equity awards	—	(10,118	)	27,775	—	—	17,657
+Stock compensation	—	22,698	—	—	—	22,698
+Purchase of treasury stock related to equity awards	—	—	(17,281	)	—	—	(17,281	)
+Balance at March 27, 2021	$	17,979	$	1,892,934	$	(309,522	)	$	3,974,184	$	140,252	$	5,715,827
+
+See accompanying notes.
+
+4
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	13-Weeks Ended
+	March 27,
+2021	March 28,
+2020
+Operating Activities:
+Net income	$	220,029	$	161,180
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation	23,988	18,198
+Amortization	12,902	10,006
+Loss (gain) on sale or disposal of property and equipment	133	(1,846	)
+Unrealized foreign currency losses	7,277	16,856
+Deferred income taxes	497	10,378
+Stock compensation expense	22,698	15,559
+Realized loss (gain) on marketable securities	22	(272	)
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	281,524	197,157
+Inventories	(87,450	)	(47,318	)
+Other current and non-current assets	(13,710	)	(4,367	)
+Accounts payable	(3,470	)	(39,851	)
+Other current and non-current liabilities	(95,977	)	(98,219	)
+Deferred revenue	(7,998	)	(10,078	)
+Deferred costs	3,945	3,511
+Income taxes payable	3,952	(5,020	)
+Net cash provided by operating activities	368,362	225,874
+
+Investing activities:
+Purchases of property and equipment	(36,894	)	(41,361	)
+Proceeds from sale of property and equipment	—	1,907
+Purchase of intangible assets	(760	)	(953	)
+Purchase of marketable securities	(404,599	)	(344,342	)
+Redemption of marketable securities	354,039	311,935
+Acquisitions, net of cash acquired	(15,893	)	(6,058	)
+Net cash used in investing activities	(104,107	)	(78,872	)
+
+Financing activities:
+Dividends	(116,655	)	(108,571	)
+Proceeds from issuance of treasury stock related to equity awards	17,657	—
+Purchase of treasury stock related to equity awards	(17,281	)	(11,580	)
+Net cash used in financing activities	(116,279	)	(120,151	)
+
+Effect of exchange rate changes on cash and cash equivalents	(6,488	)	(5,602	)
+
+Net increase in cash, cash equivalents, and restricted cash	141,488	21,249
+Cash, cash equivalents, and restricted cash at beginning of period	1,458,748	1,027,638
+Cash, cash equivalents, and restricted cash at end of period	$	1,600,236	$	1,048,887
+
+See accompanying notes.
+5
+
+Garmin Ltd. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+March 27, 2021
+(In thousands, except per share information)
+
+1. Accounting Policies
+
+Basis of Presentation
+
+The accompanying unaudited Condensed Consolidated Financial Statements have been prepared in accordance with generally accepted accounting principles for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Certain prior period amounts have been reclassified or presented to conform to the current period presentation. Additionally, the Condensed Consolidated Financial Statements should be read in conjunction with Part I, Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-Q. Operating results for the 13-week period ended March 27, 2021 are not necessarily indicative of the results that may be expected for the year ending December 25, 2021.
+
+The Condensed Consolidated Balance Sheet at December 26, 2020 has been derived from the audited financial statements at that date but does not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. For further information, refer to the Consolidated Financial Statements and footnotes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 26, 2020.
+
+The Company’s fiscal year is based on a 52- or 53-week period ending on the last Saturday of the calendar year. Therefore, the financial results of certain 53-week fiscal years, and the associated 14-week quarters, will not be exactly comparable to the prior and subsequent 52-week fiscal years and the associated 13-week quarters. The quarters ended March 27, 2021 and March 28, 2020 both contain operating results for 13 weeks.
+
+Significant Accounting Policies
+
+For a description of the significant accounting policies and methods used in the preparation of the Company’s Condensed Consolidated Financial Statements, refer to Note 2, “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Part II, Item 8 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 26, 2020. There were no material changes to the Company’s significant accounting policies during the 13-week period ended March 27, 2021.
+
+Recently Issued Accounting Standards and Pronouncements
+
+We do not expect any recently adopted accounting standards, or recently issued accounting pronouncements not yet adopted, to have a material impact on the Company’s consolidated financial statements, accounting policies, processes, or systems.
+
+2. Inventories
+
+The components of inventories consist of the following:
+
+	March 27,
+2021	December 26, 2020
+Raw materials	$	321,939	$	282,287
+Work-in-process	156,426	147,821
+Finished goods	359,569	331,976
+Inventories	$	837,934	$	762,084
+
+6
+
+3. Earnings Per Share
+
+The following table sets forth the computation of basic and diluted net income per share. Stock options, stock appreciation rights, and restricted stock units are collectively referred to as “equity awards”.
+
+	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Numerator:
+Numerator for basic and diluted net income per share – net income	$	220,029	$	161,180
+
+Denominator:
+Denominator for basic net income per share – weighted-average common shares	191,896	190,803
+
+Effect of dilutive equity awards	914	881
+
+Denominator for diluted net income per share – adjusted weighted-average common shares	192,810	191,684
+
+Basic net income per share	$	1.15	$	0.84
+
+Diluted net income per share	$	1.14	$	0.84
+
+Shares excluded from diluted net income per share calculation:
+Anti-dilutive equity awards	316	412
+
+4. Segment Information
+
+Garmin is organized in the six operating segments of auto OEM, aviation, consumer auto, fitness, marine, and outdoor. The aviation, fitness, marine, and outdoor operating segments represent reportable segments. The auto OEM and consumer auto operating segments, which serve the auto market, do not meet the quantitative thresholds to separately qualify as reportable segments, and they are therefore reported together in an “all other” category captioned as auto. Auto, aviation, fitness, marine, and outdoor are collectively referred to as our reported segments.
+
+The Company’s Chief Executive Officer, who has been identified as the Chief Operating Decision Maker (CODM), uses operating income as the measure of profit or loss, combined with other measures, to assess segment performance and allocate resources. Operating income represents net sales less costs of goods sold and operating expenses. Net sales are directly attributed to each segment. Most costs of goods sold and the majority of operating expenses are also directly attributed to each segment, while certain other costs of goods sold and operating expenses are allocated to the segments in a manner appropriate to the specific facts and circumstances of the expenses being allocated.
+
+Net sales (“revenue”), gross profit, and operating income for each of the Company’s five reported segments are presented below, along with supplemental financial information for the auto OEM and consumer auto operating segments that management believes is useful.
+
+	Auto
+	Fitness	Outdoor	Aviation	Marine	Total
+Auto	Consumer
+Auto	Auto
+OEM	Total
+13-Weeks Ended March 27, 2021
+Net sales	$	308,125	$	256,455	$	173,889	$	209,372	$	124,486	$	62,395	$	62,091	$	1,072,327
+Gross profit	173,545	171,676	126,182	121,379	48,774	31,964	16,810	641,556
+Operating income (loss)	73,736	93,030	44,868	61,564	(23,539	)	8,398	(31,937	)	249,659
+
+13-Weeks Ended March 28, 2020
+Net sales	$	223,601	$	175,102	$	188,599	$	163,005	$	105,801	$	59,013	$	46,788	$	856,108
+Gross profit	112,325	112,258	138,808	94,210	49,339	28,112	21,227	506,940
+Operating income (loss)	31,011	47,166	59,321	40,159	(175	)	3,213	(3,388	)	177,482
+
+7
+
+Net sales to external customers by geographic region were as follows for the 13-week periods ended March 27, 2021 and March 28, 2020. Note that APAC includes Asia Pacific and Australian Continent and EMEA includes Europe, the Middle East and Africa:
+
+	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Americas	$	503,691	$	427,401
+EMEA	399,508	299,867
+APAC	169,128	128,840
+Net sales to external customers	$	1,072,327	$	856,108
+
+Net property and equipment by geographic region as of March 27, 2021 and March 28, 2020 are presented below.
+
+	Americas	APAC	EMEA	Total
+March 27, 2021
+Property and equipment, net	$	478,514	$	267,487	$	115,381	$	861,382
+
+March 28, 2020
+Property and equipment, net	$	454,637	$	230,369	$	69,543	$	754,549
+
+5. Warranty Reserves
+
+The Company’s standard warranty obligation to its end-users provides for a period of one to two years from the date of shipment, while certain auto, aviation, and marine OEM products have a warranty period of two years or more from the date of installation. The Company’s estimates of costs to service its warranty obligations are based on historical experience and management’s expectations and judgments of future conditions, and are recorded as a liability on the balance sheet. The following reconciliation provides an illustration of changes in the aggregate warranty reserve.
+
+	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Balance - beginning of period	$	42,643	$	39,758
+Accrual for products sold (1)	11,456	17,868
+Expenditures	(14,811	)	(18,258	)
+Balance - end of period	$	39,288	$	39,368
+
+(1) Changes in cost estimates related to pre-existing warranties were not material and aggregated with accruals for new warranty contracts in the ‘Accrual for products sold’ line.
+
+6. Commitments and Contingencies
+
+Commitments
+
+The Company is party to certain commitments, which include purchases of raw materials, capital expenditures, advertising, and other indirect purchases in connection with conducting our business. The aggregate amount of purchase orders and other commitments open as of March 27, 2021 was approximately $1,135,000. We cannot determine the aggregate amount of such purchase orders that represent contractual obligations because purchase orders may represent authorizations to purchase rather than binding agreements. Our purchase orders are based on our current needs and typically fulfilled by our suppliers, contract manufacturers, and logistic providers within short periods of time.
+
+Certain cash balances are held as collateral in relation to bank guarantees. This restricted cash is reported within Other assets on the Condensed Consolidated Balance Sheets and totaled $761 and $306 on March 27, 2021 and December 26, 2020, respectively. The total of the Cash and cash equivalents balance and the restricted cash reported within Other assets in the Condensed Consolidated Balance Sheets reconciles to the total Cash, cash equivalents, and restricted cash shown in the Condensed Consolidated Statements of Cash Flows.
+
+8
+
+Contingencies
+
+In the normal course of business, the Company and its subsidiaries are parties to various legal claims, investigations and complaints, including matters alleging patent infringement and other intellectual property claims. The Company evaluates, on a quarterly and annual basis, developments in legal proceedings, investigations, claims, and other loss contingencies that could affect any required accrual or disclosure or estimate of reasonably possible loss or range of loss. An estimated loss from a loss contingency is accrued by a charge to income if it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. If a range of loss is estimated, and some amount within that range appears to be a better estimate than any other amount within that range, then that amount is accrued. If no amount within the range can be identified as a better estimate than any other amount, the Company accrues the minimum amount in the range.
+
+If an outcome unfavorable to the Company is determined to be probable, but the amount of loss cannot be reasonably estimated or is determined to be reasonably possible, but not probable, we disclose the nature of the contingency and an estimate of the possible loss or range of loss or a statement that such an estimate cannot be made. The Company’s aggregate range of reasonably possible losses includes (1) matters where a liability has been accrued and there is a reasonably possible loss in excess of the amount accrued for that liability, and (2) matters where a loss is believed to be reasonably possible, but not probable, and a liability therefore has not been accrued. This aggregate range only represents the Company’s estimate of reasonably possible losses and does not represent the Company’s maximum loss exposure. The assessment regarding whether a loss is probable or reasonably possible, and whether the loss or a range of loss is estimable, often involves a series of complex judgments about future events. In assessing the probability of an outcome in a lawsuit, claim or assessment that could be unfavorable to the Company, we consider the following factors, among others: a) the nature of the litigation, claim, or assessment; b) the progress of the case; c) the opinions or views of legal counsel and other advisers; d) our experience in similar cases; e) the experience of other entities in similar cases; and f) how we intend to respond to the lawsuit, claim, or assessment. Costs incurred in defending lawsuits, claims or assessments are expensed as incurred.
+
+Management of the Company currently does not believe it is reasonably possible that the Company may have incurred a material loss, or a material loss in excess of recorded accruals, with respect to loss contingencies in the aggregate, for the fiscal quarter ended March 27, 2021. The results of legal proceedings, investigations and claims, however, cannot be predicted with certainty. An adverse resolution of one or more of such matters in excess of management’s expectations could have a material adverse effect in the particular quarter or fiscal year in which a loss is recorded, but based on information currently known, the Company does not believe it is likely that losses from such matters would have a material adverse effect on the Company’s business or its consolidated financial position, results of operations or cash flows.
+
+The Company settled or resolved certain matters during the 13-week period ended March 27, 2021 that did not individually or in the aggregate have a material impact on the Company’s business or its consolidated financial position, results of operations or cash flows.
+
+7. Income Taxes
+
+The Company recorded income tax expense of $30,485 in the 13-week period ended March 27, 2021, compared to income tax expense of $16,455 in the 13-week period ended March 28, 2020. The effective tax rate was 12.2% in the first quarter of 2021, compared to 9.3% in the first quarter of 2020. The 290 basis points increase to the first quarter of 2021 compared to the prior year quarter is primarily due to a decrease in uncertain tax position reserves released in the first quarter of 2021 compared to the first quarter of 2020.
+
+8. Marketable Securities
+
+The FASB ASC topic entitled Fair Value Measurements and Disclosures defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). The accounting guidance classifies the inputs used to measure fair value into the following hierarchy:
+
+9
+
+	Level 1	Unadjusted quoted prices in active markets for the identical asset or liability
+
+	Level 2	Observable inputs for the asset or liability, either directly or indirectly, such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, or inputs other than quoted prices that are observable for the asset or liability
+
+	Level 3	Unobservable inputs for the asset or liability
+
+The Company endeavors to utilize the best available information in measuring fair value. Financial assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement. Valuation is based on prices obtained from an independent pricing vendor using both market and income approaches. The primary inputs to the valuation include quoted prices for similar assets in active markets, quoted prices for identical or similar assets in markets that are not active, contractual cash flows, benchmark yields, and credit spreads.
+
+The method described above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values. Furthermore, while the Company believes its valuation methods are appropriate and consistent with other market participants, the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date.
+
+Marketable securities classified as available-for-sale securities are summarized below:
+
+	Available-For-Sale Securities
+as of March 27, 2021
+	Fair Value Level	Amortized Cost	Gross Unrealized
+Gains	Gross Unrealized
+Losses	Fair Value
+U.S. Treasury securities	Level 2	$	400	$	5	$	—	$	405
+Agency securities	Level 2	2,498	29	—	2,527
+Mortgage-backed securities	Level 2	195,903	991	(1,283	)	195,611
+Corporate securities	Level 2	1,040,217	20,797	(5,808	)	1,055,206
+Municipal securities	Level 2	257,788	3,019	(1,505	)	259,302
+Other	Level 2	42,716	139	(452	)	42,403
+Total	$	1,539,522	$	24,980	$	(9,048	)	$	1,555,454
+
+	Available-For-Sale Securities
+as of December 26, 2020
+	Fair Value Level	Amortized Cost	Gross Unrealized
+Gains	Gross Unrealized
+Losses	Fair Value
+U.S. Treasury securities	Level 2	$	400	$	6	$	—	$	406
+Agency securities	Level 2	5,954	56	—	6,010
+Mortgage-backed securities	Level 2	239,445	1,051	(1,923	)	238,573
+Corporate securities	Level 2	984,696	25,962	(1,637	)	1,009,021
+Municipal securities	Level 2	214,515	3,644	(223	)	217,936
+Other	Level 2	47,760	167	(1,056	)	46,871
+Total	$	1,492,770	$	30,886	$	(4,839	)	$	1,518,817
+
+The Company’s investment policy targets low risk investments with the objective of minimizing the potential risk of principal loss. The fair value of securities varies from period to period due to changes in interest rates, the performance of the underlying collateral, and the credit performance of the underlying issuer, among other factors.
+
+Accrued interest receivable, which totaled $9,844 as of March 27, 2021, is excluded from both the fair value and amortized cost basis of available-for-sale securities and is included within Prepaid expenses and other current assets on the Company’s Condensed Consolidated Balance Sheets. The Company writes off impaired accrued interest on a timely basis, generally within 30 days of the due date, by reversing interest income. No accrued interest was written off during the 13-week period ended March 27, 2021.
+
+10
+
+The Company recognizes impairments relating to credit losses of available-for-sale securities through an allowance for credit losses and Other income on the Company’s Condensed Consolidated Statements of Income. Impairment not relating to credit losses is recorded in Other comprehensive income on the Company’s Condensed Consolidated Balance Sheets. The cost of securities sold is based on the specific identification method. Approximately 30% of securities in the Company’s portfolio were at an unrealized loss position as of March 27, 2021.
+
+The following tables display additional information regarding gross unrealized losses and fair value by major security type for available-for-sale securities in an unrealized loss position as of March 27, 2021 and December 26, 2020.
+
+	As of March 27, 2021
+	Less than 12 Consecutive Months	12 Consecutive Months or Longer	Total
+	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value
+U.S. Treasury securities	$	—	$	—	$	—	$	—	$	—	$	—
+Agency securities	—	—	—	—	—	—
+Mortgage-backed securities	(466	)	30,984	(817	)	10,697	(1,283	)	41,681
+Corporate securities	(5,622	)	339,722	(186	)	9,011	(5,808	)	348,733
+Municipal securities	(1,505	)	123,652	—	—	(1,505	)	123,652
+Other	(113	)	10,794	(339	)	10,589	(452	)	21,383
+Total	$	(7,706	)	$	505,152	$	(1,342	)	$	30,297	$	(9,048	)	$	535,449
+
+	As of December 26, 2020
+	Less than 12 Consecutive Months	12 Consecutive Months or Longer	Total
+	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value
+U.S. Treasury securities	$	—	$	—	$	—	$	—	$	—	$	—
+Agency securities	—	—	—	—	—	—
+Mortgage-backed securities	(1,849	)	85,688	(74	)	2,122	(1,923	)	87,810
+Corporate securities	(1,065	)	199,187	(572	)	8,625	(1,637	)	207,812
+Municipal securities	(223	)	50,403	—	—	(223	)	50,403
+Other	(726	)	22,600	(330	)	3,426	(1,056	)	26,026
+Total	$	(3,863	)	$	357,878	$	(976	)	$	14,173	$	(4,839	)	$	372,051
+
+As of March 27, 2021 and December 26, 2020, the Company had not recognized an allowance for credit losses on any securities in an unrealized loss position.
+
+The Company has not recorded an allowance for credit losses and charge to Other income for the unrealized losses on mortgage-backed, corporate, municipal, and other securities presented above because we do not consider the declines in fair value to have resulted from credit losses. We have not observed a significant deterioration in credit quality of these securities, which are highly rated with moderate to low credit risk. Declines in value are largely attributable to current global economic conditions. The securities continue to make timely principal and interest payments, and the fair values are expected to recover as they approach maturity. The Company does not intend to sell the securities, and it is not more likely than not that the Company will be required to sell the securities, before the respective recoveries of their amortized cost bases, which may be maturity.
+
+The amortized cost and fair value of marketable securities at March 27, 2021, by maturity, are shown below.
+
+	Amortized Cost	Fair Value
+Due in one year or less	$	340,693	$	342,656
+Due after one year through five years	1,127,462	1,140,939
+Due after five years through ten years	71,222	71,719
+Due after ten years	145	140
+	$	1,539,522	$	1,555,454
+
+11
+
+9. Accumulated Other Comprehensive Income
+
+The following provides required disclosure of changes in accumulated other comprehensive income (AOCI) balances by component for the 13-week period ended March 27, 2021:
+
+	13-Weeks Ended March 27, 2021
+	Foreign currency
+translation adjustment	Net gains (losses) on available-for-sale securities	Total
+Balance - beginning of period	$	162,953	$	20,474	$	183,427
+Other comprehensive income before reclassification, net of income tax benefit of $2,097	(35,291	)	(7,505	)	(42,796	)
+Amounts reclassified from Accumulated other comprehensive income to Other income, net of income tax expense of $134 included in Income tax provision	—	(379	)	(379	)
+Net current-period other comprehensive income	(35,291	)	(7,884	)	(43,175	)
+Balance - end of period	$	127,662	$	12,590	$	140,252
+
+10. Revenue
+
+In order to further depict how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors, we disaggregate revenue (or “net sales”) by geographic region, major product category, and pattern of recognition.
+
+Disaggregated revenue by geographic region (Americas, APAC, and EMEA) is presented in Note 4 – Segment Information. Note 4 also contains disaggregated revenue information of the six major product categories identified by the Company – auto OEM, aviation, consumer auto, fitness, marine, and outdoor.
+
+A large majority of the Company’s sales are recognized on a point in time basis, usually once the product is shipped and title and risk of loss have transferred to the customer. Sales recognized over a period of time are primarily within the auto segment and relate to performance obligations that are satisfied over the life of the product or contractual service period. Revenue disaggregated by the timing of transfer of the goods or services is presented in the table below:
+
+	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Point in time	$	1,022,777	$	810,296
+Over time	49,550	45,812
+Net sales	$	1,072,327	$	856,108
+
+Transaction price and costs associated with the Company’s unsatisfied performance obligations are reflected as deferred revenue and deferred costs, respectively, on the Company’s Condensed Consolidated Balance Sheets. Such amounts are recognized ratably over the applicable service period or estimated useful life. Changes in deferred revenue and costs during the 13-week period ended March 27, 2021 are presented below:
+
+	13-Weeks Ended
+	March 27, 2021
+	Deferred
+Revenue (1)	Deferred
+Costs (2)
+Balance, beginning of period	$	136,799	$	36,655
+Deferrals in period	41,498	2,727
+Recognition of deferrals in period	(49,550	)	(6,687	)
+Balance, end of period	$	128,747	$	32,695
+
+(1) Deferred revenue is comprised of both Deferred revenue and Noncurrent deferred revenue per the Condensed Consolidated Balance Sheets
+
+(2) Deferred costs are comprised of both Deferred costs and Noncurrent deferred costs per the Condensed Consolidated Balance Sheets
+
+12
+
+Of the $49,550 of deferred revenue recognized in the 13-week period ended March 27, 2021, $27,793 was deferred as of the beginning of the period.
+
+Approximately two-thirds of the $128,747 of deferred revenue at the end of the period, March 27, 2021, is recognized ratably over a period of three years or less.
+
+13
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The discussion set forth below, as well as other portions of this Quarterly Report, contain statements concerning potential future events. Such forward-looking statements are based upon assumptions by management, as of the date of this Quarterly Report, including assumptions about risks and uncertainties faced by the Company. Readers can identify these forward-looking statements by their use of such verbs as expects, anticipates, believes or similar verbs or conjugations of such verbs. If any of the Company’s assumptions prove incorrect or should unanticipated circumstances arise, actual results could materially differ from those anticipated by such forward-looking statements. The differences could be caused by a number of factors or combination of factors including, but not limited to, those factors identified in Part II, Item 1A of this Quarterly Report on Form 10-Q and in the Company’s Annual Report on Form 10-K for the year ended December 26, 2020. This report has been filed with the Securities and Exchange Commission (the “SEC” or the “Commission”) in Washington, D.C. and can be obtained by contacting the SEC’s public reference operations or obtaining it through the SEC’s website at http://www.sec.gov. Readers are strongly encouraged to consider those factors when evaluating any forward-looking statement concerning the Company. The Company will not update any forward-looking statements in this Quarterly Report to reflect future events or developments.
+
+The information contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with the Condensed Consolidated Financial Statements and Notes thereto included in this Form 10-Q and the audited financial statements and notes thereto in the Company’s Annual Report on Form 10-K for the year ended December 26, 2020.
+
+Company Overview
+
+The Company is a leading worldwide provider of wireless devices and applications that are designed for people who live an active lifestyle, many of which feature Global Positioning System (GPS) navigation. We are organized in the six operating segments of auto OEM, aviation, consumer auto, fitness, marine, and outdoor. The operating segments offer products through our network of subsidiary distributors and independent dealers and distributors, our own webshop, as well as through various auto, aviation, and marine original equipment manufacturers (OEMs). Each of the operating segments is managed separately.
+
+Business Environment Update
+
+The COVID-19 pandemic has created disruption and uncertainty in the global economy and has affected our business, suppliers, and customers. COVID-19 has generally had an unfavorable impact on net sales and profitability of our aviation and auto segments, however, the impact lessened during the first quarter of 2021. Conversely, we believe net sales and profitability of our fitness, outdoor, and marine segments have benefited from a shift in consumer behavior and demand toward the products these segments offer, which continued through the first quarter of 2021.
+
+Additionally, the electronics industry is currently experiencing constrained supply and high demand for certain components. As a result, we have recently encountered, and expect to continue to encounter, challenges in securing some components, which could adversely affect our financial performance.
+
+The current business environment may continue to evolve in ways that impact our operations and financial results. Further, the nature and degree of the continued effects of COVID-19 over time remains uncertain. Refer to Part II, Item 1A, “Risk Factors” of this Quarterly Report for further discussion of the risks and uncertainties facing our Company.
+
+Results of Operations
+
+The following table sets forth the Company’s results of operations as a percent of net sales during the periods shown (the table may not foot due to rounding):
+
+14
+
+	13-Weeks Ended
+	March 27,
+2021	March 28,
+2020
+Net sales	100	%	100	%
+Cost of goods sold	40	%	41	%
+Gross profit	60	%	59	%
+Advertising	3	%	3	%
+Selling, general and administrative	15	%	16	%
+Research and development	19	%	19	%
+Total operating expenses	37	%	38	%
+Operating income	23	%	21	%
+Other income (expense)	0	%	0	%
+Income before income taxes	23	%	21	%
+Income tax provision	3	%	2	%
+Net income	21	%	19	%
+
+The segment table located in Note 4 to the Condensed Consolidated Financial Statements sets forth the Company’s results of operations (in thousands) including net sales, gross profit, and operating income for each of the Company’s five reported segments during the periods shown, as well as supplemental information for the consumer auto and auto OEM operating segments that management believes is useful. For each line item in the table, the total of the fitness, outdoor, aviation, marine, and auto segments’ amounts equals the amount in the Condensed Consolidated Statements of Income included in Item 1.
+
+Comparison of 13-Weeks ended March 27, 2021 and March 28, 2020
+(Amounts included in the following discussion are stated in thousands unless otherwise indicated)
+
+Net Sales
+
+Net Sales	13-Weeks Ended March 27, 2021	Year-over-Year Change	13-Weeks Ended March 28, 2020
+Fitness	$	308,125	38	%	$	223,601
+Percentage of Total Net Sales	29	%	26	%
+Outdoor	256,455	46	%	175,102
+Percentage of Total Net Sales	24	%	21	%
+Aviation	173,889	(8	%)	188,599
+Percentage of Total Net Sales	16	%	22	%
+Marine	209,372	28	%	163,005
+Percentage of Total Net Sales	19	%	19	%
+Auto	124,486	18	%	105,801
+Percentage of Total Net Sales	12	%	12	%
+Consumer Auto	62,395	6	%	59,013
+Percentage of Total Net Sales	6	%	7	%
+Auto OEM	62,091	33	%	46,788
+Percentage of Total Net Sales	6	%	5	%
+Total	$	1,072,327	25	%	$	856,108
+
+Net sales increased 25% for the 13-week period ended March 27, 2021 when compared to the year-ago quarter. Fitness was the largest portion of our revenue mix at 29% in the first quarter of 2021 compared to 26% in the first quarter of 2020. Total unit sales in the first quarter of 2021 increased to 3,463 when compared to total unit sales of 2,931 in the first quarter of 2020, which was a smaller increase than that of revenue primarily due to shifts in segment and product mix.
+
+Fitness revenue increased when compared to the year-ago quarter, primarily driven by sales growth in cycling and advanced wearables products. Outdoor revenue increased when compared to the year-ago quarter, driven by sales growth across all categories led by strong demand for our adventure watches. Aviation revenue declined from the year-ago quarter, primarily due to reduced contributions from ADS-B products. Marine revenue increased when compared to the year-ago quarter, driven by sales growth in multiple product categories, led primarily by chartplotters and sonars. The consumer auto revenue increase over the year-ago quarter was driven by growth in specialty categories. Auto OEM revenue increased compared to the year-ago quarter due to sales growth in new OEM programs.
+
+15
+
+Gross Profit
+
+Gross Profit	13-Weeks Ended March 27, 2021	Year-over-Year Change	13-Weeks Ended March 28, 2020
+Fitness	$	173,545	55	%	$	112,325
+Percentage of Segment Net Sales	56	%	50	%
+Outdoor	171,676	53	%	112,258
+Percentage of Segment Net Sales	67	%	64	%
+Aviation	126,182	(9	%)	138,808
+Percentage of Segment Net Sales	73	%	74	%
+Marine	121,379	29	%	94,210
+Percentage of Segment Net Sales	58	%	58	%
+Auto	48,774	(1	%)	49,339
+Percentage of Segment Net Sales	39	%	47	%
+Consumer Auto	31,964	14	%	28,112
+Percentage of Segment Net Sales	51	%	48	%
+Auto OEM	16,810	(21	%)	21,227
+Percentage of Segment Net Sales	27	%	45	%
+Total	$	641,556	27	%	$	506,940
+Percentage of Total Net Sales	60	%	59	%
+
+Gross profit dollars in the first quarter of 2021 increased 27%, primarily due to the increase in net sales compared to the year-ago quarter, as described above. Consolidated gross margin was relatively flat when compared to the year-ago quarter.
+
+The fitness, outdoor, and consumer auto gross margin increases of 610, 280, and 360 basis points, respectively, were primarily attributable to product mix. The aviation gross margin decrease of 100 basis points was primarily attributable to product mix. The auto OEM gross margin decrease of 1,830 basis points was primarily attributable to product mix associated with growth in new auto OEM programs. This auto OEM product mix and associated gross margin trend is generally expected to continue through 2021 and beyond.
+
+Advertising Expense
+
+Advertising	13-Weeks Ended March 27, 2021	Year-over-Year Change	13-Weeks Ended March 28, 2020
+Fitness	$	13,305	31	%	$	10,139
+Percentage of Segment Net Sales	4	%	5	%
+Outdoor	8,715	26	%	6,908
+Percentage of Segment Net Sales	3	%	4	%
+Aviation	820	(37	%)	1,311
+Percentage of Segment Net Sales	0	%	1	%
+Marine	6,334	3	%	6,142
+Percentage of Segment Net Sales	3	%	4	%
+Auto	1,887	(21	%)	2,380
+Percentage of Segment Net Sales	2	%	2	%
+Consumer Auto	1,879	(15	%)	2,198
+Percentage of Segment Net Sales	3	%	4	%
+Auto OEM	8	(96	%)	182
+Percentage of Segment Net Sales	0	%	0	%
+Total	$	31,061	16	%	$	26,880
+Percentage of Total Net Sales	3	%	3	%
+
+Advertising expense as a percent of revenue was relatively flat when compared to the year-ago quarter and increased 16% in absolute dollars. The total absolute dollar increase was primarily attributable to increased cooperative and media spend in the fitness and outdoor segments.
+
+Selling, General and Administrative Expense
+
+Selling, General & Admin. Expenses	13-Weeks Ended March 27, 2021	Year-over-Year Change	13-Weeks Ended March 28, 2020
+Fitness	$	52,102	22	%	$	42,652
+Percentage of Segment Net Sales	17	%	19	%
+Outdoor	40,272	22	%	33,070
+Percentage of Segment Net Sales	16	%	19	%
+Aviation	18,757	0	%	18,776
+Percentage of Segment Net Sales	11	%	10	%
+Marine	27,324	8	%	25,381
+Percentage of Segment Net Sales	13	%	16	%
+Auto	19,167	11	%	17,307
+Percentage of Segment Net Sales	15	%	16	%
+Consumer Auto	8,931	(20	%)	11,196
+Percentage of Segment Net Sales	14	%	19	%
+Auto OEM	10,236	68	%	6,111
+Percentage of Segment Net Sales	16	%	13	%
+Total	$	157,622	15	%	$	137,186
+Percentage of Total Net Sales	15	%	16	%
+
+16
+
+Selling, general and administrative expense increased 15% in absolute dollars and was slightly lower as a percent of revenue compared to the year-ago quarter. The absolute dollar increase in the first quarter of 2021 was primarily attributable to increased personnel related expenses and information technology costs.
+
+Research and Development Expense
+
+Research & Development	13-Weeks Ended March 27, 2021	Year-over-Year Change	13-Weeks Ended March 28, 2020
+Fitness	$	34,402	21	%	$	28,523
+Percentage of Segment Net Sales	11	%	13	%
+Outdoor	29,659	18	%	25,114
+Percentage of Segment Net Sales	12	%	14	%
+Aviation	61,737	4	%	59,400
+Percentage of Segment Net Sales	36	%	31	%
+Marine	26,157	16	%	22,528
+Percentage of Segment Net Sales	12	%	14	%
+Auto	51,259	72	%	29,827
+Percentage of Segment Net Sales	41	%	28	%
+Consumer Auto	12,756	11	%	11,505
+Percentage of Segment Net Sales	20	%	19	%
+Auto OEM	38,503	110	%	18,322
+Percentage of Segment Net Sales	62	%	39	%
+Total	$	203,214	23	%	$	165,392
+Percentage of Total Net Sales	19	%	19	%
+
+Research and development expense as a percent of revenue was relatively flat when compared to the year-ago quarter and increased 23% in absolute dollars. The absolute dollar increase was primarily due to higher engineering personnel costs across all of our operating segments and other expenses related to auto OEM programs. The auto OEM increase in absolute dollars and as a percent of revenue was primarily attributable to higher engineering personnel costs and other expenses related to investments in auto OEM programs and a lower proportion of such costs being contractually reimbursable. This trend of increasing auto OEM research and development expense is expected to continue through 2021 as we expect higher total costs and the majority of costs will not be contractually reimbursable.
+
+Operating Income
+
+Operating Income (Loss)	13-Weeks Ended March 27, 2021	Year-over-Year Change	13-Weeks Ended March 28, 2020
+Fitness	$	73,736	138	%	$	31,011
+Percentage of Segment Net Sales	24	%	14	%
+Outdoor	93,030	97	%	47,166
+Percentage of Segment Net Sales	36	%	27	%
+Aviation	44,868	(24	%)	59,321
+Percentage of Segment Net Sales	26	%	31	%
+Marine	61,564	53	%	40,159
+Percentage of Segment Net Sales	29	%	25	%
+Auto	(23,539	)	13,351	%	(175	)
+Percentage of Segment Net Sales	(19	%)	0	%
+Consumer Auto	8,398	161	%	3,213
+Percentage of Segment Net Sales	13	%	5	%
+Auto OEM	(31,937	)	843	%	(3,388	)
+Percentage of Segment Net Sales	(51	%)	(7	%)
+Total	$	249,659	41	%	$	177,482
+Percentage of Total Net Sales	23	%	21	%
+
+Operating income increased 41% in absolute dollars and increased 260 basis points as a percent of revenue when compared to the year-ago quarter. This increase was due to revenue growth and slightly lower operating expenses as a percent of revenue, as described above. Operating income, in absolute dollars and as a percent of revenue, decreased in the aviation segment primarily due to sales declines in the current quarter, when compared to the year-ago quarter. Auto OEM experienced an operating loss in the current quarter and we expect this trend to continue through 2021, primarily due to a lower gross margin and increased expense associated with certain programs, as described above.
+
+Other Income (Expense)
+
+Other Income (Expense)	13-Weeks Ended March 27, 2021	13-Weeks Ended March 28, 2020
+Interest income	$	7,652	$	12,026
+Foreign currency gains (losses)	(8,281	)	(15,423	)
+Other income	1,484	3,550
+Total	$	855	$	153
+
+The average return on cash and investments, including interest and capital gain/loss returns during the first quarter of 2021 was 1.1% compared to 1.9% during the same quarter of 2020. Interest income decreased primarily due to lower yields on fixed-income securities.
+17
+
+Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar, Chinese Yuan, and Japanese Yen. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash and marketable securities, receivables and payables held in a currency other than the functional currency at a given legal entity.
+
+The $8.3 million currency loss recognized in the first quarter of 2021 was primarily due to the U.S. Dollar strengthening against the Euro and Japanese Yen, partially offset by the U.S. Dollar strengthening against the Taiwan Dollar and weakening against the British Pound, within the 13-week period ended March 27, 2021. During this period, the U.S. Dollar strengthened 3.3% against the Euro and 5.6% against the Japanese Yen, resulting in losses of $11.0 million and $1.4 million, respectively, while the U.S. Dollar strengthened 1.7% against the Taiwan Dollar and weakened 1.8% against the British Pound, resulting in gains of $4.7 million and $1.3 million, respectively. The remaining net currency loss of $1.9 million is related to the timing of transactions and impacts of other currencies, each of which was individually immaterial.
+
+The $15.4 million currency loss recognized in the first quarter of 2020 was primarily due to the U.S. Dollar strengthening against the Euro, British Pound Sterling, and Australian Dollar, partially offset by the U.S. Dollar strengthening against the Taiwan Dollar, within the 13-week period ended March 28, 2020. During this period, the U.S. Dollar strengthened 0.3% against the Euro, 4.7% against the British Pound Sterling, and 12.7% against the Australian Dollar, resulting in losses of $1.9 million, $2.3 million, and $5.1 million, respectively, while the U.S. Dollar strengthened 0.3% against the Taiwan Dollar, resulting in a gain of $2.0 million. The remaining net currency loss of $8.1 million was related to the timing of transactions and impacts of other currencies, each of which was individually immaterial.
+
+Income Tax Provision
+
+The Company recorded income tax expense of $30.5 million in the 13-week period ended March 27, 2021, compared to income tax expense of $16.5 million in the 13-week period ended March 28, 2020. The effective tax rate was 12.2% in the first quarter of 2021, compared to 9.3% in the first quarter of 2020. The 290 basis point increase to the first quarter of 2021 compared to the prior year quarter is primarily due to a decrease in uncertain tax position reserves released in the first quarter of 2021 compared to the first quarter of 2020.
+
+Net Income
+
+As a result of the above, net income for the 13-week period ended March 27, 2021 was $220.0 million compared to $161.2 million for the 13-week period ended March 28, 2020, an increase of $58.8 million.
+
+Liquidity and Capital Resources
+
+As of March 27, 2021, we had approximately $3.2 billion of cash, cash equivalents and marketable securities. We primarily use cash flow from operations, and expect that future cash requirements may be used, to fund our capital expenditures, support our working capital requirements, pay dividends, and fund strategic acquisitions. We believe that our existing cash balances and cash flow from operations will be sufficient to meet our short- and long-term projected working capital needs, capital expenditures, and other cash requirements.
+
+It is management’s goal to invest the on-hand cash in accordance with the investment policy, which has been approved by the Company’s Board of Directors. The investment policy’s primary purpose is to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. Garmin’s average interest rate returns on cash and investments during the first quarter of 2021 and 2020 were approximately 1.0% and 1.8%, respectively. The fair value of our securities varies from period to period due to changes in interest rates, in the performance of the underlying collateral, and in the credit performance of the underlying issuer, among other factors. See Note 8 for additional information regarding marketable securities.
+
+18
+
+Operating Activities
+
+	13-Weeks Ended	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Net cash provided by operating activities	$	368,362	$	225,874
+
+The $142.5 million increase in cash provided by operating activities during the first quarter of 2021 compared to the first quarter of 2020 was due to an increase in cash provided by working capital of $85.0 million (which included an increase of $84.4 million in net receipts of accounts receivable, a decrease of $36.4 million net cash used in accounts payable, and a decrease of $9.0 million net cash used for income taxes, partially offset by an increase of $40.1 million in cash paid for inventory, and an increase of $4.6 million net cash used in other activities). Additional changes were due to the year-over-year increase in net income of $58.9 million, partially offset by a decrease in other non-cash adjustments to net income of $1.4 million.
+
+Investing Activities
+
+	13-Weeks Ended	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Net cash used in investing activities	$	(104,107	)	$	(78,872	)
+
+The $25.2 million increase in cash used in investing activities during the first quarter of 2021 compared to the first quarter of 2020 was primarily due to an increase in net purchases of marketable securities of $18.2 million and an increase in cash payments for acquisitions of $9.8 million, partially offset by decreased net purchases of property and equipment of $2.6 million.
+
+Financing Activities
+
+	13-Weeks Ended	13-Weeks Ended
+	March 27, 2021	March 28, 2020
+Net cash used in financing activities	$	(116,279	)	$	(120,151	)
+
+The $3.9 million decrease in cash used in financing activities during the first quarter of 2021 compared to the first quarter of 2020 was primarily due to an increase in proceeds from the issuance of treasury stock of $17.7 million, partially offset by increased dividend payments of $8.1 million and increased purchases of treasury stock related to equity awards of $5.7 million.
+
+Off-Balance Sheet Arrangements
+
+We do not have any off-balance sheet arrangements.
+
+Critical Accounting Policies and Estimates
+
+General
+
+Garmin’s discussion and analysis of its financial condition and results of operations are based upon Garmin’s Condensed Consolidated Financial Statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The presentation of these financial statements requires Garmin to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, Garmin evaluates its estimates, including those related to bad debts, inventories, investments, intangible assets, income taxes, warranty obligations, contingencies, customer sales programs and incentives, product returns, relative standalone selling prices, and progress toward completion of performance obligations in certain contracts with customers. Garmin bases its estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+For a description of the significant accounting policies and methods used in the preparation of the Company’s Condensed Consolidated Financial Statements, refer to Note 2, “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Part II, Item 8 and “Critical Accounting Policies and Estimates” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 26, 2020. There were no significant changes to the Company’s critical accounting policies and estimates in the 13-week period ended March 27, 2021.
+19
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+There are numerous market risks that can affect our future business, financial condition and results of operations. In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on Form 10-K for the fiscal year ended December 26, 2020. There have been no material changes during the 13-week period ended March 27, 2021 in the risks described in our Annual Report on Form 10-K related to market sensitivity, inflation, foreign currency exchange rate risk and interest rate risk.
+
+Item 4. Controls and Procedures
+
+(a) Evaluation of disclosure controls and procedures. The Company maintains a system of disclosure controls and procedures that are designed to provide reasonable assurance that information, which is required to be timely disclosed, is accumulated and communicated to management in a timely fashion. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. As of March 27, 2021, the Company carried out an evaluation, under the supervision and with the participation of the Company’s management, including the Company’s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company’s disclosure controls and procedures. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded as of March 27, 2021 that our disclosure controls and procedures were effective such that the information relating to the Company, required to be disclosed in our Securities and Exchange Commission (“SEC”) reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to the Company’s management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+(b) Changes in internal control over financial reporting. There has been no change in the Company’s internal controls over financial reporting that occurred during the Company’s fiscal quarter ended March 27, 2021 that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+20
+
+Part II - Other Information
+
+Item 1. Legal Proceedings
+
+In the normal course of business, the Company and its subsidiaries are parties to various legal claims, actions, and complaints, including matters involving patent infringement, other intellectual property, product liability, customer claims and various other risks. It is not possible to predict with certainty whether or not the Company and its subsidiaries will ultimately be successful in any of these legal matters, or if not, what the impact might be. However, the Company’s management does not expect that the results in any of these legal proceedings will have a material adverse effect on the Company’s results of operations, financial position or cash flows. For additional information, see Note 6 – Commitments and Contingencies in the above Condensed Consolidated Financial Statements and Part I, Item 3, “Legal Proceedings” in the Company’s Annual Report on Form 10-K for the fiscal year ended December 26, 2020.
+
+Item 1A. Risk Factors
+
+There are many risks and uncertainties that can affect our future business, financial performance or share price. In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended December 26, 2020, as supplemented by the risk factor set forth below. These risks, however, are not the only risks facing our Company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results.
+
+The following is an amended and restated version of a risk factor included in Part I, Item 1A, “Risk Factors” of our Annual Report on Form 10-K for the year ended December 26, 2020:
+
+Public health emergencies or outbreaks of epidemics, pandemics, or contagious diseases have had and will likely continue to have significant impacts on our business.
+
+Widespread public health emergencies or outbreaks of epidemics, pandemics, or contagious diseases, such as the COVID-19 pandemic, have had, and will likely continue to have, significant impacts on our business. The COVID-19 pandemic continues to rapidly evolve, creating disruption and uncertainty around the world, which has resulted in, and we expect will continue to result in, a change in overall demand for certain of our products and other operational impacts. There are unknown factors, such as the duration and severity of the pandemic, the nature and length of actions taken by governments, businesses and individuals to contain or mitigate its impact, the severity and duration of the economic impact caused by the pandemic, the uncertainty surrounding the efficacy, distribution and uptake of vaccines, along with the effectiveness of our response, that may affect the magnitude of effects to our business operations, results of operations, and its ultimate impact on our financial condition.
+
+Demand for certain of our products has been, and is expected to continue to be, adversely affected in several ways. Some consumers have been and may continue to be less able or less likely to purchase certain of our products due to economic hardships, governmental restrictions affecting them and the retail outlets that sell our products, voluntary behavior changes associated with public health guidance, the prioritization of other goods and services by online retailers that sell our products, restrictions on the ability of online retailers to ship products to certain areas, the cancellation of trade shows and other events that are otherwise important in the marketing and sale of our products, and the potential failure and closure of retail outlets and online retailers that sell our products. Certain of our sales and distribution offices have experienced and may again experience temporary closure due to governmental restrictions. Additional or prolonged closures of certain sales and distribution offices could affect our ability to market and distribute products to meet customer demand. The adverse impacts of the pandemic have created economic stress in the global marketplace, high levels of unemployment, loss of income and/or wealth for some individuals, and general economic uncertainty. These conditions have affected and are expected to continue to affect the willingness or ability of some customers to purchase certain of our products or those of original equipment manufacturers in which our products are installed. We have also experienced increased demand for certain of our products during the COVID-19 pandemic as consumer behavior and demand shifted toward products offered by our fitness, outdoor, and marine segments. It is not yet known whether these behaviors and demand will persist, and there could be a decline in the demand for certain of these products as the overall COVID-19 pandemic situation improves.
+
+21
+
+Our supply chain may also be adversely impacted by COVID-19. We may be unable to procure, or experience delays in procuring, certain components from our suppliers, and the cost of procuring components could increase. Reduced demand for certain of our products has resulted in, and may continue to result in, reduced utilization of certain of our manufacturing facilities and higher per-unit costs for certain products. Certain of our manufacturing facilities may also experience inopportune temporary closures or reduced hours, which could adversely affect the costs incurred to produce our products and our ability to meet demand.
+
+COVID-19 has had and will continue to have several other operational impacts on our business, which will or may include employees working remotely, temporarily ceasing operations in some offices due to government restrictions, business travel restrictions, and the cancellation of events that are otherwise important in the development, marketing and sale of our products. These changes in our business operations may result in reduced efficiency and lower productivity. We have incurred and are expected to continue to incur increased costs as we provide additional benefits to assist our employees during the COVID-19 pandemic and provide a safe and healthy workplace for employees who continue to work in our facilities. Similar operational and financial hardships on our business partners may result in aged or uncollectable receivables, and the reduced demand for certain of our products could result in obsolescence of certain inventory. If the economy experiences a sustained downturn of significant proportion that impacts portions of our business, we may also need to incur the costs and organizational impacts of personnel restructuring.
+
+Additional risks and impacts associated with COVID-19 including gross margin fluctuation, foreign currency fluctuations, successful continued product development, impacts to our key personnel, and dependencies on third party suppliers, may be heightened as a result of the COVID-19 pandemic and its evolving variants. There are further unknown risks and impacts due to the uncertainty and rapidly evolving nature of the pandemic including, but not limited to, uncertainty around the evolution of the pandemic, the unprecedented imposition of preventative measures by governments that impact the economy and normal operations of a business and the timing and manner of relaxation of those measures. Potential future health emergencies may present risks and impacts similar to the ongoing COVID-19 pandemic. If we are unable to manage these risks and uncertainties, our business, financial condition, and results of operations could be materially impacted.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+Not applicable
+
+Item 3. Defaults Upon Senior Securities
+
+None
+
+Item 4. Mine Safety Disclosures
+
+Not applicable
+
+Item 5. Other Information
+
+Not applicable
+
+22
+
+Item 6. Exhibits
+
+Exhibit 31.1	Certification of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 31.2	Certification of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 32.1	Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 32.2	Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 101.INS	XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+Exhibit 101.SCH	Inline XBRL Taxonomy Extension Schema
+
+Exhibit 101.CAL	Inline XBRL Taxonomy Extension Calculation Linkbase
+
+Exhibit 101.DEF	Inline XBRL Taxonomy Extension Definition Linkbase
+
+Exhibit 101.LAB	Inline XBRL Taxonomy Extension Label Linkbase
+
+Exhibit 101.PRE	Inline XBRL Taxonomy Extension Presentation Linkbase
+
+Exhibit 104	Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+23
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+	GARMIN LTD.
+
+	By	/s/ Douglas G. Boessen
+	Douglas G. Boessen
+	Chief Financial Officer
+	(Principal Financial Officer and
+	Principal Accounting Officer)
+
+Dated: April 28, 2021
+24

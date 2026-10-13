@@ -1,0 +1,360 @@
+EX-99.1 2 grmn-20210728ex99_1.htm EX-99.1 EX-99.1
+
+EXHIBIT 99.1
+
+Garmin announces second quarter results
+Company reports record second quarter revenue and operating income
+
+Schaffhausen, Switzerland / July 28, 2021/ Business Wire – Garmin® Ltd. (NASDAQ: GRMN), today announced results for the second quarter ended June 26, 2021.
+
+Highlights for second quarter 2021 include:
+
+Total revenue of $1.33 billion, a 53% increase over the prior year quarter with double-digit growth in all segments
+
+Gross margin of 58.8% compared to 59.3% in the prior year quarter
+
+Operating margin improved to 28.0% compared to 21.7% in the prior year quarter
+
+Operating income of $371 million, a 97% increase over the prior year quarter
+
+GAAP EPS was $1.64 and pro forma EPS(1) was $1.68, representing 85% growth in pro forma EPS over the prior year quarter
+
+Garmin Autoland was awarded the 2020 Robert J. Collier Trophy, which recognizes the greatest achievements in aeronautics or astronautics in America
+
+Expanded our family of health and fitness smartwatches with the launch of Venu 2 and Venu 2S
+
+Launched Descent Mk2S, our smallest watch-style dive computer
+
+(In thousands, except per share information)	13-Weeks Ended	26-Weeks Ended
+	June 26,	June 27,	YoY	June 26,	June 27,	YoY
+	2021	2020	Change	2021	2020	Change
+Net sales	$	1,326,905	$	869,867	53%	$	2,399,232	$	1,725,975	39%
+Fitness	413,201	294,642	40%	721,326	518,242	39%
+Outdoor	323,405	206,200	57%	579,859	381,302	52%
+Aviation	180,832	126,140	43%	354,721	314,739	13%
+Marine	261,790	157,827	66%	471,163	320,832	47%
+Auto	147,677	85,058	74%	272,163	190,860	43%
+
+Gross margin %	58.8%	59.3%	59.3%	59.2%
+
+Operating income %	28.0%	21.7%	25.9%	21.2%
+
+GAAP diluted EPS	$	1.64	$	0.96	71%	$	2.78	$	1.80	54%
+Pro forma diluted EPS(1)	$	1.68	$	0.91	85%	$	2.85	$	1.82	57%
+
+(1) See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma diluted EPS
+
+Executive Overview from Cliff Pemble, President and Chief Executive Officer:
+“Strong demand for active lifestyle products continued, and we experienced solid recovery within our aviation and auto segments resulting in record revenue and profits in the second quarter,” said Cliff Pemble, President and CEO of Garmin. “We are very pleased with the results we have delivered thus far, giving us confidence to raise our full year 2021 revenue and EPS guidance.”
+
+Fitness:
+Revenue from the fitness segment grew 40% in the second quarter driven by strong demand for our cycling and advanced wearable products. Gross margin and operating margin were 54% and 28%, respectively, resulting in 62% operating income growth. During the quarter, we launched the Forerunner 945 LTE, bringing safety and real-time tracking features to our premium GPS running smartwatch. This watch is designed to allow runners to send for help, if necessary, and stay connected without their phones. In addition, we celebrated Global Running Day with the launch of the Forerunner 55, an easy-to-use smartwatch that encourages runners of all skill levels to get out and run.
+
+Outdoor:
+Revenue from the outdoor segment grew 57% in the second quarter with growth across all categories led by strong demand for adventure watches. Gross margin and operating margin were 64% and 38%, respectively, resulting in 81% operating income growth. During the quarter, we launched Descent Mk2S, a stylish smartwatch featuring multiple dive modes, multisport training and smart features. We also debuted our children’s book, “Women of Adventure: Being Brave in a Big World,” featuring six stories from our Women of Adventure series. The book captures the traits that make each woman unique while touching on the science behind her sport or passion, to encourage readers to explore the world and find ways to be brave every day.
+
+Aviation:
+Revenue from the aviation segment grew 43% in the second quarter with contributions from both OEM and aftermarket product categories. Gross margin and operating margin were 73% and 28%, respectively, resulting in 226% operating income growth. During the quarter, Garmin Autoland won the prestigious Robert J. Collier Trophy, for the world’s first autonomous system designed to activate during an emergency to safely fly and land an aircraft without human interaction. In addition, we announced the acquisition of AeroData, a leading provider of performance data solutions for commercial aircraft.
+
+Marine:
+Revenue from the marine segment grew 66% in the second quarter with growth across multiple categories, led by strong demand for our chartplotters. Gross margin and operating margin were 58% and 34%, respectively, resulting in 106% operating income growth. During the quarter, we announced the integration of our displays on Mercury-powered boats which can receive engine performance data via Mercury’s new SmartCraft Connect gateway, which enables monitoring of up to four engines simultaneously. We launched the MSC 10 marine satellite compass, a GPS-based navigation tool with multi-band GNSS and a fully integrated attitude and heading reference system for a smooth and accurate GPS-derived heading and position on the water. Also, with the assistance of our innovative marine electronics, Hank Cherry, a Garmin sponsored angler, won the Bassmaster Classic.
+
+Auto:
+Revenue from the auto segment grew 74% during the second quarter driven by both auto OEM programs and consumer auto products. Gross margin was 43%, and we recorded an operating loss of $8 million in the quarter driven by investments in auto OEM programs. During the quarter, we launched the dezl OTR500, truck navigator that adds PrePass weigh station bypass notifications saving drivers time, fuel and money. Also, we launched our first connected dash cam with automatic video storage and Live View monitoring options.
+
+Additional Financial Information:
+Total operating expenses in the second quarter were $410 million, a 25% increase over the prior year. Research and development increased by 21%, primarily due to engineering personnel costs across all segments. Selling, general and administrative expenses increased 26%, driven primarily by personnel related expenses and information technology costs. Advertising increased 47% driven primarily by higher spend in the fitness and outdoor segments.
+
+The effective tax rate in the second quarter of 2021 was 14.8%.
+
+In the second quarter of 2021, we generated approximately $120 million of free cash flow(1) and paid a quarterly dividend of approximately $117 million. We ended the quarter with cash and marketable securities of approximately $3.2 billion.
+
+(1)See attached Non-GAAP Financial Information for discussion and reconciliation of non-GAAP financial measures, including pro forma effective tax rate and free cash flow.
+
+2021 Guidance(2):
+Based on our strong performance in the first half of 2021, we are updating our full year guidance. We now anticipate revenue of approximately $4.9 billion with projected growth in all segments. We anticipate our full year pro forma EPS will be approximately $5.50 based on a gross margin of approximately 58.5%, operating margin of approximately 23.8% and a full year pro forma effective tax rate of approximately 11.5%.
+
+	2021 Guidance	Segment	Revenue Growth Estimates
+	Updated	Prior	Updated	Prior
+Revenue	$4.9B	$4.6B	Fitness	17%	10%
+Gross Margin	58.5%	59.2%	Outdoor	17%	10%
+Operating Margin	23.8%	23.5%	Aviation	10%	5%
+Tax Rate	11.5%	10.5%	Marine	27%	15%
+EPS	$5.50	$5.15	Auto	15%	5%
+
+(2) All amounts and %s in the above 2021 Guidance tables are approximate. Also, see attached discussion on Forward-looking Financial Measures
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as follows:
+
+When:	Wednesday, July 28, 2021 at 10:30 a.m. Eastern
+Where:	https://www.garmin.com/en-US/investors/events/
+How:	Simply log on to the web at the address above or call to listen in at 855-757-3897
+
+An archive of the live webcast will be available until July 27, 2022 on the Garmin website at www.garmin.com. To access the replay, click on the Investors link and click over to the Events Calendar page.
+
+This release includes projections and other forward-looking statements regarding Garmin Ltd. and its business that are commonly identified by words such as “anticipates,” “would,” “may,” “expects,” “estimates,” “plans,” “intends,” “projects,” and other words or phrases with similar meanings. Any statements regarding the Company’s expected fiscal 2021 GAAP and pro forma estimated earnings, EPS, and effective tax rate, and the Company’s expected segment revenue growth rates, consolidated revenue, gross margins, operating margins, potential future acquisitions, currency movements, expenses, pricing, new products launches, market reach, statements relating to possible future dividends, statements related to the ongoing impact of the COVID-19 pandemic, and the Company’s plans and objectives are forward-looking statements. The forward-looking events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in both the Annual Report on Form 10-K for the year ended December 26, 2020 and the Quarterly Report on Form 10-Q for the quarter ended June 26, 2021 filed by Garmin with the Securities and Exchange Commission (Commission file number 0-31983). A copy of Garmin’s 2020 Form 10-K and the Q2 2021 Form 10-Q can be downloaded from https://www.garmin.com/en-US/investors/sec/. All information provided in this release and in the attachments is as of June 26, 2021. Undue reliance should not be placed on the forward-looking statements in this press release, which are based on information available to us on the date hereof. We undertake no duty to update this information unless required by law.
+
+This release and the attachments contain non-GAAP financial measures. A reconciliation to the nearest GAAP measure and a discussion of the Company's use of these measures are included in the attachments.
+
+Garmin, the Garmin logo, the Garmin delta, Forerunner are trademarks of Garmin Ltd. or its subsidiaries and are registered in one or more countries, including the U.S. Descent and dezl are trademarks of Garmin Ltd. or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective owners. All rights reserved
+
+Investor Relations Contact:	Media Relations Contact:
+Teri Seck	Krista Klaus
+913/397-8200	913/397-8200
+investor.relations@garmin.com	media.relations@garmin.com
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 26,	June 27,	June 26,	June 27,
+	2021	2020	2021	2020
+Net sales	$	1,326,905	$	869,867	$	2,399,232	$	1,725,975
+Cost of goods sold	546,054	354,437	976,825	703,605
+Gross profit	780,851	515,430	1,422,407	1,022,370
+
+Advertising expense	42,939	29,285	74,000	56,165
+Selling, general and administrative expense	165,759	132,016	323,381	269,202
+Research and development expense	200,981	165,740	404,195	331,131
+Total operating expense	409,679	327,041	801,576	656,498
+
+Operating income	371,172	188,389	620,831	365,872
+Other income (expense):
+Interest income	7,018	10,455	14,670	22,481
+Foreign currency losses	(7,326	)	(4,493	)	(15,607	)	(19,916	)
+Other income	1,195	3,241	2,679	6,789
+Total other income (expense)	887	9,203	1,742	9,354
+
+Income before income taxes	372,059	197,592	622,573	375,226
+Income tax provision	55,062	13,412	85,548	29,866
+Net income	$	316,997	$	184,180	$	537,025	$	345,360
+
+Net income per share:
+Basic	$	1.65	$	0.96	$	2.80	$	1.81
+Diluted	$	1.64	$	0.96	$	2.78	$	1.80
+
+Weighted average common shares outstanding:
+Basic	192,150	191,024	192,023	190,914
+Diluted	192,871	191,597	192,840	191,640
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	June 26,2021	December 26, 2020
+Assets
+Current assets:
+Cash and cash equivalents	$	1,639,447	$	1,458,442
+Marketable securities	330,567	387,642
+Accounts receivable, net	737,268	849,469
+Inventories	938,607	762,084
+Deferred costs	16,966	20,145
+Prepaid expenses and other current assets	220,910	191,569
+Total current assets	3,883,765	3,669,351
+
+Property and equipment, net	957,924	855,539
+Operating lease right-of-use assets	93,097	94,626
+Marketable securities	1,203,705	1,131,175
+Deferred income taxes	250,230	245,455
+Noncurrent deferred costs	13,814	16,510
+Intangible assets, net	820,116	828,566
+Other assets	180,073	190,151
+Total assets	$	7,402,724	$	7,031,373
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	303,947	$	258,885
+Salaries and benefits payable	160,815	181,937
+Accrued warranty costs	44,575	42,643
+Accrued sales program costs	97,213	109,891
+Deferred revenue	85,888	86,865
+Accrued advertising expense	31,481	31,950
+Other accrued expenses	140,807	149,817
+Income taxes payable	78,797	68,585
+Dividend payable	515,307	233,644
+Total current liabilities	1,458,830	1,164,217
+
+Deferred income taxes	124,149	116,844
+Noncurrent income taxes	97,556	92,810
+Noncurrent deferred revenue	43,554	49,934
+Noncurrent operating lease liabilities	74,336	75,958
+Other liabilities	20,051	15,494
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; 192,321 shares outstanding at June 26, 2021 and 191,571 shares outstanding at December 26, 2020	17,979	17,979
+Additional paid-in capital	1,927,137	1,880,354
+Treasury stock	(303,369	)	(320,016	)
+Retained earnings	3,775,874	3,754,372
+Accumulated other comprehensive income	166,627	183,427
+Total stockholders’ equity	5,584,248	5,516,116
+Total liabilities and stockholders’ equity	$	7,402,724	$	7,031,373
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	26-Weeks Ended
+	June 26, 2021	June 27, 2020
+Operating Activities:
+Net income	$	537,025	$	345,360
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation	48,776	37,030
+Amortization	25,903	20,502
+Loss (gain) on sale or disposal of property and equipment	207	(1,807	)
+Unrealized foreign currency losses	12,205	16,678
+Deferred income taxes	5,560	272
+Stock compensation expense	45,301	31,484
+Realized gain on marketable securities	(374	)	(331	)
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	103,928	178,120
+Inventories	(177,193	)	(57,126	)
+Other current and non-current assets	(27,279	)	(10,427	)
+Accounts payable	44,144	(51,463	)
+Other current and non-current liabilities	(39,377	)	(58,662	)
+Deferred revenue	(7,317	)	(19,301	)
+Deferred costs	5,863	7,817
+Income taxes payable	20,670	(13,035	)
+Net cash provided by operating activities	598,042	425,111
+
+Investing activities:
+Purchases of property and equipment	(146,542	)	(98,270	)
+Proceeds from sale of property and equipment	8	1,916
+Purchase of intangible assets	(1,170	)	(1,374	)
+Purchase of marketable securities	(755,360	)	(346,129	)
+Redemption of marketable securities	720,937	566,688
+Acquisitions, net of cash acquired	(15,893	)	(7,893	)
+Net cash (used in) provided by investing activities	(198,020	)	114,938
+
+Financing activities:
+Dividends	(233,860	)	(217,450	)
+Proceeds from issuance of treasury stock related to equity awards	35,733	15,202
+Purchase of treasury stock related to equity awards	(17,604	)	(11,883	)
+Net cash used in financing activities	(215,731	)	(214,131	)
+
+Effect of exchange rate changes on cash and cash equivalents	(2,819	)	1,651
+
+Net increase in cash, cash equivalents, and restricted cash	181,472	327,569
+Cash, cash equivalents, and restricted cash at beginning of period	1,458,748	1,027,638
+Cash, cash equivalents, and restricted cash at end of period	$	1,640,220	$	1,355,207
+
+The following table includes supplemental financial information for the consumer auto and auto OEM operating segments that management believes is useful.
+
+Garmin Ltd. and Subsidiaries
+Net Sales, Gross Profit and Operating Income by Segment
+(In thousands)
+
+	Auto
+	Fitness	Outdoor	Aviation	Marine	TotalAuto	ConsumerAuto	AutoOEM	Total
+13-Weeks Ended June 26, 2021
+
+Net sales	$	413,201	$	323,405	$	180,832	$	261,790	$	147,677	$	86,278	$	61,399	$	1,326,905
+Gross profit	225,192	208,158	131,934	152,609	62,958	42,261	20,697	780,851
+Operating income (loss)	116,966	122,056	50,810	89,752	(8,412	)	15,684	(24,096	)	371,172
+
+13-Weeks Ended June 27, 2020
+
+Net sales	$	294,642	$	206,200	$	126,140	$	157,827	$	85,058	$	55,270	$	29,788	$	869,867
+Gross profit	156,817	133,189	92,036	93,470	39,918	26,917	13,001	515,430
+Operating income (loss)	71,981	67,414	15,566	43,553	(10,125	)	4,237	(14,362	)	188,389
+
+26-Weeks Ended June 26, 2021
+
+Net sales	$	721,326	$	579,859	$	354,721	$	471,163	$	272,163	$	148,673	$	123,490	$	2,399,232
+Gross profit	398,737	379,833	258,116	273,989	111,732	74,225	37,507	1,422,407
+Operating income (loss)	190,702	215,085	95,679	151,315	(31,950	)	24,084	(56,034	)	620,831
+
+26-Weeks Ended June 27, 2020
+
+Net sales	$	518,242	$	381,302	$	314,739	$	320,832	$	190,860	$	114,283	$	76,577	$	1,725,975
+Gross profit	269,142	245,447	230,844	187,680	89,257	55,029	34,228	1,022,370
+Operating income (loss)	102,992	114,581	74,887	83,712	(10,300	)	7,450	(17,750	)	365,872
+
+Garmin Ltd. and Subsidiaries
+Net Sales by Geography
+(In thousands)
+
+	13-Weeks Ended	26-Weeks Ended
+	June 26,	June 27,	YoY	June 26,	June 27,	YoY
+	2021	2020	Change	2021	2020	Change
+Net sales	$	1,326,905	$	869,867	53%	$	2,399,232	$	1,725,975	39%
+Americas	646,393	423,091	53%	1,150,085	850,491	35%
+EMEA	488,724	335,201	46%	888,232	635,069	40%
+APAC	191,788	111,575	72%	360,915	240,415	50%
+
+EMEA - Europe, Middle East and Africa; APAC - Asia Pacific and Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial measures: pro forma effective tax rate, pro forma net income (earnings) per share and free cash flow. These non-GAAP measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for, or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other companies, limiting the usefulness of the measures for comparison with other companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced transparency into the operating results of the Company, as described in more detail by category below.
+
+The tables below provide reconciliations between the GAAP and non-GAAP measures.
+
+Pro forma effective tax rate
+
+The Company’s income tax expense is periodically impacted by discrete tax items that are not reflective of income tax expense incurred as a result of current period earnings. Therefore, management believes disclosure of the effective tax rate and income tax provision before the effect of certain discrete tax items are important measures to permit investors' consistent comparison between periods. In the first and second quarter 2021, there were no such discrete tax items identified.
+
+(In thousands)	13-Weeks Ended	26-Weeks Ended
+	June 26,	June 27,	June 26,	June 27,
+	2021	2020	2021	2020
+	$	ETR(1)	$	ETR(1)	$	ETR(1)	$	ETR(1)
+GAAP income tax provision	$	55,062	14.8	%	$	13,412	6.8	%	$	85,548	13.7	%	$	29,866	8.0	%
+Pro forma discrete tax item:
+Uncertain tax reserve release(2)	—	14,308	—	14,308
+Pro forma income tax provision	$	55,062	14.8	%	$	27,720	14.0	%	$	85,548	13.7	%	$	44,174	11.8	%
+
+(1) Effective tax rate is calculated by taking the income tax provision divided by income before taxes, as presented on the face of the Condensed Consolidated Statements of Income.
+
+(2) In second quarter 2020, the Company recognized a $14.3 million income tax benefit due to the release of uncertain tax position reserves associated with the 2014 intercompany restructuring, which was a pro forma adjustment in 2014. The second quarter 2020 impact of the reserve release is not reflective of income tax expense incurred as a result of current period earnings and therefore affects period-to-period comparability.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income (earnings) per share before the impact of foreign currency gains or losses and certain discrete income tax items, as discussed above, is an important measure in order to permit a consistent comparison of the Company’s performance between periods.
+
+(In thousands, except per share information)	13-Weeks Ended	26-Weeks Ended
+	June 26,	June 27,	June 26,	June 27,
+	2021	2020	2021	2020
+GAAP net income	$	316,997	$	184,180	$	537,025	$	345,360
+Foreign currency losses(1)	7,326	4,493	15,607	19,916
+Tax effect of foreign currency losses(2)	(1,084	)	(630	)	(2,145	)	(2,345	)
+Pro forma discrete tax item(3)	—	(14,308	)	—	(14,308	)
+Pro forma net income	$	323,239	$	173,735	$	550,487	$	348,623
+
+GAAP net income per share:
+Basic	$	1.65	$	0.96	$	2.80	$	1.81
+Diluted	$	1.64	$	0.96	$	2.78	$	1.80
+
+Pro forma net income per share:
+Basic	$	1.68	$	0.91	$	2.87	$	1.83
+Diluted	$	1.68	$	0.91	$	2.85	$	1.82
+
+Weighted average common shares outstanding:
+Basic	192,150	191,024	192,023	190,914
+Diluted	192,871	191,597	192,840	191,640
+
+(1) Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held in a currency other than the functional currency at a given legal entity. However, there is minimal cash impact from such foreign currency gains and losses.
+
+(2) The tax effect of foreign currency gains and losses was calculated using the effective tax rate of 14.8% and 13.7% for the 13-weeks and 26-weeks ended June 26, 2021, respectively, and a pro forma effective tax rate of 14.0% and 11.8% for the 13-weeks and 26-weeks ended June 27, 2020, respectively.
+
+(3) The discrete tax item is discussed in the pro forma effective tax rate section above.
+
+Free cash flow
+
+Management believes that free cash flow is an important liquidity measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating cash flows less capital expenditures for property and equipment. Management believes that excluding purchases of property and equipment provides a better understanding of the underlying trends in the Company’s operations and allows more accurate comparisons of the Company’s results between periods. This metric may also be useful to investors, but should not be considered in isolation as it is not a measure of cash flow available for discretionary expenditures. The most comparable GAAP measure is net cash provided by operating activities.
+
+(In thousands)	13-Weeks Ended	26-Weeks Ended
+	June 26,	June 27,	June 26,	June 27,
+	2021	2020	2021	2020
+Net cash provided by operating activities	$	229,680	$	199,237	$	598,042	$	425,111
+Less: purchases of property and equipment	(109,648	)	(56,909	)	(146,542	)	(98,270	)
+Free Cash Flow	$	120,032	$	142,328	$	451,500	$	326,841
+
+Forward-looking Financial Measures
+
+The forward-looking financial measures in our 2021 guidance provided above do not consider the potential future net effect of foreign currency exchange gains and losses, certain discrete tax items and any other impacts that may be identified as pro forma adjustments in calculating the non-GAAP measures described above.
+
+The estimated impact of foreign currency gains and losses cannot be reasonably estimated on a forward-looking basis due to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related tax effects of such gains and losses. The impact on diluted net income per share of foreign currency gains and losses, net of tax effects, was $0.07 per share for the 26-weeks ended June 26, 2021.
+
+At this time, management is unable to determine whether or not significant discrete tax items will occur in fiscal 2021 or anticipate the impact of any other events that may be considered in the calculation of non-GAAP financial measures.

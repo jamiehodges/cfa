@@ -1,0 +1,1093 @@
+10-Q
+
+United States
+Securities and Exchange Commission
+Washington, D.C. 20549
+
+FORM 10-Q
+
+☒	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended September 24, 2022
+
+or
+
+☐	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from to
+
+Commission file number 001-41118
+
+GARMIN LTD.
+(Exact name of Company as specified in its charter)
+
+Switzerland	98-0229227
+(State or other jurisdiction	(I.R.S. Employer
+of incorporation or organization)	identification no.)
+
+Mühlentalstrasse 2
+8200 Schaffhausen
+Switzerland	N/A
+(Address of principal executive offices)	(Zip Code)
+
+Company’s telephone number, including area code: +41 52 630 1600
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Registered Shares, CHF 0.10 Per Share Par Value	GRMN	New York Stock Exchange
+(Title of each class)	(Trading Symbol)	(Name of each exchange on which registered)
+
+Indicate by check mark whether the Company (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Company was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes ☑ NO ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes ☑ NO ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer	☑	Accelerated Filer	☐
+Non-accelerated Filer	☐	Smaller reporting company	☐
+	Emerging growth company	☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. YES ☐ NO ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+YES ☐ NO ☑
+
+Number of shares outstanding of the registrant’s common shares as of October 21, 2022
+Registered Shares, CHF 0.10 par value: 191,663,933 (excluding treasury shares)
+
+Garmin Ltd.
+Form 10-Q
+Quarter Ended September 24, 2022
+
+Table of Contents
+
+	Page
+
+Part I - Financial Information	1
+
+Item 1.	Condensed Consolidated Financial Statements	1
+
+	Condensed Consolidated Balance Sheets at September 24, 2022 and December 25, 2021 (Unaudited)	1
+
+	Condensed Consolidated Statements of Income for the 13-Weeks and 39-Weeks ended September 24, 2022 and September 25, 2021 (Unaudited)	2
+
+	Condensed Consolidated Statements of Comprehensive Income for the 13-Weeks and 39-Weeks ended September 24, 2022 and September 25, 2021 (Unaudited)	3
+
+	Condensed Consolidated Statements of Stockholders’ Equity for the 13-Weeks and 39-Weeks ended September 24, 2022 and September 25, 2021 (Unaudited)	4
+
+	Condensed Consolidated Statements of Cash Flows for the 39-Weeks ended September 24, 2022 and September 25, 2021 (Unaudited)	6
+
+	Notes to Condensed Consolidated Financial Statements (Unaudited)	7
+
+Item 2.	Management’s Discussion and Analysis of Financial Condition and Results of Operations	15
+
+Item 3.	Quantitative and Qualitative Disclosures About Market Risk	23
+
+Item 4.	Controls and Procedures	23
+
+Part II - Other Information	24
+
+Item 1.	Legal Proceedings	24
+
+Item 1A.	Risk Factors	24
+
+Item 2.	Unregistered Sales of Equity Securities and Use of Proceeds	24
+
+Item 3.	Defaults Upon Senior Securities	24
+
+Item 4.	Mine Safety Disclosures	24
+
+Item 5.	Other Information	24
+
+Item 6.	Exhibits	25
+
+Signature Page	26
+
+i
+
+Part I - Financial Information
+Item I - Condensed Consolidated Financial Statements
+Garmin Ltd. and Subsidiaries
+
+Condensed Consolidated Balance Sheets (Unaudited)
+(In thousands, except per share information)
+
+	September 24,
+2022	December 25,
+2021
+Assets
+Current assets:
+Cash and cash equivalents	$	1,082,338	$	1,498,058
+Marketable securities	378,705	347,980
+Accounts receivable, net	641,072	843,445
+Inventories	1,533,271	1,227,609
+Deferred costs	14,398	15,961
+Prepaid expenses and other current assets	318,339	328,719
+Total current assets	3,968,123	4,261,772
+
+Property and equipment, net	1,100,257	1,067,478
+Operating lease right-of-use assets	121,937	89,457
+Noncurrent marketable securities	1,236,350	1,268,698
+Deferred income tax assets	390,105	260,205
+Noncurrent deferred costs	10,393	12,361
+Goodwill	540,740	575,080
+Other intangible assets, net	179,890	215,993
+Other noncurrent assets	79,811	103,383
+Total assets	$	7,627,606	$	7,854,427
+
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable	$	268,674	$	370,048
+Salaries and benefits payable	184,802	211,371
+Accrued warranty costs	39,925	45,467
+Accrued sales program costs	75,182	121,514
+Other accrued expenses	195,117	225,988
+Deferred revenue	88,563	87,654
+Income taxes payable	169,665	128,083
+Dividend payable	420,995	258,023
+Total current liabilities	1,442,923	1,448,148
+
+Deferred income tax liabilities	117,941	117,595
+Noncurrent income taxes payable	50,943	62,539
+Noncurrent deferred revenue	37,068	41,618
+Noncurrent operating lease liabilities	100,181	70,044
+Other noncurrent liabilities	361	324
+
+Stockholders’ equity:
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; 192,180
+shares outstanding at September 24, 2022 and 192,608 shares outstanding
+at December 25, 2021	17,979	17,979
+Additional paid-in capital	2,027,019	1,960,722
+Treasury stock (5,897 and 5,469 shares, respectively)	(398,974	)	(303,114	)
+Retained earnings	4,439,004	4,320,737
+Accumulated other comprehensive (loss) income	(206,839	)	117,835
+Total stockholders’ equity	5,878,189	6,114,159
+Total liabilities and stockholders’ equity	$	7,627,606	$	7,854,427
+
+See accompanying notes.
+1
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Income (Unaudited)
+(In thousands, except per share information)
+
+	13-Weeks Ended	39-Weeks Ended
+	September 24,
+2022	September 25,
+2021	September 24,
+2022	September 25,
+2021
+Net sales	$	1,140,434	$	1,191,973	$	3,553,931	$	3,591,206
+Cost of goods sold	469,935	496,026	1,492,126	1,472,852
+Gross profit	670,499	695,947	2,061,805	2,118,354
+
+Advertising expense	32,888	36,705	110,378	110,705
+Selling, general and administrative expenses	189,546	177,647	571,541	530,351
+Research and development expense	208,692	198,925	619,215	573,798
+Total operating expense	431,126	413,277	1,301,134	1,214,854
+
+Operating income	239,373	282,670	760,671	903,500
+Other income (expense):
+Interest income	10,472	6,897	26,520	21,568
+Foreign currency losses	(29,863	)	(15,014	)	(55,809	)	(30,621	)
+Other income	285	833	3,716	3,511
+Total other income (expense)	(19,106	)	(7,284	)	(25,573	)	(5,542	)
+
+Income before income taxes	220,267	275,386	735,098	897,958
+Income tax provision	9,419	16,347	54,785	101,894
+Net income	$	210,848	$	259,039	$	680,313	$	796,064
+
+Net income per share:
+Basic	$	1.09	$	1.35	$	3.53	$	4.14
+Diluted	$	1.09	$	1.34	$	3.52	$	4.13
+
+Weighted average common shares outstanding:
+Basic	192,672	192,322	192,878	192,123
+Diluted	193,105	193,185	193,378	192,955
+
+See accompanying notes.
+2
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)
+(In thousands)
+
+	13-Weeks Ended	39-Weeks Ended
+	September 24,
+2022	September 25,
+2021	September 24,
+2022	September 25,
+2021
+Net income	$	210,848	$	259,039	$	680,313	$	796,064
+Foreign currency translation adjustment	(117,360	)	(8,702	)	(239,167	)	(16,313	)
+Change in fair value of available-for-sale marketable securities, net of deferred taxes	(18,867	)	(3,169	)	(85,507	)	(12,358	)
+Comprehensive income	$	74,621	$	247,168	$	355,639	$	767,393
+
+See accompanying notes.
+3
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Stockholders’ Equity (Unaudited)
+For the 13-Weeks Ended September 24, 2022 and September 25, 2021
+(In thousands, except per share information)
+
+	Common
+Stock	Additional
+Paid-In
+Capital	Treasury
+Stock	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at June 26, 2021	$	17,979	$	1,927,137	$	(303,369	)	$	3,775,874	$	166,627	$	5,584,248
+Net income	—	—	—	259,039	—	259,039
+Translation adjustment	—	—	—	—	(8,702	)	(8,702	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $609	—	—	—	—	(3,169	)	(3,169	)
+Comprehensive income	247,168
+Dividends	—	—	—	(1	)	—	(1	)
+Issuance of treasury stock related to equity awards	—	(28	)	28	—	—	—
+Stock compensation	—	23,355	—	—	—	23,355
+Purchase of treasury stock related to equity awards	—	—	(32	)	—	—	(32	)
+Balance at September 25, 2021	$	17,979	$	1,950,464	$	(303,373	)	$	4,034,912	$	154,756	$	5,854,738
+
+	Common
+Stock	Additional
+Paid-In
+Capital	Treasury
+Stock	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at June 25, 2022	$	17,979	$	2,008,931	$	(315,886	)	$	4,225,521	$	(70,612	)	$	5,865,933
+Net income	—	—	—	210,848	—	210,848
+Translation adjustment	—	—	—	—	(117,360	)	(117,360	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $5,744	—	—	—	—	(18,867	)	(18,867	)
+Comprehensive income	74,621
+Dividends	—	—	—	2,635	—	2,635
+Issuance of treasury stock related to equity awards	—	(28	)	28	—	—	—
+Stock compensation	—	18,116	—	—	—	18,116
+Purchase of treasury stock related to equity awards	—	—	(27	)	—	—	(27	)
+Purchase of treasury stock under share repurchase plan	—	—	(83,089	)	—	—	(83,089	)
+Balance at September 24, 2022	$	17,979	$	2,027,019	$	(398,974	)	$	4,439,004	$	(206,839	)	$	5,878,189
+
+See accompanying notes.
+
+4
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Stockholders’ Equity (Unaudited)
+For the 39-Weeks Ended September 24, 2022 and September 25, 2021
+(In thousands, except per share information)
+
+	Common
+Stock	Additional
+Paid-In
+Capital	Treasury
+Stock	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at December 26, 2020	$	17,979	$	1,880,354	$	(320,016	)	$	3,754,372	$	183,427	$	5,516,116
+Net income	—	—	—	796,064	—	796,064
+Translation adjustment	—	—	—	—	(16,313	)	(16,313	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $2,918	—	—	—	—	(12,358	)	(12,358	)
+Comprehensive income	767,393
+Dividends	—	—	—	(515,524	)	—	(515,524	)
+Issuance of treasury stock related to equity awards	—	1,454	34,279	—	—	35,733
+Stock compensation	—	68,656	—	—	—	68,656
+Purchase of treasury stock related to equity awards	—	—	(17,636	)	—	—	(17,636	)
+Balance at September 25, 2021	$	17,979	$	1,950,464	$	(303,373	)	$	4,034,912	$	154,756	$	5,854,738
+
+	Common
+Stock	Additional
+Paid-In
+Capital	Treasury
+Stock	Retained
+Earnings	Accumulated
+Other
+Comprehensive
+Income (Loss)	Total
+Balance at December 25, 2021	$	17,979	$	1,960,722	$	(303,114	)	$	4,320,737	$	117,835	$	6,114,159
+Net income	—	—	—	680,313	—	680,313
+Translation adjustment	—	—	—	—	(239,167	)	(239,167	)
+Adjustment related to unrealized gains (losses) on available-for-sale securities net of income tax effects of $25,202	—	—	—	—	(85,507	)	(85,507	)
+Comprehensive income	355,639
+Dividends	—	—	—	(562,046	)	—	(562,046	)
+Issuance of treasury stock related to equity awards	—	8,426	32,626	—	—	41,052
+Stock compensation	—	57,871	—	—	—	57,871
+Purchase of treasury stock related to equity awards	—	—	(14,750	)	—	—	(14,750	)
+Purchase of treasury stock under share repurchase plan	—	—	(113,736	)	—	—	(113,736	)
+Balance at September 24, 2022	$	17,979	$	2,027,019	$	(398,974	)	$	4,439,004	$	(206,839	)	$	5,878,189
+
+See accompanying notes.
+5
+
+Garmin Ltd. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In thousands)
+
+	39-Weeks Ended
+	September 24,
+2022	September 25,
+2021
+Operating Activities:
+Net income	$	680,313	$	796,064
+Adjustments to reconcile net income to net cash provided by
+operating activities:
+Depreciation	88,005	75,272
+Amortization	34,349	38,485
+(Gain) loss on sale or disposal of property and equipment	(1,652	)	246
+Unrealized foreign currency losses	45,498	24,390
+Deferred income taxes	(101,133	)	8,358
+Stock compensation expense	57,871	68,656
+Realized loss (gain) on marketable securities	982	(513	)
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable, net of allowance for doubtful accounts	156,666	197,024
+Inventories	(442,312	)	(357,387	)
+Other current and noncurrent assets	29,299	(31,398	)
+Accounts payable	(64,199	)	57,602
+Other current and noncurrent liabilities	(84,287	)	(39,941	)
+Deferred revenue	(3,299	)	(6,914	)
+Deferred costs	3,426	7,547
+Income taxes	20,067	5,974
+Net cash provided by operating activities	419,594	843,465
+
+Investing activities:
+Purchases of property and equipment	(184,928	)	(187,960	)
+Proceeds from sale of property and equipment	1,693	26
+Purchase of intangible assets	(1,411	)	(1,408	)
+Purchase of marketable securities	(1,044,942	)	(1,081,789	)
+Redemption of marketable securities	923,894	975,318
+Acquisitions, net of cash acquired	(13,455	)	(15,893	)
+Net cash used in investing activities	(319,149	)	(311,706	)
+
+Financing activities:
+Dividends	(399,074	)	(362,602	)
+Proceeds from issuance of treasury stock related to equity awards	41,052	35,733
+Purchase of treasury stock related to equity awards	(14,750	)	(17,636	)
+Purchase of treasury stock under share repurchase plan	(105,206	)	—
+Net cash used in financing activities	(477,978	)	(344,505	)
+
+Effect of exchange rate changes on cash and cash equivalents	(38,265	)	(6,172	)
+
+Net (decrease) increase in cash, cash equivalents, and restricted cash	(415,798	)	181,082
+Cash, cash equivalents, and restricted cash at beginning of period	1,498,843	1,458,748
+Cash, cash equivalents, and restricted cash at end of period	$	1,083,045	$	1,639,830
+
+See accompanying notes.
+6
+
+Garmin Ltd. and Subsidiaries
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+September 24, 2022
+(In thousands, except per share information)
+
+1. Accounting Policies
+
+Basis of Presentation and Principles of Consolidation
+
+The accompanying unaudited condensed consolidated financial statements include the accounts of Garmin Ltd. and wholly-owned subsidiaries (collectively, the “Company” or “Garmin”). Intercompany balances and transactions have been eliminated.
+
+The condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. The condensed consolidated balance sheet at December 25, 2021 has been derived from the audited financial statements at that date, but does not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. Additionally, the condensed consolidated financial statements should be read in conjunction with Part I, Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Form 10-Q, and the Company’s Annual Report on Form 10-K for the year ended December 25, 2021. Operating results for the 13-week and 39-week periods ended September 24, 2022 are not necessarily indicative of the results that may be expected for the year ending December 31, 2022.
+
+The Company’s fiscal year is based on a 52- or 53-week period ending on the last Saturday of the calendar year. Therefore, the financial results of certain 53-week fiscal years, and the associated 14-week quarters, will not be exactly comparable to the prior and subsequent 52-week fiscal years and the associated 13-week quarters. The quarters ended September 24, 2022 and September 25, 2021 both contain operating results for 13 weeks.
+
+Changes in Classification and Allocation
+
+Certain prior period amounts have been reclassified or presented to conform to the current period presentation.
+
+In the first quarter of fiscal 2022, the Company refined the methodology used in classifying certain indirect costs in accordance with the way the Company's management is now using the information in decision making, which management believes provides a more meaningful representation of costs incurred to support research and development activities. As a result, the Company’s condensed consolidated statements of income have been recast for the 13-week and 39-week periods ended September 25, 2021 to reflect reclassifications of $15,132 and $44,455, respectively, from research and development expense to selling, general, and administrative expense.
+
+Additionally, in the first quarter of fiscal 2022, the methodology used to allocate certain selling, general, and administrative expenses to the segments was refined to allocate these expenses in a more direct manner to provide the Company's Chief Operating Decision Maker (CODM) with a more meaningful representation of segment profit or loss. The Company’s composition of operating segments and reportable segments did not change.
+
+These changes in classification and allocation had no effect on the Company’s consolidated operating or net income.
+
+Significant Accounting Policies
+
+For a description of the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements, refer to Note 2, “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Part II, Item 8 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 25, 2021. There were no material changes to the Company’s significant accounting policies during the 39-week period ended September 24, 2022.
+
+7
+
+Recently Issued Accounting Standards and Pronouncements
+
+Recently adopted accounting standards and recently issued accounting pronouncements not yet adopted are not expected to have a material impact on the Company’s consolidated financial statements, accounting policies, processes, or systems.
+
+2. Inventories
+
+The components of inventories consist of the following:
+
+	September 24,
+2022	December 25, 2021
+Raw materials	$	539,691	$	509,435
+Work-in-process	194,398	213,801
+Finished goods	799,182	504,373
+Inventories	$	1,533,271	$	1,227,609
+
+3. Earnings Per Share
+
+The following table sets forth the computation of basic and diluted net income per share. Stock options, stock appreciation rights, and restricted stock units are collectively referred to as “equity awards”.
+
+	13-Weeks Ended	39-Weeks Ended
+	September 24, 2022	September 25, 2021	September 24, 2022	September 25, 2021
+Numerator:
+Numerator for basic and diluted net income per share – net income	$	210,848	$	259,039	$	680,313	$	796,064
+
+Denominator:
+Denominator for basic net income per share – weighted-average common shares	192,672	192,322	192,878	192,123
+
+Effect of dilutive equity awards	433	863	500	832
+
+Denominator for diluted net income per share – adjusted weighted-average common shares	193,105	193,185	193,378	192,955
+
+Basic net income per share	$	1.09	$	1.35	$	3.53	$	4.14
+
+Diluted net income per share	$	1.09	$	1.34	$	3.52	$	4.13
+
+Shares excluded from diluted net income per share calculation:
+Anti-dilutive equity awards	754	311	759	313
+
+4. Segment Information and Geographic Data
+
+Garmin is organized in the six operating segments of fitness, outdoor, aviation, marine, consumer auto, and auto OEM. The fitness, outdoor, aviation, and marine operating segments represent reportable segments. The consumer auto and auto OEM operating segments, which serve the auto market, do not meet the quantitative thresholds to separately qualify as reportable segments, and they are therefore reported together in an “all other” category captioned as auto. Fitness, outdoor, aviation, marine, and auto are collectively referred to as the Company's reported segments.
+
+The Company’s Chief Executive Officer, who has been identified as the CODM, uses operating income as the measure of profit or loss, combined with other measures, to assess segment performance and allocate resources. Operating income represents net sales less costs of goods sold and operating expenses. Net sales are directly attributed to each segment. Most costs of goods sold and the majority of operating expenses are also directly attributed to each segment, while certain other costs of goods sold and operating expenses are allocated to the segments in a manner appropriate to the specific facts and circumstances of the expenses being allocated.
+
+8
+
+As indicated in Note 1 to the condensed consolidated financial statements, in the first quarter of fiscal 2022 the methodology used to allocate certain selling, general, and administrative expenses to the segments was refined to allocate these expenses in a more direct manner to provide the Company’s CODM with a more meaningful representation of segment profit or loss. The Company’s composition of operating segments and reportable segments did not change. Results for the 13-week and 39-week periods ended September 25, 2021 have been recast below to conform with the current period presentation.
+
+Net sales (“revenue”), gross profit, and operating income for each of the Company’s five reported segments are presented below, along with supplemental financial information for the auto OEM and consumer auto operating segments that management believes is useful.
+
+	Auto
+	Fitness	Outdoor	Aviation	Marine	Total
+Auto	Consumer
+Auto	Auto
+OEM	Total
+13-Weeks Ended September 24, 2022
+Net sales	$	279,875	$	340,388	$	188,043	$	196,506	$	135,622	$	66,444	$	69,178	$	1,140,434
+Gross profit	147,716	219,980	137,732	110,747	54,324	30,432	23,892	670,499
+Operating income (loss)	40,850	120,842	48,487	44,950	(15,756	)	2,105	(17,861	)	239,373
+
+13-Weeks Ended September 25, 2021
+Net sales	$	342,316	$	323,856	$	180,165	$	207,534	$	138,102	$	82,914	$	55,188	$	1,191,973
+Gross profit	183,028	210,522	131,260	116,152	54,985	39,342	15,643	695,947
+Operating income (loss)	74,469	122,875	51,747	55,142	(21,563	)	11,979	(33,542	)	282,670
+
+39-Weeks Ended September 24, 2022
+Net sales	$	772,867	$	1,106,908	$	567,548	$	693,369	$	413,239	$	211,902	$	201,337	$	3,553,931
+Gross profit	387,921	720,731	413,206	376,734	163,213	98,645	64,568	2,061,805
+Operating income (loss)	64,894	424,071	150,359	172,451	(51,104	)	15,058	(66,162	)	760,671
+
+39-Weeks Ended September 25, 2021
+Net sales	$	1,063,642	$	903,715	$	534,886	$	678,698	$	410,265	$	231,587	$	178,678	$	3,591,206
+Gross profit	581,765	590,355	389,376	390,141	166,717	113,567	53,150	2,118,354
+Operating income (loss)	258,884	335,728	147,888	209,140	(48,140	)	37,371	(85,511	)	903,500
+
+Net sales to external customers by geographic region were as follows for the 13-week and 39-week periods ended September 24, 2022 and September 25, 2021. Note that APAC includes Asia Pacific and Australian Continent and EMEA includes Europe, the Middle East and Africa:
+
+	13-Weeks Ended	39-Weeks Ended
+	September 24, 2022	September 25, 2021	September 24, 2022	September 25, 2021
+Americas	$	563,310	$	573,331	$	1,780,117	$	1,723,415
+EMEA	382,865	442,622	1,192,893	1,330,855
+APAC	194,259	176,020	580,921	536,936
+Net sales to external customers	$	1,140,434	$	1,191,973	$	3,553,931	$	3,591,206
+
+9
+
+5. Warranty Reserves
+
+The Company’s standard warranty obligation to its end-users provides for a period of one to two years from the date of shipment, while certain auto, aviation, and marine OEM products have a warranty period of two years or more from the date of installation. The Company’s estimates of costs to service its warranty obligations are based on historical experience and management’s expectations and judgments of future conditions, and are recorded as a liability on the balance sheet. The following reconciliation provides an illustration of changes in the aggregate warranty reserve.
+
+	13-Weeks Ended	39-Weeks Ended
+	September 24, 2022	September 25, 2021	September 24, 2022	September 25, 2021
+Balance - beginning of period	$	39,949	$	44,575	$	45,467	$	42,643
+Accrual for products sold (1)	16,913	13,272	41,939	47,717
+Expenditures	(16,937	)	(14,998	)	(47,481	)	(47,511	)
+Balance - end of period	$	39,925	$	42,849	$	39,925	$	42,849
+
+(1) Changes in cost estimates related to pre-existing warranties were not material and aggregated with accruals for new warranty contracts in the ‘accrual for products sold’ line.
+
+6. Commitments and Contingencies
+
+Commitments
+
+The Company is party to certain commitments that require the future purchase of goods or services (“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of payments for inventory, capital expenditures, and other indirect purchases in connection with conducting the business. The aggregate amount of purchase orders and other commitments open as of September 24, 2022 that may represent noncancellable unconditional purchase obligations having a remaining term in excess of one year was approximately $363,000.
+
+Certain cash balances are held as collateral in relation to bank guarantees. This restricted cash is reported within other assets on the condensed consolidated balance sheets and totaled $707 and $785 on September 24, 2022 and December 25, 2021, respectively. The total of the cash and cash equivalents balance and the restricted cash reported within other assets in the condensed consolidated balance sheets equals the total cash, cash equivalents, and restricted cash shown in the condensed consolidated statements of cash flows.
+
+Contingencies
+
+Management of the Company currently does not believe it is reasonably possible that the Company may have incurred a material loss, or a material loss in excess of recorded accruals, with respect to loss contingencies in the aggregate, for the fiscal quarter ended September 24, 2022. The results of legal proceedings, investigations and claims, however, cannot be predicted with certainty. An adverse resolution of one or more of such matters in excess of management’s expectations could have a material adverse effect in the particular quarter or fiscal year in which a loss is recorded, but based on information currently known, the Company does not believe it is likely that losses from such matters would have a material adverse effect on the Company’s business or its consolidated financial position, results of operations or cash flows.
+
+The Company settled or resolved certain matters during the 13-week and 39-week periods ended September 24, 2022 that did not individually or in the aggregate have a material impact on the Company’s business or its consolidated financial position, results of operations or cash flows.
+
+7. Income Taxes
+
+The Company recorded income tax expense of $9,419 in the 13-week period ended September 24, 2022, compared to income tax expense of $16,347 in the 13-week period ended September 25, 2021. The effective tax rate was 4.3% in the third quarter of 2022, compared to 5.9% in the third quarter of 2021. The decrease was primarily due to income mix by jurisdiction and an increase in U.S. tax deductions and credits in the third quarter of 2022 compared to the third quarter of 2021.
+
+10
+
+The Company recorded income tax expense of $54,785 in the first three quarters of 2022, compared to income tax expense of $101,894 in the first three quarters of 2021. The effective tax rate was 7.5% in the first three quarters of 2022, compared to 11.3% in the first three quarters of 2021. The decrease was primarily due to income mix by jurisdiction and an increase in U.S. tax deductions and credits in the first three quarters of 2022 compared to the first three quarters of 2021.
+
+8. Marketable Securities
+
+The FASB ASC topic entitled Fair Value Measurements and Disclosures defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price). The accounting guidance classifies the inputs used to measure fair value into the following hierarchy:
+
+	Level 1	Unadjusted quoted prices in active markets for the identical asset or liability
+
+	Level 2	Observable inputs for the asset or liability, either directly or indirectly, such as quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, or inputs other than quoted prices that are observable for the asset or liability
+
+	Level 3	Unobservable inputs for the asset or liability
+
+The Company endeavors to utilize the best available information in measuring fair value. Financial assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement. Valuation is based on prices obtained from an independent pricing vendor using both market and income approaches. The primary inputs to the valuation include quoted prices for similar assets in active markets, quoted prices for identical or similar assets in markets that are not active, contractual cash flows, benchmark yields, and credit spreads.
+
+The method described above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values. Furthermore, while the Company believes its valuation methods are appropriate and consistent with other market participants, the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date.
+
+Marketable securities classified as available-for-sale securities are summarized below:
+
+	Available-For-Sale Securities
+as of September 24, 2022
+	Fair Value Level	Amortized Cost	Gross Unrealized
+Gains	Gross Unrealized
+Losses	Fair Value
+Agency securities	Level 2	7,000	—	(790	)	6,210
+Mortgage-backed securities	Level 2	47,923	1	(4,556	)	43,368
+Commercial paper	Level 2	201,363	—	—	201,363
+Corporate debt securities	Level 2	1,132,104	123	(81,781	)	1,050,446
+Municipal securities	Level 2	332,225	17	(28,396	)	303,846
+Other	Level 2	11,724	—	(1,902	)	9,822
+Total	$	1,732,339	$	141	$	(117,425	)	$	1,615,055
+
+	Available-For-Sale Securities
+as of December 25, 2021
+	Fair Value Level	Amortized Cost	Gross Unrealized
+Gains	Gross Unrealized
+Losses	Fair Value
+Agency securities	Level 2	7,000	—	(110	)	6,890
+Mortgage-backed securities	Level 2	149,692	257	(880	)	149,069
+Commercial paper	Level 2	—	—	—	—
+Corporate debt securities	Level 2	1,079,390	9,830	(11,827	)	1,077,393
+Municipal securities	Level 2	356,037	1,870	(4,864	)	353,043
+Other	Level 2	31,134	22	(873	)	30,283
+Total	$	1,623,253	$	11,979	$	(18,554	)	$	1,616,678
+
+11
+
+The primary objectives of the Company’s investment policy are to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. The fair value of securities varies from period to period due to changes in interest rates, the performance of the underlying collateral, and the credit performance of the underlying issuer, among other factors.
+
+Accrued interest receivable, which totaled $10,506 as of September 24, 2022, is excluded from both the fair value and amortized cost basis of available-for-sale securities and is included within prepaid expenses and other current assets on the Company’s condensed consolidated balance sheets. The Company writes off impaired accrued interest on a timely basis, generally within 30 days of the due date, by reversing interest income. No accrued interest was written off during the 39-week period ended September 24, 2022.
+
+The Company recognizes impairments relating to credit losses of available-for-sale securities through an allowance for credit losses and other income on the Company’s condensed consolidated statements of income. Impairment not relating to credit losses is recorded in other comprehensive income on the Company’s condensed consolidated balance sheets. The cost of securities sold is based on the specific identification method. Approximately 97% of securities in the Company’s portfolio were at an unrealized loss position as of September 24, 2022.
+
+The following tables display additional information regarding gross unrealized losses and fair value by major security type for available-for-sale securities in an unrealized loss position as of September 24, 2022 and December 25, 2021.
+
+	As of September 24, 2022
+	Less than 12 Consecutive Months	12 Consecutive Months or Longer	Total
+	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value
+Agency securities	—	—	(790	)	6,210	(790	)	6,210
+Mortgage-backed securities	(3,208	)	35,482	(1,348	)	7,668	(4,556	)	43,150
+Commercial paper	—	—	—	—	—	—
+Corporate debt securities	(39,596	)	674,818	(42,185	)	356,855	(81,781	)	1,031,673
+Municipal securities	(9,450	)	141,651	(18,946	)	152,896	(28,396	)	294,547
+Other	—	—	(1,902	)	9,327	(1,902	)	9,327
+Total	$	(52,254	)	$	851,951	$	(65,171	)	$	532,956	$	(117,425	)	$	1,384,907
+
+	As of December 25, 2021
+	Less than 12 Consecutive Months	12 Consecutive Months or Longer	Total
+	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value	Gross Unrealized Losses	Fair Value
+Agency securities	(110	)	6,890	—	—	(110	)	6,890
+Mortgage-backed securities	(148	)	18,909	(732	)	7,598	(880	)	26,507
+Commercial paper	—	—	—	—	—	—
+Corporate debt securities	(9,466	)	499,084	(2,361	)	85,033	(11,827	)	584,117
+Municipal securities	(4,247	)	226,009	(617	)	29,405	(4,864	)	255,414
+Other	(467	)	17,845	(406	)	7,205	(873	)	25,050
+Total	$	(14,438	)	$	768,737	$	(4,116	)	$	129,241	$	(18,554	)	$	897,978
+
+As of September 24, 2022 and December 25, 2021, the Company had not recognized an allowance for credit losses on any securities in an unrealized loss position.
+
+The Company has not recorded an allowance for credit losses and charge to other income for the unrealized losses on agency, mortgage-backed, corporate debt, municipal, and other securities presented above because the Company's management does not consider the declines in fair value to have resulted from credit losses. Management has not observed a significant deterioration in credit quality of these securities, which are highly rated with moderate to low credit risk. Declines in value are largely attributable to current global economic conditions. The securities continue to make timely principal and interest payments, and the fair values are expected to recover as they approach maturity. Management does not intend to sell the securities, and it is not more likely than not that the Company will be required to sell the securities, before the respective recoveries of their amortized cost bases, which may be maturity.
+12
+
+The amortized cost and fair value of marketable securities at September 24, 2022, by maturity, are shown below.
+
+	Amortized Cost	Fair Value
+Due in one year or less	$	381,607	$	378,705
+Due after one year through five years	1,329,366	1,217,361
+Due after five years through ten years	17,505	15,746
+Due after ten years	3,861	3,243
+Total	$	1,732,339	$	1,615,055
+
+9. Stockholders' Equity
+
+Dividends
+
+Under Swiss corporate law, dividends must be approved by shareholders at the annual general meeting of the Company’s shareholders. On June 10, 2022, the Company's shareholders approved a dividend of $2.92 per share, subject to possible adjustment based on the total amount of the dividend in Swiss Francs as approved at the annual meeting, and payable in four equal installments on dates to be determined by the Board of Directors. A reduction of retained earnings and a corresponding liability were recorded at the time of shareholders' approval and are periodically adjusted based on the number of applicable shares outstanding. The Company paid dividends of $399,074 for the 39-week period ended September 24, 2022.
+
+On June 4, 2021, the Company's shareholders approved a dividend of $2.68 per share, $1.34 of which was paid in the Company’s 2021 fiscal year, and $1.34 of which was paid in the Company’s 2022 fiscal year.
+
+Share Repurchase Program
+
+On April 22, 2022, the Board of Directors approved a share repurchase program (the “Program”) authorizing the Company to repurchase up to $300,000 of the common shares of Garmin Ltd. The timing and volume of share repurchases are subject to market conditions, business conditions and applicable laws, and are at management’s discretion. Share repurchases may be made from time to time in the open market or in privately negotiated transactions, including under plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, as amended. The Program does not require the purchase of any minimum number of shares and may be suspended or discontinued at any time. The share repurchase authorization expires on December 29, 2023. As of September 24, 2022, the Company had repurchased 1,187 shares for $113,736, leaving approximately $186,264 available to repurchase additional shares under the Program.
+
+10. Accumulated Other Comprehensive Income
+
+The following provides required disclosure of changes in accumulated other comprehensive income (AOCI) balances by component for the 13-week and 39-week periods ended September 24, 2022:
+
+	13-Weeks Ended September 24, 2022
+	Foreign currency
+translation adjustment	Net gains (losses) on available-for-sale securities	Total
+Balance - beginning of period	$	1,608	$	(72,220	)	$	(70,612	)
+Other comprehensive income (loss) before reclassification, net of income tax benefit of $5,798	(117,360	)	(19,022	)	(136,382	)
+Amounts reclassified from accumulated other comprehensive income (loss) to other income, net of income tax benefit of $54 included in income tax provision	—	155	155
+Net current-period other comprehensive income (loss)	(117,360	)	(18,867	)	(136,227	)
+Balance - end of period	$	(115,752	)	$	(91,087	)	$	(206,839	)
+
+13
+
+	39-Weeks Ended September 24, 2022
+	Foreign currency
+translation adjustment	Net gains (losses) on available-for-sale securities	Total
+Balance - beginning of period	$	123,415	$	(5,580	)	$	117,835
+Other comprehensive income (loss) before reclassification, net of income tax benefit of $25,468	(239,167	)	(86,223	)	(325,390	)
+Amounts reclassified from accumulated other comprehensive income (loss) to other income, net of income tax benefit of $266 included in income tax provision	—	716	716
+Net current-period other comprehensive income (loss)	(239,167	)	(85,507	)	(324,674	)
+Balance - end of period	$	(115,752	)	$	(91,087	)	$	(206,839	)
+
+11. Revenue
+
+In order to further depict how the nature, amount, timing and uncertainty of the Company's revenue and cash flows are affected by economic factors, revenue (or “net sales”) is disaggregated by geographic region, major product category, and pattern of recognition.
+
+Disaggregated revenue by geographic region (Americas, APAC, and EMEA) is presented in Note 4 – Segment Information and Geographic Data. Note 4 also contains disaggregated revenue information of the six major product categories identified by the Company – fitness, outdoor, aviation, marine, consumer auto, and auto OEM.
+
+A large majority of the Company’s sales are recognized on a point in time basis, usually once the product is shipped and title and risk of loss have transferred to the customer. Sales recognized over a period of time are primarily within the auto and outdoor segments and relate to performance obligations that are satisfied over the life of the product or contractual service period. Revenue disaggregated by the timing of transfer of the goods or services is presented in the table below:
+
+	13-Weeks Ended	39-Weeks Ended
+	September 24, 2022	September 25, 2021	September 24, 2022	September 25, 2021
+Point in time	$	1,073,058	$	1,132,339	$	3,366,382	$	3,429,686
+Over time	67,376	59,634	187,549	161,520
+Net sales	$	1,140,434	$	1,191,973	$	3,553,931	$	3,591,206
+
+Transaction price and costs associated with the Company’s unsatisfied performance obligations are reflected as deferred revenue and deferred costs, respectively, on the Company’s condensed consolidated balance sheets. Such amounts are recognized ratably over the applicable service period or estimated useful life. Changes in deferred revenue and costs during the 39-week period ended September 24, 2022 are presented below:
+
+	39-Weeks Ended
+September 24, 2022
+	Deferred
+Revenue (1)	Deferred
+Costs (2)
+Balance, beginning of period	$	129,272	$	28,322
+Deferrals in period	183,907	12,307
+Recognition of deferrals in period	(187,548	)	(15,838	)
+Balance, end of period	$	125,631	$	24,791
+
+(1) Deferred revenue is comprised of both deferred revenue and noncurrent deferred revenue per the condensed consolidated balance sheets
+
+(2) Deferred costs are comprised of both deferred costs and noncurrent deferred costs per the condensed consolidated balance sheets
+
+Of the $187,548 of deferred revenue recognized in the 39-week period ended September 24, 2022, $72,898 was deferred as of the beginning of the period. Approximately eighty percent of the $125,631 of deferred revenue at the end of the period, September 24, 2022, is recognized ratably over a period of three years or less.
+
+14
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+The discussion set forth below, as well as other portions of this Quarterly Report, contain statements concerning potential future events. Such forward-looking statements are based upon assumptions by management, as of the date of this Quarterly Report, including assumptions about risks and uncertainties faced by the Company. Readers can identify these forward-looking statements by their use of such verbs as expects, anticipates, believes or similar verbs or conjugations of such verbs. If any of the Company’s assumptions prove incorrect or should unanticipated circumstances arise, actual results could materially differ from those anticipated by such forward-looking statements. The differences could be caused by a number of factors or combination of factors including, but not limited to, those factors identified in Part II, Item 1A of this Quarterly Report on Form 10-Q and in the Company’s Annual Report on Form 10-K for the year ended December 25, 2021. This report has been filed with the Securities and Exchange Commission (the “SEC” or the “Commission”) in Washington, D.C. and can be obtained by contacting the SEC’s public reference operations or obtaining it through the SEC’s website at http://www.sec.gov. Readers are strongly encouraged to consider those factors when evaluating any forward-looking statement concerning the Company. The Company will not update any forward-looking statements in this Quarterly Report to reflect future events or developments.
+
+The information contained in this Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with the Condensed Consolidated Financial Statements and Notes thereto included in this Form 10-Q and the audited financial statements and notes thereto in the Company’s Annual Report on Form 10-K for the year ended December 25, 2021. Unless the context otherwise requires, references in this document to "we", "us", "our" and similar terms refer to Garmin Ltd. and its subsidiaries.
+
+Unless otherwise indicated, amounts set forth in the discussion below are in thousands.
+
+Company Overview
+
+The Company is a leading worldwide provider of wireless devices, many of which feature Global Positioning System (GPS) navigation, and applications that are designed for people who live an active lifestyle. We are organized in the six operating segments of fitness, outdoor, aviation, marine, consumer auto, and auto OEM. The operating segments offer products through our network of subsidiary distributors and independent dealers and distributors, our own webshop, as well as through various auto, aviation, and marine original equipment manufacturers (OEMs). Each of the operating segments is managed separately.
+
+Business Environment Update
+
+A number of headwinds including high inflation, rising interest rates, and the strengthening of the U.S. Dollar relative to other major currencies have continued to lead to uncertainty in the economic environment. Additionally, while our global supply chain is routinely subject to component shortages, increased lead times, cost fluctuations, and logistics constraints, these factors have been further amplified by the current environment, including Russia’s invasion of Ukraine and the lingering impacts of the COVID-19 pandemic. We expect these economic and supply chain challenges to persist through the end of 2022 and beyond.
+
+While Russia’s invasion of Ukraine has not had a material direct impact on our business, and our related direct exposure is limited, the nature and degree of the effects of that conflict, as well as the effects of the current economic environment over time remain uncertain. Refer to Part II, Item 1A, “Risk Factors” of this Quarterly Report for further discussion of the risks and uncertainties facing our Company.
+
+Results of Operations
+
+As indicated in Note 1 to the condensed consolidated financial statements, in the first quarter of fiscal 2022 the Company refined the methodology used in classifying certain indirect costs as research and development expense, which we believe provides a more meaningful representation of costs incurred to support research and development activities.
+
+Additionally, as indicated in Note 1 and Note 4 to the condensed consolidated financial statements, in the first quarter of fiscal 2022 the methodology used to allocate certain selling, general, and administrative expenses to the segments was refined to allocate these expenses in a more direct manner to provide the Company’s CODM with a more meaningful representation of segment profit or loss. The Company’s composition of operating segments and reportable segments did not change.
+
+15
+
+These changes in classification and allocation had no effect on the Company’s consolidated operating or net income. The amounts presented below for selling, general, and administrative expense, research and development expense, segment operating expense, and segment operating income for the 13-week and 39-week periods ended September 25, 2021 have been recast to conform with the current period presentation.
+
+Comparison of 13-Weeks ended September 24, 2022 and September 25, 2021
+
+Net Sales
+
+Net Sales	13-Weeks Ended September 24, 2022	Year-over-Year Change	13-Weeks Ended September 25, 2021
+Fitness	$	279,875	(18	%)	$	342,316
+Percentage of Total Net Sales	25	%	29	%
+Outdoor	340,388	5	%	323,856
+Percentage of Total Net Sales	30	%	27	%
+Aviation	188,043	4	%	180,165
+Percentage of Total Net Sales	16	%	15	%
+Marine	196,506	(5	%)	207,534
+Percentage of Total Net Sales	17	%	17	%
+Auto	135,622	(2	%)	138,102
+Percentage of Total Net Sales	12	%	12	%
+Consumer Auto	66,444	(20	%)	82,914
+Percentage of Total Net Sales	6	%	7	%
+Auto OEM	69,178	25	%	55,188
+Percentage of Total Net Sales	6	%	5	%
+Total	$	1,140,434	(4	%)	$	1,191,973
+
+Net sales decreased 4% for the 13-week period ended September 24, 2022 when compared to the year-ago quarter. Total unit sales in the third quarter of 2022 decreased to 3,491 when compared to total unit sales of 3,798 in the third quarter of 2021, which differs from the percent decrease in revenue primarily due to shifts in segment and product mix. Outdoor was the largest portion of our revenue mix at 30% in the third quarter of 2022 compared to fitness at 29% in the third quarter of 2021.
+
+The increase in outdoor revenue was primarily driven by growth in adventure watches and inReach devices and services, partially offset by declines in other product lines. The aviation revenue increase was driven by sales growth in multiple product lines, primarily in aftermarket. Fitness revenue decreased primarily due to declines in our advanced wellness and indoor cycling products. Marine revenue decreased primarily due to the return of typical seasonality trends. Auto revenue decreased as a sales decline in our consumer auto products more than offset the sales growth in auto OEM programs.
+
+Gross Profit
+
+Gross Profit	13-Weeks Ended September 24, 2022	Year-over-Year Change	13-Weeks Ended September 25, 2021
+Fitness	$	147,716	(19	%)	$	183,028
+Percentage of Segment Net Sales	53	%	53	%
+Outdoor	219,980	4	%	210,522
+Percentage of Segment Net Sales	65	%	65	%
+Aviation	137,732	5	%	131,260
+Percentage of Segment Net Sales	73	%	73	%
+Marine	110,747	(5	%)	116,152
+Percentage of Segment Net Sales	56	%	56	%
+Auto	54,324	(1	%)	54,985
+Percentage of Segment Net Sales	40	%	40	%
+Consumer Auto	30,432	(23	%)	39,342
+Percentage of Segment Net Sales	46	%	47	%
+Auto OEM	23,892	53	%	15,643
+Percentage of Segment Net Sales	35	%	28	%
+Total	$	670,499	(4	%)	$	695,947
+Percentage of Total Net Sales	59	%	58	%
+
+Gross profit dollars in the third quarter of 2022 decreased 4%, primarily due to the decrease in net sales when compared to the year-ago quarter, as described above. Consolidated gross margin was slightly higher when compared to the year-ago quarter, as a favorable segment mix and lower freight costs offset the net unfavorable impact of the strengthening of the U.S. Dollar relative to other major currencies. The fitness, outdoor, aviation, marine, and auto gross margins were each relatively flat when compared to the year-ago quarter.
+
+16
+
+Operating Expense
+
+Operating Expense	13-Weeks Ended September 24, 2022	Year-over-Year Change	13-Weeks Ended September 25, 2021
+Advertising expense	$	32,888	(10	%)	$	36,705
+Percentage of Total Net Sales	3	%	3	%
+Selling, General and administrative expenses	189,546	7	%	177,647
+Percentage of Total Net Sales	17	%	15	%
+Research and development expense	208,692	5	%	198,925
+Percentage of Total Net Sales	18	%	17	%
+Total	$	431,126	4	%	$	413,277
+Percentage of Total Net Sales	38	%	35	%
+
+Total operating expense increased 310 basis points and 4% in absolute dollars when compared to the year-ago quarter.
+
+Advertising expense as a percent of revenue was relatively flat and decreased 10% in absolute dollars when compared to the year-ago quarter. The absolute dollar decrease was primarily attributable to decreased cooperative spend.
+
+Selling, general and administrative expense increased 170 basis points as a percent of revenue and 7% in absolute dollars compared to the year-ago quarter. The absolute dollar expense increase in the third quarter of 2022 was primarily attributable to increased personnel related expenses and information technology costs.
+
+Research and development expense increased 160 basis points as a percent of revenue and 5% in absolute dollars when compared to the year-ago quarter. The absolute dollar expense increase was primarily due to higher engineering personnel costs.
+
+Operating Income
+
+Operating Income (Loss)	13-Weeks Ended September 24, 2022	Year-over-Year Change	13-Weeks Ended September 25, 2021
+Fitness	$	40,850	(45	%)	$	74,469
+Percentage of Segment Net Sales	15	%	22	%
+Outdoor	120,842	(2	%)	122,875
+Percentage of Segment Net Sales	36	%	38	%
+Aviation	48,487	(6	%)	51,747
+Percentage of Segment Net Sales	26	%	29	%
+Marine	44,950	(18	%)	55,142
+Percentage of Segment Net Sales	23	%	27	%
+Auto	(15,756	)	(27	%)	(21,563	)
+Percentage of Segment Net Sales	(12	%)	(16	%)
+Consumer Auto	2,105	(82	%)	11,979
+Percentage of Segment Net Sales	3	%	14	%
+Auto OEM	(17,861	)	(47	%)	(33,542	)
+Percentage of Segment Net Sales	(26	%)	(61	%)
+Total	$	239,373	(15	%)	$	282,670
+Percentage of Total Net Sales	21	%	24	%
+
+Operating income decreased 15% in absolute dollars and 270 basis points as a percent of revenue when compared to the year-ago quarter. The decrease as a percent of revenue was due to higher operating expenses, while net sales declined, as described above. Decreases in operating income in fitness, outdoor, aviation, marine, and consumer auto were partially offset by improved performance in auto OEM.
+
+Other Income (Expense)
+
+Other Income (Expense)	13-Weeks Ended September 24, 2022	13-Weeks Ended September 25, 2021
+Interest income	$	10,472	$	6,897
+Foreign currency losses	(29,863	)	(15,014	)
+Other income	285	833
+Total	$	(19,106	)	$	(7,284	)
+
+The average interest rate returns on cash and investments during the third quarter of 2022 was 1.5%, compared to 0.9% during the same quarter of 2021.
+
+17
+
+Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar, Chinese Yuan, Japanese Yen, and Polish Zloty. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash and marketable securities, receivables and payables held in a currency other than the functional currency at a given legal entity.
+
+The $29.9 million currency loss recognized in the third quarter of 2022 was primarily due to the U.S. Dollar strengthening against the Polish Zloty, Euro, Australian Dollar, British Pound Sterling, Chinese Yuan, and Japanese Yen, partially offset by the U.S. Dollar strengthening against the Taiwan Dollar, within the 13-week period ended September 24, 2022. During this period, the U.S. Dollar strengthened 8.8% against the Polish Zloty, 8.2% against the Euro, 5.3% against the Australian Dollar, 11.5% against the British Pound Sterling, 5.4% against the Chinese Yuan, and 5.7% against the Japanese Yen resulting in losses of $15.4 million, $12.2 million, $5.0 million, $4.3 million, $3.3 million, and $1.9 million, respectively, partially offset by the U.S. Dollar strengthening 6.6% against the Taiwan Dollar, resulting in a gain of $17.1 million. The remaining net currency loss of $4.9 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+The $15.0 million currency loss recognized in the third quarter of 2021 was primarily due to the U.S. Dollar strengthening against the Euro, Polish Zloty, Australian Dollar, and British Pound Sterling and weakening against the Taiwan Dollar within the 13-week period ended September 25, 2021. During this period, the U.S. Dollar strengthened 1.8% against the Euro, 3.6% against the Polish Zloty, 3.8% against the Australian Dollar, and 1.4% against the British Pound Sterling, resulting in losses of $4.1 million, $3.0 million, $1.4 million, and $0.9 million, respectively, while the U.S. Dollar weakened 0.6% against the Taiwan Dollar, resulting in a loss of $2.7 million. The remaining net currency loss of $2.9 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+Income Tax Provision
+
+The Company recorded income tax expense of $9.4 million in the 13-week period ended September 24, 2022, compared to income tax expense of $16.3 million in the 13-week period ended September 25, 2021. The effective tax rate was 4.3% in the third quarter of 2022, compared to 5.9% in the third quarter of 2021. The decrease was primarily due to income mix by jurisdiction and an increase in U.S. tax deductions and credits in the 13-week period ended September 24, 2022 compared to the year-ago quarter.
+
+Net Income
+
+As a result of the above, net income for the 13-week period ended September 24, 2022 was $210.8 million compared to $259.0 million for the 13-week period ended September 25, 2021, a decrease of $48.2 million.
+
+Comparison of 39-Weeks ended September 24, 2022 and September 25, 2021
+
+Net Sales
+
+Net Sales	39-Weeks Ended September 24, 2022	Year-over-Year Change	39-Weeks Ended September 25, 2021
+Fitness	$	772,867	(27	%)	$	1,063,642
+Percentage of Total Net Sales	22	%	30	%
+Outdoor	1,106,908	22	%	903,715
+Percentage of Total Net Sales	31	%	25	%
+Aviation	567,548	6	%	534,886
+Percentage of Total Net Sales	16	%	15	%
+Marine	693,369	2	%	678,698
+Percentage of Total Net Sales	19	%	19	%
+Auto	413,239	1	%	410,265
+Percentage of Total Net Sales	12	%	11	%
+Consumer Auto	211,902	(9	%)	231,587
+Percentage of Total Net Sales	6	%	6	%
+Auto OEM	201,337	13	%	178,678
+Percentage of Total Net Sales	6	%	5	%
+Total	$	3,553,931	(1	%)	$	3,591,206
+
+18
+
+Net sales decreased 1% for the 39-week period ended September 24, 2022 when compared to the year-ago period. Total unit sales in the first three quarters of 2022 decreased to 10,672 when compared to total unit sales of 11,564 in the first three quarters of 2021, which differs from the percent decrease in revenue primarily due to shifts in segment and product mix. Outdoor was the largest portion of our revenue mix at 31% in the first three quarters of 2022 compared to fitness at 30% in the first three quarters of 2021.
+
+The increase in outdoor revenue was primarily driven by strong demand for our adventure watches. Aviation revenue increased due to growth in both OEM and aftermarket product categories. Marine revenue increased due to growth across multiple product categories, led by strong demand for our sonar products. The increase in auto revenue was due to sales growth in auto OEM programs, partially offset by sales declines in our consumer auto products. Fitness revenue decreased due to declines across all product categories, driven primarily by our advanced wearables and cycling products.
+
+Gross Profit
+
+Gross Profit	39-Weeks Ended September 24, 2022	Year-over-Year Change	39-Weeks Ended September 25, 2021
+Fitness	$	387,921	(33	%)	$	581,765
+Percentage of Segment Net Sales	50	%	55	%
+Outdoor	720,731	22	%	590,355
+Percentage of Segment Net Sales	65	%	65	%
+Aviation	413,206	6	%	389,376
+Percentage of Segment Net Sales	73	%	73	%
+Marine	376,734	(3	%)	390,141
+Percentage of Segment Net Sales	54	%	57	%
+Auto	163,213	(2	%)	166,717
+Percentage of Segment Net Sales	39	%	41	%
+Consumer Auto	98,645	(13	%)	113,567
+Percentage of Segment Net Sales	47	%	49	%
+Auto OEM	64,568	21	%	53,150
+Percentage of Segment Net Sales	32	%	30	%
+Total	$	2,061,805	(3	%)	$	2,118,354
+Percentage of Total Net Sales	58	%	59	%
+
+Gross profit dollars in the first three quarters of 2022 decreased 3% and consolidated gross margin decreased 100 basis points when compared to the year-ago period, primarily due to higher freight costs and the strengthening of the U.S. Dollar relative to other major currencies, which created downward pressure on revenues.
+
+The fitness, outdoor, marine, and auto gross margins were adversely impacted by higher freight costs and a stronger U.S. Dollar. In the outdoor segment, these impacts were partially offset by a favorable product mix.
+
+Operating Expense
+
+Operating Expense	39-Weeks Ended September 24, 2022	Year-over-Year Change	39-Weeks Ended September 25, 2021
+Advertising expense	$	110,378	—	%	$	110,705
+Percentage of Total Net Sales	3	%	3	%
+Selling, General and administrative expenses	571,541	8	%	530,351
+Percentage of Total Net Sales	16	%	15	%
+Research and development expense	619,215	8	%	573,798
+Percentage of Total Net Sales	17	%	16	%
+Total	$	1,301,134	7	%	$	1,214,854
+Percentage of Total Net Sales	37	%	34	%
+
+Total operating expense increased 280 basis points as a percent of revenue and 7% in absolute dollars when compared to the year-ago period.
+
+Advertising expense as a percent of revenue and in absolute dollars was relatively flat when compared to the year-ago period.
+
+Selling, general and administrative expense increased 130 basis points as a percent of revenue and 8% in absolute dollars when compared to the year-ago period. The absolute dollar increase in the first three quarters of 2022 was primarily attributable to increased personnel related expenses and information technology costs.
+
+Research and development expense increased 150 basis points as a percent of revenue and 8% in absolute dollars when compared to the year-ago period. The absolute dollar increase was primarily due to higher engineering personnel costs.
+19
+
+Operating Income
+
+Operating Income (Loss)	39-Weeks Ended September 24, 2022	Year-over-Year Change	39-Weeks Ended September 25, 2021
+Fitness	$	64,894	(75	%)	$	258,884
+Percentage of Segment Net Sales	8	%	24	%
+Outdoor	424,071	26	%	335,728
+Percentage of Segment Net Sales	38	%	37	%
+Aviation	150,359	2	%	147,888
+Percentage of Segment Net Sales	26	%	28	%
+Marine	172,451	(18	%)	209,140
+Percentage of Segment Net Sales	25	%	31	%
+Auto	(51,104	)	6	%	(48,140	)
+Percentage of Segment Net Sales	(12	%)	(12	%)
+Consumer Auto	15,058	(60	%)	37,371
+Percentage of Segment Net Sales	7	%	16	%
+Auto OEM	(66,162	)	(23	%)	(85,511	)
+Percentage of Segment Net Sales	(33	%)	(48	%)
+Total	$	760,671	(16	%)	$	903,500
+Percentage of Total Net Sales	21	%	25	%
+
+Operating income decreased 16% in absolute dollars and 380 basis points as a percent of revenue when compared to the year-ago period. The decrease as a percent of revenue was due to lower gross margin and higher operating expenses, while net sales declined, as described above. Decreases in operating income in fitness, marine, and consumer auto were partially offset by improved performance in outdoor, aviation and auto OEM.
+
+Other Income (Expense)
+
+Other Income (Expense)	39-Weeks Ended September 24, 2022	39-Weeks Ended September 25, 2021
+Interest income	$	26,520	$	21,568
+Foreign currency losses	(55,809	)	(30,621	)
+Other Income	3,716	3,511
+Total	$	(25,573	)	$	(5,542	)
+
+The average interest rate returns on cash and investments during the 39-week periods ended September 24, 2022 and September 25, 2021 were 1.2% and 0.9%, respectively.
+
+Foreign currency gains and losses for the Company are driven by movements of a number of currencies in relation to the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation, the Euro is the functional currency of several subsidiaries, and the U.S. Dollar is the functional currency of Garmin (Europe) Ltd., although some transactions and balances are denominated in British Pounds. Other notable currency exposures include the Australian Dollar, Chinese Yuan, Japanese Yen, and Polish Zloty. The majority of the Company’s consolidated foreign currency gain or loss is typically driven by the significant cash and marketable securities, receivables and payables held in a currency other than the functional currency at a given legal entity.
+
+The $55.8 million currency loss recognized in the 39-week period ended September 24, 2022 was primarily due to the U.S. Dollar strengthening against the Polish Zloty, Euro, Australian Dollar, British Pound Sterling, Chinese Yuan, and Japanese Yen, partially offset by the U.S. Dollar strengthening against the Taiwan Dollar, within the 39-week period ended September 24, 2022. During this period, the U.S. Dollar strengthened 16.7% against the Polish Zloty, 14.4% against the Euro, 9.9% against the Australian Dollar, 18.9% against the British Pound Sterling, 10.0% against the Chinese Yuan, and 20.2% against the Japanese Yen resulting in losses of $26.7 million, $21.1 million, $11.7 million, $6.8 million, $6.2 million, and $5.7 million, respectively, partially offset by the U.S. Dollar strengthening 12.9% against the Taiwan Dollar, resulting in a gain of $34.2 million. The remaining net currency loss of $11.8 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+The $30.6 million currency loss recognized in the 39-week period ended September 25, 2021 was primarily due to the U.S. Dollar strengthening against the Euro and Polish Zloty and weakening against the Taiwan Dollar within the 39-week period ended September 25, 2021. During this period, the U.S. Dollar strengthened 4.0% against the Euro and 5.9% against the Polish Zloty, resulting in losses of $13.9 million and $3.8 million, respectively, while the U.S. Dollar weakened 1.4% against the Taiwan Dollar, resulting in a loss of $7.4 million. The remaining net currency loss of $5.5 million was related to the impacts of other currencies, each of which was individually immaterial.
+
+20
+
+Income Tax Provision
+
+The Company recorded income tax expense of $54.8 million in the first three quarters of 2022, compared to income tax expense of $101.9 million in the first three quarters of 2021. The effective tax rate was 7.5% in the first three quarters of 2022, compared to 11.3% in the first three quarters of 2021. The decrease was primarily due to income mix by jurisdiction and an increase in U.S. tax deductions and credits in the first three quarters of 2022 compared to the first three quarters of 2021.
+
+Net Income
+
+As a result of the above, net income for the 39-week period ended September 24, 2022 was $680.3 million compared to $796.1 million for the 39-week period ended September 25, 2021, a decrease of $115.8 million.
+
+Liquidity and Capital Resources
+
+As of September 24, 2022, we had approximately $2.7 billion of cash, cash equivalents and marketable securities. We primarily use cash flow from operations, and expect that future cash requirements may be used, to fund our capital expenditures, support our working capital requirements, pay dividends, fund share repurchases, and fund strategic acquisitions. We believe that our existing cash balances and cash flow from operations will be sufficient to meet our short- and long-term projected working capital needs, capital expenditures, and other cash requirements.
+
+Management invests idle or surplus cash in accordance with the investment policy, which has been approved by the Company’s Board of Directors. The investment policy’s primary objectives are to preserve capital, maintain an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. Garmin’s average interest rate returns on cash and investments during the first three quarters of 2022 and 2021 were approximately 1.2% and 0.9%, respectively. The fair value of our securities varies from period to period due to changes in interest rates, in the performance of the underlying collateral, and in the credit performance of the underlying issuer, among other factors. See Note 8 for additional information regarding marketable securities.
+
+Cash Flows
+
+Cash provided by operating activities totaled $419.6 million for the first three quarters of 2022, compared to $843.5 million for the first three quarters of 2021. The decrease was primarily due to a higher use of cash on purchases of inventory, principally associated with the Company's strategy to increase days of supply to support our increasingly diversified product lines, optimize shipping methods, and mitigate increased lead times for raw materials. Additionally, the Company used more cash for income taxes and operating expenses, while sales and the associated collections of receivables were down in the first three quarters of 2022 compared to the first three quarters of 2021.
+
+Cash used in investing activities totaled $319.1 million in the first three quarters of 2022, compared to $311.7 million for the first three quarters of 2021. The increase was primarily due to higher net purchases of marketable securities, as more desirable investment opportunities were available compared to the first three quarters of 2021.
+
+Cash used in financing activities totaled $478.0 million for the first three quarters of 2022, compared to $344.5 million for the first three quarters of 2021. This increase was primarily due to the purchase of treasury stock under the share repurchase plan, and higher cash dividend payments in the first three quarters of 2022, as our declared dividend increased from $0.61 per share for the four calendar quarters beginning in June 2020 to $0.67 per share for the four calendar quarters beginning in June 2021, and to $0.73 per share for the four calendar quarters beginning in June 2022.
+
+21
+
+Use of Cash
+
+Operating Leases
+
+The Company has lease arrangements for certain real estate properties, vehicles, and equipment. Leased properties are typically used for office space, distribution, and retail. As of September 24, 2022, the Company had fixed lease payment obligations of $139.8 million, with $27.0 million payable within 12 months.
+
+Inventory Purchase Obligations
+
+The Company obtains various raw materials and components for its products from a variety of third party suppliers. The Company’s inventory purchase obligations are primarily noncancelable. As of September 24, 2022, the Company had inventory purchase obligations of $893.8 million, with $633.1 million payable within 12 months.
+
+Other Purchase Obligations
+
+The Company’s other purchase obligations primarily consist of noncancelable commitments for capital expenditures and other indirect purchases in connection with conducting our business. As of September 24, 2022, the Company had other purchase obligations of $372.9 million, with $176.5 million payable within 12 months.
+
+Critical Accounting Policies and Estimates
+
+General
+
+Our discussion and analysis of financial condition and results of operations are based upon the Company’s condensed consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The presentation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate our estimates, including those related to customer sales programs and incentives, product returns, bad debts, inventories, investments, intangible assets, income taxes, warranty obligations, and contingencies and litigation. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+
+For a description of the significant accounting policies and methods used in the preparation of the Company’s condensed consolidated financial statements, refer to Note 2, “Summary of Significant Accounting Policies” in the Notes to the Consolidated Financial Statements in Part II, Item 8 and “Critical Accounting Policies and Estimates” in Part II, Item 7 of the Company’s Annual Report on Form 10-K for the fiscal year ended December 25, 2021. There were no significant changes to the Company’s critical accounting policies and estimates in the 13-week and 39-week periods ended September 24, 2022.
+
+22
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+There are numerous market risks that can affect our future business, financial condition and results of operations. In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part II, Item 7A, "Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on Form 10-K for the fiscal year ended December 25, 2021. There have been no material changes during the 13-week and 39-week periods ended September 24, 2022 in the risks described in our Annual Report on Form 10-K related to market sensitivity, inflation, foreign currency exchange rate risk and interest rate risk.
+
+Item 4. Controls and Procedures
+
+(a) Evaluation of disclosure controls and procedures. The Company maintains a system of disclosure controls and procedures that are designed to provide reasonable assurance that information, which is required to be timely disclosed, is accumulated and communicated to management in a timely fashion. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. As of September 24, 2022, the Company carried out an evaluation, under the supervision and with the participation of the Company’s management, including the Company’s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company’s disclosure controls and procedures. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded as of September 24, 2022 that our disclosure controls and procedures were effective such that the information relating to the Company, required to be disclosed in our Securities and Exchange Commission (“SEC”) reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to the Company’s management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+(b) Changes in internal control over financial reporting. There has been no change in the Company’s internal controls over financial reporting that occurred during the Company’s fiscal quarter ended September 24, 2022 that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+
+23
+
+Part II - Other Information
+
+Item 1. Legal Proceedings
+
+In the normal course of business, the Company and its subsidiaries are parties to various legal claims, actions, and complaints, including matters involving patent infringement, other intellectual property, product liability, customer claims and various other risks. It is not possible to predict with certainty whether or not the Company and its subsidiaries will ultimately be successful in any of these legal matters, or if not, what the impact might be. However, the Company’s management does not expect that the results in any of these legal proceedings will have a material adverse effect on the Company’s results of operations, financial position or cash flows. For additional information, see Note 6 – Commitments and Contingencies in the above Condensed Consolidated Financial Statements and Part I, Item 3, “Legal Proceedings” in the Company’s Annual Report on Form 10-K for the fiscal year ended December 25, 2021.
+
+Item 1A. Risk Factors
+
+There are many risks and uncertainties that can affect our future business, financial performance or share price. In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended December 25, 2021. There have been no material changes during the 39-week period ended September 24, 2022 in the risks described in our Annual Report on Form 10-K. These risks, however, are not the only risks facing our Company. Additional risks and uncertainties, including those not currently known to us or that we currently deem to be immaterial, also may materially adversely affect our business, financial condition and/or operating results.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+Issuer Purchases of Equity Securities
+
+Share repurchase activity during the 13-week period ended September 24, 2022, summarized on a trade-date basis, was as follows (in thousands, except per share amounts):
+
+Period	Total Number of Shares Purchased (1)	Average Price Paid Per Share (2)	Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs	Approximate Dollar Value of Shares That May Yet Be Purchased Under the Program
+June 26, 2022 - July 23, 2022	204	$	100.76	204	$	248,829
+July 24, 2022 - August 20, 2022	251	$	98.19	251	$	224,163
+August 21, 2022 - September 24, 2022	424	$	89.32	424	$	186,264
+Total	879	879
+
+(1) The Board of Directors approved a share repurchase program on April 22, 2022 (the "Program"), authorizing the Company to purchase up to $300 million of its common shares as determined by management at its discretion. Share repurchases may be made in the open market or in privately negotiated transactions, including under plans complying with the provisions of Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, as amended. The timing and volume of share repurchases are subject to market conditions, business conditions and applicable laws, and are at management’s discretion. The Program does not require the purchase of any minimum number of shares and may be suspended or discontinued at any time. The share repurchase authorization expires on December 29, 2023. See Note 9 in Part I, Item 1 of this Quarterly Report for additional information related to share repurchases.
+(2) Average price paid per share includes costs associated with the repurchases.
+
+Item 3. Defaults Upon Senior Securities
+
+None.
+
+Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+Item 5. Other Information
+
+Not applicable.
+24
+
+Item 6. Exhibits
+
+Exhibit 3.1	Garmin Ltd. Articles of Association, as amended and restated on June 10, 2022 (incorporated by reference to Exhibit 10.2 of the Registrant’s Current Report on Form 8-K filed on June 13, 2022).
+
+Exhibit 10.1	Garmin Ltd. Employee Stock Purchase Plan, as amended and restated on October 21, 2022.
+
+Exhibit 31.1	Certification of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 31.2	Certification of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 32.1	Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 32.2	Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 101.INS	XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+
+Exhibit 101.SCH	Inline XBRL Taxonomy Extension Schema
+
+Exhibit 101.CAL	Inline XBRL Taxonomy Extension Calculation Linkbase
+
+Exhibit 101.DEF	Inline XBRL Taxonomy Extension Definition Linkbase
+
+Exhibit 101.LAB	Inline XBRL Taxonomy Extension Label Linkbase
+
+Exhibit 101.PRE	Inline XBRL Taxonomy Extension Presentation Linkbase
+
+Exhibit 104	Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+25
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+	GARMIN LTD.
+
+	By	/s/ Douglas G. Boessen
+	Douglas G. Boessen
+	Chief Financial Officer
+	(Principal Financial Officer and
+	Principal Accounting Officer)
+
+Dated: October 26, 2022
+26
