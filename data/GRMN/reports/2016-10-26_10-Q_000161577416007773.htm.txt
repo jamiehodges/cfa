@@ -1,0 +1,6216 @@
+10-Q
+
+1
+
+s104335_10q.htm
+
+10-Q
+
+United States
+
+Securities and
+Exchange Commission
+
+Washington,
+D.C. 20549
+
+FORM 10-Q
+
+x
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended September
+24, 2016
+
+or
+
+¨
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from
+
+to
+
+Commission file number 0-31983
+
+GARMIN LTD.
+
+(Exact name of Company as specified in
+its charter)
+
+Switzerland
+
+(State or other jurisdiction
+
+of incorporation or organization)
+
+98-0229227
+
+(I.R.S. Employer identification
+no.)
+
+Mühlentalstrasse
+2
+
+8200 Schaffhausen
+
+Switzerland
+
+(Address of principal executive
+offices)
+
+N/A
+
+(Zip Code)
+
+Company's telephone number, including area
+code: +
+41 52 630 1600
+
+Indicate
+by check mark whether the Company (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Company was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90 days. YES
+þ
+
+NO
+¨
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES
+þ
+
+NO
+¨
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of “accelerated filer and
+large accelerated filer” in Rule 12b-2 of the Exchange Act.
+
+Large
+Accelerated Filer
+þ
+
+Accelerated Filer
+¨
+
+Non-accelerated Filer
+¨
+
+(Do not check if a smaller reporting company) Smaller reporting company
+¨
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES
+¨
+
+NO
+þ
+
+Number of shares outstanding of the registrant’s
+common shares as of October 24, 2016
+
+CHF 0.10 par value: 198,077,418 (including
+treasury shares)
+
+Garmin Ltd.
+
+Form 10-Q
+
+Quarter Ended September
+24, 2016
+
+Table of Contents
+
+Page
+
+Part I - Financial Information
+
+Item
+1.
+
+Condensed Consolidated Financial Statements
+
+3
+
+Condensed Consolidated Balance Sheets at September 24, 2016 (Unaudited) and December 26, 2015
+
+3
+
+Condensed Consolidated Statements of Income for the 13-weeks and 39-weeks ended September 24, 2016 and September 26, 2015 (Unaudited)
+
+4
+
+Condensed Consolidated Statements of Comprehensive Income for the 13-weeks and 39-weeks ended September 24, 2016 and September 26, 2015 (Unaudited)
+
+5
+
+Condensed Consolidated Statements of Cash Flows for the 39-weeks ended September 24, 2016 and September 26, 2015 (Unaudited)
+
+6
+
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+
+7
+
+Item
+2.
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+17
+
+Item
+3.
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+27
+
+Item
+4.
+
+Controls and Procedures
+
+27
+
+Part II - Other Information
+
+Item
+1.
+
+Legal Proceedings
+
+28
+
+Item
+1A.
+
+Risk Factors
+
+30
+
+Item
+2.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+31
+
+Item
+3.
+
+Defaults Upon Senior Securities
+
+31
+
+Item
+4.
+
+Mine Safety Disclosures
+
+31
+
+Item
+5.
+
+Other Information
+
+31
+
+Item
+6.
+
+Exhibits
+
+32
+
+Signature Page
+
+33
+
+Index to Exhibits
+
+34
+
+2
+
+Part I - Financial Information
+
+Item I - Condensed Consolidated Financial
+Statements
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Balance Sheets
+
+(In thousands, except per share information)
+
+(Unaudited)
+
+Sept 24,
+
+December 26,
+
+2016
+
+2015
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+912,559
+
+$
+833,070
+
+Marketable securities
+
+201,560
+
+215,161
+
+Accounts receivable, net
+
+461,355
+
+531,481
+
+Inventories, net
+
+534,683
+
+500,554
+
+Deferred costs
+
+46,569
+
+49,176
+
+Prepaid expenses and other current assets
+
+90,733
+
+81,645
+
+Total current assets
+
+2,247,459
+
+2,211,087
+
+Property and equipment, net
+
+454,246
+
+446,089
+
+Marketable securities
+
+1,327,347
+
+1,343,387
+
+Restricted cash
+
+265
+
+259
+
+Noncurrent deferred income tax
+
+121,084
+
+116,518
+
+Noncurrent deferred costs
+
+51,395
+
+38,769
+
+Intangible assets, net
+
+301,983
+
+245,552
+
+Other assets
+
+88,127
+
+97,730
+
+Total assets
+
+$
+4,591,906
+
+$
+4,499,391
+
+Liabilities and Stockholders' Equity
+
+Current liabilities:
+
+Accounts payable
+
+$
+148,030
+
+$
+178,905
+
+Salaries and benefits payable
+
+86,104
+
+70,601
+
+Accrued warranty costs
+
+38,872
+
+30,449
+
+Accrued sales program costs
+
+49,172
+
+67,613
+
+Deferred revenue
+
+146,384
+
+164,982
+
+Accrued royalty costs
+
+34,801
+
+30,310
+
+Accrued advertising expense
+
+22,775
+
+33,547
+
+Other accrued expenses
+
+81,313
+
+74,926
+
+Income taxes payable
+
+24,004
+
+21,674
+
+Dividend payable
+
+288,540
+
+192,991
+
+Total current liabilities
+
+919,995
+
+865,998
+
+Deferred income taxes
+
+56,463
+
+56,210
+
+Non-current income taxes
+
+117,276
+
+101,689
+
+Non-current deferred revenue
+
+134,236
+
+128,731
+
+Other liabilities
+
+1,707
+
+1,637
+
+Stockholders' equity:
+
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; and
+188,446 shares outstanding at September 24, 2016
+
+Shares, CHF 10.00 par value, 208,077 shares authorized and issued; and
+189,722 shares outstanding at December 26, 2015
+
+17,979
+
+1,797,435
+
+Additional paid-in capital
+
+1,862,801
+
+62,239
+
+Treasury stock
+
+(464,163
+)
+
+(414,637
+)
+
+Retained earnings
+
+1,919,846
+
+1,930,517
+
+Accumulated other comprehensive income
+
+25,766
+
+(30,428
+)
+
+Total stockholders' equity
+
+3,362,229
+
+3,345,126
+
+Total liabilities and stockholders' equity
+
+$
+4,591,906
+
+$
+4,499,391
+
+See accompanying notes.
+
+3
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Statements of
+Income (Unaudited)
+
+(In thousands, except per share information)
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+2016
+
+2015
+
+Net sales
+
+$
+722,250
+
+$
+679,690
+
+$
+2,157,898
+
+$
+2,038,913
+
+Cost of goods sold
+
+316,270
+
+317,500
+
+949,110
+
+913,352
+
+Gross profit
+
+405,980
+
+362,190
+
+1,208,788
+
+1,125,561
+
+Advertising expense
+
+32,956
+
+36,887
+
+109,441
+
+110,352
+
+Selling, general and administrative expense
+
+96,959
+
+94,057
+
+296,246
+
+290,359
+
+Research and development expense
+
+116,449
+
+105,789
+
+339,008
+
+321,031
+
+Total operating expense
+
+246,364
+
+236,733
+
+744,695
+
+721,742
+
+Operating income
+
+159,616
+
+125,457
+
+464,093
+
+403,819
+
+Other income (expense):
+
+Interest income
+
+8,226
+
+6,851
+
+24,109
+
+22,295
+
+Foreign currency gains (losses)
+
+(19,421
+)
+
+30,573
+
+(30,003
+)
+
+(14,177
+)
+
+Other income
+
+1,344
+
+2,010
+
+2,914
+
+2,707
+
+Total other income (expense)
+
+(9,851
+)
+
+39,434
+
+(2,980
+)
+
+10,825
+
+Income before income taxes
+
+149,765
+
+164,891
+
+461,113
+
+414,644
+
+Income tax provision
+
+24,711
+
+45,592
+
+86,904
+
+90,800
+
+Net income
+
+$
+125,054
+
+$
+119,299
+
+$
+374,209
+
+$
+323,844
+
+Net income per share:
+
+Basic
+
+$
+0.66
+
+$
+0.63
+
+$
+1.98
+
+$
+1.69
+
+Diluted
+
+$
+0.66
+
+$
+0.63
+
+$
+1.98
+
+$
+1.69
+
+Weighted average common shares outstanding:
+
+Basic
+
+188,692
+
+190,342
+
+189,027
+
+191,068
+
+Diluted
+
+189,238
+
+190,822
+
+189,376
+
+191,523
+
+Dividends declared per share
+
+$
+2.04
+
+$
+2.04
+
+See accompanying notes.
+
+4
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Statements of
+Comprehensive Income (Unaudited)
+
+(In thousands)
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+2016
+
+2015
+
+Net income
+
+$
+125,054
+
+$
+119,299
+
+$
+374,209
+
+$
+323,844
+
+Foreign currency translation adjustment
+
+29,598
+
+(55,161
+)
+
+41,760
+
+(34,690
+)
+
+Change in fair value of available-for-sale
+marketable securities, net of deferred taxes
+
+(2,429
+)
+
+7,937
+
+14,434
+
+8,970
+
+Comprehensive income
+
+$
+152,223
+
+$
+72,075
+
+$
+430,403
+
+$
+298,124
+
+See accompanying notes.
+
+5
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Statements of
+Cash Flows (Unaudited)
+
+(In thousands)
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+Operating activities:
+
+Net income
+
+$
+374,209
+
+$
+323,844
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation
+
+40,327
+
+37,936
+
+Amortization
+
+22,215
+
+20,447
+
+Loss (gain) on sale or disposal of property and equipment
+
+155
+
+(190
+)
+
+Provision for doubtful accounts
+
+2,559
+
+(1,781
+)
+
+Deferred income taxes
+
+(6,821
+)
+
+5,796
+
+Unrealized foreign currency loss
+
+19,536
+
+30,473
+
+Provision for obsolete and slow moving inventories
+
+20,943
+
+9,925
+
+Stock compensation expense
+
+29,211
+
+19,596
+
+Realized gain on marketable securities
+
+(1,068
+)
+
+(76
+)
+
+Changes in operating assets and liabilities:
+
+Accounts receivable
+
+76,372
+
+123,875
+
+Inventories
+
+(41,002
+)
+
+(111,008
+)
+
+Other current and non-current assets
+
+3,400
+
+(110,695
+)
+
+Accounts payable
+
+(40,694
+)
+
+16,864
+
+Other current and non-current liabilities
+
+1,942
+
+(44,636
+)
+
+Deferred revenue
+
+(13,660
+)
+
+(49,790
+)
+
+Deferred cost
+
+(9,906
+)
+
+7,080
+
+Income taxes payable
+
+14,648
+
+(155,529
+)
+
+Net cash provided by operating activities
+
+492,366
+
+122,131
+
+Investing activities:
+
+Purchases of property and equipment
+
+(42,157
+)
+
+(53,297
+)
+
+Proceeds from sale of property and equipment
+
+15
+
+670
+
+Purchase of intangible assets
+
+(4,706
+)
+
+(2,817
+)
+
+Purchase of marketable securities
+
+(739,676
+)
+
+(649,881
+)
+
+Redemption of marketable securities
+
+772,733
+
+720,717
+
+Change in restricted cash
+
+(6
+)
+
+48
+
+Acquisitions, net of cash acquired
+
+(62,137
+)
+
+(12,632
+)
+
+Net cash (used in) provided by investing activities
+
+(75,934
+)
+
+2,808
+
+Financing activities:
+
+Dividends paid
+
+(289,331
+)
+
+(281,247
+)
+
+Purchase of treasury stock under share repurchase plan
+
+(65,221
+)
+
+(108,057
+)
+
+Purchase of treasury stock related to equity awards
+
+(184
+)
+
+(241
+)
+
+Proceeds from issuance of treasury stock related to equity awards
+
+10,210
+
+8,554
+
+Tax benefit from issuance of equity awards
+
+365
+
+1,257
+
+Net cash used in financing activities
+
+(344,161
+)
+
+(379,734
+)
+
+Effect of exchange rate changes on cash and cash equivalents
+
+7,218
+
+(26,566
+)
+
+Net increase (decrease) in cash and cash equivalents
+
+79,489
+
+(281,361
+)
+
+Cash and cash equivalents at beginning of period
+
+833,070
+
+1,196,268
+
+Cash and cash equivalents at end of period
+
+$
+912,559
+
+$
+914,907
+
+See accompanying notes.
+
+6
+
+Garmin Ltd. and Subsidiaries
+
+Notes to Condensed Consolidated Financial
+Statements (Unaudited)
+
+September 24, 2016
+
+(In thousands, except per share information)
+
+1.
+Basis of Presentation
+
+The accompanying unaudited
+condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for
+interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not
+include all of the information and footnotes required by generally accepted accounting principles for complete financial statements.
+In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation
+have been included. Additionally, the condensed consolidated financial statements should be read in conjunction with Item 2 of
+Management's Discussion and Analysis of Financial Condition and Results of Operations, included in this Form 10-Q. Operating results
+for the 13-week and 39-week periods ended September 24, 2016 are not necessarily indicative of the results that may be expected
+for the year ending December 31, 2016.
+
+The condensed consolidated
+balance sheet at December 26, 2015 has been derived from the audited financial statements at that date but does not include all
+of the information and footnotes required by generally accepted accounting principles for complete financial statements. For further
+information, refer to the consolidated financial statements and footnotes thereto included in the Company’s Annual Report
+on Form 10-K for the year ended December 26, 2015.
+
+The Company’s
+fiscal year is based on a 52-53 week period ending on the last Saturday of the calendar year. Therefore the financial results
+of certain 53-week fiscal years, and the associated 14-week quarters, will not be exactly comparable to the prior and subsequent
+52-week fiscal years and the associated 13-week quarters. The quarters ended September 24, 2016 and September 26, 2015 both contain
+operating results for 13 weeks. The Company’s fiscal quarter and year ending December 31, 2016 will contain operating results
+for 14 weeks and 53 weeks, respectively.
+
+At the Company’s
+Annual General Meeting on June 10, 2016, the Company’s shareholders approved the cancellation of 10,000 registered shares
+of the Company held by the Company (the “Formation Shares”) and the reduction in par value of each share of the Company
+from CHF 10 to CHF 0.10 and the amendment of the Company’s Articles of Association to effect a corresponding share capital
+reduction. The Company completed the cancellation of the Formation Shares and the reduction in par value of each share and the
+corresponding reduction of the Company’s issued share capital during the quarter ended September 24, 2016. The related reduction
+of share capital and corresponding increase to additional paid-in capital is reflected within the condensed consolidated balance
+sheet as of September 24, 2016.
+
+2.
+Inventories
+
+The components of
+inventories consist of the following:
+
+September 24,
+
+December 26,
+
+2016
+
+2015
+
+Raw materials
+
+$
+153,247
+
+$
+203,173
+
+Work-in-process
+
+74,563
+
+69,690
+
+Finished goods
+
+353,071
+
+273,762
+
+Inventory reserves
+
+(46,198
+)
+
+(46,071
+)
+
+Inventory, net of reserves
+
+$
+534,683
+
+$
+500,554
+
+7
+
+3.
+Earnings Per Share
+
+The following table
+sets forth the computation of basic and diluted net income per share:
+
+13-Weeks Ended
+
+Sep 24,
+
+Sep 26,
+
+2016
+
+2015
+
+Numerator:
+
+Numerator for basic
+and diluted net income per share - net income
+
+$
+125,054
+
+$
+119,299
+
+Denominator:
+
+Denominator for basic net income per share –
+weighted-average common shares
+
+188,692
+
+190,342
+
+Effect of dilutive securities
+– stock options, stock appreciation rights and restricted stock units
+
+546
+
+480
+
+Denominator for diluted net
+income per share – adjusted weighted-average common shares
+
+189,238
+
+190,822
+
+Basic net income per share
+
+$
+0.66
+
+$
+0.63
+
+Diluted net income per share
+
+$
+0.66
+
+$
+0.63
+
+39-Weeks Ended
+
+Sep 24,
+
+Sep 26,
+
+2016
+
+2015
+
+Numerator:
+
+Numerator for basic
+and diluted net income per share - net income
+
+$
+374,209
+
+$
+323,844
+
+Denominator:
+
+Denominator
+for basic net income per share –
+
+weighted-average common shares
+
+189,027
+
+191,068
+
+Effect of dilutive securities
+– stock options, stock appreciation rights and restricted stock units
+
+349
+
+455
+
+Denominator for diluted net
+income per share – adjusted weighted-average common shares
+
+189,376
+
+191,523
+
+Basic net income per share
+
+$
+1.98
+
+$
+1.69
+
+Diluted net income per share
+
+$
+1.98
+
+$
+1.69
+
+8
+
+There were 3,170 and
+4,075 anti-dilutive stock options, stock appreciation rights and restricted stock units (collectively “equity awards”)
+outstanding during the 13-week periods ended September 24, 2016 and September 26, 2015, respectively.
+
+There were 3,696 and
+4,108 anti-dilutive equity awards outstanding during the 39-week periods ended September 24, 2016 and September 26, 2015, respectively.
+
+There were 26 and
+5 shares issued as a result of exercises and releases of equity awards for the 13-week periods ended September 24, 2016 and September
+26, 2015, respectively.
+
+There were 39 and
+133 shares issued as a result of exercises and releases of equity awards for the 39-week periods ended September 24, 2016 and
+September 26, 2015, respectively.
+
+There were 285 employee
+stock purchase plan (ESPP) shares issued from outstanding Treasury stock during the 39-week period ended September 24, 2016.
+
+There were 214 ESPP
+shares issued from outstanding Treasury stock during the 39-week period ended September 26, 2015.
+
+4.
+Segment Information
+
+The Company has identified
+five reportable segments – Auto, Aviation, Marine, Outdoor and Fitness. The Company’s Chief Operating Decision Maker
+(CODM) assesses segment performance and allocates resources to each segment individually.
+
+Net sales, gross profit,
+and operating income for each of the Company’s reportable segments are presented below. In 2016 the Company moved action
+camera related revenue and expenses from the Outdoor segment to the Auto segment, allowing for alignment and synergies with other
+camera-based efforts occurring within the Auto segment. The overall impact of the move was immaterial. However, action camera
+related operating results for the 13-weeks and 39-weeks ended September 26, 2015 have been recast to conform to the current year
+presentation.
+
+Reportable Segments
+
+Outdoor
+
+Fitness
+
+Marine
+
+Auto
+
+Aviation
+
+Total
+
+13-Weeks Ended September 24, 2016
+
+Net sales
+
+$
+141,006
+
+$
+189,161
+
+$
+70,010
+
+$
+214,637
+
+$
+107,436
+
+$
+722,250
+
+Gross profit
+
+$
+88,497
+
+$
+103,363
+
+$
+39,891
+
+$
+93,638
+
+$
+80,591
+
+$
+405,980
+
+Operating income
+
+$
+49,271
+
+$
+44,774
+
+$
+10,332
+
+$
+24,795
+
+$
+30,444
+
+$
+159,616
+
+13-Weeks Ended September 26, 2015
+
+Net sales
+
+$
+109,863
+
+$
+143,216
+
+$
+62,315
+
+$
+270,064
+
+$
+94,232
+
+$
+679,690
+
+Gross profit
+
+$
+66,442
+
+$
+77,261
+
+$
+34,115
+
+$
+114,331
+
+$
+70,041
+
+$
+362,190
+
+Operating income
+
+$
+37,409
+
+$
+26,577
+
+$
+5,737
+
+$
+32,012
+
+$
+23,722
+
+$
+125,457
+
+39-Weeks Ended September 24, 2016
+
+Net sales
+
+$
+370,929
+
+$
+544,434
+
+$
+264,489
+
+$
+655,963
+
+$
+322,083
+
+$
+2,157,898
+
+Gross profit
+
+$
+232,652
+
+$
+295,463
+
+$
+148,554
+
+$
+292,770
+
+$
+239,349
+
+$
+1,208,788
+
+Operating income
+
+$
+125,721
+
+$
+114,422
+
+$
+49,172
+
+$
+82,984
+
+$
+91,794
+
+$
+464,093
+
+39-Weeks Ended September 26, 2015
+
+Net sales
+
+$
+291,299
+
+$
+432,859
+
+$
+230,325
+
+$
+789,870
+
+$
+294,560
+
+$
+2,038,913
+
+Gross profit
+
+$
+181,525
+
+$
+248,795
+
+$
+128,204
+
+$
+351,223
+
+$
+215,814
+
+$
+1,125,561
+
+Operating income
+
+$
+98,135
+
+$
+94,286
+
+$
+34,204
+
+$
+99,887
+
+$
+77,307
+
+$
+403,819
+
+9
+
+Allocation of certain
+research and development expenses, and selling, general, and administrative expenses are made to each segment on a percent of
+revenue basis.
+
+Net sales and property
+and equipment, net by geographic area are as follows as of and for the 39-week periods ended September 24, 2016 and September 26,
+2015. Note that APAC includes Asia Pacific and Australian Continent and EMEA includes Europe, the Middle East and Africa:
+
+Americas
+
+APAC
+
+EMEA
+
+Total
+
+September 24, 2016
+
+Net sales to external customers
+
+$
+1,073,610
+
+$
+274,083
+
+$
+810,205
+
+$
+2,157,898
+
+Property and equipment, net
+
+$
+297,747
+
+$
+117,301
+
+$
+39,198
+
+$
+454,246
+
+September 26, 2015
+
+Net sales to external customers
+
+$
+1,057,359
+
+$
+237,202
+
+$
+744,352
+
+$
+2,038,913
+
+Property and equipment, net
+
+$
+282,930
+
+$
+108,650
+
+$
+47,514
+
+$
+439,094
+
+5.
+Warranty Reserves
+
+The Company’s
+products sold are generally covered by a warranty for periods ranging from one to two years. The Company’s estimate of costs
+to service its warranty obligations are based on historical experience and expectation of future conditions and are recorded as
+a liability on the balance sheet. The following reconciliation provides an illustration of changes in the aggregate warranty reserve.
+
+13-Weeks Ended
+
+September 24,
+
+September 26,
+
+2016
+
+2015
+
+Balance - beginning of period
+
+$
+34,670
+
+$
+26,101
+
+Accrual for products sold during the period
+
+15,859
+
+8,075
+
+Expenditures
+
+(11,657
+)
+
+(9,527
+)
+
+Balance - end of period
+
+$
+38,872
+
+$
+24,649
+
+39-Weeks Ended
+
+September 24,
+
+September 26,
+
+2016
+
+2015
+
+Balance - beginning of period
+
+$
+30,449
+
+$
+27,609
+
+Accrual for products sold during the period
+
+46,170
+
+25,165
+
+Expenditures
+
+(37,747
+)
+
+(28,125
+)
+
+Balance - end of period
+
+$
+38,872
+
+$
+24,649
+
+6.
+Commitments and Contingencies
+
+The Company is party
+to certain commitments, which include purchases of raw materials, advertising expenditures, investments in certain low income
+housing tax credit projects, and other indirect purchases in connection with conducting our business. The aggregate amount of
+purchase orders and other commitments open as of September 24, 2016 was approximately $277,041. We cannot determine the aggregate
+amount of such purchase orders that represent contractual obligations because purchase orders may represent authorizations to
+purchase rather than binding agreements. Our purchase orders are based on our current needs and are typically fulfilled within
+short periods of time.
+
+10
+
+In the normal course
+of business, the Company and its subsidiaries are parties to various legal claims, investigations and complaints, including matters
+alleging patent infringement and other intellectual property claims. The Company evaluates, on a quarterly basis, developments
+in legal proceedings, investigations or claims that could affect the amount of any accrual or disclosure. The assessment regarding
+whether a loss is probable or a reasonable possibility, and whether the loss or a range of loss is estimable, often involves a
+series of complex judgments about future events.
+
+Management of the
+Company currently does not believe there is at least a reasonable possibility the Company may have incurred a material loss, or
+a material loss in excess of recorded accruals, with respect to loss contingencies individually and in the aggregate, for the
+fiscal quarter ended September 24, 2016. The results of legal proceedings, investigations and claims, however, cannot be predicted
+with certainty. Although management considers the likelihood to be remote, an adverse resolution of one or more of such matters
+in excess of management’s expectations could have a material adverse effect on the Company’s results of operations
+in a particular quarter or fiscal year.
+
+The Company settled
+or resolved certain matters during the fiscal quarter ended September 24, 2016 that did not individually or in the aggregate have
+a material impact on the Company’s financial condition or results of operations.
+
+7.
+Income Taxes
+
+The Company’s
+income tax expense decreased from $45,592 to $24,711 for the 13-week period ended September 24, 2016, compared to the 13-week
+period ended September 26, 2015. The effective tax rate decreased to 16.5% in the third quarter of 2016, compared to 27.6%
+in the third quarter of 2015 primarily due to shifts in the projected income mix by jurisdiction during the third quarter of 2016
+compared to the third quarter of 2015. The decrease in the effective tax rate was also a result of the permanent extension of
+the U.S. research and development tax credit legislation, which had not yet been extended in the third quarter of 2015.
+
+The Company’s
+income tax expense decreased from $90,800 to $86,904 for the first three quarters of 2016, compared to the first three quarters
+of 2015. The effective tax rate decreased to 18.8% for the first three quarters of 2016, compared to 21.9% in the first three
+quarters of 2015 primarily due to shifts in the projected income mix by jurisdiction for 2016 compared to the projection at third
+quarter of 2015. The decrease in the effective tax rate was also a result of the permanent extension of the U.S. research and development
+tax credit legislation, which had not yet been extended in the third quarter of 2015.
+
+8.
+Marketable Securities
+
+The Financial Accounting
+Standards Board ("FASB") ASC topic entitled
+Fair Value Measurements and Disclosures
+defines fair value as the
+price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants
+at the measurement date (exit price). The accounting guidance classifies the inputs used to measure fair value into the following
+hierarchy:
+
+Level 1
+Unadjusted quoted prices in active
+markets for the identical asset or liability
+
+Level 2
+Observable inputs for the asset or
+liability, either directly or indirectly, such as quoted prices for similar assets or
+liabilities in active markets, quoted prices for identical or similar assets or liabilities
+in markets that are not active, or inputs other than quoted prices that are observable
+for the asset or liability
+
+Level 3
+Unobservable inputs for the asset
+or liability
+
+11
+
+The Company endeavors
+to utilize the best available information in measuring fair value. Financial assets and liabilities are classified in their entirety
+based on the lowest level of input that is significant to the fair value measurement. Valuation is based on prices obtained from
+an independent pricing vendor using both market and income approaches. The primary inputs to the valuation include quoted prices
+for similar assets in active markets, quoted prices for identical or similar assets in markets that are not active, contractual
+cash flows, benchmark yields, and credit spreads.
+
+The method described
+above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values.
+Furthermore, while the Company believes its valuation methods are appropriate and consistent with other market participants, the
+use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different
+fair value measurement at the reporting date.
+
+Available-for-sale
+securities measured at estimated fair value on a recurring basis are summarized below:
+
+Fair Value Measurements
+as
+of September 24, 2016
+
+Total
+
+Level 1
+
+Level 2
+
+Level 3
+
+U.S. Treasury securities
+
+$
+28,884
+
+$
+-
+
+$
+28,884
+
+$
+-
+
+Agency securities
+
+69,674
+
+-
+
+69,674
+
+-
+
+Mortgage-backed securities
+
+255,568
+
+-
+
+255,568
+
+-
+
+Corporate securities
+
+908,400
+
+-
+
+908,400
+
+-
+
+Municipal securities
+
+189,067
+
+-
+
+189,067
+
+-
+
+Other
+
+77,314
+
+-
+
+77,314
+
+-
+
+Total
+
+$
+1,528,907
+
+$
+-
+
+$
+1,528,907
+
+$
+-
+
+Fair Value Measurements
+as
+of December 26, 2015
+
+Total
+
+Level 1
+
+Level 2
+
+Level 3
+
+U.S. Treasury securities
+
+$
+27,731
+
+$
+-
+
+$
+27,731
+
+$
+-
+
+Agency securities
+
+208,631
+
+-
+
+208,631
+
+-
+
+Mortgage-backed securities
+
+370,232
+
+-
+
+370,232
+
+-
+
+Corporate securities
+
+648,590
+
+-
+
+648,590
+
+-
+
+Municipal securities
+
+223,562
+
+-
+
+223,562
+
+-
+
+Other
+
+79,802
+
+-
+
+79,802
+
+-
+
+Total
+
+$
+1,558,548
+
+$
+-
+
+$
+1,558,548
+
+$
+-
+
+12
+
+Marketable securities
+classified as available-for-sale securities are summarized below:
+
+Available-For-Sale Securities as
+of September 24,
+2016
+
+Amortized Cost
+
+Gross
+Unrealized
+
+Gains
+
+Gross
+Unrealized
+
+Losses-
+OTTI
+(1)
+
+Gross
+Unrealized
+
+Losses-
+Other
+(2)
+
+Estimated
+Fair Value
+
+(Net
+Carrying
+
+Amount)
+
+U.S. Treasury securities
+
+$
+28,818
+
+$
+109
+
+$
+-
+
+$
+(43
+)
+
+$
+28,884
+
+Agency securities
+
+69,603
+
+139
+
+(0
+)
+
+(68
+)
+
+69,674
+
+Mortgage-backed securities
+
+256,470
+
+683
+
+(429
+)
+
+(1,156
+)
+
+255,568
+
+Corporate securities
+
+909,648
+
+3,403
+
+(685
+)
+
+(3,966
+)
+
+908,400
+
+Municipal securities
+
+188,475
+
+1,148
+
+(2
+)
+
+(554
+)
+
+189,067
+
+Other
+
+77,295
+
+32
+
+(6
+)
+
+(7
+)
+
+77,314
+
+Total
+
+$
+1,530,309
+
+$
+5,514
+
+$
+(1,122
+)
+
+$
+(5,794
+)
+
+$
+1,528,907
+
+Available-For-Sale Securities as
+of December 26,
+2015
+
+Amortized Cost
+
+Gross
+Unrealized
+
+Gains
+
+Gross
+Unrealized
+
+Losses-
+OTTI
+(1)
+
+Gross
+Unrealized
+
+Losses-
+Other
+(2)
+
+Estimated
+Fair Value
+
+(Net
+Carrying
+
+Amount)
+
+U.S. Treasury securities
+
+$
+27,772
+
+$
+27
+
+$
+-
+
+$
+(68
+)
+
+$
+27,731
+
+Agency securities
+
+211,248
+
+105
+
+(2,409
+)
+
+(313
+)
+
+208,631
+
+Mortgage-backed securities
+
+376,801
+
+191
+
+(1,210
+)
+
+(5,550
+)
+
+370,232
+
+Corporate securities
+
+656,447
+
+179
+
+(1,635
+)
+
+(6,401
+)
+
+648,590
+
+Municipal securities
+
+223,991
+
+636
+
+(9
+)
+
+(1,056
+)
+
+223,562
+
+Other
+
+79,853
+
+4
+
+(14
+)
+
+(41
+)
+
+79,802
+
+Total
+
+$
+1,576,112
+
+$
+1,142
+
+$
+(5,277
+)
+
+$
+(13,429
+)
+
+$
+1,558,548
+
+(1)
+Represents impairment not related
+to credit for those investment securities that have been determined to be other-than-temporarily
+impaired.
+
+(2)
+Represents unrealized losses
+on investment securities that have not been determined to be other-than-temporarily impaired.
+
+The Company’s
+investment policy requires investments to be rated A or better with the objective of minimizing the potential risk of principal
+loss. The fair value of the securities varies from period to period due to changes in interest rates, in the performance of the
+underlying collateral and in the credit performance of the underlying issuer, among other factors. The Company does not intend
+to sell the securities that have a material unrealized loss shown in the table above and it is not more likely than not that the
+Company will be required to sell the investment before recovery of their amortized costs bases, which may be maturity.
+
+The Company recognizes
+the credit component of other-than-temporary impairments of debt securities in "Other Income" and the noncredit component
+in "Other comprehensive income (loss)" for those securities that we do not intend to sell and for which it is not more
+likely than not that we will be required to sell before recovery. During 2015 and the 39-week period ending September 24, 2016,
+the Company did not record any material impairment charges on its outstanding securities.
+
+The amortized cost
+and estimated fair value of the securities at an unrealized loss position at September 24, 2016 were $692,047 and $685,131 respectively.
+Approximately 34.7% of securities in our portfolio were at an unrealized loss position at September 24, 2016. We have the ability
+to hold these securities until maturity or their value is recovered. We do not consider these unrealized losses to be other than
+temporary credit losses because there has been no material deterioration in credit quality and no change in the cash flows of
+the underlying securities. We do not intend to sell the securities and it is not more likely than not that we will be required
+to sell the securities; therefore, no material impairment has been recorded in the accompanying condensed consolidated statement
+of income.
+
+The cost of securities
+sold is based on the specific identification method.
+
+13
+
+The following tables
+display additional information regarding gross unrealized losses and fair value by major security type for available-for-sale
+securities in an unrealized loss position as of September 24, 2016 and December 26, 2015:
+
+As of September 24,
+2016
+
+Less than 12 Consecutive
+Months
+
+12 Consecutive Months
+or Longer
+
+Gross
+Unrealized
+
+Losses
+
+Fair Value
+
+Gross
+Unrealized
+
+Losses
+
+Fair Value
+
+U.S. Treasury securities
+
+$
+(43
+)
+
+$
+11,468
+
+$
+-
+
+$
+-
+
+Agency securities
+
+(68
+)
+
+28,531
+
+-
+
+-
+
+Mortgage-backed securities
+
+(649
+)
+
+96,968
+
+(936
+)
+
+63,416
+
+Corporate securities
+
+(3,210
+)
+
+361,653
+
+(1,441
+)
+
+44,097
+
+Municipal securities
+
+(513
+)
+
+61,278
+
+(43
+)
+
+5,752
+
+Other
+
+(1
+)
+
+2,187
+
+(12
+)
+
+9,781
+
+Total
+
+$
+(4,484
+)
+
+$
+562,085
+
+$
+(2,432
+)
+
+$
+123,046
+
+As of December 26, 2015
+
+Less than 12 Consecutive
+Months
+
+12 Consecutive Months
+or Longer
+
+Gross
+Unrealized
+
+Losses
+
+Fair Value
+
+Gross
+Unrealized
+
+Losses
+
+Fair Value
+
+U.S. Treasury securities
+
+$
+(68
+)
+
+$
+22,184
+
+$
+-
+
+$
+-
+
+Agency securities
+
+(691
+)
+
+117,803
+
+(2,031
+)
+
+69,418
+
+Mortgage-backed securities
+
+(4,571
+)
+
+263,735
+
+(2,189
+)
+
+83,722
+
+Corporate securities
+
+(6,719
+)
+
+521,731
+
+(1,317
+)
+
+50,374
+
+Municipal securities
+
+(1,035
+)
+
+116,033
+
+(30
+)
+
+6,557
+
+Other
+
+(29
+)
+
+14,666
+
+(26
+)
+
+14,927
+
+Total
+
+$
+(13,113
+)
+
+$
+1,056,152
+
+$
+(5,593
+)
+
+$
+224,998
+
+The amortized cost
+and estimated fair value of marketable securities at September 24, 2016, by contractual maturity, are shown below. Expected maturities
+will differ from contractual maturities because the issuers of the securities may have the right to prepay obligations without
+prepayment penalties.
+
+Estimated
+
+Cost
+
+Fair Value
+
+Due in one year or less
+
+$
+201,478
+
+$
+201,560
+
+Due after one year through five years
+
+1,082,666
+
+1,084,064
+
+Due after five years through ten years
+
+234,596
+
+231,764
+
+Due after ten years
+
+11,569
+
+11,519
+
+$
+1,530,309
+
+$
+1,528,907
+
+9.
+Share Repurchase
+Plan
+
+On February 13, 2015,
+the Board of Directors approved a share repurchase program authorizing the Company to repurchase up to $300,000 of the common
+shares of Garmin Ltd. The repurchases may be made from time to time as market and business conditions warrant on the open market
+or in negotiated transactions in compliance with the SEC’s Rule 10b-18. The timing and amounts of any repurchases will be
+determined by the Company’s management depending on market conditions and other factors including price, regulatory requirements
+and capital availability. The program does not require the purchase of any minimum number of shares and may be suspended or discontinued
+at any time. The share repurchase authorization expires on December 31, 2016. As of September 24, 2016, the Company had repurchased
+4,729 shares using cash of $196,633. There remains approximately $103,367 available to repurchase additional shares under this
+authorization.
+
+14
+
+10.
+Accumulated
+Other Comprehensive Income
+
+The following provides
+required disclosure of changes in accumulated other comprehensive income (AOCI) balances by component for the 13-week and 39-week
+periods ended September 24, 2016:
+
+13-Weeks Ended September
+24, 2016
+
+Foreign
+Currency
+
+Translation
+
+Adjustment
+
+Gross
+unrealized
+
+losses
+on available-
+
+for-sale
+securities-
+
+OTTI
+(3)
+
+Net
+unrealized gains
+
+(losses)
+on available-
+
+for-sale
+securities-
+
+Other
+(4)
+
+Total
+
+Balance - beginning of period
+
+$
+(1,945
+)
+
+$
+(1,166
+)
+
+$
+1,708
+
+$
+(1,403
+)
+
+Other comprehensive income before reclassification
+
+29,598
+
+44
+
+(1,626
+)
+
+28,016
+
+Amounts reclassified from accumulated other comprehensive
+income
+
+-
+
+-
+
+(847
+)
+
+(847
+)
+
+Net current-period other comprehensive income
+
+29,598
+
+44
+
+(2,473
+)
+
+27,169
+
+Balance - end of period
+
+$
+27,653
+
+$
+(1,122
+)
+
+$
+(765
+)
+
+$
+25,766
+
+39-Weeks Ended September
+26, 2016
+
+Foreign
+Currency
+
+Translation
+
+Adjustment
+
+Gross
+unrealized
+
+losses
+on available-
+
+for-sale
+securities-
+
+OTTI
+(3)
+
+Net
+unrealized gains
+
+(losses)
+on available-
+
+for-sale
+securities-
+
+Other
+(4)
+
+Total
+
+Balance - beginning of period
+
+$
+(14,107
+)
+
+$
+(5,277
+)
+
+$
+(11,044
+)
+
+$
+(30,428
+)
+
+Other comprehensive income before reclassification
+
+41,760
+
+4,155
+
+11,622
+
+57,537
+
+Amounts reclassified from accumulated other comprehensive
+income
+
+-
+
+-
+
+(1,343
+)
+
+(1,343
+)
+
+Net current-period other comprehensive income
+
+41,760
+
+4,155
+
+10,279
+
+56,194
+
+Balance - end of period
+
+$
+27,653
+
+$
+(1,122
+)
+
+$
+(765
+)
+
+$
+25,766
+
+(3) Represents the change in impairment,
+not related to credit, for those investment securities that have been determined to be other-than-temporarily impaired.
+
+(4) Represents the change in unrealized
+gains (losses) on investment securities that have not been determined to be other-than-temporarily impaired.
+
+The following provides
+required disclosure of reporting reclassifications out of AOCI for the 13-week and 39-week periods ended September 24, 2016:
+
+13-Weeks Ended September
+24, 2016
+
+Details
+about
+
+Accumulated
+Other
+
+Comprehensive
+Income
+
+Components
+
+Amount
+Reclassified
+
+from
+Accumulated
+
+Other
+Comprehensive
+
+Income
+
+Affected
+Line Item
+
+in
+the Statement
+
+Where
+Net Income
+
+is
+Presented
+
+Unrealized gains (losses) on available-for-sale securities
+
+$
+880
+
+Other income (expense)
+
+(33
+)
+
+Income tax (provision) benefit
+
+$
+847
+
+Net of tax
+
+15
+
+39-Weeks Ended September
+24, 2016
+
+Details
+about
+
+Accumulated
+Other
+
+Comprehensive
+Income
+
+Components
+
+Amount
+Reclassified
+
+from
+Accumulated
+
+Other
+Comprehensive
+
+Income
+
+Affected
+Line Item
+
+in
+the Statement
+
+Where
+Net Income
+
+is
+Presented
+
+Unrealized gains (losses) on available-for-sale securities
+
+$
+1,068
+
+Other income (expense)
+
+275
+
+Income tax (provision) benefit
+
+$
+1,343
+
+Net of tax
+
+11.
+Recently
+Issued Accounting Pronouncements
+
+In May 2014, the FASB
+issued Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers (Topic 606) (“ASU
+2014-09”), which supersedes previous revenue recognition guidance. ASU 2014-09 requires that a company will recognize revenue
+at an amount that reflects the consideration to which the company expects to be entitled in exchange for transferring goods or
+services to a customer. The new standard may be applied retrospectively to each prior period presented or in a modified retrospective
+approach in which the cumulative effect will be recognized as of the date of adoption. Additional updates to Topic 606 issued
+by the FASB in 2015 and 2016 include the following:
+
+·
+ASU
+No. 2015-14, Revenue from Contracts with Customers (Topic 606): Deferral of the Effective
+Date (“ASU 2015-14”), which defers the effective date of the new guidance
+such that the new provisions will now be required for fiscal years, and interim periods
+within those years, beginning after December 15, 2017
+
+·
+ASU
+No. 2016-08, Revenue from Contracts with Customers (Topic 606): Principal versus Agent
+Considerations (“ASU 2016-08”), which clarifies the implementation guidance
+on principal versus agent considerations (reporting revenue gross versus net).
+
+·
+ASU
+No. 2016-10, Revenue from Contracts with Customers (Topic 606): Identifying Performance
+Obligations and Licensing (“ASU 2016-10”), which clarifies the implementation
+guidance on identifying performance obligations and classifying licensing arrangements
+
+·
+ASU
+No. 2016-12, Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements
+and Practical Expedients (“ASU 2016-12”), which clarifies the implementation
+guidance in a number of other areas.
+
+The Company is currently evaluating the
+impact of adopting the new revenue standards on its consolidated financial statements.
+
+In January 2016, the
+FASB issued Accounting Standards Update No. 2016-01, Financial Instruments—Overall (Subtopic 825-10): Recognition and Measurement
+of Financial Assets and Financial Liabilities (“ASU 2016-01”). The standard addresses certain aspects of recognition,
+measurement, presentation, and disclosure of financial instruments. ASU 2016-01 is effective for fiscal years, and interim periods
+within those years, beginning after December 15, 2017. The Company is currently evaluating the impact of adopting the new standard
+on its consolidated financial statements.
+
+In February 2016,
+the FASB issued Accounting Standards Update No. 2016-02, Leases (Topic 842) (“ASU 2016-02”), which sets out the principles
+for the recognition, measurement, presentation and disclosure of leases for both lessees and lessors. ASU 2016-02 requires lessees
+to present a right-of-use asset and a corresponding lease liability on the balance sheet. Lessor accounting is substantially unchanged
+compared to the current accounting guidance. ASU 2016-02 is effective for fiscal years, and interim periods within those years,
+beginning after December 15, 2018. Early adoption is permitted. The Company is currently evaluating the impact of adopting the
+new standard on its consolidated financial statements.
+
+16
+
+In March 2016, the
+FASB issued Accounting Standards Update No. 2016-09, Compensation—Stock Compensation (Topic 718): Improvements to Employee
+Share-Based Payment Accounting (“ASU 2016-09”), which is intended to simplify the accounting for share-based payment
+awards. The standard includes provisions addressing income tax consequences, classification of awards as either equity or liabilities,
+and classification on the statement of cash flows. ASU 2016-09 is effective for fiscal years, and interim periods within those
+years, beginning after December 15, 2016. The Company does not intend to early adopt ASU 2016-09, rather, adoption will occur
+in the fiscal year ending December 30, 2017. ASU 2016-09 requires that tax effects from stock-based compensation be recognized
+in the income tax provision, as these amounts are currently recognized in additional paid-in capital. The Company believes this
+aspect of the standard may have a material effect on the income tax provision within the consolidated statements of income in
+future periods. Furthermore, under ASU 2016-09, excess income tax benefits from stock-based compensation arrangements are classified
+as a cash flow from operations, rather than as a cash flow from financing activities. The Company will apply both changes prospectively.
+The Company is currently unable to reasonably estimate the impact of these changes due to the dependency of these items on the
+underlying share price of the Company.
+
+In August 2016, the
+FASB issued Accounting Standards Update No. 2016-15, Statement of Cash Flows (Topic 230): Classification of
+Certain Cash Receipts and Cash Payments (“ASU 2016-15”), which adds or clarifies guidance on the classification of
+certain cash receipts and payments in the statement of cash flows. The standard addresses eight specific cash flow issues with
+the objective of reducing diversity in practice. ASU 2016-15 is effective for fiscal years, and interim periods within those years,
+beginning after December 15, 2017. Early adoption is permitted. The Company is currently evaluating the impact of adopting the
+new standard on its consolidated financial statements.
+
+12.
+Subsequent
+Events
+
+On September 30, 2016,
+the Company acquired the shares of Iiyonet, Inc., a key distributor of Garmin’s consumer products in Japan. This acquisition
+was not material.
+
+Item 2. Management’s Discussion
+and Analysis of Financial Condition and Results of Operations
+
+The discussion set
+forth below, as well as other portions of this Quarterly Report, contains statements concerning potential future events. Such
+forward-looking statements are based upon assumptions by management, as of the date of this Quarterly Report, including assumptions
+about risks and uncertainties faced by the Company. Readers can identify these forward-looking statements by their use of such
+verbs as expects, anticipates, believes or similar verbs or conjugations of such verbs. If any of the Company’s assumptions
+prove incorrect or should unanticipated circumstances arise, actual results could materially differ from those anticipated by
+such forward-looking statements. The differences could be caused by a number of factors or combination of factors including, but
+not limited to, those factors identified in the Company’s Annual Report on Form 10-K for the year ended December 26, 2015.
+This report has been filed with the Securities and Exchange Commission (the "SEC" or the "Commission") in
+Washington, D.C. and can be obtained by contacting the SEC's public reference operations or obtaining it through the SEC's website
+at http://www.sec.gov. Readers are strongly encouraged to consider those factors when evaluating any forward-looking statement
+concerning the Company. The Company will not update any forward-looking statements in this Quarterly Report to reflect future
+events or developments.
+
+The information contained
+in this Management’s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction
+with the Condensed Consolidated Financial Statements and Notes thereto included in this Form 10-Q and the audited financial statements
+and notes thereto in the Company’s Annual Report on Form 10-K for the year ended December 26, 2015.
+
+17
+
+The Company is a leading
+worldwide provider of navigation, communications and information devices, most of which are enabled by Global Positioning System,
+or GPS, technology. We operate in five business segments, the outdoor, fitness, marine, auto and aviation markets. The Company’s
+segments offer products through its network of independent dealers and distributors. However, the nature of products and types
+of customers for the five segments may vary significantly. As such, the segments are managed separately.
+
+Results of Operations
+
+The following table
+sets forth the Company’s results of operations as a percentage of net sales during the periods shown (the table may not
+foot due to rounding):
+
+13-Weeks Ended
+
+September 24, 2016
+
+September 26, 2015
+
+Net sales
+
+100
+%
+
+100
+%
+
+Cost of goods sold
+
+44
+%
+
+47
+%
+
+Gross profit
+
+56
+%
+
+53
+%
+
+Advertising
+
+5
+%
+
+5
+%
+
+Selling, general and administrative
+
+13
+%
+
+14
+%
+
+Research and development
+
+16
+%
+
+16
+%
+
+Total operating expenses
+
+34
+%
+
+35
+%
+
+Operating income
+
+22
+%
+
+18
+%
+
+Other income (expense), net
+
+(1
+)%
+
+6
+%
+
+Income before income taxes
+
+21
+%
+
+24
+%
+
+Provision for income taxes
+
+3
+%
+
+7
+%
+
+Net income
+
+17
+%
+
+18
+%
+
+39-Weeks Ended
+
+September 24, 2016
+
+September 26, 2015
+
+Net sales
+
+100
+%
+
+100
+%
+
+Cost of goods sold
+
+44
+%
+
+45
+%
+
+Gross profit
+
+56
+%
+
+55
+%
+
+Advertising
+
+5
+%
+
+5
+%
+
+Selling, general and administrative
+
+14
+%
+
+14
+%
+
+Research and development
+
+16
+%
+
+16
+%
+
+Total operating expenses
+
+35
+%
+
+35
+%
+
+Operating income
+
+22
+%
+
+20
+%
+
+Other income (expense), net
+
+0
+%
+
+1
+%
+
+Income before income taxes
+
+21
+%
+
+20
+%
+
+Provision for income taxes
+
+4
+%
+
+4
+%
+
+Net income
+
+17
+%
+
+16
+%
+
+The Company manages
+its operations in five segments: outdoor, fitness, marine, auto, and aviation, and each of its segments employs the same accounting
+policies. Allocation of certain research and development expenses, and selling, general, and administrative expenses are made
+to each segment on a percent of revenue basis. The segment table located in Note 4 sets forth the Company’s results of operations
+(in thousands) including net sales, gross profit, and operating income for each of the Company’s five segments during the
+periods shown. For each line item in the table, the total of the outdoor, fitness, marine, auto, and aviation segments' amounts
+equals the amount in the condensed consolidated statements of income included in Item 1.
+
+In 2016 the Company
+moved action camera related revenue and expenses from the Outdoor segment to the Auto segment, allowing for alignment and synergies
+with other camera-based efforts occurring within the Auto segment. The overall impact of the move was immaterial. However, action
+camera related operating results for the 13-weeks and 39-weeks ended September 26, 2015 have been recast to conform to the current
+year presentation.
+
+Comparison of 13-weeks ended September
+24, 2016 and September 26, 2015
+
+(Amounts included in the following
+discussion are stated in thousands unless otherwise indicated)
+
+Net Sales
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Year over Year
+
+Net Sales
+
+% of Revenues
+
+Net Sales
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+141,006
+
+19
+%
+
+$
+109,863
+
+16
+%
+
+$
+31,143
+
+28
+%
+
+Fitness
+
+189,161
+
+26
+%
+
+143,216
+
+21
+%
+
+45,945
+
+32
+%
+
+Marine
+
+70,010
+
+10
+%
+
+62,315
+
+9
+%
+
+7,695
+
+12
+%
+
+Auto
+
+214,637
+
+30
+%
+
+270,064
+
+40
+%
+
+(55,427
+)
+
+-21
+%
+
+Aviation
+
+107,436
+
+15
+%
+
+94,232
+
+14
+%
+
+13,204
+
+14
+%
+
+Total
+
+$
+722,250
+
+100
+%
+
+$
+679,690
+
+100
+%
+
+$
+42,560
+
+6
+%
+
+18
+
+Net sales increased
+6% for the 13-week period ended September 24, 2016 when compared to the year-ago quarter. All segments, excluding Auto grew in
+the quarter. Auto revenue remains the largest portion of our revenue mix at 30% in the third quarter of 2016 compared to 40% in
+the third quarter of 2015.
+
+Total unit sales decreased
+slightly to 3,848 in the third quarter of 2016 from 3,861 in the same period of 2015.
+
+Auto segment revenue decreased 21% from
+the year-ago quarter, primarily due to the ongoing PND market contraction and additional revenue deferrals with certain OEM products
+when compared to third quarter 2015. Revenues in our fitness segment increased 32% from the year-ago quarter on the strength of
+activity trackers, running, and cycling products. Revenues in our outdoor segment increased 28% from the year-ago quarter primarily
+driven by growth in our wearable category and the newly acquired DeLorme product lines. Revenues in our marine segment increased
+12% from the year-ago quarter primarily due to increases in chartplotters, fish finders, and entertainment systems. Aviation revenues
+increased 14% from the year-ago quarter due to growth in both OEM and Aftermarket sales.
+
+Cost of Goods Sold
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Year over Year
+
+Cost of Goods
+
+% of Revenues
+
+Cost of Goods
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+52,509
+
+37
+%
+
+$
+43,421
+
+40
+%
+
+$
+9,088
+
+21
+%
+
+Fitness
+
+85,798
+
+45
+%
+
+65,955
+
+46
+%
+
+19,843
+
+30
+%
+
+Marine
+
+30,119
+
+43
+%
+
+28,200
+
+45
+%
+
+1,919
+
+7
+%
+
+Auto
+
+120,999
+
+56
+%
+
+155,733
+
+58
+%
+
+(34,734
+)
+
+-22
+%
+
+Aviation
+
+26,845
+
+25
+%
+
+24,191
+
+26
+%
+
+2,654
+
+11
+%
+
+Total
+
+$
+316,270
+
+44
+%
+
+$
+317,500
+
+47
+%
+
+$
+(1,230
+)
+
+0
+%
+
+Cost of goods sold
+decreased 290 basis points as a percentage of revenue from the year-ago quarter with decreases across all segments. In absolute
+dollars third quarter 2016 cost of goods sold was $1.2 million lower than the prior year quarter, or relatively flat on a percentage
+change basis.
+
+In the auto
+segment, the decrease of 22% in cost of goods sold reflects lower PND shipments. In the outdoor and fitness segments,
+the increases of 21% and 30% in cost of goods sold, respectively, primarily reflect strong volume growth. In the marine
+and aviation segments, the increases of 7% and 11% in cost of goods sold, respectively, reflect volume growth.
+
+Gross Profit
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Year over Year
+
+Gross Profit
+
+% of Revenues
+
+Gross Profit
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+88,497
+
+63
+%
+
+$
+66,442
+
+60
+%
+
+$
+22,055
+
+33
+%
+
+Fitness
+
+103,363
+
+55
+%
+
+77,261
+
+54
+%
+
+26,102
+
+34
+%
+
+Marine
+
+39,891
+
+57
+%
+
+34,115
+
+55
+%
+
+5,776
+
+17
+%
+
+Auto
+
+93,638
+
+44
+%
+
+114,331
+
+42
+%
+
+(20,693
+)
+
+-18
+%
+
+Aviation
+
+80,591
+
+75
+%
+
+70,041
+
+74
+%
+
+10,550
+
+15
+%
+
+Total
+
+$
+405,980
+
+56
+%
+
+$
+362,190
+
+53
+%
+
+$
+43,790
+
+12
+%
+
+Gross profit dollars
+in the third quarter of 2016 increased 12% while gross profit margin increased 290 basis points compared to the third quarter
+of 2015. All segments had increases in gross margin rate.
+
+19
+
+Advertising Expense
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Advertising
+
+Advertising
+
+Year over Year
+
+Expense
+
+% of Revenues
+
+Expense
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+6,459
+
+5
+%
+
+$
+5,704
+
+5
+%
+
+$
+755
+
+13
+%
+
+Fitness
+
+14,616
+
+8
+%
+
+16,394
+
+11
+%
+
+(1,778
+)
+
+-11
+%
+
+Marine
+
+2,941
+
+4
+%
+
+3,220
+
+5
+%
+
+(279
+)
+
+-9
+%
+
+Auto
+
+6,992
+
+3
+%
+
+10,229
+
+4
+%
+
+(3,237
+)
+
+-32
+%
+
+Aviation
+
+1,948
+
+2
+%
+
+1,340
+
+1
+%
+
+608
+
+45
+%
+
+Total
+
+$
+32,956
+
+5
+%
+
+$
+36,887
+
+5
+%
+
+$
+(3,931
+)
+
+-11
+%
+
+Advertising expense
+decreased 11% in absolute dollars and was relatively flat as a percent of revenues. The decrease in absolute dollars was primarily
+in auto.
+
+Selling, General and Administrative
+Expense
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Selling, General &
+
+Selling, General &
+
+Year over Year
+
+Admin. Expenses
+
+% of Revenues
+
+Admin. Expenses
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+20,074
+
+14
+%
+
+$
+14,099
+
+13
+%
+
+$
+5,975
+
+42
+%
+
+Fitness
+
+27,294
+
+14
+%
+
+21,458
+
+15
+%
+
+5,836
+
+27
+%
+
+Marine
+
+13,041
+
+19
+%
+
+12,119
+
+19
+%
+
+922
+
+8
+%
+
+Auto
+
+30,875
+
+14
+%
+
+40,030
+
+15
+%
+
+(9,155
+)
+
+-23
+%
+
+Aviation
+
+5,675
+
+5
+%
+
+6,351
+
+7
+%
+
+(676
+)
+
+-11
+%
+
+Total
+
+$
+96,959
+
+13
+%
+
+$
+94,057
+
+14
+%
+
+$
+2,902
+
+3
+%
+
+Selling, general and
+administrative expense increased 3% in absolute dollars and decreased 40 basis points as a percent of revenues compared to the
+year-ago quarter. The absolute dollar increase is primarily due to increased bad debt expense and IT related costs. Variances
+by segment are primarily due to the allocation of certain selling, general and administrative expenses based on percentage of
+total revenues.
+
+Research and Development Expense
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Research &
+
+Research &
+
+Year over Year
+
+Development
+
+% of Revenues
+
+Development
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+12,693
+
+9
+%
+
+$
+9,230
+
+8
+%
+
+$
+3,463
+
+38
+%
+
+Fitness
+
+16,679
+
+9
+%
+
+12,832
+
+9
+%
+
+3,847
+
+30
+%
+
+Marine
+
+13,577
+
+19
+%
+
+13,039
+
+21
+%
+
+538
+
+4
+%
+
+Auto
+
+30,976
+
+14
+%
+
+32,060
+
+12
+%
+
+(1,084
+)
+
+-3
+%
+
+Aviation
+
+42,524
+
+40
+%
+
+38,628
+
+41
+%
+
+3,896
+
+10
+%
+
+Total
+
+$
+116,449
+
+16
+%
+
+$
+105,789
+
+16
+%
+
+$
+10,660
+
+10
+%
+
+Research and development
+expense increased 10% due to ongoing development activities for new products. In absolute dollars, research and development costs
+increased $10.7 million when compared with the year-ago quarter and were stable as a percent of revenue. Our research and development
+spending is focused on product development, improving existing software capabilities, and exploring new categories.
+
+Operating Income
+
+13-weeks ended September 24, 2016
+
+13-weeks ended September 26, 2015
+
+Year over Year
+
+Operating Income
+
+% of Revenues
+
+Operating Income
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+49,271
+
+35
+%
+
+$
+37,409
+
+34
+%
+
+$
+11,862
+
+32
+%
+
+Fitness
+
+44,774
+
+24
+%
+
+26,577
+
+19
+%
+
+18,197
+
+68
+%
+
+Marine
+
+10,332
+
+15
+%
+
+5,737
+
+9
+%
+
+4,595
+
+80
+%
+
+Auto
+
+24,795
+
+12
+%
+
+32,012
+
+12
+%
+
+(7,217
+)
+
+-23
+%
+
+Aviation
+
+30,444
+
+28
+%
+
+23,722
+
+25
+%
+
+6,722
+
+28
+%
+
+Total
+
+$
+159,616
+
+22
+%
+
+$
+125,457
+
+18
+%
+
+$
+34,159
+
+27
+%
+
+20
+
+Operating income increased
+27% in absolute dollars and 360 basis points as a percent of revenue when compared to the third quarter of 2015. The increase
+in operating income is due to revenue growth and an improved gross margin percentage partially offset by an increase in operating
+expense.
+
+Other Income (Expense)
+
+13-weeks ended
+
+13-weeks ended
+
+September 24, 2016
+
+September 26, 2015
+
+Interest Income
+
+$
+8,226
+
+$
+6,851
+
+Foreign Currency gains (losses)
+
+(19,421
+)
+
+30,573
+
+Other
+
+1,344
+
+2,010
+
+Total
+
+$
+(9,851
+)
+
+$
+39,434
+
+The average return
+on cash and investments during the third quarter of 2016 was 1.5% compared to 1.1% during the same quarter of 2015. Higher interest
+income in the third quarter of 2016, as compared to the same period of 2015, is attributable to an increased rate of return on
+investments.
+
+Foreign
+currency gains and losses of the Company are typically driven by movements in the Taiwan Dollar and the Euro in relation to
+the U.S. Dollar. The Taiwan Dollar is the functional currency of Garmin Corporation. The U.S. Dollar is the functional
+currency of Garmin (Europe) Ltd. The Euro is the functional currency of most other European subsidiaries. The majority of the
+Company’s consolidated foreign currency gains or losses results from the exchange rate impact on the significant cash,
+receivables, and payables held in a currency other than the functional currency at one of the Company’s subsidiaries.
+Currency fluctuations related to currencies other than the Taiwan Dollar and the Euro are not expected to have a material
+impact on the Company's financial statements.
+
+The $19.4 million
+currency loss in the third quarter of 2016 was primarily due to the weakening of the U.S. Dollar against the Taiwan Dollar. During
+the third quarter of 2016, the U.S. Dollar weakened 3.5% against the Taiwan Dollar, resulting in a loss of $20.9 million, while
+the U.S. Dollar weakened 1.0% against the Euro, resulting in a gain of $2.6 million. The remaining net currency loss of $1.1 million
+is related to other currencies and timing of transactions.
+
+The $30.6 million
+currency gain in the third quarter 2015 was due to the U.S. Dollar strengthening against the Taiwan Dollar while the U.S. Dollar
+weakened slightly against the Euro. During the third quarter of 2015, the U.S. Dollar strengthened 6.5% compared to the Taiwan
+Dollar resulting in a gain of $41.1 million while the U.S. Dollar weakened 0.1% against the Euro resulting in a gain of $0.3 million.
+The remaining net currency loss of $10.8 million is related to other currencies and timing of transactions.
+
+Income Tax Provision
+
+The Company’s
+income tax expense decreased from $45.6 million to $24.7 million for the 13-week period ended September 24, 2016, compared to
+the 13-week period ended September 26, 2015. The effective tax rate decreased to 16.5% in the third quarter of 2016, compared
+to 27.6% in the third quarter of 2015 primarily due to shifts in the projected income mix by jurisdiction during the third quarter
+of 2016 compared to the third quarter of 2015. The decrease in the effective tax rate was also a result of the permanent extension
+of the U.S. research and development tax credit legislation, which had not yet been extended in the third quarter of 2015.
+
+Net Income
+
+As a result of the
+above, net income for the 13-weeks ended September 24, 2016 was $125.1 million compared to $119.3 million for the 13-week period
+ended September 26, 2015, an increase of $5.8 million.
+
+21
+
+Comparison of 39-Weeks Ended September
+24, 2016 and September 26, 2015
+
+(Amounts included in the following
+discussion are stated in thousands unless otherwise indicated)
+
+Net Sales
+
+39-weeks ended September 24, 2016
+
+39-weeks ended September 26, 2015
+
+Year over Year
+
+Net Sales
+
+% of Revenues
+
+Net Sales
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+370,929
+
+17
+%
+
+$
+291,299
+
+14
+%
+
+$
+79,630
+
+27
+%
+
+Fitness
+
+544,434
+
+26
+%
+
+432,859
+
+21
+%
+
+111,575
+
+26
+%
+
+Marine
+
+264,489
+
+12
+%
+
+230,325
+
+11
+%
+
+34,164
+
+15
+%
+
+Auto
+
+655,963
+
+30
+%
+
+789,870
+
+39
+%
+
+(133,907
+)
+
+-17
+%
+
+Aviation
+
+322,083
+
+15
+%
+
+294,560
+
+15
+%
+
+27,523
+
+9
+%
+
+Total
+
+$
+2,157,898
+
+100
+%
+
+$
+2,038,913
+
+100
+%
+
+$
+118,985
+
+6
+%
+
+Net sales increased
+6% for the 39-week period ended September 24, 2016 when compared to the prior year period. All segments had an increase in revenue
+except for auto. Auto revenue remains the largest portion of our revenue mix at 30% in the first three quarters of 2016 compared
+to 39% in the first three quarters of 2015.
+
+Total unit sales increased
+3% to 11,374 in the first three quarters of 2016 from 11,055 in the same period of 2015.
+
+Auto segment revenue decreased 17% from
+the year-ago period, primarily due to the ongoing PND market contraction and additional revenue deferrals with certain OEM products
+when compared to first three quarters of 2015. Outdoor revenue increased 27% primarily driven by growth in our wearables and the
+newly acquired DeLorme product lines. Fitness revenues increased 26% due to growth of our activity tracker, running, and cycling
+categories. Revenues in our marine segment increased 15% primarily due to increases in chartplotters, fish finders, and entertainment
+systems compared to the first three quarters of 2015. Aviation revenues increased 9% from the year-ago period due to growth in
+both OEM and Aftermarket sales.
+
+Cost of Goods
+Sold
+
+39-weeks ended September 24, 2016
+
+39-weeks ended September 26, 2015
+
+Year over Year
+
+Cost of Goods
+
+% of Revenues
+
+Cost of Goods
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+138,277
+
+37
+%
+
+$
+109,774
+
+38
+%
+
+$
+28,503
+
+26
+%
+
+Fitness
+
+248,971
+
+46
+%
+
+184,064
+
+43
+%
+
+64,907
+
+35
+%
+
+Marine
+
+115,935
+
+44
+%
+
+102,121
+
+44
+%
+
+13,814
+
+14
+%
+
+Auto
+
+363,193
+
+55
+%
+
+438,647
+
+56
+%
+
+(75,454
+)
+
+-17
+%
+
+Aviation
+
+82,734
+
+26
+%
+
+78,746
+
+27
+%
+
+3,988
+
+5
+%
+
+Total
+
+$
+949,110
+
+44
+%
+
+$
+913,352
+
+45
+%
+
+$
+35,758
+
+4
+%
+
+Cost of goods sold
+increased 4% in absolute dollars for the first three quarters of 2016 when compared to the year ago period.
+
+In the auto segment,
+the cost of goods decline reflects lower PND shipments. In the outdoor and fitness segments, the increases of 26% and 35% in cost
+of goods sold, respectively, primarily reflect strong volume growth. In the marine and aviation segments, the increases of 14%
+and 5% in cost of goods sold, respectively, reflect volume growth.
+
+22
+
+Gross Profit
+
+39-weeks ended September 24, 2016
+
+39-weeks ended September 26, 2015
+
+Year over Year
+
+Gross Profit
+
+% of Revenues
+
+Gross Profit
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+232,652
+
+63
+%
+
+$
+181,525
+
+62
+%
+
+$
+51,127
+
+28
+%
+
+Fitness
+
+295,463
+
+54
+%
+
+248,795
+
+57
+%
+
+46,668
+
+19
+%
+
+Marine
+
+148,554
+
+56
+%
+
+128,204
+
+56
+%
+
+20,350
+
+16
+%
+
+Auto
+
+292,770
+
+45
+%
+
+351,223
+
+44
+%
+
+(58,453
+)
+
+-17
+%
+
+Aviation
+
+239,349
+
+74
+%
+
+215,814
+
+73
+%
+
+23,535
+
+11
+%
+
+Total
+
+$
+1,208,788
+
+56
+%
+
+$
+1,125,561
+
+55
+%
+
+$
+83,227
+
+7
+%
+
+Gross profit dollars
+in the first three quarters of 2016 increased 7% while gross profit margin increased 80 basis points compared to the first three
+quarters of 2015. Fitness margin declined to 54% due to product mix. All other segment gross margin rates are relatively consistent
+between the first three quarters of 2016 compared to the first three quarters of 2015.
+
+Advertising Expense
+
+39-weeks ended September 24, 2016
+
+39-weeks ended September 26, 2015
+
+Advertising
+
+Advertising
+
+Year over Year
+
+Expense
+
+% of Revenues
+
+Expense
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+18,319
+
+5
+%
+
+$
+16,059
+
+6
+%
+
+$
+2,260
+
+14
+%
+
+Fitness
+
+51,844
+
+10
+%
+
+47,519
+
+11
+%
+
+4,325
+
+9
+%
+
+Marine
+
+12,267
+
+5
+%
+
+13,020
+
+6
+%
+
+(753
+)
+
+-6
+%
+
+Auto
+
+21,790
+
+3
+%
+
+29,260
+
+4
+%
+
+(7,470
+)
+
+-26
+%
+
+Aviation
+
+5,221
+
+2
+%
+
+4,494
+
+2
+%
+
+727
+
+16
+%
+
+Total
+
+$
+109,441
+
+5
+%
+
+$
+110,352
+
+5
+%
+
+$
+(911
+)
+
+-1
+%
+
+Advertising expense
+decreased 1% in absolute dollars and was relatively flat as a percent of revenue compared to the year-ago period. The decrease
+in absolute dollars is primarily attributable to auto partially offset by fitness and outdoor.
+
+Selling, General
+and Administrative Expenses
+
+39-weeks ended September 24, 2016
+
+39-weeks ended September 26, 2015
+
+Selling, General &
+
+Selling, General &
+
+Year over Year
+
+Admin. Expenses
+
+% of Revenues
+
+Admin. Expenses
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+54,321
+
+15
+%
+
+$
+39,880
+
+14
+%
+
+$
+14,441
+
+36
+%
+
+Fitness
+
+82,104
+
+15
+%
+
+68,661
+
+16
+%
+
+13,443
+
+20
+%
+
+Marine
+
+46,579
+
+18
+%
+
+41,396
+
+18
+%
+
+5,183
+
+13
+%
+
+Auto
+
+94,665
+
+14
+%
+
+121,752
+
+15
+%
+
+(27,087
+)
+
+-22
+%
+
+Aviation
+
+18,577
+
+6
+%
+
+18,670
+
+6
+%
+
+(93
+)
+
+0
+%
+
+Total
+
+$
+296,246
+
+14
+%
+
+$
+290,359
+
+14
+%
+
+$
+5,887
+
+2
+%
+
+Selling, general and
+administrative expense increased 2% in absolute dollars and decreased 50 basis points as a percent of revenues compared to the
+year-ago period. The absolute dollar increase is primarily due to increased bad debt expense and IT related costs. Variances by
+segment are primarily due to the allocation of certain selling, general and administrative expenses based on percentage of total
+revenues.
+
+23
+
+Research and Development Expense
+
+39-weeks ended
+September 24, 2016
+
+39-weeks ended
+September 26, 2015
+
+Research &
+
+Research &
+
+Year over
+Year
+
+Development
+
+% of Revenues
+
+Development
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+34,291
+
+9
+%
+
+$
+27,451
+
+9
+%
+
+$
+6,840
+
+25
+%
+
+Fitness
+
+47,093
+
+9
+%
+
+38,329
+
+9
+%
+
+8,764
+
+23
+%
+
+Marine
+
+40,536
+
+15
+%
+
+39,584
+
+17
+%
+
+952
+
+2
+%
+
+Auto
+
+93,331
+
+14
+%
+
+100,324
+
+13
+%
+
+(6,993
+)
+
+-7
+%
+
+Aviation
+
+123,757
+
+38
+%
+
+115,343
+
+39
+%
+
+8,414
+
+7
+%
+
+Total
+
+$
+339,008
+
+16
+%
+
+$
+321,031
+
+16
+%
+
+$
+17,977
+
+6
+%
+
+Research and development
+expense increased 6% due to ongoing development activities for new products. In absolute dollars, research and development costs
+increased $18.0 million when compared with the year-ago period and remained relatively flat as a percent of revenues compared
+to the year-ago period. Our research and development spending is focused on product development, improving existing software capabilities,
+and exploring new categories.
+
+Operating Income
+
+39-weeks ended September 24, 2016
+
+39-weeks ended September 26, 2015
+
+Year over Year
+
+Operating Income
+
+% of Revenues
+
+Operating Income
+
+% of Revenues
+
+$ Change
+
+% Change
+
+Outdoor
+
+$
+125,721
+
+34
+%
+
+$
+98,135
+
+34
+%
+
+$
+27,586
+
+28
+%
+
+Fitness
+
+114,422
+
+21
+%
+
+94,286
+
+22
+%
+
+20,136
+
+21
+%
+
+Marine
+
+49,172
+
+19
+%
+
+34,204
+
+15
+%
+
+14,968
+
+44
+%
+
+Auto
+
+82,984
+
+13
+%
+
+99,887
+
+13
+%
+
+(16,903
+)
+
+-17
+%
+
+Aviation
+
+91,794
+
+29
+%
+
+77,307
+
+26
+%
+
+14,487
+
+19
+%
+
+Total
+
+$
+464,093
+
+22
+%
+
+$
+403,819
+
+20
+%
+
+$
+60,274
+
+15
+%
+
+Operating income increased
+15% in absolute dollars and 170 basis points as a percent of revenue when compared to the year-ago period. Revenue growth with
+a relatively flat gross margin percentage contributed to the growth, slightly offset by increased operating expenses, as discussed
+above.
+
+Other Income (Expense)
+
+39-weeks ended
+
+39-weeks ended
+
+September 24, 2016
+
+September 26, 2015
+
+Interest Income
+
+$
+24,109
+
+$
+22,295
+
+Foreign Currency gains(losses)
+
+(30,003
+)
+
+(14,177
+)
+
+Other
+
+2,914
+
+2,707
+
+Total
+
+$
+(2,980
+)
+
+$
+10,825
+
+The average return
+on cash and investments during the first three quarters of 2016 was 1.4% compared to 1.2% during the same period of 2015. The
+increase in interest income is attributable to an increased rate of return on investments.
+
+The $30.0 million
+currency loss in the first three quarters of 2016 was primarily due to the weakening of the U.S. Dollar against the Taiwan Dollar.
+During the first three quarters of 2016, the U.S. Dollar weakened 5.0% against the Taiwan Dollar resulting in a loss of $32.1
+million, while the U.S. Dollar weakened 2.3% against the Euro, resulting in a gain of $3.3 million. The remaining net currency
+loss of $1.2 million is related to other currencies and timing of transactions.
+
+The majority of the
+$14.2 million currency loss in the first three quarters of 2015 was due to the strengthening of the U.S. Dollar against both the
+Euro and the Taiwan Dollar. During the first three quarters of 2015, the U.S. Dollar strengthened 8.2% compared to the Euro resulting
+in a loss of $24.7 million while strengthening against the Taiwan Dollar by 4.1% resulting in a gain of $20.6 million. The remaining
+net currency loss of $10.1 million is related to other currencies and timing of transactions.
+
+24
+
+Income Tax Provision
+
+The Company’s
+income tax expense decreased from $90.8 million to $86.9 million for the first three quarters of 2016, compared to the first three
+quarters of 2015. The effective tax rate decreased to 18.8% for the first three quarters of 2016, compared to 21.9% in the
+first three quarters of 2015 primarily due to shifts in the projected income mix by jurisdiction for 2016 compared to the
+projection at third quarter of 2015. The decrease in the effective tax rate was also a result of the permanent extension of the
+U.S. research and development tax credit legislation, which had not yet been extended in the third quarter of 2015.
+
+Net Income
+
+Net income for the
+39-week period ended September 24, 2016 was $374.2 million compared to $323.8 million for the 39-week period ended September 26,
+2015, an increase of $50.4 million.
+
+Liquidity and Capital Resources
+
+Operating Activities
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+(In thousands)
+
+2016
+
+2015
+
+Net cash provided by operating activities
+
+$
+492,366
+
+$
+122,131
+
+The $370.2 million
+increase in cash provided by operating activities in the first three quarters of 2016 compared to the first three quarters of 2015
+was primarily due to the following:
+
+·
+the
+impact of income taxes payable providing $170.2 million more cash, primarily related
+to the timing of 2015 income tax payments associated with the inter-company restructuring
+that was announced in the third quarter of 2014
+
+·
+other
+current and noncurrent assets providing $114.1 million more cash primarily related to
+the timing of payments for royalties
+
+·
+inventories
+providing $70.0 million more cash primarily due to reduced purchases of raw materials
+
+·
+net
+income increasing $50.4 million as discussed in the Results of Operations section above
+
+·
+other
+current and noncurrent liabilities providing $46.6 million more cash primarily due to
+timing of payments for royalties and
+
+·
+deferred revenue providing $36.1 million more working capital benefit due to the net decrease in amortization
+of previously deferred revenue and additional revenue deferrals associated with certain auto OEM products
+
+Partially offset
+by:
+
+·
+accounts
+payable providing $57.6 million less cash primarily due to the timing of purchases
+
+·
+accounts
+receivable providing $47.5 million less working capital benefit primarily due to the
+net decrease in utilization of rebates receivable associated with royalties, partially
+offset by increased collections of trade receivables and
+
+25
+
+Investing Activities
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+(In thousands)
+
+2016
+
+2015
+
+Net cash (used in) provided by investing activities
+
+$
+(75,934
+)
+
+$
+2,808
+
+The $78.7 million
+decrease in cash provided by investing activities in the first three quarters of 2016 compared to first three quarters of 2015
+was primarily due to the following:
+
+·
+decreased
+net redemptions of marketable securities of $37.8 million and
+
+·
+increased
+cash payments for acquisitions of $49.5 million
+
+Partially offset
+by:
+
+·
+decreased
+purchases of property and equipment of $11.1 million
+
+It is management’s
+goal to invest the on-hand cash in accordance with the investment policy, which has been approved by the Board of Directors of
+each applicable Garmin entity holding the cash. The investment policy’s primary purpose is to preserve capital, maintain
+an acceptable degree of liquidity, and maximize yield within the constraint of low credit risk. Garmin’s average returns
+on cash and investments during first three quarters of 2016 and 2015 were approximately 1.4% and 1.2%, respectively.
+
+Financing Activities
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+(In thousands)
+
+2016
+
+2015
+
+Net cash used in financing activities
+
+$
+(344,161
+)
+
+$
+(379,734
+)
+
+The $35.6 million
+decrease in cash used in financing activities in the first three quarters of 2016 compared to first three quarters of 2015 was
+primarily due to the following:
+
+·
+decreased
+purchases of treasury stock of $42.8 million under our share repurchase authorization
+
+Partially offset
+by:
+
+·
+increased
+dividend payments of $8.1 million due to the year-over-year increase of our dividend
+rate
+
+We currently use cash
+flow from operations to fund our capital expenditures, to support our working capital requirements, to pay dividends, and to fund
+share repurchases. We expect that future cash requirements will principally be for capital expenditures, working capital, payment
+of dividends declared, share repurchases and the funding of strategic acquisitions. We believe that our existing cash balances
+and cash flow from operations will be sufficient to meet our long-term projected capital expenditures, working capital and other
+cash requirements.
+
+Off-Balance Sheet Arrangements
+
+We do not have any
+off-balance sheet arrangements.
+
+26
+
+Item 3. Quantitative and Qualitative
+Disclosures About Market Risk
+
+There are numerous market risks that can
+affect our future business, financial condition and results of operations. In addition to the other information set forth in this
+report, you should carefully consider the factors discussed in Part II, “Item 7A. Quantitative and Qualitative Disclosures
+About Market Risk” in our Annual Report on Form 10-K for the fiscal year ended December 26, 2015. There have been no material
+changes during the 13-week and 39-week periods ended September 24, 2016 in the risks described in our Annual Report on Form 10-K
+related to market sensitivity, inflation, foreign currency exchange rate risk and interest rate risk.
+
+Item 4. Controls and Procedures
+
+(a)
+Evaluation of disclosure
+controls and procedures.
+The Company maintains a system of disclosure controls and procedures that are designed to
+provide reasonable assurance that information, which is required to be timely disclosed, is accumulated and communicated to
+management in a timely fashion. A control system, no matter how well conceived and operated, can provide only
+reasonable, not absolute, assurance that the objectives of the control system are met. As of September 24, 2016, the Company
+carried out an evaluation, under the supervision and with the participation of the Company’s management, including the
+Company’s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company’s disclosure
+controls and procedures. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded
+as of September 24, 2016 that our disclosure controls and procedures were effective such that the information relating to the
+Company, required to be disclosed in our Securities and Exchange Commission ("SEC") reports (i) is recorded,
+processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and
+communicated to the Company's management, including our Chief Executive Officer and Chief Financial Officer, as appropriate
+to allow timely decisions regarding required disclosure.
+
+(b)
+Changes in internal control over
+financial reporting
+. There has been no change in the Company’s internal controls over financial reporting that occurred
+during the Company’s fiscal quarter ended September 24, 2016 that has materially affected, or is reasonably likely to materially
+affect, the Company’s internal control over financial reporting.
+
+27
+
+Part II - Other Information
+
+Item 1. Legal Proceedings
+
+The following information
+supplements and amends the discussion set forth under Part I, Item 3 "Legal Proceedings" in the Company’s Annual
+Report on Form 10-K for the fiscal year ended December 26, 2015 and the Company’s Quarterly Report on Form 10-Q for the
+fiscal quarter ended June 25, 2016.
+
+Garmin Switzerland GmbH and Garmin Corporation
+v. Navico, Inc., C-MAP USA, Inc. and C-MAP/ Commercial Ltd..
+
+On
+October 17, 2016 Garmin Switzerland GmbH and Garmin Corporation filed a complaint for patent infringement and trademark infringement
+against Navico, Inc., C-MAP USA, Inc. and C-MAP/ Commercial, Inc. in the United States District Court for the District of Kansas.
+The lawsuit claims that Navico infringes Garmin’s US Patent No.7,268,703 (“the ‘703 patent”) relating
+to marine autoguidance) and Garmin’s US Patent No. 6,459,987.(“the ‘987
+
+patent”)
+relating to trackback features, and that Navico infringes Garmin’s US trademark registration for “TracBack”
+by Navico’s use of the trademark “TrackBack”. In addition the lawsuit claims that Navico’s use of the
+“Trackback” trademark constitutes common law trademark infringement and false designation and unfair competition under
+federal law by Navico and unfair business practices and unfair competition by Navico under Kansas law. The lawsuit also claims
+that C-MAP infringes the ‘703 patent. The lawsuit claims damages, and injunctive relief.
+
+ICON Health & Fitness, Inc. v.
+Garmin Ltd., Garmin International, Inc., and Garmin USA, Inc
+
+On
+August 8, 2016 the United States Court of Appeals for the Federal Circuit denied ICON’s appeal and affirmed the ruling of
+the United States District Court for the District of Utah that the doctrine of issue preclusion applied to prevent ICON from relitigating
+the finding by another United States District Court that the only remaining ICON patent-in-suit was invalid for indefiniteness.
+On September 7, 2016 ICON filed a petition with the Court of Appeals for the Federal Circuit requesting a rehearing of its appeal
+en banc.
+
+On October
+14, 2016, the Federal Circuit Court of Appeals denied ICON’s petition for rehearing.
+
+28
+
+In the Matter of Certain Marine Sonar
+Imaging Devices, Including Downscan and Sidescan Devices, Products Containing the Same, and Components Thereof
+
+On
+August 18, 2016 the International Trade Commission (“ITC”) granted Navico’s petition for modification of the
+limited exclusion order and issued a modified limited exclusion order. On August 24, 2016 Garmin filed with the ITC a motion to
+stay the modified limited exclusion order pending Garmin’s appeal of this order. On August 29, 2016 Garmin filed a notice
+of appeal against the ITC’s modified limited exclusion order to the United States Court of Appeals for the Federal Circuit
+(the “Federal Circuit Court of Appeals”). On August 30, 2016 Garmin filed with the Federal Circuit Court of Appeals
+a motion for an interim stay of the ITC’s modified exclusion order and a stay of such order pending resolution of Garmin’s
+appeal. On August 30, 2016 Garmin also filed with the Federal Circuit Court of Appeals a motion to expedite the schedule for Garmin’s
+motion for an interim stay of the ITC’s modified exclusion order and a stay of such order pending resolution of Garmin’s
+appeal and a motion for an expedited schedule for Garmin’s appeal against the modified limited exclusion order. On September
+6, 2016 Navico filed with the ITC its opposition to Garmin’s motion for a stay of the modified limited exclusion order. On
+September 6, 2016 Navico filed with the Federal Circuit Court of Appeals its opposition to Garmin’s motion to expedite the
+schedule for Garmin’s motion for an interim stay of the ITC’s modified exclusion order and a stay of such order pending
+resolution of Garmin’s appeal and its opposition to Garmin’s motion for an expedited schedule for Garmin’s appeal
+against the modified limited exclusion order. On September 6, 2016 the ITC filed with the Federal Circuit Court of Appeals its
+opposition to Garmin’s motion for an interim stay of the ITC’s modified exclusion order and a stay of such order pending
+resolution of Garmin’s appeal and its opposition to Garmin’s motion for an expedited schedule for Garmin’s appeal
+against the modified limited exclusion order. On September 21, 2016 the Federal Circuit Court of Appeals granted Garmin’s
+motion to expedite the schedule for Garmin’s appeal against the modified limited exclusion order
+.
+On October 20, 2016, the ITC denied Garmin’s motion to stay the modified limited exclusion order pending appeal. On October
+21, 2016, the Federal Circuit Court of Appeals denied Garmin’s motion to stay the modified limited exclusion order pending
+appeal.
+
+On August 30, 2016,
+Navico filed a new request that the ITC initiate an enforcement proceeding. The ITC initiated that proceeding on October 11, 2016.
+
+With
+respect to the appeal that Garmin filed with the Federal Circuit Court of Appeals on February 10, 2016, Garmin filed its opening
+brief on September 9, 2016, Navico filed its responsive brief on September 27, 2016 and the ITC filed its responsive brief on
+September 27, 2016.
+
+Garmin’s
+reply brief was filed on October 17, 2016.
+
+Navico Inc. And Navico Holding AS v.
+Garmin International, Inc. and Garmin USA, Inc. (U.S. District Court for the Eastern District of Texas)
+
+On April 1, 2016 Garmin
+filed a motion to transfer this action to the United States District Court for the Northern District of Oklahoma. On April 19,
+2016 Navico filed an opposition to the motion to transfer and on April 29, 2016 Garmin filed a reply to this opposition. On May
+29, 2016 Navico filed a sur-reply in support of its opposition. The court has scheduled a claim construction hearing for February
+3, 2017 and a trial date commencing on September 5, 2017.
+
+Pioneer Corporation v. Iiyonet Inc.
+
+On August 31, 2016
+the Tokyo District Court dismissed all of Pioneer’s claims and held that Garmin’s products do not infringe any of
+Pioneer’s asserted patents. On September 14, 2016 Pioneer filed an appeal from this ruling.
+
+29
+
+Visteon Global Technologies, Inc. and
+Visteon Technologies LLC v. Garmin International, Inc.
+
+On August 10, 2016
+the Special Master issued a report and recommendations in which he recommended to the Court (a) the denial of two motions
+in
+limine
+filed by Visteon which had sought to exclude certain evidence from being offered at trial by Garmin and (b) the granting
+of Garmin’s motion
+in
+
+limine
+to exclude certain expert testimony concerning alleged infringement of the 5,654,892
+patent. On September 12, 2016 the Court issued an opinion and order in which it (a) granted Visteon’s motion
+in
+
+limine
+
+to exclude evidence of the fee agreement between Visteon and its counsel, (b) denied Visteon’s moton
+in
+
+limine
+
+to exclude evidence of a certain license agreement, and (c) denied Visteon’s motion to exclude Garmin’s expert
+witness on damages from testifying as to damages on behalf of Garmin. On October 14, 2016 the Court issued an order granting Garmin’s
+motion to exclude testimony of two of Visteon’s expert witnesses, including the testimony of Visteon’s expert witness
+as to damages
+. On October 20, 2016, the
+Court adopted the Special Master’s findings regarding the denied motions
+in limine
+but reversed the Special Master’s
+finding on the 5,654,892 patent to allow Visteon to present use survey evidence.
+
+In the normal course
+of business, the Company and its subsidiaries are parties to various legal claims, actions, and complaints, including matters
+involving patent infringement, other intellectual property, product liability, customer claims and various other risks. It is
+not possible to predict with certainty whether or not the Company and its subsidiaries will ultimately be successful in any of
+these legal matters, or if not, what the impact might be. However, the Company’s management does not expect that the results
+in any of these legal proceedings will have a material adverse effect on the Company’s results of operations, financial
+position or cash flows.
+
+Item 1A. Risk Factors
+
+There
+are many risks and uncertainties that can affect our future business, financial performance or share price. In addition to the
+other information set forth in this report, you should carefully consider the factors discussed in Part I, “Item 1A. Risk
+Factors” in our Annual Report on Form 10-K for the fiscal year ended December 26,
+
+2015,
+as amended and supplemented by the risk factor set forth below. These risks, however, are not the only risks facing our Company.
+Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely
+affect our business, financial condition and/or operating results.
+
+The following is an
+amended and restated version of a Risk Factor included in Item 1A. “Risk Factors” of our Annual Report on Form 10-K
+for the year ended December 26, 2015:
+
+Economic, regulatory and political conditions and uncertainty
+could adversely affect our revenue and margins.
+
+Our revenue and margins
+depend significantly on general economic conditions and the demand for products in the markets in which we compete. Economic weakness
+or constrained consumer and business spending has resulted in periods of decreased revenue and in the future, could result in
+decreased revenue and problems with our ability to manage inventory levels and collect customer receivables. In addition, financial
+difficulties experienced by our retailers and OEM customers have resulted, and could result in the future, in significant bad
+debt write-offs and additions to reserves in our receivables and could have an adverse effect on our results of operations.
+
+The United Kingdom
+(UK) held a referendum on June 23, 2016 in which a majority of voters voted to exit the European Union (EU). Due to the unprecedented
+nature of the proposed withdrawal, significant uncertainty exists surrounding the timing and terms of the proposed exit. We have
+operations in the UK and several EU member states whose currencies, namely British Pound Sterling (GBP) and Euro, economies, taxation,
+and trade regulation, among other factors, could be adversely impacted by the negotiations and outcomes of the UK’s leaving
+the EU, which is likely to be a lengthy and complicated process. These events could have a material adverse effect on our business
+operations, results of operations and financial condition.
+
+30
+
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+Items (a) and (b)
+are not applicable.
+
+(c) Issuer Purchases
+of Equity Securities
+
+The Board of Directors approved
+a share repurchase program on February 13, 2015, authorizing the Company to purchase up to $300 million of its common shares as
+market and business conditions warrant. The share repurchase authorization expires on December 31, 2016. The following table lists
+the Company’s share purchases during the third quarter of fiscal 2016:
+
+Period
+
+Total # of
+
+Shares Purchased
+
+Average Price
+
+Paid Per Share
+
+Total Number
+of Shares
+Purchased as Part of
+Publicly Announced Plans
+or Programs
+
+Maximum Number
+of Shares
+(or approx. Dollar Value of Shares in
+thousands) That may yet be Purchased
+Under the Plans or Program
+
+June 26, 2016 - July 23, 2016
+
+182,500
+
+$
+43.01
+
+182,500
+
+$
+115,641
+
+July 24, 2016 - August 20, 2016
+
+12,500
+
+$
+45.95
+
+12,500
+
+$
+115,066
+
+August 21, 2016 - September 24, 2016
+
+242,453
+
+$
+48.26
+
+242,453
+
+$
+103,367
+
+Total
+
+437,453
+
+$
+46.00
+
+437,453
+
+$
+103,367
+
+Item 3.
+Defaults Upon Senior Securities
+
+None
+
+Item 4.
+Mine Safety Disclosures
+
+Not applicable
+
+Item 5.
+Other Information
+
+Not applicable
+
+31
+
+Item 6.
+Exhibits
+
+Exhibit 3.1
+
+Articles of Association of Garmin Ltd., as amended on June 10, 2016
+
+Exhibit 10.1
+
+Garmin Ltd. Employee Stock Purchase Plan, as amended and restated on October 21, 2016.
+
+Exhibit 10.2
+
+Garmin Ltd. 2005 Equity Incentive Plan, as amended and restated on October 21, 2016.
+
+Exhibit 10.3
+
+Garmin Ltd. 2011 Non-Employee Directors’ Equity Incentive Plan, as amended and restated on October 21, 2016.
+
+Exhibit 10.4
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2011 Non-Employee Directors’ Equity Incentive Plan.
+
+Exhibit 10.5
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for Swiss grantees.
+
+Exhibit 10.6
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for Canadian grantees.
+
+Exhibit 10.7
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for non-Swiss and non-Canadian grantees.
+
+Exhibit 10.8
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are executive officers.
+
+Exhibit 10.9
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are not executive officers.
+
+Exhibit 10.10
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Canadian grantees who are not executive officers.
+
+Exhibit 10.11
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss and non-Canadian grantees who are executive officers.
+
+Exhibit 10.12
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss and non-Canadian grantees who are not executive officers.
+
+Exhibit 31.1
+
+Certification of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 31.2
+
+Certification of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 32.1
+
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+Exhibit 32.2
+
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+Exhibit 101.INS
+
+XBRL Instance Document
+
+Exhibit 101.SCH
+
+XBRL Taxonomy Extension Schema
+
+Exhibit 101.CAL
+
+XBRL Taxonomy Extension Calculation Linkbase
+
+Exhibit 101.LAB
+
+XBRL Taxonomy Extension Label Linkbase
+
+Exhibit 101.PRE
+
+XBRL Taxonomy Extension Presentation Linkbase
+
+Exhibit 101.DEF
+
+XBRL Taxonomy Extension Definition Linkbase
+
+32
+
+SIGNATURES
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+
+GARMIN LTD.
+
+By
+
+/s/
+Douglas G. Boessen
+
+Douglas G. Boessen
+
+Chief Financial Officer
+
+(Principal Financial Officer and
+
+Principal Accounting Officer)
+
+Dated: October 26, 2016
+
+33
+
+INDEX TO EXHIBITS
+
+Exhibit No.
+
+Description
+
+Exhibit 3.1
+
+Articles of Association of Garmin Ltd., as amended on June 10, 2016
+
+Exhibit 10.1
+
+Garmin Ltd. Employee Stock Purchase Plan, as amended and restated on October 21, 2016.
+
+Exhibit 10.2
+
+Garmin Ltd. 2005 Equity Incentive Plan, as amended and restated on October 21, 2016.
+
+Exhibit 10.3
+
+Garmin Ltd. 2011 Non-Employee Directors’ Equity Incentive Plan, as amended and restated on October 21, 2016.
+
+Exhibit 10.4
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2011 Non-Employee Directors’ Equity Incentive Plan.
+
+Exhibit 10.5
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for Swiss grantees.
+
+Exhibit 10.6
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for Canadian grantees.
+
+Exhibit 10.7
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for non-Swiss and non-Canadian grantees.
+
+Exhibit 10.8
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are executive officers.
+
+Exhibit 10.9
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Swiss grantees who are not executive officers.
+
+Exhibit 10.10
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to Canadian grantees who are not executive officers.
+
+Exhibit 10.11
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss and non-Canadian grantees who are executive officers.
+
+Exhibit 10.12
+
+Form of Restricted Stock Unit Award Agreement pursuant to the Garmin Ltd. 2005 Equity Incentive Plan, for awards of performance-based and time-based vesting restricted stock unit awards to non-Swiss and non-Canadian grantees who are not executive officers.
+
+Exhibit 31.1
+
+Certification of Chief Executive Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 31.2
+
+Certification of Chief Financial Officer pursuant to Exchange Act Rule 13a-14(a) or 15d-14(a).
+
+Exhibit 32.1
+
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+Exhibit 32.2
+
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+Exhibit 101.INS
+
+XBRL Instance Document
+
+Exhibit 101.SCH
+
+XBRL Taxonomy Extension Schema
+
+Exhibit 101.CAL
+
+XBRL Taxonomy Extension Calculation Linkbase
+
+Exhibit 101.LAB
+
+XBRL Taxonomy Extension Label Linkbase
+
+Exhibit 101.PRE
+
+XBRL Taxonomy Extension Presentation Linkbase
+
+Exhibit 101.DEF
+
+XBRL Taxonomy Extension Definition Linkbase
+
+34

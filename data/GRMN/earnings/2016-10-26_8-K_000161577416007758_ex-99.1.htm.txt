@@ -1,0 +1,1850 @@
+EX-99.1
+
+2
+
+s104426_ex99-1.htm
+
+EXHIBIT 99-1
+
+Exhibit 99.1
+
+Garmin Reports Third Quarter
+Revenue and EPS Growth; Raises Guidance
+
+Schaffhausen, Switzerland / October 26, 2016/ Business Wire
+
+Garmin Ltd. (Nasdaq: GRMN – News) today announced results
+for the third quarter ended September 24, 2016.
+
+Highlights for the third quarter 2016 include:
+
+·
+Total revenue of $722 million, growing 6% over the prior year, with fitness, outdoor, marine and aviation collectively growing
+24% over the prior year quarter and contributing 70% of total revenue
+
+·
+Gross margin expanded to 56.2% compared to 53.3% in the prior year quarter, and operating margin expanded to 22.1% compared
+to 18.5% in the prior year quarter
+
+·
+GAAP EPS was $0.66, a 5% improvement over the prior year quarter, and pro forma EPS
+(1)
+was $0.75, a 47% improvement
+over the prior year quarter
+
+·
+Launched new product categories with the vivofit® jr., our first wearable and companion mobile application designed for
+kids, and the fēnix® Chronos, a luxury activity watch crafted with premium materials
+
+(in thousands,
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+except per share data)
+
+Sept 24,
+
+Sept 26,
+
+Yr over Yr
+
+Sept 24,
+
+Sept 26,
+
+Yr over Yr
+
+2016
+
+2015
+(2)
+
+Change
+
+2016
+
+2015
+(2)
+
+Change
+
+Net sales
+
+$
+722,250
+
+$
+679,690
+
+6
+%
+
+$
+2,157,898
+
+$
+2,038,913
+
+6
+%
+
+Fitness
+
+189,161
+
+143,216
+
+32
+%
+
+544,434
+
+432,859
+
+26
+%
+
+Outdoor
+
+141,006
+
+109,863
+
+28
+%
+
+370,929
+
+291,299
+
+27
+%
+
+Marine
+
+70,010
+
+62,315
+
+12
+%
+
+264,489
+
+230,325
+
+15
+%
+
+Aviation
+
+107,436
+
+94,232
+
+14
+%
+
+322,083
+
+294,560
+
+9
+%
+
+Auto
+
+214,637
+
+270,064
+
+-21
+%
+
+655,963
+
+789,870
+
+-17
+%
+
+Gross profit %
+
+56.2
+%
+
+53.3
+%
+
+56.0
+%
+
+55.2
+%
+
+Operating profit %
+
+22.1
+%
+
+18.5
+%
+
+21.5
+%
+
+19.8
+%
+
+GAAP diluted EPS
+
+$
+0.66
+
+$
+0.63
+
+5
+%
+
+$
+1.98
+
+$
+1.69
+
+17
+%
+
+Pro forma diluted EPS
+(1)
+
+$
+0.75
+
+$
+0.51
+
+47
+%
+
+$
+2.10
+
+$
+1.75
+
+20
+%
+
+(1) See attached table for reconciliation of non-GAAP measures
+including pro forma diluted EPS
+
+(2) Action camera related net sales for the 13-weeks and 39-weeks
+ended Sept 26, 2015 have been recast from the Outdoor segment to the Auto segment to conform to the current year presentation.
+
+Executive Overview from Cliff Pemble, President and Chief
+Executive Officer:
+
+“Our strong year continued in the third quarter of 2016,
+reporting solid results with four of our five business segments delivering double digit sales growth and increased profitability,”
+said Cliff Pemble, president and chief executive officer (CEO) of Garmin Ltd. “We are excited to see the continued positive
+customer reception of our fitness and outdoor wearables. Aviation and marine also achieved impressive double-digit growth on strong
+product offerings. We are maintaining our focus on innovation, diversification and market expansion to drive further growth opportunities
+in all business segments. Given the strong revenue and margin performance in the third quarter, we are raising our revenue and
+EPS guidance for the full year.”
+
+Fitness:
+
+The fitness segment posted
+strong revenue growth of 32% in the quarter driven by wrist heart rate wearable devices and cycling. Gross margin increased year-over-year
+to 55%, while operating margin improved to 24% resulting in a 68% growth in operating income. During the quarter, we began shipping
+both the recently announced Forerunner® 35, bringing Garmin Elevate
+TM
+wrist based heart rate technology to an affordable,
+sleek, easy-to-use GPS device, and vívofit® jr., our first kid inspired activity tracker featuring a comfortable design,
+one+ year battery life and a parent controlled mobile app created to help motivate kids to stay active.
+
+Outdoor:
+
+The outdoor segment achieved
+strong revenue growth of 28% driven primarily by wearable devices. Gross margin increased year-over-year to 63%, while operating
+margin improved to 35% resulting in a 32% increase in operating income. We recently launched our fēnix® Chronos line,
+crafted from premium jeweler’s grade materials to suit every style without sacrificing the rugged multisport capabilities
+customers have come to recognize within our fēnix line.
+
+Marine:
+
+The marine segment posted solid third quarter revenue growth
+of 12% driven by our strong lineup of chart plotters, fish finders, and entertainment systems. Gross margin increased year-over-year
+to 57%, while operating margin improved to 15% resulting in operating income growth of 80%. For the second year in a row Garmin
+was recognized as the Manufacturer of the Year by the NMEA (National Marine Electronics Association), winning awards across a broad
+range of product categories. Garmin also received the prestigious IBEX award in the OEM Electronics category with our well received,
+Fantom
+TM
+marine radar series.
+
+Aviation:
+
+The aviation segment posted solid revenue growth of 14% in the
+quarter despite ongoing softness in the overall aviation market. Our performance was driven by growth in both OEM and Aftermarket
+sales, which was led by demand for Automatic Dependent Surveillance Broadcast (ADS-B) systems. Gross margin was 75% and operating
+margin improved to 28%, resulting in operating income growth of 28%. During the quarter, we received certification and made our
+first delivery of the G5000
+TM
+integrated flight deck for the Beechjet 400A/Hawker 400XP aircraft.
+
+Auto:
+
+The auto segment recorded revenue decline of 21%, primarily
+due to the ongoing PND market contraction and headwinds caused by additional revenue deferrals associated with certain auto OEM
+products. Gross margin improved to 44%, and operating margin was consistent year-over-year at 12%. During the quarter, we launched
+the VIRB® Ultra 30, an ultra HD 4K/30fps action camera, built ready for adventure with voice control, a LCD color touchscreen
+and high precision sensors and GPS.
+
+Additional Financial Information:
+
+Total operating expenses in the quarter were $246 million, a
+4% increase from the prior year. Research and development investment increased 10%, with growth primarily focused on aviation and
+our active lifestyle products in fitness and outdoor. Advertising decreased 11%, driven primarily by year-over-year decreases in
+auto. Selling, general and administrative expense increased 3%, but improved as a percent of sales.
+
+The effective tax rate in the third quarter of 2016 was 16.5%,
+down from 27.6% in the prior year quarter. The decrease in the effective tax rate is primarily due to projected income mix
+by jurisdiction compared to the prior year.
+
+In the third quarter 2016, we generated $199 million of free
+cash flow (see attached table for reconciliation of this non-GAAP measure). We continued to return cash to shareholders with our
+quarterly dividend of approximately $96 million and our share repurchase activity, which totaled approximately $20 million in the
+third quarter. We have approximately $103 million remaining in the share repurchase program authorized through December 31, 2016,
+and expect to repurchase as business and market conditions warrant. We ended the quarter with cash and marketable securities of
+approximately $2.4 billion.
+
+2016 Guidance:
+
+Based on our performance in the first three quarters of 2016,
+we are updating our full year guidance. We now anticipate revenue of approximately $2.95 billion, driven primarily by a stronger
+outlook for all of our segments except auto. We anticipate our full year pro forma EPS will be approximately $2.65 based on gross
+margin of approximately 55%, operating income of approximately $580 million and a full year effective tax rate of approximately
+18.5% (see below details on forward-looking pro forma EPS).
+
+Webcast Information/Forward-Looking Statements:
+
+The information for Garmin Ltd.’s earnings call is as
+follows:
+
+When:
+
+Wednesday, October 26, 2016 at 10:30 a.m. Eastern
+
+Where:
+
+http://www.garmin.com/en-US/company/investors/events/
+
+How:
+
+Simply log on to the web at the address above or call to listen in at 855-757-3897
+
+An archive of the live webcast will be available until December
+29, 2016 on the Garmin website at
+www.garmin.com
+. To access the replay, click on the Investor Relations link and click over
+to the Events Calendar page.
+
+This release includes projections and other forward-looking
+statements regarding Garmin Ltd. and its business that are commonly identified by words such as “would,” “may,”
+“expects,” “estimates,” “plans,” “intends,” “projects,” and other words
+or phrases with similar meanings. Any statements regarding the Company’s GAAP and pro forma estimated earnings, EPS and revenue
+for fiscal 2016, the Company’s expected segment revenue growth rates, margins, currency movements, expenses, pricing, new
+products to be introduced in 2016 and the Company’s plans and objectives are forward-looking statements. The forward-looking
+events and circumstances discussed in this release may not occur and actual results could differ materially as a result of risk
+factors and uncertainties affecting Garmin, including, but not limited to, the risk factors that are described in the Annual Report
+on Form 10-K for the year ended December 26, 2015 filed by Garmin with the Securities and Exchange Commission (Commission file
+number 0-31983). A copy of Garmin’s 2015 Form 10-K can be downloaded from
+http://www.garmin.com/aboutGarmin/invRelations/finReports.html
+.
+
+Garmin, the Garmin logo, the
+Garmin delta, fēnix, Forerunner, vívofit, vívosmart and VIRB are trademarks of Garmin Ltd. or its subsidiaries
+and are registered in one or more countries, including the U.S.; Garmin Elevate, Fantom and G5000, are trademarks of Garmin Ltd.
+or its subsidiaries. All other brands, product names, company names, trademarks and service marks are the properties of their respective
+owners. All rights reserved
+
+Investor Relations Contact:
+
+Media Relations Contact:
+
+Teri Seck
+
+Ted Gartner
+
+913/397-8200
+
+913/397-8200
+
+investor.relations@garmin.com
+
+media.relations@garmin.com
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Statements of
+Income (Unaudited)
+
+(In thousands, except per share information)
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+2016
+
+2015
+
+Net sales
+
+$
+722,250
+
+$
+679,690
+
+$
+2,157,898
+
+$
+2,038,913
+
+Cost of goods sold
+
+316,270
+
+317,500
+
+949,110
+
+913,352
+
+Gross profit
+
+405,980
+
+362,190
+
+1,208,788
+
+1,125,561
+
+Advertising expense
+
+32,956
+
+36,887
+
+109,441
+
+110,352
+
+Selling, general and administrative expense
+
+96,959
+
+94,057
+
+296,246
+
+290,359
+
+Research and development expense
+
+116,449
+
+105,789
+
+339,008
+
+321,031
+
+Total operating expense
+
+246,364
+
+236,733
+
+744,695
+
+721,742
+
+Operating income
+
+159,616
+
+125,457
+
+464,093
+
+403,819
+
+Other income (expense):
+
+Interest income
+
+8,226
+
+6,851
+
+24,109
+
+22,295
+
+Foreign currency gains (losses)
+
+(19,421
+)
+
+30,573
+
+(30,003
+)
+
+(14,177
+)
+
+Other income
+
+1,344
+
+2,010
+
+2,914
+
+2,707
+
+Total other income (expense)
+
+(9,851
+)
+
+39,434
+
+(2,980
+)
+
+10,825
+
+Income before income taxes
+
+149,765
+
+164,891
+
+461,113
+
+414,644
+
+Income tax provision
+
+24,711
+
+45,592
+
+86,904
+
+90,800
+
+Net income
+
+$
+125,054
+
+$
+119,299
+
+$
+374,209
+
+$
+323,844
+
+Net income per share:
+
+Basic
+
+$
+0.66
+
+$
+0.63
+
+$
+1.98
+
+$
+1.69
+
+Diluted
+
+$
+0.66
+
+$
+0.63
+
+$
+1.98
+
+$
+1.69
+
+Weighted average common shares outstanding:
+
+Basic
+
+188,692
+
+190,342
+
+189,027
+
+191,068
+
+Diluted
+
+189,238
+
+190,822
+
+189,376
+
+191,523
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Balance Sheets
+
+(In thousands, except per share information)
+
+(Unaudited)
+
+Sept 24,
+
+December 26,
+
+2016
+
+2015
+
+Assets
+
+Current assets:
+
+Cash and cash equivalents
+
+$
+912,559
+
+$
+833,070
+
+Marketable securities
+
+201,560
+
+215,161
+
+Accounts receivable, net
+
+461,355
+
+531,481
+
+Inventories, net
+
+534,683
+
+500,554
+
+Deferred costs
+
+46,569
+
+49,176
+
+Prepaid expenses and other current assets
+
+90,733
+
+81,645
+
+Total current assets
+
+2,247,459
+
+2,211,087
+
+Property and equipment, net
+
+454,246
+
+446,089
+
+Marketable securities
+
+1,327,347
+
+1,343,387
+
+Restricted cash
+
+265
+
+259
+
+Noncurrent deferred income tax
+
+121,084
+
+116,518
+
+Noncurrent deferred costs
+
+51,395
+
+38,769
+
+Intangible assets, net
+
+301,983
+
+245,552
+
+Other assets
+
+88,127
+
+97,730
+
+Total assets
+
+$
+4,591,906
+
+$
+4,499,391
+
+Liabilities and Stockholders' Equity
+
+Current liabilities:
+
+Accounts payable
+
+$
+148,030
+
+$
+178,905
+
+Salaries and benefits payable
+
+86,104
+
+70,601
+
+Accrued warranty costs
+
+38,872
+
+30,449
+
+Accrued sales program costs
+
+49,172
+
+67,613
+
+Deferred revenue
+
+146,384
+
+164,982
+
+Accrued royalty costs
+
+34,801
+
+30,310
+
+Accrued advertising expense
+
+22,775
+
+33,547
+
+Other accrued expenses
+
+81,313
+
+74,926
+
+Income taxes payable
+
+24,004
+
+21,674
+
+Dividend payable
+
+288,540
+
+192,991
+
+Total current liabilities
+
+919,995
+
+865,998
+
+Deferred income taxes
+
+56,463
+
+56,210
+
+Non-current income taxes
+
+117,276
+
+101,689
+
+Non-current deferred revenue
+
+134,236
+
+128,731
+
+Other liabilities
+
+1,707
+
+1,637
+
+Stockholders' equity:
+
+Shares, CHF 0.10 par value, 198,077 shares authorized and issued; and 188,446 shares outstanding at September 24, 2016
+
+Shares, CHF 10.00 par value, 208,077 shares authorized and issued; and
+189,722 shares outstanding at December 26, 2015
+
+17,979
+
+1,797,435
+
+Additional paid-in capital
+
+1,862,801
+
+62,239
+
+Treasury stock
+
+(464,163
+)
+
+(414,637
+)
+
+Retained earnings
+
+1,919,846
+
+1,930,517
+
+Accumulated other comprehensive income
+
+25,766
+
+(30,428
+)
+
+Total stockholders' equity
+
+3,362,229
+
+3,345,126
+
+Total liabilities and stockholders' equity
+
+$
+4,591,906
+
+$
+4,499,391
+
+Garmin Ltd. And Subsidiaries
+
+Condensed Consolidated Statements of
+Cash Flows (Unaudited)
+
+(In thousands)
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+Operating activities:
+
+Net income
+
+$
+374,209
+
+$
+323,844
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation
+
+40,327
+
+37,936
+
+Amortization
+
+22,215
+
+20,447
+
+Loss (gain) on sale or disposal of property and equipment
+
+155
+
+(190
+)
+
+Provision for doubtful accounts
+
+2,559
+
+(1,781
+)
+
+Deferred income taxes
+
+(6,821
+)
+
+5,796
+
+Unrealized foreign currency loss
+
+19,536
+
+30,473
+
+Provision for obsolete and slow moving inventories
+
+20,943
+
+9,925
+
+Stock compensation expense
+
+29,211
+
+19,596
+
+Realized gain on marketable securities
+
+(1,068
+)
+
+(76
+)
+
+Changes in operating assets and liabilities:
+
+Accounts receivable
+
+76,372
+
+123,875
+
+Inventories
+
+(41,002
+)
+
+(111,008
+)
+
+Other current and non-current assets
+
+3,400
+
+(110,695
+)
+
+Accounts payable
+
+(40,694
+)
+
+16,864
+
+Other current and non-current liabilities
+
+1,942
+
+(44,636
+)
+
+Deferred revenue
+
+(13,660
+)
+
+(49,790
+)
+
+Deferred cost
+
+(9,906
+)
+
+7,080
+
+Income taxes payable
+
+14,648
+
+(155,529
+)
+
+Net cash provided by operating activities
+
+492,366
+
+122,131
+
+Investing activities:
+
+Purchases of property and equipment
+
+(42,157
+)
+
+(53,297
+)
+
+Proceeds from sale of property and equipment
+
+15
+
+670
+
+Purchase of intangible assets
+
+(4,706
+)
+
+(2,817
+)
+
+Purchase of marketable securities
+
+(739,676
+)
+
+(649,881
+)
+
+Redemption of marketable securities
+
+772,733
+
+720,717
+
+Change in restricted cash
+
+(6
+)
+
+48
+
+Acquisitions, net of cash acquired
+
+(62,137
+)
+
+(12,632
+)
+
+Net cash (used in) provided by investing activities
+
+(75,934
+)
+
+2,808
+
+Financing activities:
+
+Dividends paid
+
+(289,331
+)
+
+(281,247
+)
+
+Purchase of treasury stock under share repurchase plan
+
+(65,221
+)
+
+(108,057
+)
+
+Purchase of treasury stock related to equity awards
+
+(184
+)
+
+(241
+)
+
+Proceeds from issuance of treasury stock related to equity awards
+
+10,210
+
+8,554
+
+Tax benefit from issuance of equity awards
+
+365
+
+1,257
+
+Net cash used in financing activities
+
+(344,161
+)
+
+(379,734
+)
+
+Effect of exchange rate changes on cash and cash equivalents
+
+7,218
+
+(26,566
+)
+
+Net increase (decrease) in cash and cash equivalents
+
+79,489
+
+(281,361
+)
+
+Cash and cash equivalents at beginning of period
+
+833,070
+
+1,196,268
+
+Cash and cash equivalents at end of period
+
+$
+912,559
+
+$
+914,907
+
+Garmin Ltd. And Subsidiaries
+
+Net Sales, Gross Profit, and Operating
+Income by Segment (Unaudited)
+
+(In thousands)
+
+Reporting Segments
+
+Outdoor
+
+Fitness
+
+Marine
+
+Auto
+
+Aviation
+
+Total
+
+13-Weeks Ended September 24, 2016
+
+Net sales
+
+$
+141,006
+
+$
+189,161
+
+$
+70,010
+
+$
+214,637
+
+$
+107,436
+
+$
+722,250
+
+Gross profit
+
+$
+88,497
+
+$
+103,363
+
+$
+39,891
+
+$
+93,638
+
+$
+80,591
+
+$
+405,980
+
+Operating income
+
+$
+49,271
+
+$
+44,774
+
+$
+10,332
+
+$
+24,795
+
+$
+30,444
+
+$
+159,616
+
+13-Weeks Ended September 26, 2015
+(3)
+
+Net sales
+
+$
+109,863
+
+$
+143,216
+
+$
+62,315
+
+$
+270,064
+
+$
+94,232
+
+$
+679,690
+
+Gross profit
+
+$
+66,442
+
+$
+77,261
+
+$
+34,115
+
+$
+114,331
+
+$
+70,041
+
+$
+362,190
+
+Operating income
+
+$
+37,409
+
+$
+26,577
+
+$
+5,737
+
+$
+32,012
+
+$
+23,722
+
+$
+125,457
+
+39-Weeks Ended September 24, 2016
+
+Net sales
+
+$
+370,929
+
+$
+544,434
+
+$
+264,489
+
+$
+655,963
+
+$
+322,083
+
+$
+2,157,898
+
+Gross profit
+
+$
+232,652
+
+$
+295,463
+
+$
+148,554
+
+$
+292,770
+
+$
+239,349
+
+$
+1,208,788
+
+Operating income
+
+$
+125,721
+
+$
+114,422
+
+$
+49,172
+
+$
+82,984
+
+$
+91,794
+
+$
+464,093
+
+39-Weeks Ended September 26, 2015
+(3)
+
+Net sales
+
+$
+291,299
+
+$
+432,859
+
+$
+230,325
+
+$
+789,870
+
+$
+294,560
+
+$
+2,038,913
+
+Gross profit
+
+$
+181,525
+
+$
+248,795
+
+$
+128,204
+
+$
+351,223
+
+$
+215,814
+
+$
+1,125,561
+
+Operating income
+
+$
+98,135
+
+$
+94,286
+
+$
+34,204
+
+$
+99,887
+
+$
+77,307
+
+$
+403,819
+
+(3) Action camera related operating results for the 13-weeks
+and 39-weeks ended September 26, 2015 have been recast from the Outdoor segment to the Auto segment to conform to the current year
+presentation.
+
+Garmin Ltd. And Subsidiaries
+
+Net Sales by Geography (Unaudited)
+
+(In thousands)
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+Yr over Yr
+
+Sept 24,
+
+Sept 26,
+
+Yr over Yr
+
+2016
+
+2015
+
+Change
+
+2016
+
+2015
+
+Change
+
+Net sales
+
+$
+722,250
+
+$
+679,690
+
+6
+%
+
+$
+2,157,898
+
+$
+2,038,913
+
+6
+%
+
+Americas
+
+348,637
+
+335,041
+
+4
+%
+
+1,073,610
+
+1,057,359
+
+2
+%
+
+EMEA
+
+274,756
+
+261,548
+
+5
+%
+
+810,205
+
+744,352
+
+9
+%
+
+APAC
+
+98,857
+
+83,101
+
+19
+%
+
+274,083
+
+237,202
+
+16
+%
+
+EMEA - Europe, Middle East and Africa; APAC - Asia Pacific and
+Australian Continent
+
+Non-GAAP Financial Information
+
+To supplement our financial results presented in accordance
+with GAAP, this release includes the following measures defined by the Securities and Exchange Commission as non-GAAP financial
+measures: pro forma net income (earnings) per share, forward-looking pro forma earnings per share, and free cash flow. These non-GAAP
+measures are not based on any comprehensive set of accounting rules or principles and should not be considered a substitute for,
+or superior to, financial measures calculated in accordance with GAAP, and may be different from non-GAAP measures used by other
+companies. Management believes providing investors with an operating view consistent with how it manages the Company provides enhanced
+transparency into the operating results of the Company.
+
+Pro forma net income (earnings) per share
+
+Management believes that net income per share before the impact
+of foreign currency gain or loss and certain income tax adjustments, as discussed below, is an important measure. The majority
+of the Company’s consolidated foreign currency gain or loss is typically driven by movements in the Taiwan Dollar and the
+Euro in relation to the U.S. Dollar and the related exchange rate impact on the significant cash, receivables, and payables held
+in a currency other than the functional currency at one of the Company’s subsidiaries. However, there is minimal cash impact
+from such foreign currency gain or loss. The Company’s income tax expense is periodically impacted by material net releases
+of reserves primarily related to completion of audits and/or the expiration of statutes affecting prior periods. Thus, reported
+income tax expense is not reflective of the income tax expense that is incurred related to the current period earnings. Accordingly,
+earnings per share before the impact of foreign currency translation gain or loss and income tax adjustments that materially impact
+the effective tax rate permit a consistent comparison of the Company’s operating performance between periods.
+
+The net release of other uncertain tax position reserves, amounting
+to approximately $5.8 million and $7.2 million for the 39-weeks ended September 24, 2016 and September 26, 2015, respectively,
+have not been included as pro forma adjustments in the following presentation of pro forma net income as such amounts have been
+considered immaterial, tend to be more recurring in nature or are comparable between periods. The tax effect of foreign currency
+gains (losses) was calculated using effective tax rates of 16.5% and 27.6% for the third quarters of 2016 and 2015, respectively
+and 18.8% and 21.9% for the year-to-date 2016 and 2015. The effective tax rate is calculated by taking the Income tax provision
+divided by Income before taxes, as presented on the face of the Condensed Consolidated Statements of Income both on a quarterly
+and year-to-date basis.
+
+Garmin Ltd. And Subsidiaries
+
+Net income per share (Pro Forma)
+
+(in thousands, except per share information)
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+2016
+
+2015
+
+Net Income (GAAP)
+
+$
+125,054
+
+$
+119,299
+
+$
+374,209
+
+$
+323,844
+
+Foreign currency gains (losses)
+
+19,421
+
+(30,573
+)
+
+30,003
+
+14,177
+
+Tax effect of foreign currency gains (losses)
+
+(3,204
+)
+
+8,453
+
+(5,654
+)
+
+(3,104
+)
+
+Net income (Pro Forma)
+
+$
+141,271
+
+$
+97,179
+
+$
+398,558
+
+$
+334,917
+
+Net income per share (GAAP):
+
+Basic
+
+$
+0.66
+
+$
+0.63
+
+$
+1.98
+
+$
+1.69
+
+Diluted
+
+$
+0.66
+
+$
+0.63
+
+$
+1.98
+
+$
+1.69
+
+Net income per share (Pro Forma):
+
+Basic
+
+$
+0.75
+
+$
+0.51
+
+$
+2.11
+
+$
+1.75
+
+Diluted
+
+$
+0.75
+
+$
+0.51
+
+$
+2.10
+
+$
+1.75
+
+Weighted average common shares outstanding:
+
+Basic
+
+188,692
+
+190,342
+
+189,027
+
+191,068
+
+Diluted (GAAP)
+
+189,238
+
+190,822
+
+189,376
+
+191,523
+
+Forward-looking pro forma earnings per share
+
+The Company has not provided a GAAP reconciliation for forward-looking
+pro forma earnings per share because such measure cannot be provided without unreasonable efforts on a forward-looking basis due
+to the high variability and low visibility with respect to non-operating foreign currency exchange gains and losses and the related
+tax effects of such gains and losses. The impact of such foreign currency gains and losses, net of tax effects, was $0.12 per share
+for the 39-weeks ended September 24, 2016, as indicated above. No other pro forma income tax adjustments have been included in
+forward-looking pro forma earnings per share.
+
+Free cash flow
+
+Management believes that free cash flow is an important financial
+measure because it represents the amount of cash provided by operations that is available for investing and defines it as operating
+cash flow plus one-time cash payments associated with our inter-company restructuring less capital expenditures for property and
+equipment.
+
+Garmin Ltd. And Subsidiaries
+
+Free Cash Flow
+
+(in thousands)
+
+13-Weeks Ended
+
+39-Weeks Ended
+
+Sept 24,
+
+Sept 26,
+
+Sept 24,
+
+Sept 26,
+
+2016
+
+2015
+
+2016
+
+2015
+
+(in thousands)
+
+Net cash provided by operating activities
+
+$
+212,994
+
+$
+137,834
+
+$
+492,366
+
+$
+122,131
+
+Less: purchases of property and equipment
+
+(13,543
+)
+
+(13,565
+)
+
+(42,157
+)
+
+(53,297
+)
+
+Plus: taxes paid related to inter-company restructuring
+
+-
+
+-
+
+-
+
+182,800
+
+Free Cash Flow
+
+$
+199,451
+
+$
+124,269
+
+$
+450,209
+
+$
+251,634
