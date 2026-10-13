@@ -334,13 +334,24 @@ def main():
         else:
             print("Skipping transcripts: set ALPHAVANTAGE_API_KEY or --av-key.")
 
+    # Merge with the manifest from earlier runs, so running one group at a
+    # time keeps every previously downloaded document indexed.
     fields = ["group", "form", "filing_date", "report_date", "items", "accession",
               "document", "description", "url", "local_file", "status"]
-    with open(root / "manifest.csv", "w", newline="", encoding="utf-8") as fh:
+    path = root / "manifest.csv"
+    rows = {}
+    if path.exists():
+        with open(path, newline="", encoding="utf-8") as fh:
+            rows = {r["local_file"] or r["accession"]: r for r in csv.DictReader(fh)}
+    for row in manifest:
+        rows[row.get("local_file") or row.get("accession")] = row
+    rows = sorted(rows.values(), key=lambda r: (r.get("group", ""), r.get("filing_date", ""),
+                                                r.get("report_date", ""), r.get("local_file", "")))
+    with open(path, "w", newline="", encoding="utf-8") as fh:
         writer = csv.DictWriter(fh, fieldnames=fields)
         writer.writeheader()
-        writer.writerows(manifest)
-    print(f"Done. {len(manifest)} documents indexed in {root / 'manifest.csv'}")
+        writer.writerows(rows)
+    print(f"Done. {len(manifest)} documents this run; {len(rows)} indexed in {path}")
 
 
 if __name__ == "__main__":
